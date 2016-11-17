@@ -1,0 +1,474 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1016,1038> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Great Pitcher Festival"^^xsd:string ;
+    nif:beginIndex "1016"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1038"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Great_Pitcher_Festival> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1110,1116> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ganges"^^xsd:string ;
+    nif:beginIndex "1110"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.672686e-01 ;
+    nif:endIndex "1116"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.672686e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ganges> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=124,133> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ALLAHABAD"^^xsd:string ;
+    nif:beginIndex "124"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "133"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Allahabad> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=135,140> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "India"^^xsd:string ;
+    nif:beginIndex "135"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.925e-01 ;
+    nif:endIndex "140"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.925e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/India> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1505,1515> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "1505"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.417537e-01 ;
+    nif:endIndex "1515"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.417537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1523,1539> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Naba Kumar Ghosh"^^xsd:string ;
+    nif:beginIndex "1523"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1539"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Naba_Kumar_Ghosh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1597,1608> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "West Bengal"^^xsd:string ;
+    nif:beginIndex "1597"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "1608"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Bengal> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1699,1709> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shakuntala"^^xsd:string ;
+    nif:beginIndex "1699"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.85e-01 ;
+    nif:endIndex "1709"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 5.85e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Abhijñānaśākuntalam> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=17,23> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ganges"^^xsd:string ;
+    nif:beginIndex "17"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "23"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ganges> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1816,1830> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Madhya Pradesh"^^xsd:string ;
+    nif:beginIndex "1816"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1830"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Madhya_Pradesh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1847,1853> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ganges"^^xsd:string ;
+    nif:beginIndex "1847"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.410186e-01 ;
+    nif:endIndex "1853"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.410186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ganges> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=1885,1895> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "1885"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.885186e-01 ;
+    nif:endIndex "1895"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.885186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2055,2060> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kumbh"^^xsd:string ;
+    nif:beginIndex "2055"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.076667e-01 ;
+    nif:endIndex "2060"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.076667e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2071,2080> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rama Devi"^^xsd:string ;
+    nif:beginIndex "2071"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2080"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Rama_Devi> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2100,2109> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Allahabad"^^xsd:string ;
+    nif:beginIndex "2100"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.128615e-01 ;
+    nif:endIndex "2109"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.128615e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Allahabad> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2166,2171> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kumbh"^^xsd:string ;
+    nif:beginIndex "2166"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.071704e-01 ;
+    nif:endIndex "2171"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.071704e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2314,2325> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Indian army"^^xsd:string ;
+    nif:beginIndex "2314"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.732143e-01 ;
+    nif:endIndex "2325"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 6.732143e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Indian_Army> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2422,2431> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Allahabad"^^xsd:string ;
+    nif:beginIndex "2422"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.680037e-01 ;
+    nif:endIndex "2431"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.680037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Allahabad> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2440,2445> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hindi"^^xsd:string ;
+    nif:beginIndex "2440"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.215894e-01 ;
+    nif:endIndex "2445"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.215894e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Hindi> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2465,2478> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Uttar Pradesh"^^xsd:string ;
+    nif:beginIndex "2465"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "2478"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Uttar_Pradesh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2507,2513> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Garuda"^^xsd:string ;
+    nif:beginIndex "2507"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "2513"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Garuda> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2535,2544> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hindu god"^^xsd:string ;
+    nif:beginIndex "2535"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.283158e-01 ;
+    nif:endIndex "2544"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 6.283158e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Hindu_deities> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2545,2551> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Vishnu"^^xsd:string ;
+    nif:beginIndex "2545"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.073785e-01 ;
+    nif:endIndex "2551"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.073785e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Vishnu> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=255,267> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ganges river"^^xsd:string ;
+    nif:beginIndex "255"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.205037e-01 ;
+    nif:endIndex "267"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 9.205037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ganges> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2663,2669> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Garuda"^^xsd:string ;
+    nif:beginIndex "2663"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.892537e-01 ;
+    nif:endIndex "2669"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.892537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Garuda> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=271,285> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "northern India"^^xsd:string ;
+    nif:beginIndex "271"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.675e-01 ;
+    nif:endIndex "285"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.675e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/North_India> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2756,2771> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "2756"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.665445e-01 ;
+    nif:endIndex "2771"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.665445e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=280,285> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "India"^^xsd:string ;
+    nif:beginIndex "280"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.942537e-01 ;
+    nif:endIndex "285"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.942537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/India> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2948,2958> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Maha Kumbh"^^xsd:string ;
+    nif:beginIndex "2948"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.685e-01 ;
+    nif:endIndex "2958"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=2969,2984> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "2969"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.685e-01 ;
+    nif:endIndex "2984"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=3032,3056> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Guinness Book of Records"^^xsd:string ;
+    nif:beginIndex "3032"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "3056"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Guinness_World_Records> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=421,436> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ardh Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "421"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "436"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=441,462> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Half Pitcher Festival"^^xsd:string ;
+    nif:beginIndex "441"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "462"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Half_Pitcher_Festival> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=608,614> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ganges"^^xsd:string ;
+    nif:beginIndex "608"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.200124e-01 ;
+    nif:endIndex "614"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 9.200124e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ganges> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=620,626> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Yamuna"^^xsd:string ;
+    nif:beginIndex "620"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "626"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Yamuna> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=657,666> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Allahabad"^^xsd:string ;
+    nif:beginIndex "657"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.452945e-01 ;
+    nif:endIndex "666"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 9.452945e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Allahabad> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=808,824> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hindu scriptures"^^xsd:string ;
+    nif:beginIndex "808"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4125e-01 ;
+    nif:endIndex "824"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 7.4125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Hindu_texts> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=992,1007> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
+    nif:beginIndex "992"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.410186e-01 ;
+    nif:endIndex "1007"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> ;
+    itsrdf:taConfidence 8.410186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kumbh_Mela> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_12#char=0,3408> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3408"^^xsd:nonNegativeInteger ;
+    nif:isString """Hindus throng to Ganges for bathing festival 
+Pilgrims believe dip in river during six week celebration will cleanse sin 
+ 
+ALLAHABAD, India - Nearly half a million Hindus braved near-freezing temperatures to wash away their sins in the icy waters of the Ganges river in northern India on Wednesday, the first day of a six-week festival. 
+ 
+As many as 70 million people from India and abroad are expected over the whole “Ardh Kumbh Mela” or Half Pitcher Festival, billed as one of the largest gatherings on earth. 
+ 
+Men, women, children, holy men in saffron and the infirm gathered at the confluence of the Ganges, the Yamuna and a mythical third river in Allahabad city well before dawn, waiting for the sun to rise for the auspicious bath on the first day of the 42-day event. 
+ 
+They chanted verses from Hindu scriptures and sang holy songs as they walked towards the bathing areas, some lying prostrate after every few steps to salute the gods. 
+ 
+The festival falls midway between the “Maha Kumbh Mela” or the Great Pitcher Festival, celebrated once every 12 years. 
+ 
+Hindus believe that bathing in the Ganges during the festivals cleanses them of sin, speeding the way to the attainment of nirvana or the afterlife. 
+ 
+'Like being with God' 
+ 
+After dipping in the polluted but sacred waters, many filled cans, bottles and steel containers for relatives and friends who could not make it. Others sprinkled it on their dry clothes.  
+ 
+“It was a long-cherished desire to take a dip here during the Kumbh Mela,” said Naba Kumar Ghosh, a young school teacher from the eastern Indian state of West Bengal. “The experience has been one of fulfillment, a complete cleansing of the inner self.” 
+ 
+Shakuntala, a 70-year-old woman who gave only one name, said she traveled all night from the central Indian state of Madhya Pradesh to bathe in the Ganges, just as she has done at every Kumbh Mela over the last 25 years. 
+ 
+“It was a divine experience, a dip in the holy waters is like being with God,” she said. “God willing, I will be here for the next 'Kumbh' too”. 
+ 
+Rama Devi, an old woman from Allahabad who could not remember her age, has not missed a single Kumbh and was determined to make it this time despite her inability to walk. 
+ 
+With roads closed to traffic, her 35-year-old son, a soldier in the Indian army, carried her on his back for the 6-mile walk from their house to the waters. 
+ 
+Tight security 
+Allahabad, in the Hindi heartland state of Uttar Pradesh, is one of four spots where Garuda, the winged steed of Hindu god Vishnu, is said to have rested during a titanic battle with demons over a pitcher of divine nectar of immortality. 
+ 
+Garuda’s flight lasted 12 divine days, or 12 years of mortal time, hence the celebration of “Maha Kumbh Mela” every 12 years. 
+ 
+The midway point between two such celebrations is also considered highly favorable because the position of the sun and the moon are the same as during the “Maha Kumbh”. 
+ 
+The “Maha Kumbh Mela” in 1989 attracted 15 million pilgrims and the Guinness Book of Records dubbed it the largest gathering of human beings for a single purpose. The festival in 2001 drew between 50 and 70 million. 
+ 
+Thousands of tents and camps have been built to house pilgrims across the 4,000 acre  festival area and more than 10,000 policemen, including specially-trained “terrorist spotters”, have been deployed, authorities said. 
+ 
+
+
+"""^^xsd:string .
+

@@ -1,0 +1,478 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=110,120> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Washington_D.C" ;
+    ns1:verdict false ;
+    nif:anchorOf "WASHINGTON"^^xsd:string ;
+    nif:beginIndex "110"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.376517e-01 ;
+    nif:endIndex "120"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.376517e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1203,1214> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Gerald_Rudolph_Ford%2C_Jr." ;
+    ns1:verdict true ;
+    nif:anchorOf "Gerald Ford"^^xsd:string ;
+    nif:beginIndex "1203"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.3125e-01 ;
+    nif:endIndex "1214"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.3125e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Gerald_Rudolph_Ford%2C_Jr." .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1258,1271> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://fr.dbpedia.org/resource/Richard_Nixon" ;
+    ns1:verdict true ;
+    nif:anchorOf "Richard Nixon"^^xsd:string ;
+    nif:beginIndex "1258"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.925e-01 ;
+    nif:endIndex "1271"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.925e-01 ;
+    itsrdf:taIdentRef "http://fr.dbpedia.org/resource/Richard_Nixon" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1301,1305> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Gerald_Rudolph_Ford%2C_Jr." ;
+    ns1:verdict true ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1301"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.929446e-01 ;
+    nif:endIndex "1305"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.929446e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Gerald_Rudolph_Ford%2C_Jr." .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1315,1320> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://fr.dbpedia.org/resource/Richard_Nixon" ;
+    ns1:verdict true ;
+    nif:anchorOf "Nixon"^^xsd:string ;
+    nif:beginIndex "1315"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.945013e-01 ;
+    nif:endIndex "1320"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.945013e-01 ;
+    itsrdf:taIdentRef "http://fr.dbpedia.org/resource/Richard_Nixon" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1379,1391> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink " http://eu.wikipedia.org/wiki/Jimmy_Carter" ;
+    ns1:verdict true ;
+    nif:anchorOf "Jimmy Carter"^^xsd:string ;
+    nif:beginIndex "1379"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.2375e-01 ;
+    nif:endIndex "1391"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 9.2375e-01 ;
+    itsrdf:taIdentRef " http://eu.wikipedia.org/wiki/Jimmy_Carter" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1433,1443> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Washington_D.C" ;
+    ns1:verdict false ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "1433"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.720826e-01 ;
+    nif:endIndex "1443"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.720826e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Washington-6_Vermont_Representative_District%2C_2002%E2%80%9312" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1482,1497> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.wikipedia.org/wiki/Demografia_dos_Estados_Unidos" ;
+    ns1:verdict false ;
+    nif:anchorOf "American people"^^xsd:string ;
+    nif:beginIndex "1482"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.910231e-01 ;
+    nif:endIndex "1497"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.910231e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1694,1704> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Washington_D.C" ;
+    ns1:verdict false ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "1694"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.215838e-01 ;
+    nif:endIndex "1704"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.215838e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Washington-6_Vermont_Representative_District%2C_2002%E2%80%9312" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1771,1781> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Washington_D.C" ;
+    ns1:verdict false ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "1771"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.480826e-01 ;
+    nif:endIndex "1781"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.480826e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Washington-6_Vermont_Representative_District%2C_2002%E2%80%9312" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=1908,1917> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Bayh" ;
+    ns1:verdict true ;
+    nif:anchorOf "Evan Bayh"^^xsd:string ;
+    nif:beginIndex "1908"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1917"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Bayh" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2075,2082> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.wikipedia.org/wiki/Indiana" ;
+    ns1:verdict true ;
+    nif:anchorOf "Indiana"^^xsd:string ;
+    nif:beginIndex "2075"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.510704e-01 ;
+    nif:endIndex "2082"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.510704e-01 ;
+    itsrdf:taIdentRef "http://pt.wikipedia.org/wiki/Indiana" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2103,2109> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/The_United_States_Senate" ;
+    ns1:verdict false ;
+    nif:anchorOf "Senate"^^xsd:string ;
+    nif:beginIndex "2103"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.501923e-01 ;
+    nif:endIndex "2109"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.501923e-01 ;
+    itsrdf:taIdentRef "http://fr.wikipedia.org/wiki/S%C3%A9nat" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2223,2227> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Bayh" ;
+    ns1:verdict true ;
+    nif:anchorOf "Bayh"^^xsd:string ;
+    nif:beginIndex "2223"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.905037e-01 ;
+    nif:endIndex "2227"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.905037e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Bayh" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2250,2260> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Washington_D.C" ;
+    ns1:verdict false ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "2250"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.095879e-01 ;
+    nif:endIndex "2260"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.095879e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Washington-6_Vermont_Representative_District%2C_2002%E2%80%9312" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2291,2303> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Dan Pfeiffer"^^xsd:string ;
+    nif:beginIndex "2291"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.9e-01 ;
+    nif:endIndex "2303"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.9e-01 ;
+    itsrdf:taIdentRef " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2320,2324> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Bayh" ;
+    ns1:verdict true ;
+    nif:anchorOf "Bayh"^^xsd:string ;
+    nif:beginIndex "2320"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.692537e-01 ;
+    nif:endIndex "2324"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.692537e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Bayh" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2610,2618> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Pfeiffer"^^xsd:string ;
+    nif:beginIndex "2610"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.84577e-01 ;
+    nif:endIndex "2618"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.84577e-01 ;
+    itsrdf:taIdentRef " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2689,2695> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Boomers" ;
+    ns1:verdict false ;
+    nif:anchorOf "Boomer"^^xsd:string ;
+    nif:beginIndex "2689"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.026411e-01 ;
+    nif:endIndex "2695"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.026411e-01 ;
+    itsrdf:taIdentRef "http://de.dbpedia.org/resource/Tom_DeLonge" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2795,2802> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Viêtnam" ;
+    ns1:verdict true ;
+    nif:anchorOf "Vietnam"^^xsd:string ;
+    nif:beginIndex "2795"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.986665e-01 ;
+    nif:endIndex "2802"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.986665e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Viêtnam" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2810,2818> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Pfeiffer"^^xsd:string ;
+    nif:beginIndex "2810"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.105795e-01 ;
+    nif:endIndex "2818"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.105795e-01 ;
+    itsrdf:taIdentRef " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2837,2850> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/2004_George_W._Bush_presidential_campaign" ;
+    ns1:verdict true ;
+    nif:anchorOf "Bush campaign"^^xsd:string ;
+    nif:beginIndex "2837"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.3125e-01 ;
+    nif:endIndex "2850"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.3125e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/2004_George_W._Bush_presidential_campaign" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2864,2874> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pl.dbpedia.org/resource/John_Kerry" ;
+    ns1:verdict true ;
+    nif:anchorOf "John Kerry"^^xsd:string ;
+    nif:beginIndex "2864"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "2874"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef "http://pl.dbpedia.org/resource/John_Kerry" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2885,2889> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.wikipedia.org/wiki/George_W._Bush" ;
+    ns1:verdict false ;
+    nif:anchorOf "Bush"^^xsd:string ;
+    nif:beginIndex "2885"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.873945e-01 ;
+    nif:endIndex "2889"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.873945e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/2004_George_W._Bush_presidential_campaign" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=2954,2966> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Clinton_Presidency" ;
+    ns1:verdict true ;
+    nif:anchorOf "Bill Clinton"^^xsd:string ;
+    nif:beginIndex "2954"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "2966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Clinton_Presidency" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=3022,3030> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Pfeiffer"^^xsd:string ;
+    nif:beginIndex "3022"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.838382e-01 ;
+    nif:endIndex "3030"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 6.838382e-01 ;
+    itsrdf:taIdentRef " http://de.wikipedia.org/wiki/Daniel_Pfeiffer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=3443,3462> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict true ;
+    nif:anchorOf "Positively American"^^xsd:string ;
+    nif:beginIndex "3443"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3462"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=3469,3484> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Sen._Chuck_Schumer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Charles Schumer"^^xsd:string ;
+    nif:beginIndex "3469"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.05e-01 ;
+    nif:endIndex "3484"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.05e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Sen._Chuck_Schumer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=3488,3496> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.wikipedia.org/wiki/Nueva_York_%28estado%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "New York"^^xsd:string ;
+    nif:beginIndex "3488"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.752717e-01 ;
+    nif:endIndex "3496"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.752717e-01 ;
+    itsrdf:taIdentRef "http://es.wikipedia.org/wiki/Nueva_York_%28estado%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=3660,3667> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Sen._Chuck_Schumer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Schumer"^^xsd:string ;
+    nif:beginIndex "3660"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.460563e-01 ;
+    nif:endIndex "3667"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 7.460563e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Sen._Chuck_Schumer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=468,492> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.wikipedia.org/wiki/George_W._Bush" ;
+    ns1:verdict true ;
+    nif:anchorOf "President George W. Bush"^^xsd:string ;
+    nif:beginIndex "468"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "492"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef "http://es.wikipedia.org/wiki/George_W._Bush" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=751,755> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/The_Iraq" ;
+    ns1:verdict true ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "751"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.212887e-01 ;
+    nif:endIndex "755"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.212887e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/The_Iraq" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=862,866> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.wikipedia.org/wiki/George_W._Bush" ;
+    ns1:verdict false ;
+    nif:anchorOf "Bush"^^xsd:string ;
+    nif:beginIndex "862"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45063e-01 ;
+    nif:endIndex "866"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.45063e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/2004_George_W._Bush_presidential_campaign" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=892,896> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/The_Iraq" ;
+    ns1:verdict true ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "892"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.7079e-01 ;
+    nif:endIndex "896"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> ;
+    itsrdf:taConfidence 8.7079e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/The_Iraq" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_9#char=0,3782> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3782"^^xsd:nonNegativeInteger ;
+    nif:isString """Evolving presidential preferences 
+How will American voters compensate in the next search for a president? 
+ 
+WASHINGTON - Now that the 38th president has been laid to rest, the capital can take up the main business of 2007: trying to figure out who will be the 44th.  What type of leader does the country want? Here is my sense of it, based on talking to politicians, strategists and voters here and around the nation. 
+ 
+No ideologues, please 
+There was a time when President George W. Bush’s ideological certitude was politically appealing and perhaps functionally necessary. That time has long since passed. The country is tired, even fearful, of leaders with fervent beliefs that seem impervious to new (or even old) facts. Voters see the war in Iraq as an “idea,” not a solution – and Americans do not like ideas that do not work.  Voters likely will view Bush’s “surge” of troops into Iraq as new evidence of failure, and the dangers of a leader who depends on preconceived ideas. 
+ 
+Serious student 
+Presidential elections are a never-ending series of mid-course corrections. Voters look to compensate for the leadership weaknesses of the incumbent. An example comes from the life and career of Gerald Ford. In 1976, voters wanted a pure antidote to Richard Nixon’s paranoid megalomania. Once Ford pardoned Nixon, he could not be that candidate. Instead, Americans chose Jimmy Carter, a peanut farmer who had never worked in Washington, and who promised never to lie to the American people. The counterpoint thinking continues. Voters in 2008 are going to want someone who prides himself (or herself) on spending time in the library – who has a hands-on curiosity about the details. 
+ 
+Washington experience not necessary 
+Voters these days not only do not value Washington experience – or any office-holding experience – it can make them suspicious. That is what strategists and polltakers for Sen. Evan Bayh found when they studied whether he should run for president. They found that his remarkably deep resume – the son of a senator, he was the “boy governor” of Indiana before going to the Senate – was as handicap. Americans always are dubious about the capital, but that sentiment seems particularly strong. Bayh decided not to run. “`Washington’ doesn’t make the case,” said Dan Pfeiffer, who worked for Bayh. 
+ 
+No more boomer obsessions 
+Not all elections are about change, but 2008 will be. Americans are moderately upbeat about the country’s prospects, but deeply worried about the world – and they have come to realize that they can’t separate one from the other. One thing for sure, says Pfeiffer, voters are tired of arguing about the culture of the 1960s and other Boomer issues.  “There is a sense that the 2004 election was too much about who did or did not do what in Vietnam,” said Pfeiffer, referring to the Bush campaign against Sen. John Kerry. In 2000, Bush won in part by selling himself as a “grown up” Boomer answer to Bill Clinton. “Voters are tired of that era and its concerns,” said Pfeiffer said. “They want to move on.” 
+ 
+Know the middle class 
+Bushes have a congenital family problem with this, and it leaves an opening for someone – of either party – who can prove that he or she really understands the strains of middle class life. It’s not just about money, but about cultural assaults and the lack of time for family in an era when both parents or partners need to work. In his forthcoming book, Positively American, Sen. Charles Schumer of New York imagines the hard life of a fictitious middle class family – and offers a series of governmental proposals to address them. A shrewd student of the American mood, Schumer is aiming in the right direction. The next president will need to show that he or she understands that family. 
+
+
+"""^^xsd:string .
+

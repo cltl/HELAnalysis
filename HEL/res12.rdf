@@ -1,0 +1,270 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=0,4> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.87545e-01 ;
+    nif:endIndex "4"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 5.87545e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_House_of_Representatives> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1150,1164> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Davitt McAteer"^^xsd:string ;
+    nif:beginIndex "1150"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1164"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Davitt_McAteer> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=118,128> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "BUCKHANNON"^^xsd:string ;
+    nif:beginIndex "118"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.462814e-01 ;
+    nif:endIndex "128"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 7.462814e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Buckhannon,_West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1219,1256> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mine Safety and Health Administration"^^xsd:string ;
+    nif:beginIndex "1219"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1256"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mine_Safety_and_Health_Administration> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1265,1278> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "West Virginia"^^xsd:string ;
+    nif:beginIndex "1265"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.680037e-01 ;
+    nif:endIndex "1278"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 8.680037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1281,1290> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sago Mine"^^xsd:string ;
+    nif:beginIndex "1281"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.937624e-01 ;
+    nif:endIndex "1290"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 8.937624e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=130,135> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "W. Va"^^xsd:string ;
+    nif:beginIndex "130"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.030578e-01 ;
+    nif:endIndex "135"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 7.030578e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1369,1376> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "McAteer"^^xsd:string ;
+    nif:beginIndex "1369"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.65e-01 ;
+    nif:endIndex "1376"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 5.65e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jason_McAteer> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=1615,1619> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sago"^^xsd:string ;
+    nif:beginIndex "1615"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.784848e-01 ;
+    nif:endIndex "1619"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 7.784848e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=2156,2169> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dennis O'Dell"^^xsd:string ;
+    nif:beginIndex "2156"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2169"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Dennis_O'Dell> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=2173,2203> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "United Mine Workers of America"^^xsd:string ;
+    nif:beginIndex "2173"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7875e-01 ;
+    nif:endIndex "2203"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 6.7875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_Mine_Workers> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=242,251> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sago Mine"^^xsd:string ;
+    nif:beginIndex "242"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.117537e-01 ;
+    nif:endIndex "251"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 9.117537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=257,267> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Buckhannon"^^xsd:string ;
+    nif:beginIndex "257"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.742852e-01 ;
+    nif:endIndex "267"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 8.742852e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Buckhannon,_West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=269,274> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "W. Va"^^xsd:string ;
+    nif:beginIndex "269"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.785615e-01 ;
+    nif:endIndex "274"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 7.785615e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=348,361> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "West Virginia"^^xsd:string ;
+    nif:beginIndex "348"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.21e-01 ;
+    nif:endIndex "361"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 9.21e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=371,384> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Randal McCloy"^^xsd:string ;
+    nif:beginIndex "371"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.465075e-01 ;
+    nif:endIndex "384"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 9.465075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=62,80> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sago Mine accident"^^xsd:string ;
+    nif:beginIndex "62"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1e-01 ;
+    nif:endIndex "80"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 8.1e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=635,648> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Debbie Hamner"^^xsd:string ;
+    nif:beginIndex "635"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "648"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Debbie_Hamner> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=690,694> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sago"^^xsd:string ;
+    nif:beginIndex "690"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.659848e-01 ;
+    nif:endIndex "694"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 8.659848e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sago_Mine_disaster> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=701,714> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "West Virginia"^^xsd:string ;
+    nif:beginIndex "701"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.465075e-01 ;
+    nif:endIndex "714"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
+    itsrdf:taConfidence 9.465075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2354"^^xsd:nonNegativeInteger ;
+    nif:isString """U.S. mines still not safe enough, experts say 
+One year after Sago Mine accident, safety laws still need improving 
+ 
+BUCKHANNON, W. Va. - One year ago Tuesday, the nation was holding its breath for 13 miners who were trapped deep inside the Sago Mine near Buckhannon, W. Va. 
+ 
+As it turned out, 12 of the 13 miners never made it out alive. 
+ 
+In West Virginia Tuesday, Randal McCloy, the lone survivor of the disaster, joined the families of the 12 men who died — to remember them and the nightmare that began one year ago. 
+ 
+"I'm just sick when I think — every day when I think how those men had to die and it makes me sick," says Debbie Hamner whose husband died in the mine. 
+ 
+Since Sago, both West Virginia and the federal government have passed new mine safety laws. But in the mines themselves, little has changed. 
+ 
+There's still no better way to communicate with miners below ground; 
+Wireless communications won't be required until 2009; 
+Electronic tracking systems for miners are still on the drawing board; 
+Underground emergency safe rooms are still not required by law; and 
+Mines have another year to position more rescue teams. 
+Davitt McAteer is a mine safety expert who once ran the government's Mine Safety and Health Administration and led West Virginia's Sago Mine investigation. 
+ 
+"We need to have a way to communicate with trapped miners," McAteer says. "We need to protect trapped miners until we can get to them, and we need to have a way that we can provide them with the breathing apparatus and the air system so they can stay alive."   
+ 
+What has changed in mine safety since the Sago tragedy:   
+ 
+Improved emergency procedures and training is now required; 
+There are more federal mine inspectors and tougher fines for safety violations; and 
+Mines must now notify the federal government within 15 minutes of an accident. 
+Still not required, though are underground emergency safe rooms. 
+ 
+The union representing many of the nation's 73,000 coal miners says it's a sign of priorities. 
+ 
+"There's still just an attitude out there that production comes first and safety is a convenient thing and it comes second," says Dennis O'Dell of United Mine Workers of America. 
+ 
+These are boom times for the coal industry, producing a record 1.17 billion tons of coal in 2006, but also the highest death toll in 11 years. 
+
+
+"""^^xsd:string .
+

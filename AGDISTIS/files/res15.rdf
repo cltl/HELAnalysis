@@ -1,0 +1,215 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=1018,1023> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" ;
+    ns1:verdict true ;
+    nif:anchorOf "China"^^xsd:string ;
+    nif:beginIndex "1018"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.202575e-01 ;
+    nif:endIndex "1023"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 9.202575e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=1035,1042> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.dbpedia.org/resource/Sichuan" ;
+    ns1:verdict true ;
+    nif:anchorOf "Sichuan"^^xsd:string ;
+    nif:beginIndex "1035"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.890075e-01 ;
+    nif:endIndex "1042"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 7.890075e-01 ;
+    itsrdf:taIdentRef "http://es.dbpedia.org/resource/Sichuan" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=1071,1078> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Sha%27anxi_Province" ;
+    ns1:verdict true ;
+    nif:anchorOf "Shaanxi"^^xsd:string ;
+    nif:beginIndex "1071"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "1078"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Sha%27anxi_Province" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=189,194> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" ;
+    ns1:verdict true ;
+    nif:anchorOf "China"^^xsd:string ;
+    nif:beginIndex "189"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.470013e-01 ;
+    nif:endIndex "194"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 9.470013e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=22,27> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" ;
+    ns1:verdict true ;
+    nif:anchorOf "China"^^xsd:string ;
+    nif:beginIndex "22"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "27"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=360,371> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict true ;
+    nif:anchorOf "Cao Qingyao"^^xsd:string ;
+    nif:beginIndex "360"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "371"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=393,422> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E6%9E%97%E6%A5%AD%E5%B1%80" ;
+    ns1:verdict true ;
+    nif:anchorOf "State Forestry Administration"^^xsd:string ;
+    nif:beginIndex "393"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.9e-01 ;
+    nif:endIndex "422"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 6.9e-01 ;
+    itsrdf:taIdentRef "http://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E6%9E%97%E6%A5%AD%E5%B1%80" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=452,470> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Hsin-hua_News_Agency" ;
+    ns1:verdict true ;
+    nif:anchorOf "Xinhua News Agency"^^xsd:string ;
+    nif:beginIndex "452"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "470"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Hsin-hua_News_Agency" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=526,531> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" ;
+    ns1:verdict true ;
+    nif:anchorOf "China"^^xsd:string ;
+    nif:beginIndex "526"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.202575e-01 ;
+    nif:endIndex "531"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 9.202575e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=572,577> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" ;
+    ns1:verdict true ;
+    nif:anchorOf "China"^^xsd:string ;
+    nif:beginIndex "572"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.21e-01 ;
+    nif:endIndex "577"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 9.21e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/People%27s_Republic_or_China" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=721,728> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://es.dbpedia.org/resource/Sichuan" ;
+    ns1:verdict true ;
+    nif:anchorOf "Sichuan"^^xsd:string ;
+    nif:beginIndex "721"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "728"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef "http://es.dbpedia.org/resource/Sichuan" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=829,850> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict true ;
+    nif:anchorOf "Chengdu Research Base"^^xsd:string ;
+    nif:beginIndex "829"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.243182e-01 ;
+    nif:endIndex "850"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 6.243182e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=917,926> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://nl.dbpedia.org/resource/Chongqing" ;
+    ns1:verdict true ;
+    nif:anchorOf "Chongqing"^^xsd:string ;
+    nif:beginIndex "917"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "926"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef "http://nl.dbpedia.org/resource/Chongqing" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=96,103> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Capital_of_the_People's_Republic_of_China" ;
+    ns1:verdict false ;
+    nif:anchorOf "BEIJING"^^xsd:string ;
+    nif:beginIndex "96"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.83992e-01 ;
+    nif:endIndex "103"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> ;
+    itsrdf:taConfidence 8.83992e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_14#char=0,1354> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1354"^^xsd:nonNegativeInteger ;
+    nif:isString """30 panda cubs born in China in 2006 
+Current total of giant pandas bred in captivity now 217 
+ 
+BEIJING - A mini-baby boom last year has pushed up the number of pandas bred in captivity in China to 217, state media said Wednesday. 
+ 
+Some 34 pandas were born by artificial insemination in 2006 and 30 survived — both record numbers for the endangered species, Cao Qingyao, a spokesman for the State Forestry Administration, was quoted as saying by the Xinhua News Agency. 
+ 
+The previous record was the 21 baby pandas born in China's zoos and breeding centers in 2005. 
+ 
+China has been raising pandas through artificial insemination for nearly 50 years, mostly at two research facilities in the southwestern province of Sichuan.  In 2006, 17 cubs were born at the Wolong Giant Panda Protection and Research Center and 12 at the Chengdu Research Base.  The other panda was bred at the zoo in the southwestern city of Chongqing. 
+ 
+The panda is one of the world's rarest animals, with about 1,590 living in the wild in China, mostly in Sichuan and the western province of Shaanxi. 
+ 
+Giant pandas have a very low fertility rate because they are sexually inactive.  Female pandas become pregnant only once a year and deliver two cubs at most each time. 
+ 
+The fertility of captive giant pandas is even lower because they do not move much, experts said. 
+
+
+"""^^xsd:string .
+

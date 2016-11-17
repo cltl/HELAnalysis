@@ -1,0 +1,650 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=112,121> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Las Vegas"^^xsd:string ;
+    nif:beginIndex "112"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.573153e-01 ;
+    nif:endIndex "121"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.573153e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Las_Vegas> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=12,16> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "12"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.329167e-01 ;
+    nif:endIndex "16"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.329167e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=125,131> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FRESNO"^^xsd:string ;
+    nif:beginIndex "125"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.435345e-01 ;
+    nif:endIndex "131"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.435345e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jim_Jones> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1264,1279> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Islamic scholar"^^xsd:string ;
+    nif:beginIndex "1264"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.65e-01 ;
+    nif:endIndex "1279"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.65e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Ulama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1285,1297> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "South Africa"^^xsd:string ;
+    nif:beginIndex "1285"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.1875e-01 ;
+    nif:endIndex "1297"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/English_language> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1318,1353> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "San Francisco International Airport"^^xsd:string ;
+    nif:beginIndex "1318"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "1353"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/San_Francisco_International_Airport> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=133,139> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Calif."^^xsd:string ;
+    nif:beginIndex "133"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.994643e-01 ;
+    nif:endIndex "139"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.994643e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1397,1407> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "US Airways"^^xsd:string ;
+    nif:beginIndex "1397"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "1407"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/US_Airways> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1420,1431> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Minneapolis"^^xsd:string ;
+    nif:beginIndex "1420"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.032143e-01 ;
+    nif:endIndex "1431"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.032143e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Los_Angeles_Lakers> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1435,1442> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Phoenix"^^xsd:string ;
+    nif:beginIndex "1435"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.754232e-01 ;
+    nif:endIndex "1442"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.754232e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Joaquin_Phoenix> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1513,1517> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "1513"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.0875e-01 ;
+    nif:endIndex "1517"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.0875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Iraq> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1653,1665> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Affad Shaikh"^^xsd:string ;
+    nif:beginIndex "1653"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1665"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Affad_Shaikh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1698,1702> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "CAIR"^^xsd:string ;
+    nif:beginIndex "1698"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.596759e-01 ;
+    nif:endIndex "1702"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.596759e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Environmental_Protection_Agency> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1738,1746> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "1738"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "1746"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1791,1806> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Condor Airlines"^^xsd:string ;
+    nif:beginIndex "1791"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.2625e-01 ;
+    nif:endIndex "1806"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.2625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Condor_Flugdienst> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1817,1847> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "McCarran International Airport"^^xsd:string ;
+    nif:beginIndex "1817"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.05e-01 ;
+    nif:endIndex "1847"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.05e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/McCarran_International_Airport> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=1947,1956> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Las Vegas"^^xsd:string ;
+    nif:beginIndex "1947"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.025459e-01 ;
+    nif:endIndex "1956"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.025459e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Las_Vegas> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2004,2012> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "New Year"^^xsd:string ;
+    nif:beginIndex "2004"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.978571e-01 ;
+    nif:endIndex "2012"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.978571e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Chinese_New_Year> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2056,2074> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Central California"^^xsd:string ;
+    nif:beginIndex "2056"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.468424e-01 ;
+    nif:endIndex "2074"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.468424e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Central_California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2236,2244> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "2236"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2244"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2296,2303> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Alzenau"^^xsd:string ;
+    nif:beginIndex "2296"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.9125e-01 ;
+    nif:endIndex "2303"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.9125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Alzenau> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2451,2461> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "2451"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.59213e-01 ;
+    nif:endIndex "2461"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.59213e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/George_Washington> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2495,2512> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Border Protection"^^xsd:string ;
+    nif:beginIndex "2495"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.061407e-01 ;
+    nif:endIndex "2512"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.061407e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/U.S._Customs_and_Border_Protection> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2517,2520> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FBI"^^xsd:string ;
+    nif:beginIndex "2517"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "2520"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Federal_Bureau_of_Investigation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2567,2575> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "2567"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2575"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2646,2661> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "North Las Vegas"^^xsd:string ;
+    nif:beginIndex "2646"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.395187e-01 ;
+    nif:endIndex "2661"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.395187e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/North_Las_Vegas,_Nevada> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=270,279> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Las Vegas"^^xsd:string ;
+    nif:beginIndex "270"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.328191e-01 ;
+    nif:endIndex "279"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.328191e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Las_Vegas> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2714,2722> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "2714"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2722"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2790,2794> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "2790"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.438319e-01 ;
+    nif:endIndex "2794"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.438319e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2839,2854> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Joanne Mulligan"^^xsd:string ;
+    nif:beginIndex "2839"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2854"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Joanne_Mulligan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2874,2914> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. Immigration and Customs Enforcement"^^xsd:string ;
+    nif:beginIndex "2874"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.175e-01 ;
+    nif:endIndex "2914"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.175e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/U.S._Immigration_and_Customs_Enforcement> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=2971,2974> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FBI"^^xsd:string ;
+    nif:beginIndex "2971"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.62026e-01 ;
+    nif:endIndex "2974"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.62026e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Federal_Bureau_of_Investigation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3000,3009> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Las Vegas"^^xsd:string ;
+    nif:beginIndex "3000"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.774438e-01 ;
+    nif:endIndex "3009"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.774438e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Las_Vegas> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3088,3104> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dianne Feinstein"^^xsd:string ;
+    nif:beginIndex "3088"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.35e-01 ;
+    nif:endIndex "3104"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.35e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Dianne_Feinstein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3132,3140> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "3132"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3140"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3167,3175> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mulligan"^^xsd:string ;
+    nif:beginIndex "3167"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3175"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Mulligan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3182,3191> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Feinstein"^^xsd:string ;
+    nif:beginIndex "3182"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.842537e-01 ;
+    nif:endIndex "3191"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.842537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Dianne_Feinstein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3364,3372> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mulligan"^^xsd:string ;
+    nif:beginIndex "3364"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3372"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Mulligan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3405,3418> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. military"^^xsd:string ;
+    nif:beginIndex "3405"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.682075e-01 ;
+    nif:endIndex "3418"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.682075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Armed_Forces> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3578,3586> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "3578"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3586"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=377,381> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "377"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.816791e-01 ;
+    nif:endIndex "381"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.816791e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3864,3873> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Frankfurt"^^xsd:string ;
+    nif:beginIndex "3864"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.226038e-01 ;
+    nif:endIndex "3873"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.226038e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Frankfurt> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3906,3914> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "3906"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3914"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=3926,3941> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Majida Shehadeh"^^xsd:string ;
+    nif:beginIndex "3926"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "3941"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Majida_Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=408,422> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Majed Shehadeh"^^xsd:string ;
+    nif:beginIndex "408"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "422"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Majed_Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=488,497> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Frankfurt"^^xsd:string ;
+    nif:beginIndex "488"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.525e-01 ;
+    nif:endIndex "497"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.525e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Frankfurt> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=501,510> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Las Vegas"^^xsd:string ;
+    nif:beginIndex "501"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.588228e-01 ;
+    nif:endIndex "510"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.588228e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Las_Vegas> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=568,579> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bakersfield"^^xsd:string ;
+    nif:beginIndex "568"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.203594e-01 ;
+    nif:endIndex "579"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.203594e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jim_Jones> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=581,591> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "California"^^xsd:string ;
+    nif:beginIndex "581"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.88276e-01 ;
+    nif:endIndex "591"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.88276e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=666,676> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "California"^^xsd:string ;
+    nif:beginIndex "666"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.8975e-01 ;
+    nif:endIndex "676"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 7.8975e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=807,823> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Roxanne Hercules"^^xsd:string ;
+    nif:beginIndex "807"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "823"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Roxanne_Hercules> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=843,877> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. Customs and Border Protection"^^xsd:string ;
+    nif:beginIndex "843"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.35e-01 ;
+    nif:endIndex "877"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 6.35e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/U.S._Customs_and_Border_Protection> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=902,910> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "902"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "910"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=983,991> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shehadeh"^^xsd:string ;
+    nif:beginIndex "983"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "991"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Shehadeh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_15#char=0,4183> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4183"^^xsd:nonNegativeInteger ;
+    nif:isString """Muslim with U.S. family is held, turned away 
+Authorities detain businessman of Syrian descent for four days in Las Vegas 
+ 
+FRESNO, Calif. - A German businessman of Syrian descent who wanted to surprise his daughter with a holiday visit was detained for four days in a Las Vegas holding cell before being sent back home without explanation. 
+ 
+A civil rights group called the U.S. authorities’ treatment of Majed Shehadeh a case of anti-Muslim discrimination. 
+ 
+Shehadeh, 62, flew from Frankfurt to Las Vegas last Thursday, hoping to meet with his wife and drive to Bakersfield, California, where his American-born daughter had just gotten news she had passed the California bar exam. Instead, he wound up shivering in a holding cell without ever being told why he couldn’t enter the country, he said. 
+ 
+Roxanne Hercules, a spokeswoman for U.S. Customs and Border Protection, confirmed Tuesday that Shehadeh was denied entry, but would not discuss specifics of his case. She said Shehadeh’s visa waiver could have been denied because “he could have a criminal record, or it could be a terrorism issue.” 
+ 
+The detention follows a series of similar incidents involving Muslim passengers, according to the Council on American-Islamic Relations. 
+ 
+In October, an Islamic scholar from South Africa was denied entry at San Francisco International Airport. A month later, six imams were taken off a US Airways flight from Minneapolis to Phoenix after a passenger reported overhearing them criticize the U.S. war in Iraq. 
+ 
+“Overall these cases send a message that Muslims are second-class citizens who can be detained and kept from their families,” said Affad Shaikh, a civil rights coordinator for CAIR. 
+ 
+‘Nobody ever informed me why’ 
+Shehadeh touched down Thursday afternoon on a direct Condor Airlines flight to McCarran International Airport, where his American wife was waiting to pick him up. The couple had planned to visit family in the Las Vegas area, before surprising their daughter for the New Year and celebrating her wedding anniversary in Central California. 
+ 
+“I gave them my German passport, and he looked to see which countries I visited. He found I had stamps that looked like Arabic and asked if they were fake,” Shehadeh said Tuesday in a phone interview from his home in Alzenau, a small Bavarian village. 
+ 
+“Nobody ever informed me why I was being questioned,” he said. “All that was ever told to me was this had to do with Washington.” 
+ 
+After being interrogated by Border Protection and FBI agents for more than 12 hours at the airport, Shehadeh said he was handcuffed and transported in the back of police car to a North Las Vegas jail. Officials told family members they had denied Shehadeh’s visa waiver, which grants German citizens the right to enter the U.S. with no additional paperwork, said his wife Joanne Mulligan. 
+ 
+Officials with U.S. Immigration and Customs Enforcement said they could not comment on why he was denied entry. FBI and airport officials in Las Vegas also declined comment. 
+ 
+‘Never even had a speeding ticket’ 
+An aide to Sen. Dianne Feinstein later told the family that Shehadeh was on a “look-out list,” Mulligan said. Feinstein’s office confirmed Tuesday that the family contacted her, but wouldn’t comment further. 
+ 
+“I said you’ve got to be joking me, he’s never even had a speeding ticket,” said Mulligan, a retired math teacher for the U.S. military. “I mean, we’re Muslims, and we travel a lot. Maybe the countries we travel to are not the countries they want you to visit.” 
+ 
+Once in the holding facility, Shehadeh said he was stripped of his shoes, jacket and prescribed heart medicine and locked in a cell with about 25 other detainees. There was one toilet in the middle of the room, and access to a telephone was extremely limited, he said. 
+ 
+On Sunday, he was released and sent back to Frankfurt on the same charter airline. 
+ 
+Shehadeh’s daughter Majida Shehadeh said she was glad her father made it home, but feared he wouldn’t be able to return to visit. 
+ 
+“I used to be happy I moved here,” she said. “But now I can’t wait for when I leave here. The mentality is not what it was like beforehand.” 
+
+
+"""^^xsd:string .
+

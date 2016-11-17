@@ -1,0 +1,578 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1105,1109> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "1105"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.425e-01 ;
+    nif:endIndex "1109"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 7.425e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1136,1149> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "United States"^^xsd:string ;
+    nif:beginIndex "1136"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.4225e-01 ;
+    nif:endIndex "1149"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 8.4225e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=121,131> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "BIRMINGHAM"^^xsd:string ;
+    nif:beginIndex "121"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.4375e-01 ;
+    nif:endIndex "131"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.4375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Birmingham> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=133,137> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ala."^^xsd:string ;
+    nif:beginIndex "133"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.130556e-01 ;
+    nif:endIndex "137"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 7.130556e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Alabama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1428,1444> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Jennifer Tolbert"^^xsd:string ;
+    nif:beginIndex "1428"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1444"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Jennifer_Tolbert> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=151,161> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al Rohling"^^xsd:string ;
+    nif:beginIndex "151"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.863971e-01 ;
+    nif:endIndex "161"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.863971e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/August_Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1524,1534> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "1524"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.209326e-01 ;
+    nif:endIndex "1534"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.209326e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Federal_government_of_the_United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1556,1563> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Tolbert"^^xsd:string ;
+    nif:beginIndex "1556"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.057988e-01 ;
+    nif:endIndex "1563"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.057988e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jim_Tolbert> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1589,1602> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. Congress"^^xsd:string ;
+    nif:beginIndex "1589"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.976212e-01 ;
+    nif:endIndex "1602"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.976212e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Congress> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1635,1676> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "State Children’s Health Insurance Program"^^xsd:string ;
+    nif:beginIndex "1635"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "1676"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/State_Children’s_Health_Insurance_Program> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=1678,1683> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "SCHIP"^^xsd:string ;
+    nif:beginIndex "1678"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.676792e-01 ;
+    nif:endIndex "1683"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.676792e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/State_Children's_Health_Insurance_Program> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2106,2113> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Alabama"^^xsd:string ;
+    nif:beginIndex "2106"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.128615e-01 ;
+    nif:endIndex "2113"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 8.128615e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Alabama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2227,2250> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Child Caring Foundation"^^xsd:string ;
+    nif:beginIndex "2227"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Child_Caring_Foundation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2274,2284> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Jody Sharp"^^xsd:string ;
+    nif:beginIndex "2274"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2284"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Jody_Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2395,2399> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dana"^^xsd:string ;
+    nif:beginIndex "2395"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2399"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Dana> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2465,2469> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dana"^^xsd:string ;
+    nif:beginIndex "2465"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2469"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Dana> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2480,2484> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kyle"^^xsd:string ;
+    nif:beginIndex "2480"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2484"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Kyle> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2521,2526> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sharp"^^xsd:string ;
+    nif:beginIndex "2521"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2526"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2590,2595> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sharp"^^xsd:string ;
+    nif:beginIndex "2590"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2595"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2808,2813> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sharp"^^xsd:string ;
+    nif:beginIndex "2808"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2813"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2819,2826> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Reuters"^^xsd:string ;
+    nif:beginIndex "2819"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2826"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Reuters> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2861,2891> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Alabama Blue Cross Blue Shield"^^xsd:string ;
+    nif:beginIndex "2861"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2891"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Alabama_Blue_Cross_Blue_Shield> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=2901,2906> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sharp"^^xsd:string ;
+    nif:beginIndex "2901"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2906"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=291,306> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. government"^^xsd:string ;
+    nif:beginIndex "291"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.623462e-01 ;
+    nif:endIndex "306"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.623462e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Federal_government_of_the_United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=324,331> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rohling"^^xsd:string ;
+    nif:beginIndex "324"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.457513e-01 ;
+    nif:endIndex "331"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 7.457513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/August_Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3377,3382> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sharp"^^xsd:string ;
+    nif:beginIndex "3377"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3382"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Sharp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3420,3427> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rohling"^^xsd:string ;
+    nif:beginIndex "3420"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3427"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=346,353> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Alabama"^^xsd:string ;
+    nif:beginIndex "346"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.065075e-01 ;
+    nif:endIndex "353"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 8.065075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Alabama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3521,3556> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "University of Alabama at Birmingham"^^xsd:string ;
+    nif:beginIndex "3521"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3556"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/University_of_Alabama_at_Birmingham> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3557,3574> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "School of Nursing"^^xsd:string ;
+    nif:beginIndex "3557"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3574"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/School_of_Nursing> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3887,3897> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Pittsburgh"^^xsd:string ;
+    nif:beginIndex "3887"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3897"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Pittsburgh> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3911,3942> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Highmark Blue Cross Blue Shield"^^xsd:string ;
+    nif:beginIndex "3911"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3942"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Highmark_Blue_Cross_Blue_Shield> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=3946,3966> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Western Pennsylvania"^^xsd:string ;
+    nif:beginIndex "3946"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "3966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Western_Pennsylvania> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4185,4199> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Denise Grabner"^^xsd:string ;
+    nif:beginIndex "4185"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "4199"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Denise_Grabner> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4203,4211> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Highmark"^^xsd:string ;
+    nif:beginIndex "4203"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4211"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Highmark> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4291,4299> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Congress"^^xsd:string ;
+    nif:beginIndex "4291"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4299"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Congress> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4312,4317> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "SCHIP"^^xsd:string ;
+    nif:beginIndex "4312"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4317"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/SCHIP> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4354,4361> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Alabama"^^xsd:string ;
+    nif:beginIndex "4354"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4361"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Alabama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4418,4426> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "All Kids"^^xsd:string ;
+    nif:beginIndex "4418"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4426"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/All_Kids> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4585,4593> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Medicaid"^^xsd:string ;
+    nif:beginIndex "4585"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4593"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Medicaid> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=4769,4776> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rohling"^^xsd:string ;
+    nif:beginIndex "4769"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "4776"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=630,637> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rohling"^^xsd:string ;
+    nif:beginIndex "630"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.895013e-01 ;
+    nif:endIndex "637"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 7.895013e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/August_Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=642,649> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rohling"^^xsd:string ;
+    nif:beginIndex "642"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.16e-01 ;
+    nif:endIndex "649"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 8.16e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/August_Rohling> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=690,713> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Child Caring Foundation"^^xsd:string ;
+    nif:beginIndex "690"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "713"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Child_Caring_Foundation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=777,814> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Blue Cross and Blue Shield of Alabama"^^xsd:string ;
+    nif:beginIndex "777"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7e-01 ;
+    nif:endIndex "814"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.7e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Blue_Cross_and_Blue_Shield_of_Alabama> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=917,925> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Medicaid"^^xsd:string ;
+    nif:beginIndex "917"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7875e-01 ;
+    nif:endIndex "925"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> ;
+    itsrdf:taConfidence 6.7875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Medicaid> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_4#char=0,4941> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4941"^^xsd:nonNegativeInteger ;
+    nif:isString """Health insurance bridges gap for poor families 
+Free medical care can help children get out of poverty, official says 
+ 
+BIRMINGHAM, Ala. - For years, Al Rohling watched parents quit their jobs when their kids got sick, deliberately making their incomes drop to a point where they could get U.S. government medical help. 
+ 
+Rohling, who directed Alabama’s housing authority at the time, reached a startling conclusion: If children could drive parents into hardship when they became ill, could medical insurance help parents rediscover financial health? 
+ 
+“Health care for children really is a bridge to get out of poverty,” said Rohling. 
+ 
+Rohling quit his job in 1988 to help set up the Child Caring Foundation, which provides free health insurance for children through the Blue Cross and Blue Shield of Alabama health care provider. 
+ 
+The foundation is just one example of a charity that bridges the gap between Medicaid — subsidized insurance — for the poorest and private health insurance paid for either privately for those who can afford it, or by an employer. 
+ 
+That gap leaves up to 9 million U.S. children uninsured in the United States, a nation with no universal health care. Many parents are forced to struggle with a patchwork of other provisions in order to get health care for their children. 
+ 
+“The problem of the uninsured is getting worse,” and the number of uninsured children has risen since 2004, said Jennifer Tolbert, principal analyst with the Kaiser Commission on Medicaid and the Uninsured, a Washington-based think tank. 
+ 
+Tolbert said it was possible the U.S. Congress could increase the scope of the State Children’s Health Insurance Program (SCHIP) to provide greater state coverage for uninsured children when it debates reauthorizing the program next year. 
+ 
+In the lurch 
+Children with health insurance are usually taken to the doctor at the first sign of illness, while parents of uninsured kids often wait because they are conscious of the cost. 
+ 
+Then the child’s illness can worsen and the parent is forced to miss work to nurse the child back to health. 
+ 
+In Alabama, there were 230,000 uninsured children in 1988, and that has fallen to around 70,000 due to a combination of the Child Caring Foundation and state programs. 
+ 
+Jody Sharp, 60, is an example of the problem the charity aims to address. 
+ 
+She and her husband adopted a foster child, Dana, from a mother who was mentally handicapped. Later, they adopted Dana’s brother Kyle who has epilepsy and asthma. 
+ 
+But Sharp’s husband, the family wage earner, walked out in 1990, leaving Sharp to bring up the two children with no health insurance. 
+ 
+“If you never had a child with epilepsy, you would never know how many bills you can incur. With no insurance, it’s thousands of dollars just like that,” Sharp told Reuters. 
+ 
+During their two years in the Alabama Blue Cross Blue Shield program, Sharp’s children received free medical care and she found a job working with special needs children. The money saved helped her move into private health insurance. 
+ 
+Some 90 percent of the 55,000 children on the program move into private health insurance within about 30 months. 
+ 
+“All of us have times when we lose jobs or lose our homes. You need the support of insurance so you don’t have to worry about squeezing doctor bills out of an already stretched paycheck,” said Sharp. 
+ 
+Bear's eye 
+To recruit families, Rohling tours the state presenting health screenings at schools with the help of volunteers from the University of Alabama at Birmingham School of Nursing and elsewhere. 
+ 
+At one recent presentation, a student nurse pulled a teddy bear eye out of a child’s ear, ending three years of one-sided deafness. It was an example of how problems can fester for children who don’t have health insurance. 
+ 
+Low cost health insurance for low income American children began in Pittsburgh in 1985 when Highmark Blue Cross Blue Shield of Western Pennsylvania insured children of laid-off steel workers. By 2006, 144,000 children were in their program. 
+ 
+“There was a crisis. And the whole thing came about as an answer for how health insurance should work,” said spokesperson Denise Grabner of Highmark. 
+ 
+In 1997, the program expanded to include children of the working poor when Congress enacted the SCHIP providing some matching funding. 
+ 
+Alabama was the first of 20 states to participate, creating the All Kids program, with money from state settlement with tobacco companies. The program provides insurance for children above the level at which they would qualify for Medicaid. 
+ 
+Many states now provide insurance for families who earn up to double the poverty rate, defined as $10,000 a year for a single person and $20,000 for a family of four. But Rohling said an individual needed to earn nearly three times the poverty level to afford private insurance. 
+ 
+“We fill the void between affordability and eligibility.” 
+
+
+"""^^xsd:string .
+

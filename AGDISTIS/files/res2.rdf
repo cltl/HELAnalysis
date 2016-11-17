@@ -1,0 +1,271 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=112,123> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict true ;
+    nif:anchorOf "LOS ANGELES"^^xsd:string ;
+    nif:beginIndex "112"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.830343e-01 ;
+    nif:endIndex "123"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 6.830343e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1143,1148> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://el.dbpedia.org/resource/Δυτικό_ημισφαίριο" ;
+    ns1:verdict false ;
+    nif:anchorOf "Earth"^^xsd:string ;
+    nif:beginIndex "1143"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.4225e-01 ;
+    nif:endIndex "1148"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.4225e-01 ;
+    itsrdf:taIdentRef " http://wikidata.dbpedia.org/resource/Q5327045" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1293,1297> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://ko.wikipedia.org/wiki/%ED%99%94%EC%84%B1" ;
+    ns1:verdict false ;
+    nif:anchorOf "Mars"^^xsd:string ;
+    nif:beginIndex "1293"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "1297"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1311,1317> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Mars_Exploration_Rover_–_A" ;
+    ns1:verdict false ;
+    nif:anchorOf "Spirit"^^xsd:string ;
+    nif:beginIndex "1311"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.12515e-01 ;
+    nif:endIndex "1317"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.12515e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Spiritual_Fauna" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1322,1333> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://fr.dbpedia.org/resource/Opportunity" ;
+    ns1:verdict false ;
+    nif:anchorOf "Opportunity"^^xsd:string ;
+    nif:beginIndex "1322"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.600251e-01 ;
+    nif:endIndex "1333"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 7.600251e-01 ;
+    itsrdf:taIdentRef "http://pt.dbpedia.org/resource/Opportunity_NYC" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=135,146> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" ;
+    ns1:verdict true ;
+    nif:anchorOf "Mars rovers"^^xsd:string ;
+    nif:beginIndex "135"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.864518e-01 ;
+    nif:endIndex "146"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.864518e-01 ;
+    itsrdf:taIdentRef "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1533,1539> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict false ;
+    nif:anchorOf "Callas"^^xsd:string ;
+    nif:beginIndex "1533"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.180347e-01 ;
+    nif:endIndex "1539"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 7.180347e-01 ;
+    itsrdf:taIdentRef " http://de.dbpedia.org/resource/Jon_Callas" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1616,1622> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Mars_Exploration_Rover_–_A" ;
+    ns1:verdict false ;
+    nif:anchorOf "Spirit"^^xsd:string ;
+    nif:beginIndex "1616"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.530187e-01 ;
+    nif:endIndex "1622"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.530187e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Spiritual_Fauna" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=1660,1671> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://fr.dbpedia.org/resource/Opportunity" ;
+    ns1:verdict false ;
+    nif:anchorOf "Opportunity"^^xsd:string ;
+    nif:beginIndex "1660"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.267789e-01 ;
+    nif:endIndex "1671"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.267789e-01 ;
+    itsrdf:taIdentRef "http://pt.dbpedia.org/resource/Opportunity_NYC" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=20,31> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" ;
+    ns1:verdict true ;
+    nif:anchorOf "Mars rovers"^^xsd:string ;
+    nif:beginIndex "20"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.369506e-01 ;
+    nif:endIndex "31"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.369506e-01 ;
+    itsrdf:taIdentRef "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=2040,2044> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://ko.wikipedia.org/wiki/%ED%99%94%EC%84%B1" ;
+    ns1:verdict false ;
+    nif:anchorOf "Mars"^^xsd:string ;
+    nif:beginIndex "2040"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.722686e-01 ;
+    nif:endIndex "2044"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 9.722686e-01 ;
+    itsrdf:taIdentRef "http://id.dbpedia.org/resource/Wahana_penjelajah_Mars" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=2046,2052> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Mars_Exploration_Rover_–_A" ;
+    ns1:verdict false ;
+    nif:anchorOf "Spirit"^^xsd:string ;
+    nif:beginIndex "2046"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.142687e-01 ;
+    nif:endIndex "2052"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 9.142687e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Spiritual_Fauna" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=2125,2136> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://fr.dbpedia.org/resource/Opportunity" ;
+    ns1:verdict false ;
+    nif:anchorOf "Opportunity"^^xsd:string ;
+    nif:beginIndex "2125"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.617789e-01 ;
+    nif:endIndex "2136"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.617789e-01 ;
+    itsrdf:taIdentRef "http://pt.dbpedia.org/resource/Opportunity_NYC" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=420,430> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://ko.wikipedia.org/wiki/%ED%99%94%EC%84%B1" ;
+    ns1:verdict false ;
+    nif:anchorOf "Red Planet"^^xsd:string ;
+    nif:beginIndex "420"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.421689e-01 ;
+    nif:endIndex "430"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 6.421689e-01 ;
+    itsrdf:taIdentRef "http://wikidata.dbpedia.org/resource/Q1223617" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=507,518> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "EMERGING ENTITY" ;
+    ns1:verdict false ;
+    nif:anchorOf "John Callas"^^xsd:string ;
+    nif:beginIndex "507"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.569118e-01 ;
+    nif:endIndex "518"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 5.569118e-01 ;
+    itsrdf:taIdentRef " http://de.dbpedia.org/resource/Jon_Callas" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=557,582> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/NASA_JPL" ;
+    ns1:verdict true ;
+    nif:anchorOf "Jet Propulsion Laboratory"^^xsd:string ;
+    nif:beginIndex "557"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.625e-01 ;
+    nif:endIndex "582"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.625e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/NASA_JPL" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=588,592> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://it.dbpedia.org/resource/NASA" ;
+    ns1:verdict true ;
+    nif:anchorOf "NASA"^^xsd:string ;
+    nif:beginIndex "588"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.7125e-01 ;
+    nif:endIndex "592"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 8.7125e-01 ;
+    itsrdf:taIdentRef "http://it.dbpedia.org/resource/NASA" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=715,720> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://el.dbpedia.org/resource/Δυτικό_ημισφαίριο" ;
+    ns1:verdict false ;
+    nif:anchorOf "Earth"^^xsd:string ;
+    nif:beginIndex "715"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.925e-01 ;
+    nif:endIndex "720"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> ;
+    itsrdf:taConfidence 7.925e-01 ;
+    itsrdf:taIdentRef " http://wikidata.dbpedia.org/resource/Q5327045" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_1#char=0,2202> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2202"^^xsd:nonNegativeInteger ;
+    nif:isString """Upgrade makes aging Mars rovers smarter 
+Engineers transmitted new software to the rovers' onboard computers 
+ 
+LOS ANGELES - The twin Mars rovers are getting wiser with age. 
+ 
+Engineers have transmitted new flight software to the rovers' onboard computers — just in time for the third anniversary of their landing. The software is aimed at boosting their intelligence and independence so that they can roll around the Red Planet with less help from humans. 
+ 
+"We're teaching an old dog new tricks," said John Callas, the mission project manager with the Jet Propulsion Laboratory, the NASA agency in charge of the rovers. 
+ 
+Among the rovers' new skills is the ability to automatically recognize and transmit to Earth photographs that they take of swirling dust devils or floating clouds. They can also independently decide whether it is safe to extend its robotic arm to sample a piece of rock. 
+ 
+Before, scientists had to painstakingly dissect thousands of images just to find the frames they need and decide for the rovers whether to use their arms. The high-tech upgrades should help save time — as much as a day because scientists on Earth don't have to study a rock before sending commands to the robot to pick it up. 
+ 
+If successful, the changes could get incorporated into future Mars missions. 
+ 
+Spirit and Opportunity were also fitted with a new navigation system that allows them to think several steps ahead when faced with an obstacle, allowing them to back out of a dead end or even navigate a maze on their own, Callas said. The geologic robots have previously tackled one problem at a time. 
+ 
+Spirit landed three years ago Wednesday and Opportunity on Jan. 24, 2004. Entering their fourth year of exploration, both golf cart-sized vehicles have long outlasted their missions, originally planned for about three months. While scientists are impressed by the rovers' longevity, they admit the robots could die at any time. 
+ 
+The rovers' biggest accomplishment is uncovering geologic evidence that water once flowed on Mars. Spirit is currently studying rocks and soil samples near a Martian ridge while Opportunity is circling the rim of a massive crater for possible ways in. 
+
+
+"""^^xsd:string .
+

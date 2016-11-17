@@ -1,0 +1,329 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=0,10> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Timberlake"^^xsd:string ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "10"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=101,118> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Justin Timberlake"^^xsd:string ;
+    nif:beginIndex "101"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.467537e-01 ;
+    nif:endIndex "118"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 9.467537e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=12,16> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Emilio_Diaz" ;
+    ns1:verdict true ;
+    nif:anchorOf "Diaz"^^xsd:string ;
+    nif:beginIndex "12"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.275e-01 ;
+    nif:endIndex "16"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.275e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Emilio_Diaz" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=123,135> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Emilio_Diaz" ;
+    ns1:verdict true ;
+    nif:anchorOf "Cameron Diaz"^^xsd:string ;
+    nif:beginIndex "123"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.505037e-01 ;
+    nif:endIndex "135"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.505037e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Emilio_Diaz" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=183,196> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Star_%28magazine%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Star magazine"^^xsd:string ;
+    nif:beginIndex "183"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.984749e-01 ;
+    nif:endIndex "196"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 5.984749e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Star_%28magazine%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=214,218> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Star_%28magazine%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Star"^^xsd:string ;
+    nif:beginIndex "214"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.445833e-01 ;
+    nif:endIndex "218"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 6.445833e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Star_%28magazine%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=220,224> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Emilio_Diaz" ;
+    ns1:verdict true ;
+    nif:anchorOf "Diaz"^^xsd:string ;
+    nif:beginIndex "220"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.242537e-01 ;
+    nif:endIndex "224"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.242537e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Emilio_Diaz" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=236,245> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/When_is_Christmas" ;
+    ns1:verdict false ;
+    nif:anchorOf "Christmas"^^xsd:string ;
+    nif:beginIndex "236"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "245"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef "http://de.wikipedia.org/wiki/Christmas_Humphreys" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=265,269> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://de.wikipedia.org/wiki/Vail_%28Colorado%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Vail"^^xsd:string ;
+    nif:beginIndex "265"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.999013e-01 ;
+    nif:endIndex "269"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 5.999013e-01 ;
+    itsrdf:taIdentRef "http://de.wikipedia.org/wiki/Vail_%28Colorado%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=271,276> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/38th_State" ;
+    ns1:verdict true ;
+    nif:anchorOf "Colo."^^xsd:string ;
+    nif:beginIndex "271"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.690691e-01 ;
+    nif:endIndex "276"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 6.690691e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/38th_State" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=284,294> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Timberlake"^^xsd:string ;
+    nif:beginIndex "284"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.667847e-01 ;
+    nif:endIndex "294"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.667847e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=325,332> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://nl.wikipedia.org/wiki/Memphis_%28Tennessee%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Memphis"^^xsd:string ;
+    nif:beginIndex "325"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.04861e-01 ;
+    nif:endIndex "332"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.04861e-01 ;
+    itsrdf:taIdentRef "http://nl.wikipedia.org/wiki/Memphis_%28Tennessee%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=383,390> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://it.wikipedia.org/wiki/%27N_Sync" ;
+    ns1:verdict true ;
+    nif:anchorOf "N' Sync"^^xsd:string ;
+    nif:beginIndex "383"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.458844e-01 ;
+    nif:endIndex "390"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.458844e-01 ;
+    itsrdf:taIdentRef "http://it.wikipedia.org/wiki/%27N_Sync" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=45,52> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://it.wikipedia.org/wiki/%27N_Sync" ;
+    ns1:verdict true ;
+    nif:anchorOf "N’ Sync"^^xsd:string ;
+    nif:beginIndex "45"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.310666e-01 ;
+    nif:endIndex "52"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.310666e-01 ;
+    itsrdf:taIdentRef "http://it.wikipedia.org/wiki/%27N_Sync" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=544,563> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/NBC%27s_Saturday_Night" ;
+    ns1:verdict false ;
+    nif:anchorOf "Saturday Night Live"^^xsd:string ;
+    nif:beginIndex "544"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "563"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Penthouse_Club" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=569,573> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Emilio_Diaz" ;
+    ns1:verdict true ;
+    nif:anchorOf "Diaz"^^xsd:string ;
+    nif:beginIndex "569"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.967847e-01 ;
+    nif:endIndex "573"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.967847e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Emilio_Diaz" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=578,588> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Timberlake"^^xsd:string ;
+    nif:beginIndex "578"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.937624e-01 ;
+    nif:endIndex "588"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.937624e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=650,669> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/KCAS'" ;
+    ns1:verdict false ;
+    nif:anchorOf "Kids' Choice Awards"^^xsd:string ;
+    nif:beginIndex "650"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.635128e-01 ;
+    nif:endIndex "669"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.635128e-01 ;
+    itsrdf:taIdentRef "EMERGING ENTITY" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=706,716> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:anchorOf "Timberlake"^^xsd:string ;
+    nif:beginIndex "706"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.207513e-01 ;
+    nif:endIndex "716"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 9.207513e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=752,765> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Danay_Ferrer" ;
+    ns1:verdict true ;
+    nif:anchorOf "Veronica Finn"^^xsd:string ;
+    nif:beginIndex "752"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.05e-01 ;
+    nif:endIndex "765"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.05e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Danay_Ferrer" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=822,836> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Britteny_Spears" ;
+    ns1:verdict true ;
+    nif:anchorOf "Britney Spears"^^xsd:string ;
+    nif:beginIndex "822"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "836"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Britteny_Spears" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=899,908> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Veronica_Finn" ;
+    ns1:verdict true ;
+    nif:anchorOf "Innosense"^^xsd:string ;
+    nif:beginIndex "899"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.641308e-01 ;
+    nif:endIndex "908"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 7.641308e-01 ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Veronica_Finn" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=940,952> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Louis_J._Pearlman" ;
+    ns1:verdict true ;
+    nif:anchorOf "Lou Pearlman"^^xsd:string ;
+    nif:beginIndex "940"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "952"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Louis_J._Pearlman" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_7#char=0,957> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://dbpedia.org/resource/Jawbreakers_%28duo%29" ;
+    ns1:verdict true ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "957"^^xsd:nonNegativeInteger ;
+    nif:isString """Timberlake, Diaz reportedly break up 
+Former N’ Sync singer seeing former flame, magazine reports 
+ 
+Justin Timberlake and Cameron Diaz have called it quits, according to a report in Star magazine. 
+ 
+According to Star, Diaz, 34, spent Christmas with her family in Vail, Colo., while Timberlake, 25, was with his family near Memphis. The magazine quotes a source who says the former N' Sync singer told friends that he and the actress had broken up. The couple were last seen together on Dec. 16 when she introduced his musical performance on "Saturday Night Live." 
+ 
+Diaz and Timberlake started dating shortly after they met each other at the 2003 Kids' Choice Awards. 
+ 
+The magazine also reported that Timberlake has started seeing a former flame, Veronica Finn. The pair dated in the late '90s before he began dating Britney Spears. Finn and Spears were briefly in a girl group together called Innosense, according to music impresario Lou Pearlman. 
+
+
+"""^^xsd:string ;
+    itsrdf:taIdentRef "http://dbpedia.org/resource/Jawbreakers_%28duo%29" .
+

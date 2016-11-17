@@ -1,0 +1,282 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=0,5> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.422999e-01 ;
+    nif:endIndex "5"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 7.422999e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1013,1023> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Miami Heat"^^xsd:string ;
+    nif:beginIndex "1013"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.985186e-01 ;
+    nif:endIndex "1023"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.985186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1030,1039> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Pat Riley"^^xsd:string ;
+    nif:beginIndex "1030"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.995013e-01 ;
+    nif:endIndex "1039"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.995013e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=111,116> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MIAMI"^^xsd:string ;
+    nif:beginIndex "111"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.360534e-01 ;
+    nif:endIndex "116"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.360534e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=119,129> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Miami Heat"^^xsd:string ;
+    nif:beginIndex "119"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.735e-01 ;
+    nif:endIndex "129"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.735e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1237,1252> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Chicago Tribune"^^xsd:string ;
+    nif:beginIndex "1237"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7875e-01 ;
+    nif:endIndex "1252"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 6.7875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Chicago_Tribune> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1311,1316> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "1311"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.918011e-01 ;
+    nif:endIndex "1316"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 7.918011e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=136,145> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Pat Riley"^^xsd:string ;
+    nif:beginIndex "136"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.730037e-01 ;
+    nif:endIndex "145"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.730037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1360,1365> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "1360"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.920499e-01 ;
+    nif:endIndex "1365"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 7.920499e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1375,1379> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Heat"^^xsd:string ;
+    nif:beginIndex "1375"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.949153e-01 ;
+    nif:endIndex "1379"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.949153e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1387,1403> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shaquille O'Neal"^^xsd:string ;
+    nif:beginIndex "1387"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.689353e-01 ;
+    nif:endIndex "1403"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.689353e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Shaquille_O'Neal> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1519,1537> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Western Conference"^^xsd:string ;
+    nif:beginIndex "1519"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.231955e-01 ;
+    nif:endIndex "1537"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.231955e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Western_Conference_(NBA)> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=1552,1556> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Heat"^^xsd:string ;
+    nif:beginIndex "1552"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.954066e-01 ;
+    nif:endIndex "1556"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.954066e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=420,424> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Heat"^^xsd:string ;
+    nif:beginIndex "420"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.219042e-01 ;
+    nif:endIndex "424"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.219042e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=442,462> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Los Angeles Clippers"^^xsd:string ;
+    nif:beginIndex "442"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.5e-01 ;
+    nif:endIndex "462"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.5e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Los_Angeles_Clippers> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=486,491> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "486"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.178036e-01 ;
+    nif:endIndex "491"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.178036e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=523,527> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Heat"^^xsd:string ;
+    nif:beginIndex "523"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.216566e-01 ;
+    nif:endIndex "527"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.216566e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Miami_Heat> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=541,550> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NBA title"^^xsd:string ;
+    nif:beginIndex "541"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.649803e-01 ;
+    nif:endIndex "550"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.649803e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/NBA_Finals> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=620,636> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Shaquille O’Neal"^^xsd:string ;
+    nif:beginIndex "620"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.351298e-01 ;
+    nif:endIndex "636"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 9.351298e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Shaquille_O'Neal> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=685,690> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "685"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.175573e-01 ;
+    nif:endIndex "690"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.175573e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=741,755> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Stan Van Gundy"^^xsd:string ;
+    nif:beginIndex "741"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "755"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Stan_Van_Gundy> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=826,831> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Riley"^^xsd:string ;
+    nif:beginIndex "826"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.180511e-01 ;
+    nif:endIndex "831"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> ;
+    itsrdf:taConfidence 8.180511e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Pat_Riley> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_19#char=0,1570> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1570"^^xsd:nonNegativeInteger ;
+    nif:isString """Riley takes indefinite leave of absence 
+61-year-old coach has been dealing with ongoing knee, hip injuries 
+ 
+MIAMI - Miami Heat coach Pat Riley is taking an indefinite leave of absence because of ongoing hip and knee problems. 
+ 
+The 61-year-old coach disclosed his plans Wednesday and was to announce his decision at a news conference. It was not immediately clear who would be promoted to interim head coach. 
+ 
+The Heat were to play the Los Angeles Clippers on Wednesday night. 
+ 
+Riley is in his 12th season with the Heat, who won the NBA title last June. They’re off to a 13-17 start and have been without center Shaquille O’Neal most of the season because of a knee injury. 
+ 
+Riley returned to the bench in December 2005, replacing Stan Van Gundy and postponing a scheduled surgery for hip replacement. In September, Riley said he didn’t expect to need the operation this season. 
+ 
+His condition apparently worsened in recent weeks. He often walks with a limp and has been on medication for the hip. 
+ 
+Miami Heat coach Pat Riley will take a leave of absence from the defending champions to have surgeries on his right knee and hip, according to reports Wednesday. 
+ 
+Riley told the team of his decision Wednesday morning, the Chicago Tribune said. No immediate successor has been named. 
+ 
+ESPN said Riley plans on returning to the team. 
+ 
+Just as Riley departs, Heat center Shaquille O'Neal appears ready to return from his injury. He is scheduled to travel with the team on its six-game road trip against Western Conference teams. 
+ 
+The Heat is 13-17. 
+
+
+"""^^xsd:string .
+

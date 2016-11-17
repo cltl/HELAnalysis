@@ -1,0 +1,189 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=1205,1213> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" ;
+    ns1:verdict true ;
+    nif:anchorOf "Heathrow"^^xsd:string ;
+    nif:beginIndex "1205"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.9475e-01 ;
+    nif:endIndex "1213"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.9475e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=124,130> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://cs.dbpedia.org/resource/Londýn" ;
+    ns1:verdict true ;
+    nif:anchorOf "LONDON"^^xsd:string ;
+    nif:beginIndex "124"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.975e-01 ;
+    nif:endIndex "130"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.975e-01 ;
+    itsrdf:taIdentRef "http://cs.dbpedia.org/resource/Londýn" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=1345,1347> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.dbpedia.org/resource/British_Airways" ;
+    ns1:verdict false ;
+    nif:anchorOf "BA"^^xsd:string ;
+    nif:beginIndex "1345"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.695238e-01 ;
+    nif:endIndex "1347"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.695238e-01 ;
+    itsrdf:taIdentRef "http://ko.wikipedia.org/wiki/블랙_오디오" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=234,259> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" ;
+    ns1:verdict true ;
+    nif:anchorOf "London's Heathrow Airport"^^xsd:string ;
+    nif:beginIndex "234"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "259"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=243,251> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Heathrow"^^xsd:string ;
+    nif:beginIndex "243"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "251"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Heathrow_Airport> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=411,426> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.dbpedia.org/resource/British_Airways" ;
+    ns1:verdict true ;
+    nif:anchorOf "British Airways"^^xsd:string ;
+    nif:beginIndex "411"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "426"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef "http://pt.dbpedia.org/resource/British_Airways" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=468,470> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.dbpedia.org/resource/British_Airways" ;
+    ns1:verdict false ;
+    nif:anchorOf "BA"^^xsd:string ;
+    nif:beginIndex "468"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.175201e-01 ;
+    nif:endIndex "470"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.175201e-01 ;
+    itsrdf:taIdentRef "http://ko.wikipedia.org/wiki/블랙_오디오" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=598,606> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" ;
+    ns1:verdict true ;
+    nif:anchorOf "Heathrow"^^xsd:string ;
+    nif:beginIndex "598"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.942537e-01 ;
+    nif:endIndex "606"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.942537e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=640,642> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.dbpedia.org/resource/British_Airways" ;
+    ns1:verdict false ;
+    nif:anchorOf "BA"^^xsd:string ;
+    nif:beginIndex "640"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.172713e-01 ;
+    nif:endIndex "642"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.172713e-01 ;
+    itsrdf:taIdentRef "http://ko.wikipedia.org/wiki/블랙_오디오" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=73,98> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" ;
+    ns1:verdict true ;
+    nif:anchorOf "London's Heathrow Airport"^^xsd:string ;
+    nif:beginIndex "73"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "98"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=817,819> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://pt.dbpedia.org/resource/British_Airways" ;
+    ns1:verdict false ;
+    nif:anchorOf "BA"^^xsd:string ;
+    nif:beginIndex "817"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.175201e-01 ;
+    nif:endIndex "819"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.175201e-01 ;
+    itsrdf:taIdentRef "http://ko.wikipedia.org/wiki/블랙_오디오" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=958,966> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    ns1:goldLink "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" ;
+    ns1:verdict true ;
+    nif:anchorOf "Heathrow"^^xsd:string ;
+    nif:beginIndex "958"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.942537e-01 ;
+    nif:endIndex "966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> ;
+    itsrdf:taConfidence 8.942537e-01 ;
+    itsrdf:taIdentRef "http://en.wikipedia.org/wiki/Harmondsworth_Aerodrome" .
+
+<http://www.aksw.org/gerbil/NifWebService/request_8#char=0,1462> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1462"^^xsd:nonNegativeInteger ;
+    nif:isString """Thousands of holiday travelers without luggage 
+Fog, technical glitch at London's Heathrow Airport snarls baggage system 
+ 
+LONDON - Thousands of airline passengers still have not received their luggage after fog disrupted flights at London's Heathrow Airport late last year, airline officials said Wednesday. 
+ 
+The chaos was compounded when faults developed with a baggage belt at Heathrow's Terminal 4, said British Airways, the airline that was worst affected. 
+ 
+BA said Wednesday it still had "several thousand" bags that have not been delivered to their owners. 
+ 
+Many are still stacked at Heathrow's Terminal 1 and Terminal 4, and BA is now using freight planes and volunteers to deliver them to their owners. 
+ 
+The problem began before the Christmas holiday with a fault on a baggage belt at Terminal 4, a BA spokesman said on condition of anonymity. That caused an initial backlog, and about 8,000 bags were not delivered, he said. 
+ 
+The fog at Heathrow caused further problems, and there was another Terminal 4 baggage belt problem on Dec. 29 — leading to about 10,000 bags being undelivered, the spokesman said. 
+ 
+Over the holiday season, the airline dealt with about 75,000 bags a day at Heathrow and handled about 1 million passengers, the spokesman said. 
+ 
+The baggage problem coincided with changes in working practices for BA baggage handlers at Terminals 1 and 4, before the airline's planned move to Terminal 5 in March 2008, he said. 
+
+
+"""^^xsd:string .
+

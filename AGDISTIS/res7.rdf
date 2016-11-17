@@ -1,0 +1,737 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=0,9> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Maliki"^^xsd:string ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "9"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1059,1069> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Jazeera"^^xsd:string ;
+    nif:beginIndex "1059"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1069"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Al_Jazeera> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1089,1097> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Internet"^^xsd:string ;
+    nif:beginIndex "1089"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "1097"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Internet> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1121,1127> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "1121"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.205037e-01 ;
+    nif:endIndex "1127"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.205037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1148,1164> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Associated Press"^^xsd:string ;
+    nif:beginIndex "1148"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1164"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Associated_Press> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1214,1229> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Nouri al-Maliki"^^xsd:string ;
+    nif:beginIndex "1214"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.438784e-01 ;
+    nif:endIndex "1229"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.438784e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1309,1318> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Maliki"^^xsd:string ;
+    nif:beginIndex "1309"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.4725e-01 ;
+    nif:endIndex "1318"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.4725e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=133,141> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NBC News"^^xsd:string ;
+    nif:beginIndex "133"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.62632e-01 ;
+    nif:endIndex "141"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.62632e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/NBC_News> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1442,1448> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "1442"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.202575e-01 ;
+    nif:endIndex "1448"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.202575e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1489,1502> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. military"^^xsd:string ;
+    nif:beginIndex "1489"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.615059e-01 ;
+    nif:endIndex "1502"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.615059e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Military_history_of_the_United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1534,1547> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "United States"^^xsd:string ;
+    nif:beginIndex "1534"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.7125e-01 ;
+    nif:endIndex "1547"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.7125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1791,1800> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Rubaie"^^xsd:string ;
+    nif:beginIndex "1791"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.655957e-01 ;
+    nif:endIndex "1800"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.655957e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mowaffak_al-Rubaie> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1872,1890> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
+    nif:beginIndex "1872"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.685e-01 ;
+    nif:endIndex "1890"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mowaffak_al-Rubaie> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1932,1949> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Munqith al-Faroon"^^xsd:string ;
+    nif:beginIndex "1932"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "1949"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Munqith_al-Faroon> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=1986,1992> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "1986"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.935186e-01 ;
+    nif:endIndex "1992"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.935186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2014,2034> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "The Associated Press"^^xsd:string ;
+    nif:beginIndex "2014"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.488055e-01 ;
+    nif:endIndex "2034"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.488055e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Associated_Press> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=227,241> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam Hussein"^^xsd:string ;
+    nif:beginIndex "227"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.45e-01 ;
+    nif:endIndex "241"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.45e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2332,2341> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Faroon"^^xsd:string ;
+    nif:beginIndex "2332"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2341"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/al-Faroon> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2498,2508> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Jazeera"^^xsd:string ;
+    nif:beginIndex "2498"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.338784e-01 ;
+    nif:endIndex "2508"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.338784e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Al_Jazeera> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2525,2533> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Web site"^^xsd:string ;
+    nif:beginIndex "2525"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.175e-01 ;
+    nif:endIndex "2533"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.175e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Website> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2550,2556> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "2550"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.887624e-01 ;
+    nif:endIndex "2556"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.887624e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2577,2591> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "New York Times"^^xsd:string ;
+    nif:beginIndex "2577"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "2591"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_New_York_Times> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2619,2628> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Faroon"^^xsd:string ;
+    nif:beginIndex "2619"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "2628"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/al-Faroon> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2733,2740> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hussein"^^xsd:string ;
+    nif:beginIndex "2733"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.249365e-01 ;
+    nif:endIndex "2740"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.249365e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2820,2838> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
+    nif:beginIndex "2820"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.260677e-01 ;
+    nif:endIndex "2838"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.260677e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mowaffak_al-Rubaie> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2844,2850> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Maliki"^^xsd:string ;
+    nif:beginIndex "2844"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.025167e-01 ;
+    nif:endIndex "2850"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.025167e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2888,2893> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Times"^^xsd:string ;
+    nif:beginIndex "2888"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.287769e-01 ;
+    nif:endIndex "2893"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.287769e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_New_York_Times> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2927,2936> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Rubaie"^^xsd:string ;
+    nif:beginIndex "2927"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.805037e-01 ;
+    nif:endIndex "2936"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.805037e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mowaffak_al-Rubaie> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=2950,2952> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AP"^^xsd:string ;
+    nif:beginIndex "2950"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.736669e-01 ;
+    nif:endIndex "2952"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.736669e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Associated_Press> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3046,3055> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Maliki"^^xsd:string ;
+    nif:beginIndex "3046"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.415075e-01 ;
+    nif:endIndex "3055"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.415075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3064,3069> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Najaf"^^xsd:string ;
+    nif:beginIndex "3064"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "3069"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Najaf> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3128,3137> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Faroon"^^xsd:string ;
+    nif:beginIndex "3128"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "3137"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Al-Faroon> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3377,3383> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "3377"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.665445e-01 ;
+    nif:endIndex "3383"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.665445e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=368,382> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam Hussein"^^xsd:string ;
+    nif:beginIndex "368"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.21e-01 ;
+    nif:endIndex "382"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.21e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3715,3725> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Arabiya"^^xsd:string ;
+    nif:beginIndex "3715"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.949609e-01 ;
+    nif:endIndex "3725"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.949609e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Al_Arabiya> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3852,3857> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MSNBC"^^xsd:string ;
+    nif:beginIndex "3852"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "3857"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/MSNBC> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=3998,4004> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "3998"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.942537e-01 ;
+    nif:endIndex "4004"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.942537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4071,4078> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Muqtada"^^xsd:string ;
+    nif:beginIndex "4071"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.925e-01 ;
+    nif:endIndex "4078"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.925e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Muqtada_al-Sadr> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4080,4087> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Muqtada"^^xsd:string ;
+    nif:beginIndex "4080"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.685e-01 ;
+    nif:endIndex "4087"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Muqtada_al-Sadr> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4089,4096> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Muqtada"^^xsd:string ;
+    nif:beginIndex "4089"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.685e-01 ;
+    nif:endIndex "4096"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Muqtada_al-Sadr> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4114,4129> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Muqtada al-Sadr"^^xsd:string ;
+    nif:beginIndex "4114"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.9475e-01 ;
+    nif:endIndex "4129"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.9475e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Muqtada_al-Sadr> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4178,4188> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mahdi Army"^^xsd:string ;
+    nif:beginIndex "4178"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.425e-01 ;
+    nif:endIndex "4188"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.425e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Peace_Companies> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=422,440> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
+    nif:beginIndex "422"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "440"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Mowaffak_al-Rubaie> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4258,4264> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sunnis"^^xsd:string ;
+    nif:beginIndex "4258"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "4264"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sunni_Islam> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4302,4309> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al-Sadr"^^xsd:string ;
+    nif:beginIndex "4302"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.023219e-01 ;
+    nif:endIndex "4309"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.023219e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Muqtada_al-Sadr> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4333,4339> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "4333"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.455347e-01 ;
+    nif:endIndex "4339"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.455347e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4370,4379> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "al-Maliki"^^xsd:string ;
+    nif:beginIndex "4370"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.701284e-01 ;
+    nif:endIndex "4379"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.701284e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nouri_al-Maliki> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4391,4395> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "4391"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.321653e-01 ;
+    nif:endIndex "4395"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.321653e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4416,4432> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "William Caldwell"^^xsd:string ;
+    nif:beginIndex "4416"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.171429e-01 ;
+    nif:endIndex "4432"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.171429e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/William_B._Caldwell> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4436,4449> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. military"^^xsd:string ;
+    nif:beginIndex "4436"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.732075e-01 ;
+    nif:endIndex "4449"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 6.732075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Armed_Forces> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4545,4556> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S. forces"^^xsd:string ;
+    nif:beginIndex "4545"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.848081e-01 ;
+    nif:endIndex "4556"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.848081e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Armed_Forces> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4715,4719> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "4715"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.381818e-01 ;
+    nif:endIndex "4719"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.381818e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Iraq_War> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4756,4762> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "4756"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.67026e-01 ;
+    nif:endIndex "4762"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.67026e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=4822,4833> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "US military"^^xsd:string ;
+    nif:beginIndex "4822"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.013208e-01 ;
+    nif:endIndex "4833"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 8.013208e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Armed_Forces> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=5065,5073> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Caldwell"^^xsd:string ;
+    nif:beginIndex "5065"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.471854e-01 ;
+    nif:endIndex "5073"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.471854e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/William_B._Caldwell> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=553,559> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "553"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.207513e-01 ;
+    nif:endIndex "559"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.207513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=79,86> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "BAGHDAD"^^xsd:string ;
+    nif:beginIndex "79"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.925e-01 ;
+    nif:endIndex "86"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.925e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Baghdad> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=870,882> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Iraqi forces"^^xsd:string ;
+    nif:beginIndex "870"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.651497e-01 ;
+    nif:endIndex "882"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 7.651497e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=88,92> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "88"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.000387e-01 ;
+    nif:endIndex "92"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.000387e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Iraq_War> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=935,941> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Saddam"^^xsd:string ;
+    nif:beginIndex "935"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.732513e-01 ;
+    nif:endIndex "941"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.732513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=95,99> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Iraq"^^xsd:string ;
+    nif:beginIndex "95"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.497887e-01 ;
+    nif:endIndex "99"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
+    itsrdf:taConfidence 9.497887e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Iraq_War> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "5083"^^xsd:nonNegativeInteger ;
+    nif:isString """Al-Maliki adviser says official who supervised execution is target of probe 
+ 
+BAGHDAD, Iraq - Iraq’s national security adviser told NBC News on Wednesday that three individuals have been arrested in connection with a video of Saddam Hussein’s execution that was leaked. 
+ 
+“I can officially now confirm the arrest of three individuals in the case of the execution of Saddam Hussein,” said Iraqi national security adviser Mowaffak al-Rubaie. 
+ 
+The arrests came after the announcement that officials were interrogating the person suspected of recording Saddam’s hanging via a mobile phone. 
+ 
+“The person who filmed the execution process has been arrested. ... Now he is under interrogation about the goals of his filming,” said an adviser to the prime minister, speaking on condition of anonymity because he was not authorized to talk to the media. “He was arrested by Iraqi forces.” 
+ 
+The video contained audio of witnesses telling Saddam to “Go to hell” and of the former leader responding to taunts that his tormentors were being unmanly. It surfaced on Al-Jazeera television and the Internet late Saturday, the day Saddam was hanged.  
+ 
+The Associated Press quoted an unidentified adviser to Prime Minister Nouri al-Maliki as saying the man arrested was “an official who supervised the execution.”  
+ 
+Al-Maliki announced Tuesday that he had ordered an investigation into the conduct of the execution team, who could be heard taunting Saddam in the moments before his hanging. 
+ 
+A U.S. military spokesman, meanwhile, said the United States would have handled the execution differently had it been in charge.  
+ 
+‘I did not see him taking pictures’ 
+On Wednesday, an Iraqi prosecutor who was also present at the execution denied a report that he had accused national security adviser al-Rubaie of possible responsibility for the leaked video. 
+ 
+“I am not accusing Mowaffak al-Rubaie, and I did not see him taking pictures,” Munqith al-Faroon, a prosecutor in the case that sent Saddam to the gallows, told The Associated Press. 
+ 
+“But I saw two of the government officials who were ... present during the execution taking all the video of the execution, using the lights that were there for the official taping of the execution. They used mobile phone cameras. I do not know their names, but I would remember their faces,” al-Faroon said in a telephone interview. 
+ 
+The prosecutor said the two officials were openly taking video pictures, which are believed to be those which appeared on Al-Jazeera satellite and a Web site within hours of Saddam’s execution. 
+ 
+The New York Times on Wednesday reported that al-Faroon told the newspaper “one of two men he had seen holding a cell phone camera aloft to make a video of Mr. Hussein’s last moments up to and past the point where he fell through the trapdoor was Mowaffak al-Rubaie, Mr. Maliki’s national security adviser.” 
+ 
+The Times said it had been unable to reach al-Rubaie for comment. AP also could not reach him Wednesday. His secretary said the security adviser, a close aide to al-Maliki, was in Najaf and would not return until later. 
+ 
+Chants of ‘Muqtada’ 
+Al-Faroon said there were 14 Iraqi officials, including himself and another prosecutor, as well as three hangmen present for the execution. All the officials, he said, were flown by U.S. helicopter to the former military intelligence facility where Saddam was put to death in an execution chamber used by his own security men for years. 
+ 
+The prosecutor said he believed all mobile phones had been confiscated before the flight and that some of the officials’ bodyguards, who arrived by car, had smuggled the camera phones to the two officials he had seen taking the video pictures. 
+ 
+Al-Arabiya television reported that the person under arrest is one of the guards who was a member of the execution team, according to an MSNBC translator. There was no further information about whether the person under arrest was a guard or other official. 
+ 
+Some of the last words Saddam heard, according to the leaked cell phone video, were a chant of “Muqtada, Muqtada, Muqtada,” a reference to Muqtada al-Sadr, the radical anti-American Shiite cleric, whose Mahdi Army militia is believed responsible for many killings that have targeted Sunnis and driven many from their homes. 
+ 
+Al-Sadr’s father was killed by Saddam. The militant cleric is a key al-Maliki backer. 
+ 
+U.S. response 
+Maj. Gen. William Caldwell, a U.S. military spokesman, told reporters Wednesday that the execution would have been handled differently had U.S. forces been in charge.  
+ 
+“If you are asking me: ‘Would we have done things differently?’ Yes, we would have. But that’s not our decision. That’s the government of Iraq’s decision,” he .  
+ 
+He added that Saddam was “dignified” and “courteous” as he was transferred from US military control to Iraqi custody before he was executed.  
+ 
+“He spoke very well to our military police, as he always had, and when getting off at the prison site he said farewell to his interpreter; he thanked the military police squad,” Caldwell said. 
+
+
+"""^^xsd:string .
+

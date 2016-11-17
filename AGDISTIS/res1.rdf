@@ -1,0 +1,586 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=105,113> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NEW YORK"^^xsd:string ;
+    nif:beginIndex "105"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.491667e-01 ;
+    nif:endIndex "113"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.491667e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1115,1118> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dow"^^xsd:string ;
+    nif:beginIndex "1115"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.031846e-01 ;
+    nif:endIndex "1118"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.031846e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Jones_Industrial_Average> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1269,1275> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Nasdaq"^^xsd:string ;
+    nif:beginIndex "1269"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "1275"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/NASDAQ> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1328,1349> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Standard & Poor’s 500"^^xsd:string ;
+    nif:beginIndex "1328"^^xsd:nonNegativeInteger ;
+    nif:confidence 5.4e-01 ;
+    nif:endIndex "1349"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Standard_&_Poor’s_500> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1418,1424> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Nasdaq"^^xsd:string ;
+    nif:beginIndex "1418"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.157513e-01 ;
+    nif:endIndex "1424"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.157513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/NASDAQ> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1667,1670> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ISM"^^xsd:string ;
+    nif:beginIndex "1667"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.468923e-01 ;
+    nif:endIndex "1670"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.468923e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Institute_for_Supply_Management> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1741,1771> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Automatic Data Processing Inc."^^xsd:string ;
+    nif:beginIndex "1741"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.190771e-01 ;
+    nif:endIndex "1771"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.190771e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Automatic_Data_Processing> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=1772,1775> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ADP"^^xsd:string ;
+    nif:beginIndex "1772"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.409724e-01 ;
+    nif:endIndex "1775"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.409724e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Automatic_Data_Processing> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2158,2186> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "New York Mercantile Exchange"^^xsd:string ;
+    nif:beginIndex "2158"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "2186"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/New_York_Mercantile_Exchange> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2239,2252> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "United States"^^xsd:string ;
+    nif:beginIndex "2239"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.644362e-01 ;
+    nif:endIndex "2252"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.644362e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2366,2380> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gerald R. Ford"^^xsd:string ;
+    nif:beginIndex "2366"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.267857e-01 ;
+    nif:endIndex "2380"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.267857e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2382,2393> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wall Street"^^xsd:string ;
+    nif:beginIndex "2382"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.666846e-01 ;
+    nif:endIndex "2393"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.666846e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Wall_Street> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2573,2576> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ISM"^^xsd:string ;
+    nif:beginIndex "2573"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.556423e-01 ;
+    nif:endIndex "2576"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.556423e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Institute_for_Supply_Management> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=295,309> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Home Depot Inc"^^xsd:string ;
+    nif:beginIndex "295"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.695444e-01 ;
+    nif:endIndex "309"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.695444e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_Home_Depot> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=2999,3018> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Commerce Department"^^xsd:string ;
+    nif:beginIndex "2999"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "3018"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Department_of_Commerce> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=315,335> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wal-Mart Stores Inc."^^xsd:string ;
+    nif:beginIndex "315"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "335"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Walmart> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3194,3201> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Goldman"^^xsd:string ;
+    nif:beginIndex "3194"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.649499e-01 ;
+    nif:endIndex "3201"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.649499e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Goldman_Sachs> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3277,3289> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bob Nardelli"^^xsd:string ;
+    nif:beginIndex "3277"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "3289"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Robert_Nardelli> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3411,3431> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wal-Mart Stores Inc."^^xsd:string ;
+    nif:beginIndex "3411"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.583055e-01 ;
+    nif:endIndex "3431"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.583055e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Walmart> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3563,3573> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Home Depot"^^xsd:string ;
+    nif:beginIndex "3563"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.372793e-01 ;
+    nif:endIndex "3573"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.372793e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_Home_Depot> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3610,3618> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wal-Mart"^^xsd:string ;
+    nif:beginIndex "3610"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.157513e-01 ;
+    nif:endIndex "3618"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.157513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Walmart> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3684,3700> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Cytokinetics Inc"^^xsd:string ;
+    nif:beginIndex "3684"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "3700"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Cytokinetics_Inc> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3767,3776> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Amgen Inc"^^xsd:string ;
+    nif:beginIndex "3767"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.525e-01 ;
+    nif:endIndex "3776"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.525e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Amgen> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3820,3825> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Amgen"^^xsd:string ;
+    nif:beginIndex "3820"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.285e-01 ;
+    nif:endIndex "3825"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.285e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Amgen> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=3854,3880> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Sirius Satellite Radio Inc"^^xsd:string ;
+    nif:beginIndex "3854"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.341667e-01 ;
+    nif:endIndex "3880"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.341667e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Sirius_Satellite_Radio> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4026,4051> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Goodyear Tire & Rubber Co"^^xsd:string ;
+    nif:beginIndex "4026"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.50332e-01 ;
+    nif:endIndex "4051"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.50332e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=417,426> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Dow Jones"^^xsd:string ;
+    nif:beginIndex "417"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "426"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Jones_Industrial_Average> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4253,4265> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Lennar Corp."^^xsd:string ;
+    nif:beginIndex "4253"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.6125e-01 ;
+    nif:endIndex "4265"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Lennar_Corporation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4279,4283> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "U.S."^^xsd:string ;
+    nif:beginIndex "4279"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.411466e-01 ;
+    nif:endIndex "4283"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.411466e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4435,4441> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Lennar"^^xsd:string ;
+    nif:beginIndex "4435"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.632513e-01 ;
+    nif:endIndex "4441"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.632513e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Lennar_Corporation> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4546,4569> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "New York Stock Exchange"^^xsd:string ;
+    nif:beginIndex "4546"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "4569"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/New_York_Stock_Exchange> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4710,4718> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "New Year"^^xsd:string ;
+    nif:beginIndex "4710"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.503571e-01 ;
+    nif:endIndex "4718"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.503571e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Chinese_New_Year> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4737,4755> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Russell 2000 index"^^xsd:string ;
+    nif:beginIndex "4737"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.195653e-01 ;
+    nif:endIndex "4755"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.195653e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Russell_2000_Index> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4831,4836> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Japan"^^xsd:string ;
+    nif:beginIndex "4831"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "4836"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Japan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4839,4859> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Nikkei stock average"^^xsd:string ;
+    nif:beginIndex "4839"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "4859"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Nikkei_225> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4879,4886> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Britain"^^xsd:string ;
+    nif:beginIndex "4879"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.769963e-01 ;
+    nif:endIndex "4886"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.769963e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/England> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4889,4897> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FTSE 100"^^xsd:string ;
+    nif:beginIndex "4889"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "4897"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/FTSE_100_Index> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4922,4929> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Germany"^^xsd:string ;
+    nif:beginIndex "4922"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "4929"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Germany> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4932,4935> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "DAX"^^xsd:string ;
+    nif:beginIndex "4932"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.000591e-01 ;
+    nif:endIndex "4935"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.000591e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/DAX> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4967,4973> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "France"^^xsd:string ;
+    nif:beginIndex "4967"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "4973"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/France> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=4976,4982> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "CAC-40"^^xsd:string ;
+    nif:beginIndex "4976"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.245833e-01 ;
+    nif:endIndex "4982"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.245833e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/CAC_40> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=518,528> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Home Depot"^^xsd:string ;
+    nif:beginIndex "518"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.592537e-01 ;
+    nif:endIndex "528"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 8.592537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_Home_Depot> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=662,673> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wall Street"^^xsd:string ;
+    nif:beginIndex "662"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.678061e-01 ;
+    nif:endIndex "673"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.678061e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Wall_Street> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=69,79> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Home Depot"^^xsd:string ;
+    nif:beginIndex "69"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7875e-01 ;
+    nif:endIndex "79"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.7875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_Home_Depot> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=750,781> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Institute for Supply Management"^^xsd:string ;
+    nif:beginIndex "750"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "781"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Institute_for_Supply_Management> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=855,858> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ISM"^^xsd:string ;
+    nif:beginIndex "855"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.746163e-01 ;
+    nif:endIndex "858"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.746163e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Institute_for_Supply_Management> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=939,949> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Al Goldman"^^xsd:string ;
+    nif:beginIndex "939"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.399685e-01 ;
+    nif:endIndex "949"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 7.399685e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Goldman_Sachs> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=978,990> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "A.G. Edwards"^^xsd:string ;
+    nif:beginIndex "978"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.7e-01 ;
+    nif:endIndex "990"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> ;
+    itsrdf:taConfidence 6.7e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/A._G._Edwards> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_0#char=0,5009> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "5009"^^xsd:nonNegativeInteger ;
+    nif:isString """Stocks start new trading year with rally 
+Market indexes surge after Home Depot chief executive quits 
+ 
+NEW YORK - Stocks moved soundly higher in the first session of 2007 as investors cheered mostly solid readings on the economy and found reason for increased prospects for big-name retailers Home Depot Inc. and Wal-Mart Stores Inc. 
+ 
+A decline in oil prices added to the strong sentiment that at times drove the Dow Jones industrials to a new trading high. 
+ 
+Stocks, which had surged from the start on word that Home Depot’s chairman and chief executive had resigned after years of lackluster performance in the company’s stock, added to their gains after Wall Street received a stronger-than-expected report on December manufacturing from the Institute for Supply Management and saw a softer-than-expected decline in construction spending. 
+ 
+“The ISM number was better than expected and construction fell less than expected,” said Al Goldman, chief market strategist at A.G. Edwards. “I think those of us looking for a soft landing had more support on that stance today.” 
+ 
+In early afternoon trading, the Dow surged 96.53, or 0.77 percent, to 12,559.68 after jumping earlier to a new trading high of 12,580.35. 
+ 
+Broader stock indicators also rose, with the Nasdaq composite index especially showing sharp gains. The Standard & Poor’s 500 index was up 7.94, or 0.56 percent, at 1,426.24, and the tech-laden Nasdaq rose 32.92, or 1.36 percent, to 2,448.21. 
+ 
+Bonds rose but retreated from an earlier big advance; the yield on the benchmark 10-year Treasury note fell to 4.68 percent from 4.71 percent late Friday. Bond investors were trying to balance the ISM news with a weak employment report from a division of payroll company Automatic Data Processing Inc. ADP said private sector employment fell by 40,000 in December following three months of gains that averaged 121,000 per month; investors theorized that the report might improve the chances for an interest rate cut in the early part of the year. 
+ 
+The dollar was mixed against other major currencies, while gold prices fell. 
+ 
+Light, sweet crude fell $2.44 to $58.61 per barrel on the New York Mercantile Exchange as mild weather continued its hold over much of the United States, cutting demand for heating oil and natural gas. 
+ 
+With markets closed Tuesday to mark the funeral of President Gerald R. Ford, Wall Street returned from its longest hiatus — four days — since the aftermath of the Sept. 11, 2001, terrorist attacks. Shortly after they returned to work, investors received word that the ISM index came in at 51.4, stronger than the reading of 50 that had been expected. A reading above 50 signals expansion in the manufacturing sector; November’s figure of 49.5 marked the first time the report showed contraction in nearly four years. 
+ 
+Also giving a boost to stocks, construction spending dropped by a less-than-expected 0.2 percent in November as housing activity fell for a record eighth straight month. The Commerce Department reported that building activity edged down to a seasonally adjusted annual rate of $1.18 trillion. 
+ 
+“Basically, we’re still in an up market even though it’s 51 months old,” Goldman said. “This is still a market that has good upside momentum.” 
+ 
+News that Bob Nardelli resigned from the world’s largest home improvement chain added to positive investor sentiment from a weekend report that Wal-Mart Stores Inc.’s December same-store sales rose 1.6 percent, topping the company’s forecast that growth would be flat or up as much as 1 percent. Home Depot rose $1.35, or 3.4 to $41.51, while Wal-Mart advanced $1.53, or 3.3 percent, to $47.71. 
+ 
+In corporate news, Cytokinetics Inc. surged $1.05, or 14 percent, to $8.53 on news it would work with Amgen Inc. to develop drugs to combat heart failure. Amgen rose 72 cents to $69.03. 
+ 
+Sirius Satellite Radio Inc. rose 27 cents, or 7.6 percent, to $3.81 after the radio service said its subscriber base jumped 82 percent to more than 6 million last year. 
+ 
+Goodyear Tire & Rubber Co. advanced $1.79, or 8.5 percent, to $22.78 and moved as high as $22.77 to surpass a 52-week high of $21.35 after a three-month strike that had hurt production ended. 
+ 
+Home builders were weaker after Lennar Corp., the biggest U.S. builder, warned that it expects to post a loss in the fourth quarter and its chief executive said he see no signs of a recovery in the housing market. Lennar fell $1.40, or 2.7 percent, to $51.06. 
+ 
+Advancing issues outnumbered decliners by about 2 to 1 on the New York Stock Exchange, where volume came to 1.13 billion shares, compared with 430.7 million traded at the same point Friday, a day of anemic volume ahead of the New Year’s holiday. 
+ 
+The Russell 2000 index of smaller companies was up 5.96, or 0.76 percent, at 793.62. 
+ 
+Overseas, Japan’s Nikkei stock average rose 0.01 percent. Britain’s FTSE 100 closed up 0.13 percent, Germany’s DAX index was up 0.15 percent, and France’s CAC-40 was down 0.12 percent. 
+
+
+"""^^xsd:string .
+

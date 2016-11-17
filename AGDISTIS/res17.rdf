@@ -1,0 +1,881 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1000,1004> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1000"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.929446e-01 ;
+    nif:endIndex "1004"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.929446e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1073,1093> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Richard Norton Smith"^^xsd:string ;
+    nif:beginIndex "1073"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "1093"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Richard_Norton_Smith> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=113,125> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "GRAND RAPIDS"^^xsd:string ;
+    nif:beginIndex "113"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.3625e-01 ;
+    nif:endIndex "125"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.3625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_Rapids,_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1130,1134> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1130"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.191946e-01 ;
+    nif:endIndex "1134"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.191946e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=12,20> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Michigan"^^xsd:string ;
+    nif:beginIndex "12"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.7125e-01 ;
+    nif:endIndex "20"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.7125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=127,132> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Mich."^^xsd:string ;
+    nif:beginIndex "127"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.217537e-01 ;
+    nif:endIndex "132"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 9.217537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1277,1281> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1277"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.719434e-01 ;
+    nif:endIndex "1281"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.719434e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1312,1332> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand Rapids airport"^^xsd:string ;
+    nif:beginIndex "1312"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.164716e-01 ;
+    nif:endIndex "1332"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.164716e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_Rapids_Airport> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1373,1402> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Washington National Cathedral"^^xsd:string ;
+    nif:beginIndex "1373"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.575e-01 ;
+    nif:endIndex "1402"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.575e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Washington_National_Cathedral> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1511,1519> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Michigan"^^xsd:string ;
+    nif:beginIndex "1511"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.909158e-01 ;
+    nif:endIndex "1519"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.909158e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1525,1542> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Jennifer Granholm"^^xsd:string ;
+    nif:beginIndex "1525"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "1542"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jennifer_Granholm> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1551,1555> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1551"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.972058e-01 ;
+    nif:endIndex "1555"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.972058e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1629,1639> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "1629"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.108326e-01 ;
+    nif:endIndex "1639"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.108326e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Washington_County,_Pennsylvania> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1690,1719> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "DeVos Place convention center"^^xsd:string ;
+    nif:beginIndex "1690"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.9625e-01 ;
+    nif:endIndex "1719"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.9625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/DeVos_Place_Convention_Center> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1745,1756> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand River"^^xsd:string ;
+    nif:beginIndex "1745"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.177905e-01 ;
+    nif:endIndex "1756"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.177905e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_River_(Michigan)> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1764,1810> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gerald R. Ford Presidential Library and Museum"^^xsd:string ;
+    nif:beginIndex "1764"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.8375e-01 ;
+    nif:endIndex "1810"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.8375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_R._Ford_Presidential_Museum> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1900,1922> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "University of Michigan"^^xsd:string ;
+    nif:beginIndex "1900"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.575e-01 ;
+    nif:endIndex "1922"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.575e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/University_of_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1930,1934> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "1930"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.44462e-01 ;
+    nif:endIndex "1934"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.44462e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=1956,1966> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wolverines"^^xsd:string ;
+    nif:beginIndex "1956"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.9625e-01 ;
+    nif:endIndex "1966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.9625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Wolverine> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2051,2063> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand Rapids"^^xsd:string ;
+    nif:beginIndex "2051"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.884526e-01 ;
+    nif:endIndex "2063"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.884526e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_Rapids,_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2069,2083> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Ford"^^xsd:string ;
+    nif:beginIndex "2069"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.942537e-01 ;
+    nif:endIndex "2083"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.942537e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2106,2117> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bobbe Taber"^^xsd:string ;
+    nif:beginIndex "2106"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2117"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Bobbe_Taber> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2144,2153> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kalamazoo"^^xsd:string ;
+    nif:beginIndex "2144"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "2153"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Kalamazoo,_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2171,2183> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand Rapids"^^xsd:string ;
+    nif:beginIndex "2171"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.940075e-01 ;
+    nif:endIndex "2183"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.940075e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_Rapids,_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2191,2195> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "2191"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.187009e-01 ;
+    nif:endIndex "2195"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.187009e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2209,2232> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Michigan National Guard"^^xsd:string ;
+    nif:beginIndex "2209"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.3525e-01 ;
+    nif:endIndex "2232"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.3525e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Michigan_Air_National_Guard> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2245,2255> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Lynn Chapp"^^xsd:string ;
+    nif:beginIndex "2245"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "2255"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Lynn_Chapp> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=242,256> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gerald R. Ford"^^xsd:string ;
+    nif:beginIndex "242"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.822895e-01 ;
+    nif:endIndex "256"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 9.822895e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2528,2535> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "America"^^xsd:string ;
+    nif:beginIndex "2528"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "2535"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2683,2693> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Washington"^^xsd:string ;
+    nif:beginIndex "2683"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.344791e-01 ;
+    nif:endIndex "2693"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.344791e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Washington_County,_Pennsylvania> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2720,2734> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Bush"^^xsd:string ;
+    nif:beginIndex "2720"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.317062e-01 ;
+    nif:endIndex "2734"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.317062e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/George_H._W._Bush> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2772,2775> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NBC"^^xsd:string ;
+    nif:beginIndex "2772"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.911764e-01 ;
+    nif:endIndex "2775"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.911764e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/NBC> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2784,2794> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Tom Brokaw"^^xsd:string ;
+    nif:beginIndex "2784"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.35e-01 ;
+    nif:endIndex "2794"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.35e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Tom_Brokaw> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2799,2803> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "2799"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.65228e-01 ;
+    nif:endIndex "2803"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.65228e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2826,2841> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Henry Kissinger"^^xsd:string ;
+    nif:beginIndex "2826"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.1375e-01 ;
+    nif:endIndex "2841"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.1375e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Henry_Kissinger> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2864,2878> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Ford"^^xsd:string ;
+    nif:beginIndex "2864"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.420013e-01 ;
+    nif:endIndex "2878"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.420013e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2906,2913> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "America"^^xsd:string ;
+    nif:beginIndex "2906"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.142847e-01 ;
+    nif:endIndex "2913"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.142847e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=2919,2926> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "America"^^xsd:string ;
+    nif:beginIndex "2919"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.16e-01 ;
+    nif:endIndex "2926"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.16e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3061,3075> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Bush"^^xsd:string ;
+    nif:beginIndex "3061"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.584908e-01 ;
+    nif:endIndex "3075"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.584908e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/George_H._W._Bush> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3124,3138> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Bush"^^xsd:string ;
+    nif:beginIndex "3124"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.602062e-01 ;
+    nif:endIndex "3138"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.602062e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/George_H._W._Bush> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3155,3170> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Norman Rockwell"^^xsd:string ;
+    nif:beginIndex "3155"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.875e-01 ;
+    nif:endIndex "3170"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Norman_Rockwell> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3267,3271> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "3267"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.18212e-01 ;
+    nif:endIndex "3271"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.18212e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3314,3318> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "3314"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.456934e-01 ;
+    nif:endIndex "3318"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.456934e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3440,3449> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kissinger"^^xsd:string ;
+    nif:beginIndex "3440"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.665445e-01 ;
+    nif:endIndex "3449"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.665445e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Henry_Kissinger> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3466,3470> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "3466"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.716946e-01 ;
+    nif:endIndex "3470"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.716946e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=350,357> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Midwest"^^xsd:string ;
+    nif:beginIndex "350"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "357"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Midwestern_United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3527,3534> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Soviets"^^xsd:string ;
+    nif:beginIndex "3527"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.039583e-01 ;
+    nif:endIndex "3534"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 9.039583e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Soviet_Union> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3586,3592> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Israel"^^xsd:string ;
+    nif:beginIndex "3586"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.4e-01 ;
+    nif:endIndex "3592"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.4e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Israel> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3597,3602> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Egypt"^^xsd:string ;
+    nif:beginIndex "3597"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "3602"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Egypt> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3641,3656> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "southern Africa"^^xsd:string ;
+    nif:beginIndex "3641"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.695335e-01 ;
+    nif:endIndex "3656"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.695335e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Southern_Africa> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=37,41> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "37"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.746934e-01 ;
+    nif:endIndex "41"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.746934e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3758,3767> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Kissinger"^^xsd:string ;
+    nif:beginIndex "3758"^^xsd:nonNegativeInteger ;
+    nif:confidence 9.197686e-01 ;
+    nif:endIndex "3767"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 9.197686e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Henry_Kissinger> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3775,3786> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gerald Ford"^^xsd:string ;
+    nif:beginIndex "3775"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.935186e-01 ;
+    nif:endIndex "3786"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.935186e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3817,3824> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "America"^^xsd:string ;
+    nif:beginIndex "3817"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.603615e-01 ;
+    nif:endIndex "3824"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.603615e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3830,3836> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Brokaw"^^xsd:string ;
+    nif:beginIndex "3830"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.427305e-01 ;
+    nif:endIndex "3836"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.427305e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Tom_Brokaw> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=3861,3865> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "3861"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.189471e-01 ;
+    nif:endIndex "3865"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.189471e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4011,4016> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Nixon"^^xsd:string ;
+    nif:beginIndex "4011"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.1875e-01 ;
+    nif:endIndex "4016"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.1875e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Richard_Nixon> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4039,4043> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "4039"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.191946e-01 ;
+    nif:endIndex "4043"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.191946e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4104,4112> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Michigan"^^xsd:string ;
+    nif:beginIndex "4104"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.322038e-01 ;
+    nif:endIndex "4112"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.322038e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4121,4141> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand Rapids airport"^^xsd:string ;
+    nif:beginIndex "4121"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.730828e-01 ;
+    nif:endIndex "4141"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.730828e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_Rapids_Airport> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4153,4157> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "4153"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.451971e-01 ;
+    nif:endIndex "4157"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.451971e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4170,4192> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "University of Michigan"^^xsd:string ;
+    nif:beginIndex "4170"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.505079e-01 ;
+    nif:endIndex "4192"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.505079e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/University_of_Michigan> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4238,4249> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "The Victors"^^xsd:string ;
+    nif:beginIndex "4238"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.88005e-01 ;
+    nif:endIndex "4249"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.88005e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/The_Victors> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4255,4259> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "4255"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.714471e-01 ;
+    nif:endIndex "4259"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.714471e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=431,442> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Karin Lewis"^^xsd:string ;
+    nif:beginIndex "431"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "442"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Karin_Lewis> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4313,4317> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "4313"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.981934e-01 ;
+    nif:endIndex "4317"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.981934e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4355,4368> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Rancho Mirage"^^xsd:string ;
+    nif:beginIndex "4355"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.129966e-01 ;
+    nif:endIndex "4368"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.129966e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Rancho_Mirage,_California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=4370,4376> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Calif."^^xsd:string ;
+    nif:beginIndex "4370"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.219643e-01 ;
+    nif:endIndex "4376"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.219643e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/California> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=492,496> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "492"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.714471e-01 ;
+    nif:endIndex "496"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.714471e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=591,595> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "591"^^xsd:nonNegativeInteger ;
+    nif:confidence 8.719434e-01 ;
+    nif:endIndex "595"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 8.719434e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=662,705> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grace Episcopal Church in East Grand Rapids"^^xsd:string ;
+    nif:beginIndex "662"^^xsd:nonNegativeInteger ;
+    nif:confidence 1e+00 ;
+    nif:endIndex "705"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 1e+00 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/Grace_Episcopal_Church_in_East_Grand_Rapids> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=775,786> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Grand River"^^xsd:string ;
+    nif:beginIndex "775"^^xsd:nonNegativeInteger ;
+    nif:confidence 6.53912e-01 ;
+    nif:endIndex "786"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 6.53912e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Grand_River_(Michigan)> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=833,848> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Donald Rumsfeld"^^xsd:string ;
+    nif:beginIndex "833"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.6625e-01 ;
+    nif:endIndex "848"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.6625e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Donald_Rumsfeld> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=864,868> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ford"^^xsd:string ;
+    nif:beginIndex "864"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.924509e-01 ;
+    nif:endIndex "868"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.924509e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Gerald_Ford> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=963,985> a nif:Phrase,
+        nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "President Jimmy Carter"^^xsd:string ;
+    nif:beginIndex "963"^^xsd:nonNegativeInteger ;
+    nif:confidence 7.3125e-01 ;
+    nif:endIndex "985"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> ;
+    itsrdf:taConfidence 7.3125e-01 ;
+    itsrdf:taIdentRef <http://dbpedia.org/resource/Jimmy_Carter> .
+
+<http://www.aksw.org/gerbil/NifWebService/request_16#char=0,4380> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4380"^^xsd:nonNegativeInteger ;
+    nif:isString """Mourners in Michigan welcome body of Ford  
+Ex-president 'who meant so much' scheduled to be buried Wednesday 
+ 
+GRAND RAPIDS, Mich. - Moving quietly and solemnly through the moonlight, mourners waited for a chance to file past the casket of Gerald R. Ford, welcoming home the 38th president for a final time and celebrating a man they said embodied Midwest values. 
+ 
+“This is a once-in-lifetime opportunity to pay tribute,” said Karin Lewis, 44, who brought her five boys, ages 6 to 15, to Ford’s presidential museum to pay respects Tuesday night. “He meant so much to this community.” 
+ 
+Ford’s state funeral was to end Wednesday afternoon after a service at Grace Episcopal Church in East Grand Rapids. His body was to be interred during a private burial overlooking the Grand River north of the museum on the museum grounds. 
+ 
+Donald Rumsfeld, who served in Ford’s cabinet as his chief of staff and as his defense secretary, was to deliver a eulogy. Former President Jimmy Carter, who defeated Ford in 1976 but later became a close friend of his former opponent, and Richard Norton Smith, who used to be the director of the Ford museum and presidential library, also were scheduled to speak. 
+ 
+Final salute 
+On Tuesday, members of the public jammed streets and waved as Ford’s casket was carried from the Grand Rapids airport, where it arrived following services at Washington National Cathedral. 
+ 
+“You were a paradoxical gift of remarkable intellect and achievement wrapped in a plain brown wrapper,” Michigan Gov. Jennifer Granholm said of Ford. “Welcome home to the people that you reflected so well when you were in Washington.” 
+ 
+Later, members of the public walked from the DeVos Place convention center across a bridge over the Grand River to the Gerald R. Ford Presidential Library and Museum for a final salute. 
+ 
+Some wore formal suits and dresses. Others wore sweat shirts from University of Michigan, where Ford played center on the Wolverines’ undefeated national championship football teams of 1932 and 1933. 
+ 
+“I grew up in Grand Rapids, and President Ford was our legacy,” said Bobbe Taber, 43, who now lives in the Kalamazoo area but came to Grand Rapids to see Ford’s casket. 
+ 
+Michigan National Guard spokeswoman Lynn Chapp said 60,000 people were expected to walk by the casket from the time repose began around 6 p.m. Tuesday until it was scheduled to end at 11 a.m. Wednesday. Lines snaked along several blocks in the city’s downtown as people waited their turn Tuesday night. 
+ 
+'The best of America' 
+The service Wednesday at his hometown church, which seats about 350, was to be much smaller than Tuesday’s elaborate national funeral service in Washington, which drew 3,000 people. President Bush and his father spoke Tuesday, as did NBC newsman Tom Brokaw and Ford’s secretary of state, Henry Kissinger, among others. 
+ 
+“In President Ford, the world saw the best of America, and America found a man whose character and leadership would bring calm and healing to one of the most divisive moments in our nation’s history,” President Bush said in his eulogy. 
+ 
+Bush’s father, the first President Bush, called Ford a “Norman Rockwell painting come to life” and pierced the solemnity of the occasion by cracking gentle jokes about Ford’s reputation as an errant golfer. He said Ford knew his golf game was getting better when he began hitting fewer spectators. 
+ 
+Under towering arches of the cathedral, Kissinger paid tribute to Ford’s leadership in achieving nuclear arms control with the Soviets, pushing for the first political agreement between Israel and Egypt and helping to bring majority rule to southern Africa. 
+ 
+“In his understated way he did his duty as a leader, not as a performer playing to the gallery,” Kissinger said. “Gerald Ford had the virtues of small town America.” 
+ 
+Brokaw said in his eulogy that Ford brought to office “no demons, no hidden agenda, no hit list or acts of vengeance,” an oblique reference to the air of subterfuge that surrounded Nixon in his final days. 
+ 
+Ford’s athletic interest was honored, too, in the capital and in Michigan. At the Grand Rapids airport that bears Ford’s name, the University of Michigan band played the school’s famous fight song, “The Victors,” as Ford’s flag-draped casket was transferred to a hearse. 
+ 
+Ford died at 93 on Dec. 26 at his home in Rancho Mirage, Calif. 
+
+
+"""^^xsd:string .
+
