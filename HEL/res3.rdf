@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -8,6 +9,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=0,10> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:confidence 8.45e-01 ;
@@ -19,6 +28,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1065,1075> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "1065"^^xsd:nonNegativeInteger ;
     nif:confidence 9.377575e-01 ;
@@ -30,6 +47,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=107,114> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1996_Summer_Olympics>,
+        <http://dbpedia.org/resource/Air_Atlanta_Icelandic>,
+        <http://dbpedia.org/resource/Atlanta>,
+        <http://dbpedia.org/resource/Atlanta,_California>,
+        <http://dbpedia.org/resource/Atlanta,_Idaho>,
+        <http://dbpedia.org/resource/Atlanta,_Kansas>,
+        <http://dbpedia.org/resource/Atlanta,_Louisiana>,
+        <http://dbpedia.org/resource/Atlanta,_Nebraska>,
+        <http://dbpedia.org/resource/Atlanta,_Wisconsin>,
+        <http://dbpedia.org/resource/Atlanta_Braves>,
+        <http://dbpedia.org/resource/Atlanta_Campaign>,
+        <http://dbpedia.org/resource/Atlanta_Falcons>,
+        <http://dbpedia.org/resource/Atlanta_Flames>,
+        <http://dbpedia.org/resource/Atlanta_Hawks>,
+        <http://dbpedia.org/resource/Atlanta_Motor_Speedway>,
+        <http://dbpedia.org/resource/Atlanta_Silverbacks_Women>,
+        <http://dbpedia.org/resource/Atlanta_Symphony_Orchestra>,
+        <http://dbpedia.org/resource/Atlanta_Thrashers>,
+        <http://dbpedia.org/resource/Atlanta_Xplosion>,
+        <http://dbpedia.org/resource/Atlanta_metropolitan_area>,
+        <http://dbpedia.org/resource/Atlanta–Fulton_County_Stadium>,
+        <http://dbpedia.org/resource/Battle_of_Atlanta>,
+        <http://dbpedia.org/resource/Episcopal_Diocese_of_Atlanta>,
+        <http://dbpedia.org/resource/Georgia_Dome>,
+        <http://dbpedia.org/resource/Helen,_Georgia>,
+        <http://dbpedia.org/resource/Lake_Lanier>,
+        <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta> ;
     nif:anchorOf "ATLANTA"^^xsd:string ;
     nif:beginIndex "107"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -41,6 +85,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1150,1158> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1150"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -52,6 +103,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=117,129> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Robert_Nardelli> ;
     nif:anchorOf "Bob Nardelli"^^xsd:string ;
     nif:beginIndex "117"^^xsd:nonNegativeInteger ;
     nif:confidence 8.420013e-01 ;
@@ -63,6 +115,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1173,1181> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1173"^^xsd:nonNegativeInteger ;
     nif:confidence 9.085e-01 ;
@@ -74,6 +133,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1230,1250> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/AP_Stylebook>,
+        <http://dbpedia.org/resource/Associated_Press>,
+        <http://dbpedia.org/resource/National_Football_League_Most_Valuable_Player_Award> ;
     nif:anchorOf "The Associated Press"^^xsd:string ;
     nif:beginIndex "1230"^^xsd:nonNegativeInteger ;
     nif:confidence 6.75e-01 ;
@@ -85,6 +147,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1372,1380> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1372"^^xsd:nonNegativeInteger ;
     nif:confidence 8.820013e-01 ;
@@ -96,6 +165,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=15,23> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "15"^^xsd:nonNegativeInteger ;
     nif:confidence 7.5375e-01 ;
@@ -107,6 +183,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1507,1517> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "1507"^^xsd:nonNegativeInteger ;
     nif:confidence 9.375124e-01 ;
@@ -118,6 +202,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1519,1527> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1519"^^xsd:nonNegativeInteger ;
     nif:confidence 8.820013e-01 ;
@@ -129,6 +220,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1622,1630> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1622"^^xsd:nonNegativeInteger ;
     nif:confidence 8.8225e-01 ;
@@ -140,6 +238,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1663,1677> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot%2C_Inc.>,
+        <http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational>,
+        <http://dbpedia.org/resource/VELO_Sports_Center> ;
     nif:anchorOf "The Home Depot"^^xsd:string ;
     nif:beginIndex "1663"^^xsd:nonNegativeInteger ;
     nif:confidence 9.730037e-01 ;
@@ -151,6 +257,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1736,1744> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1736"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -162,6 +275,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1799,1806> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1996_Summer_Olympics>,
+        <http://dbpedia.org/resource/Air_Atlanta_Icelandic>,
+        <http://dbpedia.org/resource/Atlanta>,
+        <http://dbpedia.org/resource/Atlanta,_California>,
+        <http://dbpedia.org/resource/Atlanta,_Idaho>,
+        <http://dbpedia.org/resource/Atlanta,_Kansas>,
+        <http://dbpedia.org/resource/Atlanta,_Louisiana>,
+        <http://dbpedia.org/resource/Atlanta,_Nebraska>,
+        <http://dbpedia.org/resource/Atlanta,_Wisconsin>,
+        <http://dbpedia.org/resource/Atlanta_Braves>,
+        <http://dbpedia.org/resource/Atlanta_Campaign>,
+        <http://dbpedia.org/resource/Atlanta_Falcons>,
+        <http://dbpedia.org/resource/Atlanta_Flames>,
+        <http://dbpedia.org/resource/Atlanta_Hawks>,
+        <http://dbpedia.org/resource/Atlanta_Motor_Speedway>,
+        <http://dbpedia.org/resource/Atlanta_Silverbacks_Women>,
+        <http://dbpedia.org/resource/Atlanta_Symphony_Orchestra>,
+        <http://dbpedia.org/resource/Atlanta_Thrashers>,
+        <http://dbpedia.org/resource/Atlanta_Xplosion>,
+        <http://dbpedia.org/resource/Atlanta_metropolitan_area>,
+        <http://dbpedia.org/resource/Atlanta–Fulton_County_Stadium>,
+        <http://dbpedia.org/resource/Battle_of_Atlanta>,
+        <http://dbpedia.org/resource/Episcopal_Diocese_of_Atlanta>,
+        <http://dbpedia.org/resource/Georgia_Dome>,
+        <http://dbpedia.org/resource/Helen,_Georgia>,
+        <http://dbpedia.org/resource/Lake_Lanier>,
+        <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta> ;
     nif:anchorOf "Atlanta"^^xsd:string ;
     nif:beginIndex "1799"^^xsd:nonNegativeInteger ;
     nif:confidence 8.108055e-01 ;
@@ -173,6 +313,54 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1850,1853> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Alice_and_Bob>,
+        <http://dbpedia.org/resource/Barbecue_Bob>,
+        <http://dbpedia.org/resource/Best_of_Breed>,
+        <http://dbpedia.org/resource/BoB>,
+        <http://dbpedia.org/resource/Bob>,
+        <http://dbpedia.org/resource/Bob,_Agent_of_Hydra>,
+        <http://dbpedia.org/resource/Bob_%28Blackadder_character%29>,
+        <http://dbpedia.org/resource/Bob_%28TV_series%29>,
+        <http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29>,
+        <http://dbpedia.org/resource/Bob_%28physics%29>,
+        <http://dbpedia.org/resource/Bob_%28song%29>,
+        <http://dbpedia.org/resource/Bob_Appleyard>,
+        <http://dbpedia.org/resource/Bob_Arum>,
+        <http://dbpedia.org/resource/Bob_Bob_Ricard>,
+        <http://dbpedia.org/resource/Bob_Boken>,
+        <http://dbpedia.org/resource/Bob_Boone>,
+        <http://dbpedia.org/resource/Bob_Brier>,
+        <http://dbpedia.org/resource/Bob_Bryan>,
+        <http://dbpedia.org/resource/Bob_Cain>,
+        <http://dbpedia.org/resource/Bob_Champoux>,
+        <http://dbpedia.org/resource/Bob_Christo>,
+        <http://dbpedia.org/resource/Bob_Cobbing>,
+        <http://dbpedia.org/resource/Bob_Considine>,
+        <http://dbpedia.org/resource/Bob_Crane>,
+        <http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29>,
+        <http://dbpedia.org/resource/Bob_Stroger>,
+        <http://dbpedia.org/resource/Bob_Weinstein>,
+        <http://dbpedia.org/resource/Bob_Younger>,
+        <http://dbpedia.org/resource/Bob_and_George>,
+        <http://dbpedia.org/resource/Bob_campaign>,
+        <http://dbpedia.org/resource/Bob_cut>,
+        <http://dbpedia.org/resource/Bob_the_Builder>,
+        <http://dbpedia.org/resource/Bobsleigh>,
+        <http://dbpedia.org/resource/Bubble_Bobble>,
+        <http://dbpedia.org/resource/Cherry_Twister>,
+        <http://dbpedia.org/resource/Hurricane_Bob>,
+        <http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs>,
+        <http://dbpedia.org/resource/Jay_and_Silent_Bob>,
+        <http://dbpedia.org/resource/Killer_Bob>,
+        <http://dbpedia.org/resource/MY_Bob_Barker>,
+        <http://dbpedia.org/resource/Microsoft_Bob>,
+        <http://dbpedia.org/resource/Midge_and_Bob_Pinciotti>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Robert_Passantino>,
+        <http://dbpedia.org/resource/Robert_Satiacum>,
+        <http://dbpedia.org/resource/Sideshow_Bob>,
+        <http://dbpedia.org/resource/Weebl_and_Bob>,
+        <http://dbpedia.org/resource/What_About_Bob%3F> ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "1850"^^xsd:nonNegativeInteger ;
     nif:confidence 6.59332e-01 ;
@@ -184,6 +372,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1883,1897> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot%2C_Inc.>,
+        <http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational>,
+        <http://dbpedia.org/resource/VELO_Sports_Center> ;
     nif:anchorOf "The Home Depot"^^xsd:string ;
     nif:beginIndex "1883"^^xsd:nonNegativeInteger ;
     nif:confidence 9.727575e-01 ;
@@ -195,6 +391,54 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=1929,1932> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Alice_and_Bob>,
+        <http://dbpedia.org/resource/Barbecue_Bob>,
+        <http://dbpedia.org/resource/Best_of_Breed>,
+        <http://dbpedia.org/resource/BoB>,
+        <http://dbpedia.org/resource/Bob>,
+        <http://dbpedia.org/resource/Bob,_Agent_of_Hydra>,
+        <http://dbpedia.org/resource/Bob_%28Blackadder_character%29>,
+        <http://dbpedia.org/resource/Bob_%28TV_series%29>,
+        <http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29>,
+        <http://dbpedia.org/resource/Bob_%28physics%29>,
+        <http://dbpedia.org/resource/Bob_%28song%29>,
+        <http://dbpedia.org/resource/Bob_Appleyard>,
+        <http://dbpedia.org/resource/Bob_Arum>,
+        <http://dbpedia.org/resource/Bob_Bob_Ricard>,
+        <http://dbpedia.org/resource/Bob_Boken>,
+        <http://dbpedia.org/resource/Bob_Boone>,
+        <http://dbpedia.org/resource/Bob_Brier>,
+        <http://dbpedia.org/resource/Bob_Bryan>,
+        <http://dbpedia.org/resource/Bob_Cain>,
+        <http://dbpedia.org/resource/Bob_Champoux>,
+        <http://dbpedia.org/resource/Bob_Christo>,
+        <http://dbpedia.org/resource/Bob_Cobbing>,
+        <http://dbpedia.org/resource/Bob_Considine>,
+        <http://dbpedia.org/resource/Bob_Crane>,
+        <http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29>,
+        <http://dbpedia.org/resource/Bob_Stroger>,
+        <http://dbpedia.org/resource/Bob_Weinstein>,
+        <http://dbpedia.org/resource/Bob_Younger>,
+        <http://dbpedia.org/resource/Bob_and_George>,
+        <http://dbpedia.org/resource/Bob_campaign>,
+        <http://dbpedia.org/resource/Bob_cut>,
+        <http://dbpedia.org/resource/Bob_the_Builder>,
+        <http://dbpedia.org/resource/Bobsleigh>,
+        <http://dbpedia.org/resource/Bubble_Bobble>,
+        <http://dbpedia.org/resource/Cherry_Twister>,
+        <http://dbpedia.org/resource/Hurricane_Bob>,
+        <http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs>,
+        <http://dbpedia.org/resource/Jay_and_Silent_Bob>,
+        <http://dbpedia.org/resource/Killer_Bob>,
+        <http://dbpedia.org/resource/MY_Bob_Barker>,
+        <http://dbpedia.org/resource/Microsoft_Bob>,
+        <http://dbpedia.org/resource/Midge_and_Bob_Pinciotti>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Robert_Passantino>,
+        <http://dbpedia.org/resource/Robert_Satiacum>,
+        <http://dbpedia.org/resource/Sideshow_Bob>,
+        <http://dbpedia.org/resource/Weebl_and_Bob>,
+        <http://dbpedia.org/resource/What_About_Bob%3F> ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "1929"^^xsd:nonNegativeInteger ;
     nif:confidence 6.59332e-01 ;
@@ -206,17 +450,27 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=193,212> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot%2C_Inc.> ;
     nif:anchorOf "The Home Depot Inc."^^xsd:string ;
     nif:beginIndex "193"^^xsd:nonNegativeInteger ;
-    nif:confidence 8.577735e-01 ;
+    nif:confidence 8.940075e-01 ;
     nif:endIndex "212"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_2#char=0,5253> ;
-    itsrdf:taConfidence 8.577735e-01 ;
+    itsrdf:taConfidence 8.940075e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/The_Home_Depot> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2237,2247> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2237"^^xsd:nonNegativeInteger ;
     nif:confidence 9.995013e-01 ;
@@ -228,6 +482,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2280,2288> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "2280"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -239,6 +500,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2365,2379> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Doe_v._Bush>,
+        <http://dbpedia.org/resource/Efforts_to_impeach_George_W._Bush>,
+        <http://dbpedia.org/resource/Foreign_policy_of_the_George_W._Bush_administration>,
+        <http://dbpedia.org/resource/George_Bush>,
+        <http://dbpedia.org/resource/George_H._W._Bush>,
+        <http://dbpedia.org/resource/George_W._Bush>,
+        <http://dbpedia.org/resource/President_Bush>,
+        <http://dbpedia.org/resource/President_Bush_%282000%29>,
+        <http://dbpedia.org/resource/President_Bush_%2843%29>,
+        <http://dbpedia.org/resource/President_Bush_%28senior%29>,
+        <http://dbpedia.org/resource/President_George_Bush_Turnpike> ;
     nif:anchorOf "President Bush"^^xsd:string ;
     nif:beginIndex "2365"^^xsd:nonNegativeInteger ;
     nif:confidence 8.872115e-01 ;
@@ -250,6 +522,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2423,2433> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2423"^^xsd:nonNegativeInteger ;
     nif:confidence 9.992537e-01 ;
@@ -261,6 +541,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2509,2519> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2509"^^xsd:nonNegativeInteger ;
     nif:confidence 9.9975e-01 ;
@@ -272,6 +560,145 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2763,2768> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/5AA>,
+        <http://dbpedia.org/resource/Anita_Blake>,
+        <http://dbpedia.org/resource/Arthur_Blake>,
+        <http://dbpedia.org/resource/Asha_Blake>,
+        <http://dbpedia.org/resource/Blake>,
+        <http://dbpedia.org/resource/Blake%27s_Lotaburger>,
+        <http://dbpedia.org/resource/Blake%27s_Pools>,
+        <http://dbpedia.org/resource/Blake%27s_hitch>,
+        <http://dbpedia.org/resource/Blake,_Cassels_&_Graydon>,
+        <http://dbpedia.org/resource/Blake_%28band%29>,
+        <http://dbpedia.org/resource/Blake_%28monologue%29>,
+        <http://dbpedia.org/resource/Blake_%28sculptor%29>,
+        <http://dbpedia.org/resource/Blake_(band)>,
+        <http://dbpedia.org/resource/Blake_(disambiguation)>,
+        <http://dbpedia.org/resource/Blake_Aaron>,
+        <http://dbpedia.org/resource/Blake_Ahearn>,
+        <http://dbpedia.org/resource/Blake_Aldridge>,
+        <http://dbpedia.org/resource/Blake_Babies>,
+        <http://dbpedia.org/resource/Blake_Bailey>,
+        <http://dbpedia.org/resource/Blake_Bashoff>,
+        <http://dbpedia.org/resource/Blake_Basin>,
+        <http://dbpedia.org/resource/Blake_Berris>,
+        <http://dbpedia.org/resource/Blake_Bjorklund>,
+        <http://dbpedia.org/resource/Blake_Butler>,
+        <http://dbpedia.org/resource/Blake_Camp>,
+        <http://dbpedia.org/resource/Blake_Caracella>,
+        <http://dbpedia.org/resource/Blake_Carrington>,
+        <http://dbpedia.org/resource/Blake_Chancey>,
+        <http://dbpedia.org/resource/Blake_Clark>,
+        <http://dbpedia.org/resource/Blake_Comeau>,
+        <http://dbpedia.org/resource/Blake_Costanzo>,
+        <http://dbpedia.org/resource/Blake_Dunlop>,
+        <http://dbpedia.org/resource/Blake_Edwards>,
+        <http://dbpedia.org/resource/Blake_Emmons>,
+        <http://dbpedia.org/resource/Blake_Fell>,
+        <http://dbpedia.org/resource/Blake_Fleming>,
+        <http://dbpedia.org/resource/Blake_Foster>,
+        <http://dbpedia.org/resource/Blake_Gibbons>,
+        <http://dbpedia.org/resource/Blake_Gottesman>,
+        <http://dbpedia.org/resource/Blake_Griffin>,
+        <http://dbpedia.org/resource/Blake_Heron>,
+        <http://dbpedia.org/resource/Blake_Island>,
+        <http://dbpedia.org/resource/Blake_Judd>,
+        <http://dbpedia.org/resource/Blake_Lewis>,
+        <http://dbpedia.org/resource/Blake_Leyh>,
+        <http://dbpedia.org/resource/Blake_Marler>,
+        <http://dbpedia.org/resource/Blake_Marshall>,
+        <http://dbpedia.org/resource/Blake_McGrath>,
+        <http://dbpedia.org/resource/Blake_Miller>,
+        <http://dbpedia.org/resource/Blake_Morgan>,
+        <http://dbpedia.org/resource/Blake_Morrison>,
+        <http://dbpedia.org/resource/Blake_Nelson>,
+        <http://dbpedia.org/resource/Blake_Pier_at_Stanley>,
+        <http://dbpedia.org/resource/Blake_Price>,
+        <http://dbpedia.org/resource/Blake_Prize_for_Religious_Art>,
+        <http://dbpedia.org/resource/Blake_Richards>,
+        <http://dbpedia.org/resource/Blake_Richardson>,
+        <http://dbpedia.org/resource/Blake_River_Megacaldera_Complex>,
+        <http://dbpedia.org/resource/Blake_Schwarzenbach>,
+        <http://dbpedia.org/resource/Blake_Sennett>,
+        <http://dbpedia.org/resource/Blake_Shelton>,
+        <http://dbpedia.org/resource/Blake_Shields>,
+        <http://dbpedia.org/resource/Blake_Sloan>,
+        <http://dbpedia.org/resource/Blake_Snyder>,
+        <http://dbpedia.org/resource/Blake_Stein>,
+        <http://dbpedia.org/resource/Blake_Stepp>,
+        <http://dbpedia.org/resource/Blake_Watson>,
+        <http://dbpedia.org/resource/Blake_Wheeler>,
+        <http://dbpedia.org/resource/Blake_Williams>,
+        <http://dbpedia.org/resource/Blind_Blake>,
+        <http://dbpedia.org/resource/Blossom_Rock>,
+        <http://dbpedia.org/resource/Bobby_Blake>,
+        <http://dbpedia.org/resource/Bud_Blake>,
+        <http://dbpedia.org/resource/Casey_Blake>,
+        <http://dbpedia.org/resource/Christopher_Blake>,
+        <http://dbpedia.org/resource/Daphne_Blake>,
+        <http://dbpedia.org/resource/Darcy_Blake>,
+        <http://dbpedia.org/resource/Dead_Man>,
+        <http://dbpedia.org/resource/Dennis_Blake>,
+        <http://dbpedia.org/resource/Ed_Blake>,
+        <http://dbpedia.org/resource/Edward_Blake>,
+        <http://dbpedia.org/resource/Eubie_Blake>,
+        <http://dbpedia.org/resource/Frank_Blake>,
+        <http://dbpedia.org/resource/George_Blake>,
+        <http://dbpedia.org/resource/Gillian_Blake>,
+        <http://dbpedia.org/resource/Hamish_Blake>,
+        <http://dbpedia.org/resource/Harris_Blake>,
+        <http://dbpedia.org/resource/Harry_Blake>,
+        <http://dbpedia.org/resource/Henry_Blake>,
+        <http://dbpedia.org/resource/Howard_Blake>,
+        <http://dbpedia.org/resource/James_Blake>,
+        <http://dbpedia.org/resource/James_Blake_House>,
+        <http://dbpedia.org/resource/Jean_Saunders>,
+        <http://dbpedia.org/resource/Jeff_Blake>,
+        <http://dbpedia.org/resource/Jere_Blake>,
+        <http://dbpedia.org/resource/Joaqu%C3%ADn_Blake_y_Joyes>,
+        <http://dbpedia.org/resource/John_Blake>,
+        <http://dbpedia.org/resource/John_Blake_House>,
+        <http://dbpedia.org/resource/Johnny_Blake>,
+        <http://dbpedia.org/resource/Julia_Blake>,
+        <http://dbpedia.org/resource/Karl_Blake>,
+        <http://dbpedia.org/resource/Kristen_DiMera>,
+        <http://dbpedia.org/resource/List_of_Eureka_characters>,
+        <http://dbpedia.org/resource/Madge_Blake>,
+        <http://dbpedia.org/resource/Megan_Blake>,
+        <http://dbpedia.org/resource/Mike_Enos>,
+        <http://dbpedia.org/resource/Nayland_Blake>,
+        <http://dbpedia.org/resource/Noah_Blake>,
+        <http://dbpedia.org/resource/Noah_Newman>,
+        <http://dbpedia.org/resource/Noel_Blake>,
+        <http://dbpedia.org/resource/Nzinga_Blake>,
+        <http://dbpedia.org/resource/Oliver_Blake>,
+        <http://dbpedia.org/resource/Olivia_Richards>,
+        <http://dbpedia.org/resource/Pamela_Blake>,
+        <http://dbpedia.org/resource/Perry_Blake>,
+        <http://dbpedia.org/resource/Peter_Blake_%28artist%29>,
+        <http://dbpedia.org/resource/Quentin_Blake>,
+        <http://dbpedia.org/resource/Rob_Blake>,
+        <http://dbpedia.org/resource/Robbie_Blake>,
+        <http://dbpedia.org/resource/Robert_Blake%2C_Baron_Blake>,
+        <http://dbpedia.org/resource/Robert_Blake,_Baron_Blake>,
+        <http://dbpedia.org/resource/Robert_Harrison_Blake>,
+        <http://dbpedia.org/resource/Rockwell_Blake>,
+        <http://dbpedia.org/resource/Rodney_Blake>,
+        <http://dbpedia.org/resource/Roj_Blake>,
+        <http://dbpedia.org/resource/Sexton_Blake>,
+        <http://dbpedia.org/resource/Sheriff_Blake>,
+        <http://dbpedia.org/resource/Stephenson_Blake>,
+        <http://dbpedia.org/resource/Steve_Blake>,
+        <http://dbpedia.org/resource/Tchad_Blake>,
+        <http://dbpedia.org/resource/Ted_Blake>,
+        <http://dbpedia.org/resource/The_Ultimate_Fighter:_Team_Hughes_vs._Team_Serra>,
+        <http://dbpedia.org/resource/Theo_Blake>,
+        <http://dbpedia.org/resource/Thomas_Blake_Glover>,
+        <http://dbpedia.org/resource/Tommy_Blake>,
+        <http://dbpedia.org/resource/Toms_Shoes>,
+        <http://dbpedia.org/resource/Vivian_Blake>,
+        <http://dbpedia.org/resource/William_Blake>,
+        <http://dbpedia.org/resource/Yohan_Blake> ;
     nif:anchorOf "Blake"^^xsd:string ;
     nif:beginIndex "2763"^^xsd:nonNegativeInteger ;
     nif:confidence 7.214919e-01 ;
@@ -283,6 +710,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2814,2824> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2814"^^xsd:nonNegativeInteger ;
     nif:confidence 9.995013e-01 ;
@@ -296,15 +731,23 @@
         nif:String ;
     nif:anchorOf "James Senn"^^xsd:string ;
     nif:beginIndex "2874"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.4e-01 ;
+    nif:confidence 1e+00 ;
     nif:endIndex "2884"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_2#char=0,5253> ;
-    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taConfidence 1e+00 ;
     itsrdf:taIdentRef <http://vu.nl/unknown/James_Senn> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2898,2914> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Eddie_N._Robinson>,
+        <http://dbpedia.org/resource/Eddie_Robinson_%28college_football_coach%29>,
+        <http://dbpedia.org/resource/J._Mack_Robinson_College_of_Business>,
+        <http://dbpedia.org/resource/J._Mack_Robinson_College_of_Business_Administration_Building>,
+        <http://dbpedia.org/resource/Robinson_College%2C_Cambridge>,
+        <http://dbpedia.org/resource/Robinson_College,_Cambridge>,
+        <http://dbpedia.org/resource/Robinson_College_Boat_Club>,
+        <http://dbpedia.org/resource/Wright_Robinson_College> ;
     nif:anchorOf "Robinson College"^^xsd:string ;
     nif:beginIndex "2898"^^xsd:nonNegativeInteger ;
     nif:confidence 5.491477e-01 ;
@@ -327,6 +770,19 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=2958,2982> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/GSU_Sports_Arena>,
+        <http://dbpedia.org/resource/Georgia_College_%26_State_University>,
+        <http://dbpedia.org/resource/Georgia_College_&_State_University>,
+        <http://dbpedia.org/resource/Georgia_Southwestern_State_University>,
+        <http://dbpedia.org/resource/Georgia_State_Baseball_Complex>,
+        <http://dbpedia.org/resource/Georgia_State_University>,
+        <http://dbpedia.org/resource/Georgia_State_University_College_of_Law>,
+        <http://dbpedia.org/resource/Georgia_State_University_Library>,
+        <http://dbpedia.org/resource/List_of_Georgia_State_University_people>,
+        <http://dbpedia.org/resource/Municipal_Auditorium_(Atlanta)>,
+        <http://dbpedia.org/resource/NOC_at_Georgia_State_University>,
+        <http://dbpedia.org/resource/North_Georgia_College_%26_State_University>,
+        <http://dbpedia.org/resource/North_Georgia_College_&_State_University> ;
     nif:anchorOf "Georgia State University"^^xsd:string ;
     nif:beginIndex "2958"^^xsd:nonNegativeInteger ;
     nif:confidence 6.175e-01 ;
@@ -338,6 +794,54 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3072,3075> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Alice_and_Bob>,
+        <http://dbpedia.org/resource/Barbecue_Bob>,
+        <http://dbpedia.org/resource/Best_of_Breed>,
+        <http://dbpedia.org/resource/BoB>,
+        <http://dbpedia.org/resource/Bob>,
+        <http://dbpedia.org/resource/Bob,_Agent_of_Hydra>,
+        <http://dbpedia.org/resource/Bob_%28Blackadder_character%29>,
+        <http://dbpedia.org/resource/Bob_%28TV_series%29>,
+        <http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29>,
+        <http://dbpedia.org/resource/Bob_%28physics%29>,
+        <http://dbpedia.org/resource/Bob_%28song%29>,
+        <http://dbpedia.org/resource/Bob_Appleyard>,
+        <http://dbpedia.org/resource/Bob_Arum>,
+        <http://dbpedia.org/resource/Bob_Bob_Ricard>,
+        <http://dbpedia.org/resource/Bob_Boken>,
+        <http://dbpedia.org/resource/Bob_Boone>,
+        <http://dbpedia.org/resource/Bob_Brier>,
+        <http://dbpedia.org/resource/Bob_Bryan>,
+        <http://dbpedia.org/resource/Bob_Cain>,
+        <http://dbpedia.org/resource/Bob_Champoux>,
+        <http://dbpedia.org/resource/Bob_Christo>,
+        <http://dbpedia.org/resource/Bob_Cobbing>,
+        <http://dbpedia.org/resource/Bob_Considine>,
+        <http://dbpedia.org/resource/Bob_Crane>,
+        <http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29>,
+        <http://dbpedia.org/resource/Bob_Stroger>,
+        <http://dbpedia.org/resource/Bob_Weinstein>,
+        <http://dbpedia.org/resource/Bob_Younger>,
+        <http://dbpedia.org/resource/Bob_and_George>,
+        <http://dbpedia.org/resource/Bob_campaign>,
+        <http://dbpedia.org/resource/Bob_cut>,
+        <http://dbpedia.org/resource/Bob_the_Builder>,
+        <http://dbpedia.org/resource/Bobsleigh>,
+        <http://dbpedia.org/resource/Bubble_Bobble>,
+        <http://dbpedia.org/resource/Cherry_Twister>,
+        <http://dbpedia.org/resource/Hurricane_Bob>,
+        <http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs>,
+        <http://dbpedia.org/resource/Jay_and_Silent_Bob>,
+        <http://dbpedia.org/resource/Killer_Bob>,
+        <http://dbpedia.org/resource/MY_Bob_Barker>,
+        <http://dbpedia.org/resource/Microsoft_Bob>,
+        <http://dbpedia.org/resource/Midge_and_Bob_Pinciotti>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Robert_Passantino>,
+        <http://dbpedia.org/resource/Robert_Satiacum>,
+        <http://dbpedia.org/resource/Sideshow_Bob>,
+        <http://dbpedia.org/resource/Weebl_and_Bob>,
+        <http://dbpedia.org/resource/What_About_Bob%3F> ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "3072"^^xsd:nonNegativeInteger ;
     nif:confidence 5.505263e-01 ;
@@ -349,6 +853,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3143,3153> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "3143"^^xsd:nonNegativeInteger ;
     nif:confidence 8.060186e-01 ;
@@ -382,17 +894,41 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3272,3289> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Home_Depot_Landscape_Supply> ;
     nif:anchorOf "Home Depot Supply"^^xsd:string ;
     nif:beginIndex "3272"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.410048e-01 ;
+    nif:confidence 5.436364e-01 ;
     nif:endIndex "3289"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_2#char=0,5253> ;
-    itsrdf:taConfidence 5.410048e-01 ;
+    itsrdf:taConfidence 5.436364e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Home_Depot_Landscape_Supply> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3466,3474> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/--NME-->,
+        <http://dbpedia.org/resource/2012_St._Patrick's_Day_beating>,
+        <http://dbpedia.org/resource/Ann_Marie_DeAngelo>,
+        <http://dbpedia.org/resource/Anthony_DeAngelo>,
+        <http://dbpedia.org/resource/Beverly_D'Angelo>,
+        <http://dbpedia.org/resource/Bonzi_Wells>,
+        <http://dbpedia.org/resource/David_Deangelo>,
+        <http://dbpedia.org/resource/David_deangelo>,
+        <http://dbpedia.org/resource/DeAngelo>,
+        <http://dbpedia.org/resource/DeAngelo_Glacier>,
+        <http://dbpedia.org/resource/DeAngelo_Hall>,
+        <http://dbpedia.org/resource/DeAngelo_Peterson>,
+        <http://dbpedia.org/resource/DeAngelo_Smith>,
+        <http://dbpedia.org/resource/DeAngelo_Tyson>,
+        <http://dbpedia.org/resource/DeAngelo_Williams>,
+        <http://dbpedia.org/resource/DeAngelo_Willingham>,
+        <http://dbpedia.org/resource/Deangelo_Parker>,
+        <http://dbpedia.org/resource/Deangelo_lamont_parker>,
+        <http://dbpedia.org/resource/List_of_The_Office_(U.S._TV_series)_characters>,
+        <http://dbpedia.org/resource/List_of_characters_in_mythology_novels_by_Rick_Riordan>,
+        <http://dbpedia.org/resource/Michael_Dickerson>,
+        <http://dbpedia.org/resource/The_Syndicate_(group)>,
+        <http://dbpedia.org/resource/Wayne_DeAngelo> ;
     nif:anchorOf "DeAngelo"^^xsd:string ;
     nif:beginIndex "3466"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -404,6 +940,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3550,3558> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "3550"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -415,6 +958,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3563,3573> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "3563"^^xsd:nonNegativeInteger ;
     nif:confidence 6.485186e-01 ;
@@ -426,6 +977,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=374,382> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "374"^^xsd:nonNegativeInteger ;
     nif:confidence 7.770013e-01 ;
@@ -437,6 +995,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=3780,3788> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "3780"^^xsd:nonNegativeInteger ;
     nif:confidence 5.719362e-01 ;
@@ -448,6 +1013,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=4682,4690> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "4682"^^xsd:nonNegativeInteger ;
     nif:confidence 6.285e-01 ;
@@ -459,6 +1031,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=4829,4839> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "4829"^^xsd:nonNegativeInteger ;
     nif:confidence 7.630037e-01 ;
@@ -470,6 +1050,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=4857,4865> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "4857"^^xsd:nonNegativeInteger ;
     nif:confidence 6.982513e-01 ;
@@ -481,12 +1068,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=5017,5034> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/John_Clendenin> ;
     nif:anchorOf "John L. Clendenin"^^xsd:string ;
     nif:beginIndex "5017"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.652389e-01 ;
+    nif:confidence 6.35e-01 ;
     nif:endIndex "5034"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_2#char=0,5253> ;
-    itsrdf:taConfidence 5.652389e-01 ;
+    itsrdf:taConfidence 6.35e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/John_Clendenin> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=5036,5055> a nif:Phrase,
@@ -514,6 +1102,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=5208,5218> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "5208"^^xsd:nonNegativeInteger ;
     nif:confidence 7.887624e-01 ;
@@ -525,6 +1121,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=583,603> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/English_v._General_Electric_Co.>,
+        <http://dbpedia.org/resource/General_Electric>,
+        <http://dbpedia.org/resource/United_States_v._General_Electric_Co.> ;
     nif:anchorOf "General Electric Co."^^xsd:string ;
     nif:beginIndex "583"^^xsd:nonNegativeInteger ;
     nif:confidence 7.0125e-01 ;
@@ -536,6 +1135,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=611,619> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "611"^^xsd:nonNegativeInteger ;
     nif:confidence 8.032513e-01 ;
@@ -547,6 +1153,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=652,662> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "652"^^xsd:nonNegativeInteger ;
     nif:confidence 9.202575e-01 ;
@@ -558,6 +1172,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=668,676> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "668"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -569,6 +1190,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=699,710> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Frank_Blake> ;
     nif:anchorOf "Frank Blake"^^xsd:string ;
     nif:beginIndex "699"^^xsd:nonNegativeInteger ;
     nif:confidence 9.2375e-01 ;
@@ -580,6 +1202,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=791,801> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2002_WTA_Tour_Championships>,
+        <http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship>,
+        <http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award>,
+        <http://dbpedia.org/resource/Home_Depot_Landscape_Supply>,
+        <http://dbpedia.org/resource/StubHub_Center>,
+        <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
+        <http://dbpedia.org/resource/The_Home_Depot>,
+        <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "791"^^xsd:nonNegativeInteger ;
     nif:confidence 9.730037e-01 ;
@@ -591,6 +1221,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=812,825> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Jerry_A._Shields> ;
     nif:anchorOf "Jerry Shields"^^xsd:string ;
     nif:beginIndex "812"^^xsd:nonNegativeInteger ;
     nif:confidence 5.601293e-01 ;
@@ -602,6 +1233,145 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=927,932> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/5AA>,
+        <http://dbpedia.org/resource/Anita_Blake>,
+        <http://dbpedia.org/resource/Arthur_Blake>,
+        <http://dbpedia.org/resource/Asha_Blake>,
+        <http://dbpedia.org/resource/Blake>,
+        <http://dbpedia.org/resource/Blake%27s_Lotaburger>,
+        <http://dbpedia.org/resource/Blake%27s_Pools>,
+        <http://dbpedia.org/resource/Blake%27s_hitch>,
+        <http://dbpedia.org/resource/Blake,_Cassels_&_Graydon>,
+        <http://dbpedia.org/resource/Blake_%28band%29>,
+        <http://dbpedia.org/resource/Blake_%28monologue%29>,
+        <http://dbpedia.org/resource/Blake_%28sculptor%29>,
+        <http://dbpedia.org/resource/Blake_(band)>,
+        <http://dbpedia.org/resource/Blake_(disambiguation)>,
+        <http://dbpedia.org/resource/Blake_Aaron>,
+        <http://dbpedia.org/resource/Blake_Ahearn>,
+        <http://dbpedia.org/resource/Blake_Aldridge>,
+        <http://dbpedia.org/resource/Blake_Babies>,
+        <http://dbpedia.org/resource/Blake_Bailey>,
+        <http://dbpedia.org/resource/Blake_Bashoff>,
+        <http://dbpedia.org/resource/Blake_Basin>,
+        <http://dbpedia.org/resource/Blake_Berris>,
+        <http://dbpedia.org/resource/Blake_Bjorklund>,
+        <http://dbpedia.org/resource/Blake_Butler>,
+        <http://dbpedia.org/resource/Blake_Camp>,
+        <http://dbpedia.org/resource/Blake_Caracella>,
+        <http://dbpedia.org/resource/Blake_Carrington>,
+        <http://dbpedia.org/resource/Blake_Chancey>,
+        <http://dbpedia.org/resource/Blake_Clark>,
+        <http://dbpedia.org/resource/Blake_Comeau>,
+        <http://dbpedia.org/resource/Blake_Costanzo>,
+        <http://dbpedia.org/resource/Blake_Dunlop>,
+        <http://dbpedia.org/resource/Blake_Edwards>,
+        <http://dbpedia.org/resource/Blake_Emmons>,
+        <http://dbpedia.org/resource/Blake_Fell>,
+        <http://dbpedia.org/resource/Blake_Fleming>,
+        <http://dbpedia.org/resource/Blake_Foster>,
+        <http://dbpedia.org/resource/Blake_Gibbons>,
+        <http://dbpedia.org/resource/Blake_Gottesman>,
+        <http://dbpedia.org/resource/Blake_Griffin>,
+        <http://dbpedia.org/resource/Blake_Heron>,
+        <http://dbpedia.org/resource/Blake_Island>,
+        <http://dbpedia.org/resource/Blake_Judd>,
+        <http://dbpedia.org/resource/Blake_Lewis>,
+        <http://dbpedia.org/resource/Blake_Leyh>,
+        <http://dbpedia.org/resource/Blake_Marler>,
+        <http://dbpedia.org/resource/Blake_Marshall>,
+        <http://dbpedia.org/resource/Blake_McGrath>,
+        <http://dbpedia.org/resource/Blake_Miller>,
+        <http://dbpedia.org/resource/Blake_Morgan>,
+        <http://dbpedia.org/resource/Blake_Morrison>,
+        <http://dbpedia.org/resource/Blake_Nelson>,
+        <http://dbpedia.org/resource/Blake_Pier_at_Stanley>,
+        <http://dbpedia.org/resource/Blake_Price>,
+        <http://dbpedia.org/resource/Blake_Prize_for_Religious_Art>,
+        <http://dbpedia.org/resource/Blake_Richards>,
+        <http://dbpedia.org/resource/Blake_Richardson>,
+        <http://dbpedia.org/resource/Blake_River_Megacaldera_Complex>,
+        <http://dbpedia.org/resource/Blake_Schwarzenbach>,
+        <http://dbpedia.org/resource/Blake_Sennett>,
+        <http://dbpedia.org/resource/Blake_Shelton>,
+        <http://dbpedia.org/resource/Blake_Shields>,
+        <http://dbpedia.org/resource/Blake_Sloan>,
+        <http://dbpedia.org/resource/Blake_Snyder>,
+        <http://dbpedia.org/resource/Blake_Stein>,
+        <http://dbpedia.org/resource/Blake_Stepp>,
+        <http://dbpedia.org/resource/Blake_Watson>,
+        <http://dbpedia.org/resource/Blake_Wheeler>,
+        <http://dbpedia.org/resource/Blake_Williams>,
+        <http://dbpedia.org/resource/Blind_Blake>,
+        <http://dbpedia.org/resource/Blossom_Rock>,
+        <http://dbpedia.org/resource/Bobby_Blake>,
+        <http://dbpedia.org/resource/Bud_Blake>,
+        <http://dbpedia.org/resource/Casey_Blake>,
+        <http://dbpedia.org/resource/Christopher_Blake>,
+        <http://dbpedia.org/resource/Daphne_Blake>,
+        <http://dbpedia.org/resource/Darcy_Blake>,
+        <http://dbpedia.org/resource/Dead_Man>,
+        <http://dbpedia.org/resource/Dennis_Blake>,
+        <http://dbpedia.org/resource/Ed_Blake>,
+        <http://dbpedia.org/resource/Edward_Blake>,
+        <http://dbpedia.org/resource/Eubie_Blake>,
+        <http://dbpedia.org/resource/Frank_Blake>,
+        <http://dbpedia.org/resource/George_Blake>,
+        <http://dbpedia.org/resource/Gillian_Blake>,
+        <http://dbpedia.org/resource/Hamish_Blake>,
+        <http://dbpedia.org/resource/Harris_Blake>,
+        <http://dbpedia.org/resource/Harry_Blake>,
+        <http://dbpedia.org/resource/Henry_Blake>,
+        <http://dbpedia.org/resource/Howard_Blake>,
+        <http://dbpedia.org/resource/James_Blake>,
+        <http://dbpedia.org/resource/James_Blake_House>,
+        <http://dbpedia.org/resource/Jean_Saunders>,
+        <http://dbpedia.org/resource/Jeff_Blake>,
+        <http://dbpedia.org/resource/Jere_Blake>,
+        <http://dbpedia.org/resource/Joaqu%C3%ADn_Blake_y_Joyes>,
+        <http://dbpedia.org/resource/John_Blake>,
+        <http://dbpedia.org/resource/John_Blake_House>,
+        <http://dbpedia.org/resource/Johnny_Blake>,
+        <http://dbpedia.org/resource/Julia_Blake>,
+        <http://dbpedia.org/resource/Karl_Blake>,
+        <http://dbpedia.org/resource/Kristen_DiMera>,
+        <http://dbpedia.org/resource/List_of_Eureka_characters>,
+        <http://dbpedia.org/resource/Madge_Blake>,
+        <http://dbpedia.org/resource/Megan_Blake>,
+        <http://dbpedia.org/resource/Mike_Enos>,
+        <http://dbpedia.org/resource/Nayland_Blake>,
+        <http://dbpedia.org/resource/Noah_Blake>,
+        <http://dbpedia.org/resource/Noah_Newman>,
+        <http://dbpedia.org/resource/Noel_Blake>,
+        <http://dbpedia.org/resource/Nzinga_Blake>,
+        <http://dbpedia.org/resource/Oliver_Blake>,
+        <http://dbpedia.org/resource/Olivia_Richards>,
+        <http://dbpedia.org/resource/Pamela_Blake>,
+        <http://dbpedia.org/resource/Perry_Blake>,
+        <http://dbpedia.org/resource/Peter_Blake_%28artist%29>,
+        <http://dbpedia.org/resource/Quentin_Blake>,
+        <http://dbpedia.org/resource/Rob_Blake>,
+        <http://dbpedia.org/resource/Robbie_Blake>,
+        <http://dbpedia.org/resource/Robert_Blake%2C_Baron_Blake>,
+        <http://dbpedia.org/resource/Robert_Blake,_Baron_Blake>,
+        <http://dbpedia.org/resource/Robert_Harrison_Blake>,
+        <http://dbpedia.org/resource/Rockwell_Blake>,
+        <http://dbpedia.org/resource/Rodney_Blake>,
+        <http://dbpedia.org/resource/Roj_Blake>,
+        <http://dbpedia.org/resource/Sexton_Blake>,
+        <http://dbpedia.org/resource/Sheriff_Blake>,
+        <http://dbpedia.org/resource/Stephenson_Blake>,
+        <http://dbpedia.org/resource/Steve_Blake>,
+        <http://dbpedia.org/resource/Tchad_Blake>,
+        <http://dbpedia.org/resource/Ted_Blake>,
+        <http://dbpedia.org/resource/The_Ultimate_Fighter:_Team_Hughes_vs._Team_Serra>,
+        <http://dbpedia.org/resource/Theo_Blake>,
+        <http://dbpedia.org/resource/Thomas_Blake_Glover>,
+        <http://dbpedia.org/resource/Tommy_Blake>,
+        <http://dbpedia.org/resource/Toms_Shoes>,
+        <http://dbpedia.org/resource/Vivian_Blake>,
+        <http://dbpedia.org/resource/William_Blake>,
+        <http://dbpedia.org/resource/Yohan_Blake> ;
     nif:anchorOf "Blake"^^xsd:string ;
     nif:beginIndex "927"^^xsd:nonNegativeInteger ;
     nif:confidence 7.432413e-01 ;
@@ -613,6 +1383,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_2#char=979,987> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Elania_Nardelli>,
+        <http://dbpedia.org/resource/Francesco_Nardelli>,
+        <http://dbpedia.org/resource/Maria_Nardelli>,
+        <http://dbpedia.org/resource/Michael_Nardelli>,
+        <http://dbpedia.org/resource/Nardelli>,
+        <http://dbpedia.org/resource/Robert_Nardelli>,
+        <http://dbpedia.org/resource/Steve_Nardelli> ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "979"^^xsd:nonNegativeInteger ;
     nif:confidence 9.075124e-01 ;

@@ -9,33 +9,90 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=120,141> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/New_Year%27s_Resolution>,
+        <http://dbpedia.org/resource/New_Year%27s_resolution>,
+        <http://dbpedia.org/resource/New_Year's_resolution>,
+        <http://dbpedia.org/resource/New_year%27s_resolution> ;
+    ns1:goldLink <http://dbpedia.org/resource/New_Year%27s_Resolution>,
+        <http://dbpedia.org/resource/New_Year%27s_resolution>,
+        <http://dbpedia.org/resource/New_Year%27s_resolutions>,
+        <http://dbpedia.org/resource/New_Year's_Resolution>,
+        <http://dbpedia.org/resource/New_Year's_resolution>,
+        <http://dbpedia.org/resource/New_Year's_resolutions>,
+        <http://dbpedia.org/resource/New_Year_Resolution>,
+        <http://dbpedia.org/resource/New_Year_resolution>,
+        <http://dbpedia.org/resource/New_Years_resolution>,
+        <http://dbpedia.org/resource/New_year%27s_resolution>,
+        <http://dbpedia.org/resource/New_year%27s_resolutions>,
+        <http://dbpedia.org/resource/New_year's_resolution>,
+        <http://dbpedia.org/resource/New_year's_resolutions>,
+        <http://dbpedia.org/resource/New_years_resolution>,
+        <http://en.wikipedia.org/wiki/New_Year%27s_Resolution>,
+        <http://en.wikipedia.org/wiki/New_Year%27s_resolution>,
+        <http://en.wikipedia.org/wiki/New_Year%27s_resolutions>,
+        <http://en.wikipedia.org/wiki/New_Year's_Resolution>,
+        <http://en.wikipedia.org/wiki/New_Year's_resolution>,
+        <http://en.wikipedia.org/wiki/New_Year's_resolutions>,
+        <http://en.wikipedia.org/wiki/New_Year_Resolution>,
+        <http://en.wikipedia.org/wiki/New_Year_resolution>,
+        <http://en.wikipedia.org/wiki/New_Years_resolution>,
+        <http://en.wikipedia.org/wiki/New_year%27s_resolution>,
+        <http://en.wikipedia.org/wiki/New_year%27s_resolutions>,
+        <http://en.wikipedia.org/wiki/New_year's_resolution>,
+        <http://en.wikipedia.org/wiki/New_year's_resolutions])>,
+        <http://en.wikipedia.org/wiki/New_years_resolution>,
+        <http://fr.dbpedia.org/resource/Bonnes_r%C3%A9solutions>,
+        <http://fr.dbpedia.org/resource/Bonnes_résolutions>,
+        <http://fr.wikipedia.org/wiki/Bonnes_r%C3%A9solutions>,
+        <http://fr.wikipedia.org/wiki/Bonnes_résolutions>,
+        <http://id.dbpedia.org/resource/Resolusi_Tahun_Baru>,
+        <http://id.wikipedia.org/wiki/Resolusi_Tahun_Baru>,
+        <http://wikidata.dbpedia.org/resource/Q2155091>,
+        <http://www.wikidata.org/entity/Q2155091> ;
     ns1:verdict true ;
     nif:anchorOf "New Year's resolution"^^xsd:string ;
     nif:beginIndex "120"^^xsd:nonNegativeInteger ;
-    nif:confidence 6e-01 ;
+    nif:confidence 5.7375e-01 ;
     nif:endIndex "141"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6e-01 ;
+    itsrdf:taConfidence 5.7375e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/New_Year's_resolution> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=1276,1314> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
-    ns1:verdict true ;
+    ns1:candidate <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition> ;
+    ns1:goldLink <http://dbpedia.org/resource/AJCN>,
+        <http://dbpedia.org/resource/Am._J._Clin._Nutr.>,
+        <http://dbpedia.org/resource/Am_J_Clin_Nutr>,
+        <http://dbpedia.org/resource/American_Journal_of_Clinical_Nutrition>,
+        <http://dbpedia.org/resource/American_journal_of_clinical_nutrition>,
+        <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition>,
+        <http://dbpedia.org/resource/The_American_journal_of_clinical_nutrition>,
+        <http://en.wikipedia.org/wiki/AJCN>,
+        <http://en.wikipedia.org/wiki/Am._J._Clin._Nutr.>,
+        <http://en.wikipedia.org/wiki/Am_J_Clin_Nutr>,
+        <http://en.wikipedia.org/wiki/American_Journal_of_Clinical_Nutrition])>,
+        <http://en.wikipedia.org/wiki/American_journal_of_clinical_nutrition>,
+        <http://en.wikipedia.org/wiki/The_American_Journal_of_Clinical_Nutrition>,
+        <http://en.wikipedia.org/wiki/The_American_journal_of_clinical_nutrition>,
+        <http://fr.dbpedia.org/resource/American_Journal_of_Clinical_Nutrition>,
+        <http://fr.wikipedia.org/wiki/American_Journal_of_Clinical_Nutrition>,
+        <http://wikidata.dbpedia.org/resource/Q7713500>,
+        <http://www.wikidata.org/entity/Q7713500> ;
+    ns1:verdict false ;
     nif:anchorOf "American Journal of Clinical Nutrition"^^xsd:string ;
     nif:beginIndex "1276"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.45625e-01 ;
+    nif:confidence 5.4e-01 ;
     nif:endIndex "1314"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.45625e-01 ;
-    itsrdf:taIdentRef <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition> .
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/American_Journal_of_Clinical_Nutrition> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=1938,1962> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:goldLink <http://vu.nl/unknown> ;
     ns1:verdict true ;
     nif:anchorOf "Sara Lee Food & Beverage"^^xsd:string ;
     nif:beginIndex "1938"^^xsd:nonNegativeInteger ;
@@ -48,59 +105,164 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=203,212> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
+        <http://en.wikipedia.org/wiki/Joy_Bauer>,
+        <http://wikidata.dbpedia.org/resource/Q6297036>,
+        <http://www.wikidata.org/entity/Q6297036> ;
     ns1:verdict true ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "203"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.476263e-01 ;
+    nif:confidence 6.301263e-01 ;
     nif:endIndex "212"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.476263e-01 ;
+    itsrdf:taConfidence 6.301263e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Joy_Bauer> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2250,2261> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Whole-wheat_flour>,
+        <http://dbpedia.org/resource/Whole_Wheat_Bread_(band)>,
+        <http://dbpedia.org/resource/Whole_Wheat_Radio>,
+        <http://dbpedia.org/resource/Whole_grain>,
+        <http://dbpedia.org/resource/Whole_wheat_bread> ;
+    ns1:goldLink <http://cs.dbpedia.org/resource/Celozrnn%C3%A9_v%C3%BDrobky>,
+        <http://cs.dbpedia.org/resource/Celozrnné_výrobky>,
+        <http://cs.wikipedia.org/wiki/Celozrnn%C3%A9_v%C3%BDrobky>,
+        <http://cs.wikipedia.org/wiki/Celozrnné_výrobky>,
+        <http://dbpedia.org/resource/Integral_grain>,
+        <http://dbpedia.org/resource/Whole-grain>,
+        <http://dbpedia.org/resource/Whole-meal>,
+        <http://dbpedia.org/resource/Whole-oat>,
+        <http://dbpedia.org/resource/Whole-wheat>,
+        <http://dbpedia.org/resource/Whole_Grain>,
+        <http://dbpedia.org/resource/Whole_cereal>,
+        <http://dbpedia.org/resource/Whole_grain>,
+        <http://dbpedia.org/resource/Whole_grain_bread])>,
+        <http://dbpedia.org/resource/Whole_grains>,
+        <http://dbpedia.org/resource/Whole_meal>,
+        <http://dbpedia.org/resource/Whole_oat>,
+        <http://dbpedia.org/resource/Whole_wheat>,
+        <http://dbpedia.org/resource/Wholegrain>,
+        <http://dbpedia.org/resource/Wholemeal>,
+        <http://dbpedia.org/resource/Wholewheat>,
+        <http://de.wikipedia.org/wiki/Vollkorn>,
+        <http://en.wikipedia.org/wiki/Integral_grain>,
+        <http://en.wikipedia.org/wiki/Whole-grain>,
+        <http://en.wikipedia.org/wiki/Whole-meal>,
+        <http://en.wikipedia.org/wiki/Whole-oat>,
+        <http://en.wikipedia.org/wiki/Whole-wheat>,
+        <http://en.wikipedia.org/wiki/Whole_Grain>,
+        <http://en.wikipedia.org/wiki/Whole_cereal>,
+        <http://en.wikipedia.org/wiki/Whole_grain>,
+        <http://en.wikipedia.org/wiki/Whole_grain_bread>,
+        <http://en.wikipedia.org/wiki/Whole_grains>,
+        <http://en.wikipedia.org/wiki/Whole_meal>,
+        <http://en.wikipedia.org/wiki/Whole_oat>,
+        <http://en.wikipedia.org/wiki/Whole_wheat>,
+        <http://en.wikipedia.org/wiki/Wholegrain>,
+        <http://en.wikipedia.org/wiki/Wholemeal>,
+        <http://en.wikipedia.org/wiki/Wholewheat>,
+        <http://id.dbpedia.org/resource/Serealia_utuh>,
+        <http://id.wikipedia.org/wiki/Serealia_utuh>,
+        <http://ja.dbpedia.org/resource/%E5%85%A8%E7%B2%92%E7%A9%80%E7%89%A9>,
+        <http://ja.dbpedia.org/resource/全粒穀物>,
+        <http://ja.wikipedia.org/wiki/%E5%85%A8%E7%B2%92%E7%A9%80%E7%89%A9>,
+        <http://ja.wikipedia.org/wiki/全粒穀物>,
+        <http://pt.dbpedia.org/resource/Cereal_integral>,
+        <http://pt.wikipedia.org/wiki/Cereal_integral>,
+        <http://wikidata.dbpedia.org/resource/Q1938952>,
+        <http://www.wikidata.org/entity/Q1938952> ;
     ns1:verdict true ;
     nif:anchorOf "Whole Wheat"^^xsd:string ;
     nif:beginIndex "2250"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.132065e-01 ;
+    nif:confidence 5.607065e-01 ;
     nif:endIndex "2261"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.132065e-01 ;
+    itsrdf:taConfidence 5.607065e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Whole_grain> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2270,2281> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Frosted_Flakes>,
+        <http://dbpedia.org/resource/Whole_Grain_Stamp>,
+        <http://dbpedia.org/resource/Whole_grain> ;
+    ns1:goldLink <http://cs.dbpedia.org/resource/Celozrnn%C3%A9_v%C3%BDrobky>,
+        <http://cs.dbpedia.org/resource/Celozrnné_výrobky>,
+        <http://cs.wikipedia.org/wiki/Celozrnn%C3%A9_v%C3%BDrobky>,
+        <http://cs.wikipedia.org/wiki/Celozrnné_výrobky>,
+        <http://dbpedia.org/resource/Integral_grain>,
+        <http://dbpedia.org/resource/Whole-grain>,
+        <http://dbpedia.org/resource/Whole-meal>,
+        <http://dbpedia.org/resource/Whole-oat>,
+        <http://dbpedia.org/resource/Whole-wheat>,
+        <http://dbpedia.org/resource/Whole_Grain>,
+        <http://dbpedia.org/resource/Whole_cereal>,
+        <http://dbpedia.org/resource/Whole_grain>,
+        <http://dbpedia.org/resource/Whole_grain_bread])>,
+        <http://dbpedia.org/resource/Whole_grains>,
+        <http://dbpedia.org/resource/Whole_meal>,
+        <http://dbpedia.org/resource/Whole_oat>,
+        <http://dbpedia.org/resource/Whole_wheat>,
+        <http://dbpedia.org/resource/Wholegrain>,
+        <http://dbpedia.org/resource/Wholemeal>,
+        <http://dbpedia.org/resource/Wholewheat>,
+        <http://de.wikipedia.org/wiki/Vollkorn>,
+        <http://en.wikipedia.org/wiki/Integral_grain>,
+        <http://en.wikipedia.org/wiki/Whole-grain>,
+        <http://en.wikipedia.org/wiki/Whole-meal>,
+        <http://en.wikipedia.org/wiki/Whole-oat>,
+        <http://en.wikipedia.org/wiki/Whole-wheat>,
+        <http://en.wikipedia.org/wiki/Whole_Grain>,
+        <http://en.wikipedia.org/wiki/Whole_cereal>,
+        <http://en.wikipedia.org/wiki/Whole_grain>,
+        <http://en.wikipedia.org/wiki/Whole_grain_bread>,
+        <http://en.wikipedia.org/wiki/Whole_grains>,
+        <http://en.wikipedia.org/wiki/Whole_meal>,
+        <http://en.wikipedia.org/wiki/Whole_oat>,
+        <http://en.wikipedia.org/wiki/Whole_wheat>,
+        <http://en.wikipedia.org/wiki/Wholegrain>,
+        <http://en.wikipedia.org/wiki/Wholemeal>,
+        <http://en.wikipedia.org/wiki/Wholewheat>,
+        <http://id.dbpedia.org/resource/Serealia_utuh>,
+        <http://id.wikipedia.org/wiki/Serealia_utuh>,
+        <http://ja.dbpedia.org/resource/%E5%85%A8%E7%B2%92%E7%A9%80%E7%89%A9>,
+        <http://ja.dbpedia.org/resource/全粒穀物>,
+        <http://ja.wikipedia.org/wiki/%E5%85%A8%E7%B2%92%E7%A9%80%E7%89%A9>,
+        <http://ja.wikipedia.org/wiki/全粒穀物>,
+        <http://pt.dbpedia.org/resource/Cereal_integral>,
+        <http://pt.wikipedia.org/wiki/Cereal_integral>,
+        <http://wikidata.dbpedia.org/resource/Q1938952>,
+        <http://www.wikidata.org/entity/Q1938952> ;
     ns1:verdict true ;
     nif:anchorOf "Whole Grain"^^xsd:string ;
     nif:beginIndex "2270"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.11e-01 ;
+    nif:confidence 6.585e-01 ;
     nif:endIndex "2281"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 7.11e-01 ;
+    itsrdf:taConfidence 6.585e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Whole_grain> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2461,2486> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:goldLink <http://vu.nl/unknown> ;
     ns1:verdict true ;
     nif:anchorOf "Annual Scientific Meeting"^^xsd:string ;
     nif:beginIndex "2461"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.4e-01 ;
+    nif:confidence 1e+00 ;
     nif:endIndex "2486"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taConfidence 1e+00 ;
     itsrdf:taIdentRef <http://vu.nl/unknown/Annual_Scientific_Meeting> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2489,2494> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Naasa_Hablood> ;
+    ns1:goldLink <http://vu.nl/unknown> ;
     ns1:verdict true ;
     nif:anchorOf "NAASO"^^xsd:string ;
     nif:beginIndex "2489"^^xsd:nonNegativeInteger ;
@@ -113,7 +275,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=320,345> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:goldLink <http://vu.nl/unknown> ;
     ns1:verdict true ;
     nif:anchorOf "Joy's Healthy Resolutions"^^xsd:string ;
     nif:beginIndex "320"^^xsd:nonNegativeInteger ;
@@ -126,7 +288,11 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=3297,3306> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "http://www.wikidata.org/entity/Q6297036" ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
+        <http://en.wikipedia.org/wiki/Joy_Bauer>,
+        <http://wikidata.dbpedia.org/resource/Q6297036>,
+        <http://www.wikidata.org/entity/Q6297036> ;
     ns1:verdict false ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "3297"^^xsd:nonNegativeInteger ;
@@ -139,53 +305,322 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=505,513> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "http://es.wikipedia.org/wiki/Año_Nuevo" ;
+    ns1:candidate <http://dbpedia.org/resource/1909_New_Year_Honours>,
+        <http://dbpedia.org/resource/1927_New_Year_Honours>,
+        <http://dbpedia.org/resource/1953_New_Year_Honours>,
+        <http://dbpedia.org/resource/1958_New_Year_Honours>,
+        <http://dbpedia.org/resource/1975_New_Year_Honours>,
+        <http://dbpedia.org/resource/1980_New_Year_Honours>,
+        <http://dbpedia.org/resource/1990_New_Year_Honours>,
+        <http://dbpedia.org/resource/1993_New_Year_Honours>,
+        <http://dbpedia.org/resource/1995_New_Year_Honours>,
+        <http://dbpedia.org/resource/1996_New_Year_Honours>,
+        <http://dbpedia.org/resource/1997_New_Year_Honours>,
+        <http://dbpedia.org/resource/2002_New_Year_Honours>,
+        <http://dbpedia.org/resource/2005_New_Year_Honours>,
+        <http://dbpedia.org/resource/2006_Bangkok_bombings>,
+        <http://dbpedia.org/resource/2006_New_Year_Honours>,
+        <http://dbpedia.org/resource/2007_New_Year_Honours>,
+        <http://dbpedia.org/resource/2008_New_Year_Honours>,
+        <http://dbpedia.org/resource/2009_New_Year_Honours>,
+        <http://dbpedia.org/resource/2010_New_Year_Honours>,
+        <http://dbpedia.org/resource/Aztec_New_Year>,
+        <http://dbpedia.org/resource/Baby_New_Year>,
+        <http://dbpedia.org/resource/Bahá'í_Naw-Rúz>,
+        <http://dbpedia.org/resource/Brand_New_Year>,
+        <http://dbpedia.org/resource/Cambodian_New_Year>,
+        <http://dbpedia.org/resource/Chinese_New_Year>,
+        <http://dbpedia.org/resource/Christmas_and_holiday_season>,
+        <http://dbpedia.org/resource/Hmong_customs_and_culture>,
+        <http://dbpedia.org/resource/Holiday_stamp>,
+        <http://dbpedia.org/resource/Islamic_New_Year>,
+        <http://dbpedia.org/resource/Japanese_New_Year>,
+        <http://dbpedia.org/resource/Kerala_New_Year>,
+        <http://dbpedia.org/resource/Korean_New_Year>,
+        <http://dbpedia.org/resource/Losar>,
+        <http://dbpedia.org/resource/Lunar_New_Year>,
+        <http://dbpedia.org/resource/Lunar_New_Year_Cup>,
+        <http://dbpedia.org/resource/Lunar_New_Year_Fair>,
+        <http://dbpedia.org/resource/Maithili_New_Year>,
+        <http://dbpedia.org/resource/New_Year>,
+        <http://dbpedia.org/resource/New_Year%27s_Day>,
+        <http://dbpedia.org/resource/New_Year%27s_Eve>,
+        <http://dbpedia.org/resource/New_Year's_Day>,
+        <http://dbpedia.org/resource/New_Year's_Eve>,
+        <http://dbpedia.org/resource/New_Year's_resolution>,
+        <http://dbpedia.org/resource/New_Year_%281924_film%29>,
+        <http://dbpedia.org/resource/New_Year_%28Sugababes_song%29>,
+        <http://dbpedia.org/resource/New_Year_%28opera%29>,
+        <http://dbpedia.org/resource/New_Year_(song)>,
+        <http://dbpedia.org/resource/New_Year_Honours>,
+        <http://dbpedia.org/resource/New_Year_Live>,
+        <http://dbpedia.org/resource/New_Year_Pass>,
+        <http://dbpedia.org/resource/New_Year_card>,
+        <http://dbpedia.org/resource/New_Year_tree>,
+        <http://dbpedia.org/resource/Nowruz>,
+        <http://dbpedia.org/resource/Old_New_Year>,
+        <http://dbpedia.org/resource/Pohela_Boishakh>,
+        <http://dbpedia.org/resource/Puthandu>,
+        <http://dbpedia.org/resource/Red_Bull_New_Year_No_Limits>,
+        <http://dbpedia.org/resource/Rosh_Hashanah>,
+        <http://dbpedia.org/resource/Sinhalese_New_Year>,
+        <http://dbpedia.org/resource/Six_by_Seven>,
+        <http://dbpedia.org/resource/Songkran>,
+        <http://dbpedia.org/resource/Songkran_(Thailand)>,
+        <http://dbpedia.org/resource/The_New_Year_%28album%29>,
+        <http://dbpedia.org/resource/The_New_Year_%28song%29>,
+        <http://dbpedia.org/resource/The_New_Year_(band)>,
+        <http://dbpedia.org/resource/Thingyan>,
+        <http://dbpedia.org/resource/Tu_BiShvat>,
+        <http://dbpedia.org/resource/Tết>,
+        <http://dbpedia.org/resource/Ugadi> ;
+    ns1:goldLink <http://cs.dbpedia.org/resource/Nov%C3%BD_rok>,
+        <http://cs.dbpedia.org/resource/Nový_rok>,
+        <http://cs.wikipedia.org/wiki/Nov%C3%BD_rok>,
+        <http://cs.wikipedia.org/wiki/Nový_rok>,
+        <http://dbpedia.org/resource/Annunciation_Style>,
+        <http://dbpedia.org/resource/Annunciation_Style_dating>,
+        <http://dbpedia.org/resource/Annunciation_style>,
+        <http://dbpedia.org/resource/Annunciation_style_dating>,
+        <http://dbpedia.org/resource/New-year>,
+        <http://dbpedia.org/resource/New_Year%27s>,
+        <http://dbpedia.org/resource/New_Year's>,
+        <http://dbpedia.org/resource/New_Year])>,
+        <http://dbpedia.org/resource/New_Year_Festival>,
+        <http://dbpedia.org/resource/New_Years>,
+        <http://dbpedia.org/resource/New_year>,
+        <http://dbpedia.org/resource/Turn_of_the_year>,
+        <http://de.wikipedia.org/wiki/Neujahr>,
+        <http://el.dbpedia.org/resource/%CE%A0%CF%81%CF%89%CF%84%CE%BF%CF%87%CF%81%CE%BF%CE%BD%CE%B9%CE%AC>,
+        <http://el.dbpedia.org/resource/Πρωτοχρονιά>,
+        <http://en.wikipedia.org/wiki/Annunciation_Style>,
+        <http://en.wikipedia.org/wiki/Annunciation_Style_dating>,
+        <http://en.wikipedia.org/wiki/Annunciation_style>,
+        <http://en.wikipedia.org/wiki/Annunciation_style_dating>,
+        <http://en.wikipedia.org/wiki/New-year>,
+        <http://en.wikipedia.org/wiki/New_Year>,
+        <http://en.wikipedia.org/wiki/New_Year%27s>,
+        <http://en.wikipedia.org/wiki/New_Year's>,
+        <http://en.wikipedia.org/wiki/New_Year_Festival>,
+        <http://en.wikipedia.org/wiki/New_Years>,
+        <http://en.wikipedia.org/wiki/New_year>,
+        <http://en.wikipedia.org/wiki/Turn_of_the_year>,
+        <http://es.dbpedia.org/resource/A%C3%B1o_Nuevo>,
+        <http://es.dbpedia.org/resource/Año_Nuevo>,
+        <http://es.wikipedia.org/wiki/A%C3%B1o_Nuevo>,
+        <http://es.wikipedia.org/wiki/Año_Nuevo>,
+        <http://eu.dbpedia.org/resource/Urteberri-egun>,
+        <http://eu.wikipedia.org/wiki/Urteberri-egun>,
+        <http://fr.dbpedia.org/resource/Jour_de_l%27an>,
+        <http://fr.dbpedia.org/resource/Jour_de_l'an>,
+        <http://fr.wikipedia.org/wiki/Jour_de_l%27an>,
+        <http://fr.wikipedia.org/wiki/Jour_de_l'an>,
+        <http://id.dbpedia.org/resource/Tahun_baru>,
+        <http://id.wikipedia.org/wiki/Tahun_baru>,
+        <http://it.dbpedia.org/resource/Capodanno>,
+        <http://it.wikipedia.org/wiki/Capodanno>,
+        <http://ja.dbpedia.org/resource/%E6%96%B0%E5%B9%B4>,
+        <http://ja.dbpedia.org/resource/新年>,
+        <http://ja.wikipedia.org/wiki/%E6%96%B0%E5%B9%B4>,
+        <http://ja.wikipedia.org/wiki/新年>,
+        <http://ko.dbpedia.org/resource/%EC%83%88%ED%95%B4>,
+        <http://ko.dbpedia.org/resource/새해>,
+        <http://ko.wikipedia.org/wiki/%EC%83%88%ED%95%B4>,
+        <http://ko.wikipedia.org/wiki/새해>,
+        <http://nl.dbpedia.org/resource/Nieuwjaar>,
+        <http://nl.wikipedia.org/wiki/Nieuwjaar>,
+        <http://pl.dbpedia.org/resource/Nowy_Rok>,
+        <http://pl.wikipedia.org/wiki/Nowy_Rok>,
+        <http://pt.dbpedia.org/resource/Ano-Novo>,
+        <http://pt.wikipedia.org/wiki/Ano-Novo>,
+        <http://wikidata.dbpedia.org/resource/Q34812>,
+        <http://www.wikidata.org/entity/Q34812> ;
     ns1:verdict false ;
     nif:anchorOf "New Year"^^xsd:string ;
     nif:beginIndex "505"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.628571e-01 ;
+    nif:confidence 5.4e-01 ;
     nif:endIndex "513"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.628571e-01 ;
-    itsrdf:taIdentRef <http://dbpedia.org/resource/Chinese_New_Year> .
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/New_Year> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=55,64> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
+        <http://en.wikipedia.org/wiki/Joy_Bauer>,
+        <http://wikidata.dbpedia.org/resource/Q6297036>,
+        <http://www.wikidata.org/entity/Q6297036> ;
     ns1:verdict true ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "55"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.63125e-01 ;
+    nif:confidence 5.45625e-01 ;
     nif:endIndex "64"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.63125e-01 ;
+    itsrdf:taConfidence 5.45625e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Joy_Bauer> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=835,850> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/Low-density_lipoprotein> ;
+    ns1:goldLink <http://cs.dbpedia.org/resource/N%C3%ADzkodenzitn%C3%AD_lipoprotein>,
+        <http://cs.dbpedia.org/resource/Nízkodenzitní_lipoprotein>,
+        <http://cs.wikipedia.org/wiki/N%C3%ADzkodenzitn%C3%AD_lipoprotein>,
+        <http://cs.wikipedia.org/wiki/Nízkodenzitní_lipoprotein>,
+        <http://dbpedia.org/resource/Bad_cholesterol>,
+        <http://dbpedia.org/resource/Freidwald_equation>,
+        <http://dbpedia.org/resource/Friedewald_equation>,
+        <http://dbpedia.org/resource/LDL>,
+        <http://dbpedia.org/resource/LDL-C>,
+        <http://dbpedia.org/resource/LDL-cholesterol>,
+        <http://dbpedia.org/resource/LDL_cholesterol>,
+        <http://dbpedia.org/resource/Ldl_cholesterol>,
+        <http://dbpedia.org/resource/Lipoproteins>,
+        <http://dbpedia.org/resource/Lipoproteins%2C_ldl>,
+        <http://dbpedia.org/resource/Low-Density_Lipoprotein>,
+        <http://dbpedia.org/resource/Low-density-lipoprotein>,
+        <http://dbpedia.org/resource/Low-density_lipoprotein>,
+        <http://dbpedia.org/resource/Low-density_lipoprotein_cholesterol>,
+        <http://dbpedia.org/resource/Low-density_lipoproteins>,
+        <http://dbpedia.org/resource/Low_Density_Lipoprotein>,
+        <http://dbpedia.org/resource/Low_density_cholesterol>,
+        <http://dbpedia.org/resource/Low_density_lipoprotein>,
+        <http://de.wikipedia.org/wiki/Low_Density_Lipoprotein>,
+        <http://el.dbpedia.org/resource/%CE%9B%CE%B9%CF%80%CE%BF%CF%80%CF%81%CF%89%CF%84%CE%B5%CE%90%CE%BD%CE%B7_%CF%87%CE%B1%CE%BC%CE%B7%CE%BB%CE%AE%CF%82_%CF%80%CF%85%CE%BA%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82>,
+        <http://el.dbpedia.org/resource/Λιποπρωτεΐνη_χαμηλής_πυκνότητας>,
+        <http://en.wikipedia.org/wiki/Bad_cholesterol>,
+        <http://en.wikipedia.org/wiki/Freidwald_equation>,
+        <http://en.wikipedia.org/wiki/Friedewald_equation>,
+        <http://en.wikipedia.org/wiki/LDL>,
+        <http://en.wikipedia.org/wiki/LDL-C>,
+        <http://en.wikipedia.org/wiki/LDL-cholesterol>,
+        <http://en.wikipedia.org/wiki/LDL_cholesterol>,
+        <http://en.wikipedia.org/wiki/Ldl_cholesterol>,
+        <http://en.wikipedia.org/wiki/Lipoproteins>,
+        <http://en.wikipedia.org/wiki/Lipoproteins%2C_ldl>,
+        <http://en.wikipedia.org/wiki/Low-Density_Lipoprotein>,
+        <http://en.wikipedia.org/wiki/Low-density-lipoprotein>,
+        <http://en.wikipedia.org/wiki/Low-density_lipoprotein>,
+        <http://en.wikipedia.org/wiki/Low-density_lipoprotein_cholesterol>,
+        <http://en.wikipedia.org/wiki/Low-density_lipoproteins>,
+        <http://en.wikipedia.org/wiki/Low_Density_Lipoprotein>,
+        <http://en.wikipedia.org/wiki/Low_density_cholesterol>,
+        <http://en.wikipedia.org/wiki/Low_density_lipoprotein>,
+        <http://es.dbpedia.org/resource/Lipoprote%C3%ADna_de_baja_densidad>,
+        <http://es.dbpedia.org/resource/Lipoproteína_de_baja_densidad>,
+        <http://es.wikipedia.org/wiki/Lipoprote%C3%ADna_de_baja_densidad>,
+        <http://es.wikipedia.org/wiki/Lipoproteína_de_baja_densidad>,
+        <http://fr.dbpedia.org/resource/Lipoprot%C3%A9ine_de_basse_densit%C3%A9>,
+        <http://fr.dbpedia.org/resource/Lipoprotéine_de_basse_densité>,
+        <http://fr.wikipedia.org/wiki/Lipoprot%C3%A9ine_de_basse_densit%C3%A9>,
+        <http://fr.wikipedia.org/wiki/Lipoprotéine_de_basse_densité>,
+        <http://id.dbpedia.org/resource/Lipoprotein_densitas_rendah>,
+        <http://id.wikipedia.org/wiki/Lipoprotein_densitas_rendah>,
+        <http://it.dbpedia.org/resource/Lipoproteine_a_bassa_densit%C3%A0])>,
+        <http://it.dbpedia.org/resource/Lipoproteine_a_bassa_densità>,
+        <http://it.wikipedia.org/wiki/Lipoproteine_a_bassa_densit%C3%A0>,
+        <http://it.wikipedia.org/wiki/Lipoproteine_a_bassa_densità>,
+        <http://ko.dbpedia.org/resource/%EC%A0%80%EB%B0%80%EB%8F%84_%EC%A7%80%EC%A7%88%EB%8B%A8%EB%B0%B1%EC%A7%88>,
+        <http://ko.dbpedia.org/resource/저밀도_지질단백질>,
+        <http://ko.wikipedia.org/wiki/%EC%A0%80%EB%B0%80%EB%8F%84_%EC%A7%80%EC%A7%88%EB%8B%A8%EB%B0%B1%EC%A7%88>,
+        <http://ko.wikipedia.org/wiki/저밀도_지질단백질>,
+        <http://nl.dbpedia.org/resource/Low-density-lipoprote%C3%AFne>,
+        <http://nl.dbpedia.org/resource/Low-density-lipoproteïne>,
+        <http://nl.wikipedia.org/wiki/Low-density-lipoprote%C3%AFne>,
+        <http://nl.wikipedia.org/wiki/Low-density-lipoproteïne>,
+        <http://pl.dbpedia.org/resource/Lipoproteina_niskiej_g%C4%99sto%C5%9Bci>,
+        <http://pl.dbpedia.org/resource/Lipoproteina_niskiej_gęstości>,
+        <http://pl.wikipedia.org/wiki/Lipoproteina_niskiej_g%C4%99sto%C5%9Bci>,
+        <http://pl.wikipedia.org/wiki/Lipoproteina_niskiej_gęstości>,
+        <http://pt.dbpedia.org/resource/Lipoprote%C3%ADna_de_baixa_densidade>,
+        <http://pt.dbpedia.org/resource/Lipoproteína_de_baixa_densidade>,
+        <http://pt.wikipedia.org/wiki/Lipoprote%C3%ADna_de_baixa_densidade>,
+        <http://pt.wikipedia.org/wiki/Lipoproteína_de_baixa_densidade>,
+        <http://wikidata.dbpedia.org/resource/Q28749>,
+        <http://www.wikidata.org/entity/Q28749> ;
     ns1:verdict true ;
     nif:anchorOf "LDL-Cholesterol"^^xsd:string ;
     nif:beginIndex "835"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.6125e-01 ;
+    nif:confidence 6.175e-01 ;
     nif:endIndex "850"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taConfidence 6.175e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Low-density_lipoprotein> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=868,883> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
-    ns1:goldLink "" ;
+    ns1:candidate <http://dbpedia.org/resource/High-density_lipoprotein> ;
+    ns1:goldLink <http://cs.dbpedia.org/resource/Vysokodenzitn%C3%AD_lipoprotein>,
+        <http://cs.dbpedia.org/resource/Vysokodenzitní_lipoprotein>,
+        <http://cs.wikipedia.org/wiki/Vysokodenzitn%C3%AD_lipoprotein>,
+        <http://cs.wikipedia.org/wiki/Vysokodenzitní_lipoprotein>,
+        <http://dbpedia.org/resource/Good_cholesterol>,
+        <http://dbpedia.org/resource/HDL-cholesterol>,
+        <http://dbpedia.org/resource/HDL_cholesterol>,
+        <http://dbpedia.org/resource/Hdl_cholesterol>,
+        <http://dbpedia.org/resource/High-Density_Lipoprotein>,
+        <http://dbpedia.org/resource/High-density_lipoprotein>,
+        <http://dbpedia.org/resource/High-density_lipoproteins_%28HDL%29>,
+        <http://dbpedia.org/resource/High-density_lipoproteins_(HDL)>,
+        <http://dbpedia.org/resource/High-density_liporotein>,
+        <http://dbpedia.org/resource/High_Density_Lipoprotein>,
+        <http://dbpedia.org/resource/High_density_lipoprotein>,
+        <http://dbpedia.org/resource/Lipoproteins>,
+        <http://dbpedia.org/resource/Lipoproteins%2C_hdl>,
+        <http://dbpedia.org/resource/Non-HDL_cholesterol>,
+        <http://de.wikipedia.org/wiki/High_Density_Lipoprotein>,
+        <http://el.dbpedia.org/resource/%CE%9B%CE%B9%CF%80%CE%BF%CF%80%CF%81%CF%89%CF%84%CE%B5%CE%90%CE%BD%CE%B7_%CF%85%CF%88%CE%B7%CE%BB%CE%AE%CF%82_%CF%80%CF%85%CE%BA%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82>,
+        <http://el.dbpedia.org/resource/Λιποπρωτεΐνη_υψηλής_πυκνότητας>,
+        <http://en.wikipedia.org/wiki/Good_cholesterol>,
+        <http://en.wikipedia.org/wiki/HDL-cholesterol>,
+        <http://en.wikipedia.org/wiki/HDL_cholesterol>,
+        <http://en.wikipedia.org/wiki/Hdl_cholesterol>,
+        <http://en.wikipedia.org/wiki/High-Density_Lipoprotein>,
+        <http://en.wikipedia.org/wiki/High-density_lipoprotein>,
+        <http://en.wikipedia.org/wiki/High-density_lipoproteins_%28HDL%29>,
+        <http://en.wikipedia.org/wiki/High-density_lipoproteins_(HDL)>,
+        <http://en.wikipedia.org/wiki/High-density_liporotein>,
+        <http://en.wikipedia.org/wiki/High_Density_Lipoprotein>,
+        <http://en.wikipedia.org/wiki/High_density_lipoprotein>,
+        <http://en.wikipedia.org/wiki/Lipoproteins>,
+        <http://en.wikipedia.org/wiki/Lipoproteins%2C_hdl>,
+        <http://en.wikipedia.org/wiki/Non-HDL_cholesterol>,
+        <http://es.dbpedia.org/resource/Lipoprote%C3%ADna_de_alta_densidad>,
+        <http://es.dbpedia.org/resource/Lipoproteína_de_alta_densidad>,
+        <http://es.wikipedia.org/wiki/Lipoprote%C3%ADna_de_alta_densidad>,
+        <http://es.wikipedia.org/wiki/Lipoproteína_de_alta_densidad>,
+        <http://fr.dbpedia.org/resource/Lipoprot%C3%A9ine_de_haute_densit%C3%A9>,
+        <http://fr.dbpedia.org/resource/Lipoprotéine_de_haute_densité>,
+        <http://fr.wikipedia.org/wiki/Lipoprot%C3%A9ine_de_haute_densit%C3%A9>,
+        <http://fr.wikipedia.org/wiki/Lipoprotéine_de_haute_densité>,
+        <http://it.dbpedia.org/resource/Lipoproteine_ad_alta_densit%C3%A0>,
+        <http://it.dbpedia.org/resource/Lipoproteine_ad_alta_densità>,
+        <http://it.wikipedia.org/wiki/Lipoproteine_ad_alta_densit%C3%A0])>,
+        <http://it.wikipedia.org/wiki/Lipoproteine_ad_alta_densità>,
+        <http://nl.dbpedia.org/resource/High-density-lipoprote%C3%AFne>,
+        <http://nl.dbpedia.org/resource/High-density-lipoproteïne>,
+        <http://nl.wikipedia.org/wiki/High-density-lipoprote%C3%AFne>,
+        <http://nl.wikipedia.org/wiki/High-density-lipoproteïne>,
+        <http://pl.dbpedia.org/resource/Lipoproteina_wysokiej_g%C4%99sto%C5%9Bci>,
+        <http://pl.dbpedia.org/resource/Lipoproteina_wysokiej_gęstości>,
+        <http://pl.wikipedia.org/wiki/Lipoproteina_wysokiej_g%C4%99sto%C5%9Bci>,
+        <http://pl.wikipedia.org/wiki/Lipoproteina_wysokiej_gęstości>,
+        <http://pt.dbpedia.org/resource/Lipoprote%C3%ADna_de_alta_densidade>,
+        <http://pt.dbpedia.org/resource/Lipoproteína_de_alta_densidade>,
+        <http://pt.wikipedia.org/wiki/Lipoprote%C3%ADna_de_alta_densidade>,
+        <http://pt.wikipedia.org/wiki/Lipoproteína_de_alta_densidade>,
+        <http://wikidata.dbpedia.org/resource/Q410020>,
+        <http://www.wikidata.org/entity/Q410020> ;
     ns1:verdict true ;
     nif:anchorOf "HDL-Cholesterol"^^xsd:string ;
     nif:beginIndex "868"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.4375e-01 ;
+    nif:confidence 6e-01 ;
     nif:endIndex "883"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.4375e-01 ;
+    itsrdf:taConfidence 6e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/High-density_lipoprotein> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> a nif:Context,

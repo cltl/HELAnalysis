@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -8,6 +9,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,9> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/'Ali_ibn_al-'Abbas_al-Majusi>,
+        <http://dbpedia.org/resource/Abdalmalik_of_Morocco>,
+        <http://dbpedia.org/resource/Al_Maliki_II_Government>,
+        <http://dbpedia.org/resource/Al_Maliki_I_Government>,
+        <http://dbpedia.org/resource/Ala_al-Maliki>,
+        <http://dbpedia.org/resource/Habeas_corpus_petitions_of_Guantanamo_Bay_detainees>,
+        <http://dbpedia.org/resource/Haris_Al-Maliki>,
+        <http://dbpedia.org/resource/Muhammad_Alawi_al-Maliki>,
+        <http://dbpedia.org/resource/Nouri_al-Maliki>,
+        <http://dbpedia.org/resource/Riyad_al-Maliki>,
+        <http://dbpedia.org/resource/Saed_Farhan_Al-Maliki>,
+        <http://dbpedia.org/resource/Salam_al-Maliki> ;
     nif:anchorOf "Al-Maliki"^^xsd:string ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1875e-01 ;
@@ -19,6 +32,20 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1059,1069> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al-Jazeera_(Jordan)>,
+        <http://dbpedia.org/resource/Al_Jazeera>,
+        <http://dbpedia.org/resource/Al_Jazeera_America>,
+        <http://dbpedia.org/resource/Al_Jazeera_Balkans>,
+        <http://dbpedia.org/resource/Al_Jazeera_Documentary_Channel>,
+        <http://dbpedia.org/resource/Al_Jazeera_English>,
+        <http://dbpedia.org/resource/Al_Jazeera_Mubasher_Al-‘Amma>,
+        <http://dbpedia.org/resource/Al_Jazeera_Urdu>,
+        <http://dbpedia.org/resource/Al_Jazeera_bombing_memo>,
+        <http://dbpedia.org/resource/Aljazeera_Sports_Club>,
+        <http://dbpedia.org/resource/BeIN_Sports_(MENA)>,
+        <http://dbpedia.org/resource/BeIN_Sports_Arabia_HD>,
+        <http://dbpedia.org/resource/Jazeera_Airways>,
+        <http://dbpedia.org/resource/Sharq_al_Jazeera> ;
     nif:anchorOf "Al-Jazeera"^^xsd:string ;
     nif:beginIndex "1059"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -30,6 +57,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1089,1097> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/BlackBerry_Bold>,
+        <http://dbpedia.org/resource/HTC_Desire_HD>,
+        <http://dbpedia.org/resource/HTC_Wildfire>,
+        <http://dbpedia.org/resource/Internet>,
+        <http://dbpedia.org/resource/Internet2>,
+        <http://dbpedia.org/resource/Internet_service_provider>,
+        <http://dbpedia.org/resource/Internets>,
+        <http://dbpedia.org/resource/Nokia_Lumia_800>,
+        <http://dbpedia.org/resource/Nokia_Lumia_900>,
+        <http://dbpedia.org/resource/Samsung_Galaxy_S_II>,
+        <http://dbpedia.org/resource/World_Wide_Web> ;
     nif:anchorOf "Internet"^^xsd:string ;
     nif:beginIndex "1089"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -41,6 +79,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1121,1127> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "1121"^^xsd:nonNegativeInteger ;
     nif:confidence 9.205037e-01 ;
@@ -52,6 +112,15 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1148,1164> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/AP_National_Championship_Trophy>,
+        <http://dbpedia.org/resource/AP_Poll>,
+        <http://dbpedia.org/resource/AP_Stylebook>,
+        <http://dbpedia.org/resource/Associated_Press>,
+        <http://dbpedia.org/resource/Associated_Press_Television_News>,
+        <http://dbpedia.org/resource/Associated_Press_of_Pakistan>,
+        <http://dbpedia.org/resource/Australian_Associated_Press>,
+        <http://dbpedia.org/resource/National_Football_League_Most_Valuable_Player_Award>,
+        <http://dbpedia.org/resource/Press_Trust_of_India> ;
     nif:anchorOf "Associated Press"^^xsd:string ;
     nif:beginIndex "1148"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -63,6 +132,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1214,1229> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Nouri_al-Maliki> ;
     nif:anchorOf "Nouri al-Maliki"^^xsd:string ;
     nif:beginIndex "1214"^^xsd:nonNegativeInteger ;
     nif:confidence 9.438784e-01 ;
@@ -74,6 +144,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1309,1318> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/'Ali_ibn_al-'Abbas_al-Majusi>,
+        <http://dbpedia.org/resource/Abdalmalik_of_Morocco>,
+        <http://dbpedia.org/resource/Al_Maliki_II_Government>,
+        <http://dbpedia.org/resource/Al_Maliki_I_Government>,
+        <http://dbpedia.org/resource/Ala_al-Maliki>,
+        <http://dbpedia.org/resource/Habeas_corpus_petitions_of_Guantanamo_Bay_detainees>,
+        <http://dbpedia.org/resource/Haris_Al-Maliki>,
+        <http://dbpedia.org/resource/Muhammad_Alawi_al-Maliki>,
+        <http://dbpedia.org/resource/Nouri_al-Maliki>,
+        <http://dbpedia.org/resource/Riyad_al-Maliki>,
+        <http://dbpedia.org/resource/Saed_Farhan_Al-Maliki>,
+        <http://dbpedia.org/resource/Salam_al-Maliki> ;
     nif:anchorOf "Al-Maliki"^^xsd:string ;
     nif:beginIndex "1309"^^xsd:nonNegativeInteger ;
     nif:confidence 9.4725e-01 ;
@@ -85,6 +167,19 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=133,141> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/KSHB-TV>,
+        <http://dbpedia.org/resource/Lynn_Berry_(news_personality)>,
+        <http://dbpedia.org/resource/NBCNews.com>,
+        <http://dbpedia.org/resource/NBC_10>,
+        <http://dbpedia.org/resource/NBC_News>,
+        <http://dbpedia.org/resource/NBC_News_Overnight>,
+        <http://dbpedia.org/resource/NBC_News_at_Sunrise>,
+        <http://dbpedia.org/resource/NBC_Nightly_News>,
+        <http://dbpedia.org/resource/NBC_Nightside>,
+        <http://dbpedia.org/resource/Pete_Williams_%28NBC_News%29>,
+        <http://dbpedia.org/resource/Pete_Williams_(journalist)>,
+        <http://dbpedia.org/resource/Peter_Alexander_(journalist)>,
+        <http://dbpedia.org/resource/WCAU> ;
     nif:anchorOf "NBC News"^^xsd:string ;
     nif:beginIndex "133"^^xsd:nonNegativeInteger ;
     nif:confidence 7.62632e-01 ;
@@ -96,6 +191,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1442,1448> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "1442"^^xsd:nonNegativeInteger ;
     nif:confidence 9.202575e-01 ;
@@ -107,6 +224,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1489,1502> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Armed_Forces_Retirement_Home>,
+        <http://dbpedia.org/resource/Foreign_relations_of_the_United_States>,
+        <http://dbpedia.org/resource/List_of_United_States_military_bases>,
+        <http://dbpedia.org/resource/Military_Intelligence_Corps_(United_States_Army)>,
+        <http://dbpedia.org/resource/Military_Sealift_Command>,
+        <http://dbpedia.org/resource/Military_budget_of_the_United_States>,
+        <http://dbpedia.org/resource/Military_discharge>,
+        <http://dbpedia.org/resource/Military_history_of_the_United_States>,
+        <http://dbpedia.org/resource/Military_slang>,
+        <http://dbpedia.org/resource/Religious_symbolism_in_the_United_States_military>,
+        <http://dbpedia.org/resource/Reserve_components_of_the_United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/Staff_college>,
+        <http://dbpedia.org/resource/U.S._Military_Telegraph_Corps>,
+        <http://dbpedia.org/resource/U.S._Military_Television_Network>,
+        <http://dbpedia.org/resource/U.S._Military_connector_specifications>,
+        <http://dbpedia.org/resource/U.S._military_instructor_badges>,
+        <http://dbpedia.org/resource/U.S._uniformed_services_pay_grades>,
+        <http://dbpedia.org/resource/Unified_Combatant_Command>,
+        <http://dbpedia.org/resource/Uniform_Code_of_Military_Justice>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Military_Academy>,
+        <http://dbpedia.org/resource/United_States_Military_Railroad>,
+        <http://dbpedia.org/resource/United_States_Military_Standard>,
+        <http://dbpedia.org/resource/United_States_military_bands>,
+        <http://dbpedia.org/resource/United_States_military_casualties_of_war>,
+        <http://dbpedia.org/resource/United_States_military_chocolate>,
+        <http://dbpedia.org/resource/United_States_military_deployments> ;
     nif:anchorOf "U.S. military"^^xsd:string ;
     nif:beginIndex "1489"^^xsd:nonNegativeInteger ;
     nif:confidence 6.615059e-01 ;
@@ -118,6 +262,103 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1534,1547> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/American_poetry>,
+        <http://dbpedia.org/resource/American_wine>,
+        <http://dbpedia.org/resource/Billboard_200>,
+        <http://dbpedia.org/resource/Billboard_Hot_100>,
+        <http://dbpedia.org/resource/Cinema_of_the_United_States>,
+        <http://dbpedia.org/resource/Communications_in_the_United_States>,
+        <http://dbpedia.org/resource/Copyright_law_of_the_United_States>,
+        <http://dbpedia.org/resource/Dirty_King>,
+        <http://dbpedia.org/resource/Economy_of_the_United_States>,
+        <http://dbpedia.org/resource/Education_in_the_United_States>,
+        <http://dbpedia.org/resource/Federal_government_of_the_United_States>,
+        <http://dbpedia.org/resource/Federalism_in_China>,
+        <http://dbpedia.org/resource/Flag_of_the_United_States>,
+        <http://dbpedia.org/resource/Foreign_relations_of_the_United_States>,
+        <http://dbpedia.org/resource/Geography_of_Mexico>,
+        <http://dbpedia.org/resource/Geothermal_energy_in_the_United_States>,
+        <http://dbpedia.org/resource/Greater_Republic_of_Central_America>,
+        <http://dbpedia.org/resource/History_of_the_United_States>,
+        <http://dbpedia.org/resource/Law_of_the_United_States>,
+        <http://dbpedia.org/resource/List_of_earthquakes_in_2011>,
+        <http://dbpedia.org/resource/List_of_earthquakes_in_2013>,
+        <http://dbpedia.org/resource/List_of_earthquakes_in_2014>,
+        <http://dbpedia.org/resource/NASA>,
+        <http://dbpedia.org/resource/National_Collegiate_Athletic_Association>,
+        <http://dbpedia.org/resource/Politics_of_the_United_States>,
+        <http://dbpedia.org/resource/Quakers>,
+        <http://dbpedia.org/resource/Rail_transportation_in_the_United_States>,
+        <http://dbpedia.org/resource/Recording_Industry_Association_of_America>,
+        <http://dbpedia.org/resource/Religion_in_the_United_States>,
+        <http://dbpedia.org/resource/Snakehouse>,
+        <http://dbpedia.org/resource/Southwestern_United_States>,
+        <http://dbpedia.org/resource/Stellaland>,
+        <http://dbpedia.org/resource/Television_in_the_United_States>,
+        <http://dbpedia.org/resource/The_Care_Bears_Movie>,
+        <http://dbpedia.org/resource/The_Move>,
+        <http://dbpedia.org/resource/The_United_States_of_America_%28band%29>,
+        <http://dbpedia.org/resource/The_United_States_of_Leland>,
+        <http://dbpedia.org/resource/USA_Baseball>,
+        <http://dbpedia.org/resource/USA_Hockey>,
+        <http://dbpedia.org/resource/USS_United_States_%281797%29>,
+        <http://dbpedia.org/resource/United%2BStates>,
+        <http://dbpedia.org/resource/United_Belgian_States>,
+        <http://dbpedia.org/resource/United_States>,
+        <http://dbpedia.org/resource/United_States_(disambiguation)>,
+        <http://dbpedia.org/resource/United_States_Air_Force>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Army>,
+        <http://dbpedia.org/resource/United_States_Constitution>,
+        <http://dbpedia.org/resource/United_States_Davis_Cup_team>,
+        <http://dbpedia.org/resource/United_States_Fed_Cup_team>,
+        <http://dbpedia.org/resource/United_States_Live>,
+        <http://dbpedia.org/resource/United_States_Navy>,
+        <http://dbpedia.org/resource/United_States_Soccer_Federation>,
+        <http://dbpedia.org/resource/United_States_U-23_men%27s_national_soccer_team>,
+        <http://dbpedia.org/resource/United_States_and_weapons_of_mass_destruction>,
+        <http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_1972_Summer_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_1992_Summer_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_2004_Summer_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_2006_Winter_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_2008_Summer_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_2010_Winter_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_Olympics>,
+        <http://dbpedia.org/resource/United_States_at_the_Paralympics>,
+        <http://dbpedia.org/resource/United_States_dollar>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_basketball_team>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_field_hockey_team>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_ice_hockey_team>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_junior_ice_hockey_team>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_soccer_team>,
+        <http://dbpedia.org/resource/United_States_men%27s_national_volleyball_team>,
+        <http://dbpedia.org/resource/United_States_national_badminton_team>,
+        <http://dbpedia.org/resource/United_States_national_baseball_team>,
+        <http://dbpedia.org/resource/United_States_national_cricket_team>,
+        <http://dbpedia.org/resource/United_States_national_rugby_league_team>,
+        <http://dbpedia.org/resource/United_States_national_rugby_union_team>,
+        <http://dbpedia.org/resource/United_States_national_speedway_team>,
+        <http://dbpedia.org/resource/United_States_national_under-19_cricket_team>,
+        <http://dbpedia.org/resource/United_States_of_Africa>,
+        <http://dbpedia.org/resource/United_States_of_Colombia>,
+        <http://dbpedia.org/resource/United_States_of_Europe>,
+        <http://dbpedia.org/resource/United_States_of_Greater_Austria>,
+        <http://dbpedia.org/resource/United_States_of_Indonesia>,
+        <http://dbpedia.org/resource/United_States_of_Latin_Africa>,
+        <http://dbpedia.org/resource/United_States_of_North_America>,
+        <http://dbpedia.org/resource/United_States_of_Tara>,
+        <http://dbpedia.org/resource/United_States_of_Whatever>,
+        <http://dbpedia.org/resource/United_States_of_the_Ionian_Islands>,
+        <http://dbpedia.org/resource/United_States_of_the_West>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_basketball_team>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_field_hockey_team>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_ice_hockey_team>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_soccer_team>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_volleyball_team>,
+        <http://dbpedia.org/resource/United_States_women%27s_national_water_polo_team>,
+        <http://dbpedia.org/resource/Western_United_States>,
+        <http://dbpedia.org/resource/Wind_power_in_the_United_States> ;
     nif:anchorOf "United States"^^xsd:string ;
     nif:beginIndex "1534"^^xsd:nonNegativeInteger ;
     nif:confidence 8.7125e-01 ;
@@ -129,6 +370,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1791,1800> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdul_Rahman_Majeed_al-Rubaie>,
+        <http://dbpedia.org/resource/Mowaffak_al-Rubaie> ;
     nif:anchorOf "al-Rubaie"^^xsd:string ;
     nif:beginIndex "1791"^^xsd:nonNegativeInteger ;
     nif:confidence 7.655957e-01 ;
@@ -140,6 +383,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1872,1890> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mowaffak_al-Rubaie> ;
     nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
     nif:beginIndex "1872"^^xsd:nonNegativeInteger ;
     nif:confidence 8.685e-01 ;
@@ -162,6 +406,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=1986,1992> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "1986"^^xsd:nonNegativeInteger ;
     nif:confidence 8.935186e-01 ;
@@ -173,6 +439,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2014,2034> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/AP_Stylebook>,
+        <http://dbpedia.org/resource/Associated_Press>,
+        <http://dbpedia.org/resource/National_Football_League_Most_Valuable_Player_Award> ;
     nif:anchorOf "The Associated Press"^^xsd:string ;
     nif:beginIndex "2014"^^xsd:nonNegativeInteger ;
     nif:confidence 7.488055e-01 ;
@@ -184,6 +453,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=227,241> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Ba'athist_Iraq>,
+        <http://dbpedia.org/resource/Baghdad_Gymnasium>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Interrogation_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Investment_in_post-invasion_Iraq>,
+        <http://dbpedia.org/resource/Operation_Red_Dawn>,
+        <http://dbpedia.org/resource/Raghad_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Hussein's_novels>,
+        <http://dbpedia.org/resource/Sanctions_against_Iraq>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Uday_Hussein> ;
     nif:anchorOf "Saddam Hussein"^^xsd:string ;
     nif:beginIndex "227"^^xsd:nonNegativeInteger ;
     nif:confidence 8.45e-01 ;
@@ -195,6 +476,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2332,2341> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/--NME--> ;
     nif:anchorOf "al-Faroon"^^xsd:string ;
     nif:beginIndex "2332"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -206,6 +488,20 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2498,2508> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al-Jazeera_(Jordan)>,
+        <http://dbpedia.org/resource/Al_Jazeera>,
+        <http://dbpedia.org/resource/Al_Jazeera_America>,
+        <http://dbpedia.org/resource/Al_Jazeera_Balkans>,
+        <http://dbpedia.org/resource/Al_Jazeera_Documentary_Channel>,
+        <http://dbpedia.org/resource/Al_Jazeera_English>,
+        <http://dbpedia.org/resource/Al_Jazeera_Mubasher_Al-‘Amma>,
+        <http://dbpedia.org/resource/Al_Jazeera_Urdu>,
+        <http://dbpedia.org/resource/Al_Jazeera_bombing_memo>,
+        <http://dbpedia.org/resource/Aljazeera_Sports_Club>,
+        <http://dbpedia.org/resource/BeIN_Sports_(MENA)>,
+        <http://dbpedia.org/resource/BeIN_Sports_Arabia_HD>,
+        <http://dbpedia.org/resource/Jazeera_Airways>,
+        <http://dbpedia.org/resource/Sharq_al_Jazeera> ;
     nif:anchorOf "Al-Jazeera"^^xsd:string ;
     nif:beginIndex "2498"^^xsd:nonNegativeInteger ;
     nif:confidence 7.338784e-01 ;
@@ -217,6 +513,40 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2525,2533> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Business-to-business>,
+        <http://dbpedia.org/resource/Domain_name>,
+        <http://dbpedia.org/resource/Dynamic_web_page>,
+        <http://dbpedia.org/resource/Ellie_Dylan>,
+        <http://dbpedia.org/resource/Encyclopædia_Britannica_Online>,
+        <http://dbpedia.org/resource/European_Spallation_Source>,
+        <http://dbpedia.org/resource/Favicon>,
+        <http://dbpedia.org/resource/GeoSUR>,
+        <http://dbpedia.org/resource/Global_Greens>,
+        <http://dbpedia.org/resource/Hyperreal_number>,
+        <http://dbpedia.org/resource/Instituto_de_Astronom%C3%ADa_Te%C3%B3rica_y_Experimental>,
+        <http://dbpedia.org/resource/Minnesota_Society_of_Certified_Public_Accountants>,
+        <http://dbpedia.org/resource/Missouri_Foundation_for_Health>,
+        <http://dbpedia.org/resource/Personal_web_page>,
+        <http://dbpedia.org/resource/Phishing>,
+        <http://dbpedia.org/resource/Search_engine_submission>,
+        <http://dbpedia.org/resource/Site_map>,
+        <http://dbpedia.org/resource/Skyshapers_Foundation>,
+        <http://dbpedia.org/resource/Social_networking_service>,
+        <http://dbpedia.org/resource/Spallation_Neutron_Source>,
+        <http://dbpedia.org/resource/Uniform_Resource_Locator>,
+        <http://dbpedia.org/resource/University_of_the_State_of_New_York>,
+        <http://dbpedia.org/resource/Virtual_Office_Website>,
+        <http://dbpedia.org/resource/WAGO_Kontakttechnik>,
+        <http://dbpedia.org/resource/Web_design>,
+        <http://dbpedia.org/resource/Web_development>,
+        <http://dbpedia.org/resource/Web_portal>,
+        <http://dbpedia.org/resource/Webmaster>,
+        <http://dbpedia.org/resource/Website>,
+        <http://dbpedia.org/resource/Website_Parse_Template>,
+        <http://dbpedia.org/resource/Website_defacement>,
+        <http://dbpedia.org/resource/Website_spoofing>,
+        <http://dbpedia.org/resource/Website_wireframe>,
+        <http://dbpedia.org/resource/World_Socialist_Web_Site> ;
     nif:anchorOf "Web site"^^xsd:string ;
     nif:beginIndex "2525"^^xsd:nonNegativeInteger ;
     nif:confidence 6.175e-01 ;
@@ -228,6 +558,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2550,2556> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "2550"^^xsd:nonNegativeInteger ;
     nif:confidence 7.887624e-01 ;
@@ -239,6 +591,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2577,2591> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Helen_Hayes_Theatre>,
+        <http://dbpedia.org/resource/International_New_York_Times>,
+        <http://dbpedia.org/resource/List_of_assets_owned_by_The_New_York_Times_Company>,
+        <http://dbpedia.org/resource/New_York_Times_Index>,
+        <http://dbpedia.org/resource/The_New_York_Times>,
+        <http://dbpedia.org/resource/The_New_York_Times_Almanac>,
+        <http://dbpedia.org/resource/The_New_York_Times_Best_Seller_list>,
+        <http://dbpedia.org/resource/The_New_York_Times_Building>,
+        <http://dbpedia.org/resource/The_New_York_Times_Company>,
+        <http://dbpedia.org/resource/The_New_York_Times_Magazine>,
+        <http://dbpedia.org/resource/The_New_York_Times_crossword_puzzle> ;
     nif:anchorOf "New York Times"^^xsd:string ;
     nif:beginIndex "2577"^^xsd:nonNegativeInteger ;
     nif:confidence 7.6625e-01 ;
@@ -250,6 +613,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2619,2628> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/--NME--> ;
     nif:anchorOf "al-Faroon"^^xsd:string ;
     nif:beginIndex "2619"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -261,17 +625,88 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2733,2740> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Aamer_Hussein>,
+        <http://dbpedia.org/resource/Abdulwahab_Hussain>,
+        <http://dbpedia.org/resource/André_Hossein>,
+        <http://dbpedia.org/resource/Aqeel_Hussein>,
+        <http://dbpedia.org/resource/Bahoz_Erdal>,
+        <http://dbpedia.org/resource/Barack_Obama>,
+        <http://dbpedia.org/resource/Bilal_Hussein>,
+        <http://dbpedia.org/resource/Chousein_Moumin>,
+        <http://dbpedia.org/resource/Dana_Hussain>,
+        <http://dbpedia.org/resource/Hamza_Hussein>,
+        <http://dbpedia.org/resource/Hishammuddin_Hussein>,
+        <http://dbpedia.org/resource/Hossein_Nasr>,
+        <http://dbpedia.org/resource/Husayn_ibn_Ali>,
+        <http://dbpedia.org/resource/Huseyincan_Celil>,
+        <http://dbpedia.org/resource/Hussain_Hotak>,
+        <http://dbpedia.org/resource/Hussain_Zaky>,
+        <http://dbpedia.org/resource/Hussein>,
+        <http://dbpedia.org/resource/Hussein_Abdulghani>,
+        <http://dbpedia.org/resource/Hussein_Alaa_Hussein>,
+        <http://dbpedia.org/resource/Hussein_Amine>,
+        <http://dbpedia.org/resource/Hussein_Bassir>,
+        <http://dbpedia.org/resource/Hussein_Chalayan>,
+        <http://dbpedia.org/resource/Hussein_Darbouk>,
+        <http://dbpedia.org/resource/Hussein_Dey>,
+        <http://dbpedia.org/resource/Hussein_Dey_District>,
+        <http://dbpedia.org/resource/Hussein_Dokmak>,
+        <http://dbpedia.org/resource/Hussein_Fahmy>,
+        <http://dbpedia.org/resource/Hussein_Farrah_Aidid>,
+        <http://dbpedia.org/resource/Hussein_Fatal>,
+        <http://dbpedia.org/resource/Hussein_Hanoun>,
+        <http://dbpedia.org/resource/Hussein_Hegazi>,
+        <http://dbpedia.org/resource/Hussein_Hussein>,
+        <http://dbpedia.org/resource/Hussein_Ibish>,
+        <http://dbpedia.org/resource/Hussein_Jawad>,
+        <http://dbpedia.org/resource/Hussein_Kamal>,
+        <http://dbpedia.org/resource/Hussein_Kamel>,
+        <http://dbpedia.org/resource/Hussein_Kamel_of_Egypt>,
+        <http://dbpedia.org/resource/Hussein_Maziq>,
+        <http://dbpedia.org/resource/Hussein_Naboulsi>,
+        <http://dbpedia.org/resource/Hussein_Naeem>,
+        <http://dbpedia.org/resource/Hussein_Onn>,
+        <http://dbpedia.org/resource/Hussein_Saeed>,
+        <http://dbpedia.org/resource/Hussein_Sheikholeslam>,
+        <http://dbpedia.org/resource/Hussein_Shuqul>,
+        <http://dbpedia.org/resource/Hussein_Tawbe>,
+        <http://dbpedia.org/resource/Hussein_Yasser>,
+        <http://dbpedia.org/resource/Hussein_Ye>,
+        <http://dbpedia.org/resource/Hussein_of_Jordan>,
+        <http://dbpedia.org/resource/Ibrahim_Hussein>,
+        <http://dbpedia.org/resource/International_Solidarity_Movement>,
+        <http://dbpedia.org/resource/Jamil_Hussein_controversy>,
+        <http://dbpedia.org/resource/Kamal_el-Din_Hussein>,
+        <http://dbpedia.org/resource/Lubna_al-Hussein>,
+        <http://dbpedia.org/resource/Mishal_Husain>,
+        <http://dbpedia.org/resource/Mubasshar_Hussein>,
+        <http://dbpedia.org/resource/Mustapha_Hussein>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Raghad_Hussein>,
+        <http://dbpedia.org/resource/Rana_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Shah_Hussain>,
+        <http://dbpedia.org/resource/Shahriza_Hussein>,
+        <http://dbpedia.org/resource/Sheikh_Hussein>,
+        <http://dbpedia.org/resource/Taha_Hussein>,
+        <http://dbpedia.org/resource/Talat_Hussain_(actor)>,
+        <http://dbpedia.org/resource/The_Boyz_(German_musical_group)>,
+        <http://dbpedia.org/resource/Uday_Hussein>,
+        <http://dbpedia.org/resource/Waris_Hussein>,
+        <http://dbpedia.org/resource/Ya_Hussain>,
+        <http://dbpedia.org/resource/Yemeni_detainees_at_Guantanamo_Bay> ;
     nif:anchorOf "Hussein"^^xsd:string ;
     nif:beginIndex "2733"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.249365e-01 ;
+    nif:confidence 7.022585e-01 ;
     nif:endIndex "2740"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_6#char=0,5083> ;
-    itsrdf:taConfidence 7.249365e-01 ;
+    itsrdf:taConfidence 7.022585e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Saddam_Hussein> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2820,2838> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mowaffak_al-Rubaie> ;
     nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
     nif:beginIndex "2820"^^xsd:nonNegativeInteger ;
     nif:confidence 7.260677e-01 ;
@@ -283,6 +718,21 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2844,2850> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al_Maliki_II_Government>,
+        <http://dbpedia.org/resource/Al_Maliki_I_Government>,
+        <http://dbpedia.org/resource/Dolne_Maliki>,
+        <http://dbpedia.org/resource/G%C3%B3rne_Maliki>,
+        <http://dbpedia.org/resource/Górne_Maliki>,
+        <http://dbpedia.org/resource/Ibrahim_Maliki>,
+        <http://dbpedia.org/resource/Malik_ibn_Anas>,
+        <http://dbpedia.org/resource/Maliki>,
+        <http://dbpedia.org/resource/Maliki_%28disambiguation%29>,
+        <http://dbpedia.org/resource/Maliki_(disambiguation)>,
+        <http://dbpedia.org/resource/Maliki_Osman>,
+        <http://dbpedia.org/resource/Milaki,_Hormozgan>,
+        <http://dbpedia.org/resource/Muhammad_Alawi_al-Maliki>,
+        <http://dbpedia.org/resource/Nouri_al-Maliki>,
+        <http://dbpedia.org/resource/Shah_Maleki> ;
     nif:anchorOf "Maliki"^^xsd:string ;
     nif:beginIndex "2844"^^xsd:nonNegativeInteger ;
     nif:confidence 8.025167e-01 ;
@@ -294,6 +744,74 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2888,2893> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/99_Times>,
+        <http://dbpedia.org/resource/Ancient_Greece>,
+        <http://dbpedia.org/resource/Ancient_Rome>,
+        <http://dbpedia.org/resource/Angling_Times>,
+        <http://dbpedia.org/resource/Asia_Times>,
+        <http://dbpedia.org/resource/Berjaya_Times_Square>,
+        <http://dbpedia.org/resource/Bhutan_Times>,
+        <http://dbpedia.org/resource/Brisbane_Times>,
+        <http://dbpedia.org/resource/Challenging_Times>,
+        <http://dbpedia.org/resource/China_Times>,
+        <http://dbpedia.org/resource/Daily_Times_Chronicle>,
+        <http://dbpedia.org/resource/Disaster_In_The_Universe>,
+        <http://dbpedia.org/resource/Draconian_Times>,
+        <http://dbpedia.org/resource/Global_Times>,
+        <http://dbpedia.org/resource/Good_Times%2C_Bad_Times>,
+        <http://dbpedia.org/resource/Good_Times%2C_Wonderful_Times>,
+        <http://dbpedia.org/resource/Good_Times,_Bed_Times>,
+        <http://dbpedia.org/resource/Good_Times,_Wonderful_Times>,
+        <http://dbpedia.org/resource/Good_Times_Bad_Times>,
+        <http://dbpedia.org/resource/Gulf_Times>,
+        <http://dbpedia.org/resource/Inish_Times>,
+        <http://dbpedia.org/resource/Lerner_Newspapers>,
+        <http://dbpedia.org/resource/Los_Angeles_Times>,
+        <http://dbpedia.org/resource/Middle_Ages>,
+        <http://dbpedia.org/resource/NHL_Heritage_Classic>,
+        <http://dbpedia.org/resource/Napoleonic_Wars>,
+        <http://dbpedia.org/resource/Navy_Times>,
+        <http://dbpedia.org/resource/Neene_Bari_Neene>,
+        <http://dbpedia.org/resource/Northern_District_Times>,
+        <http://dbpedia.org/resource/Old_Times>,
+        <http://dbpedia.org/resource/On_the_Real_Side>,
+        <http://dbpedia.org/resource/Phoenix_New_Times>,
+        <http://dbpedia.org/resource/Quad-City_Times>,
+        <http://dbpedia.org/resource/San_Francisco_Bay_Times>,
+        <http://dbpedia.org/resource/Shag_Times>,
+        <http://dbpedia.org/resource/Situationist_Times>,
+        <http://dbpedia.org/resource/Star_Tribune>,
+        <http://dbpedia.org/resource/Taipei_Times>,
+        <http://dbpedia.org/resource/The_Baltic_Times>,
+        <http://dbpedia.org/resource/The_Catholic_Times>,
+        <http://dbpedia.org/resource/The_Hill_Times>,
+        <http://dbpedia.org/resource/The_Irish_Times>,
+        <http://dbpedia.org/resource/The_Kent_Island_Bay_Times>,
+        <http://dbpedia.org/resource/The_Korea_Times>,
+        <http://dbpedia.org/resource/The_New_York_Times>,
+        <http://dbpedia.org/resource/The_Seattle_Times>,
+        <http://dbpedia.org/resource/The_Straits_Times>,
+        <http://dbpedia.org/resource/The_Sunday_Times>,
+        <http://dbpedia.org/resource/The_Swarbriggs>,
+        <http://dbpedia.org/resource/The_Times>,
+        <http://dbpedia.org/resource/The_Times_%28Malta%29>,
+        <http://dbpedia.org/resource/The_Times_%28Pawtucket%29>,
+        <http://dbpedia.org/resource/The_Times_%28Shreveport%29>,
+        <http://dbpedia.org/resource/The_Times_%28South_Africa%29>,
+        <http://dbpedia.org/resource/The_Times_%28Trenton%29>,
+        <http://dbpedia.org/resource/The_Times_%28band%29>,
+        <http://dbpedia.org/resource/The_Times_%28disambiguation%29>,
+        <http://dbpedia.org/resource/The_Times_(disambiguation)>,
+        <http://dbpedia.org/resource/The_Times_Group>,
+        <http://dbpedia.org/resource/The_Times_of_India>,
+        <http://dbpedia.org/resource/The_Times_of_Northwest_Indiana>,
+        <http://dbpedia.org/resource/The_Wipers_Times>,
+        <http://dbpedia.org/resource/Times_Books>,
+        <http://dbpedia.org/resource/Times_New_Roman>,
+        <http://dbpedia.org/resource/Times_Plaza>,
+        <http://dbpedia.org/resource/Times_Square>,
+        <http://dbpedia.org/resource/Tournament_In_Management_and_Engineering_Skills>,
+        <http://dbpedia.org/resource/Vientiane_Times> ;
     nif:anchorOf "Times"^^xsd:string ;
     nif:beginIndex "2888"^^xsd:nonNegativeInteger ;
     nif:confidence 7.287769e-01 ;
@@ -305,6 +823,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2927,2936> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdul_Rahman_Majeed_al-Rubaie>,
+        <http://dbpedia.org/resource/Mowaffak_al-Rubaie> ;
     nif:anchorOf "al-Rubaie"^^xsd:string ;
     nif:beginIndex "2927"^^xsd:nonNegativeInteger ;
     nif:confidence 6.805037e-01 ;
@@ -316,6 +836,74 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=2950,2952> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/%28AP%29>,
+        <http://dbpedia.org/resource/AP>,
+        <http://dbpedia.org/resource/AP_Biology>,
+        <http://dbpedia.org/resource/AP_Calculus>,
+        <http://dbpedia.org/resource/AP_Films>,
+        <http://dbpedia.org/resource/AP_French_Language>,
+        <http://dbpedia.org/resource/AP_French_Literature>,
+        <http://dbpedia.org/resource/AP_Latin_Literature>,
+        <http://dbpedia.org/resource/AP_Macroeconomics>,
+        <http://dbpedia.org/resource/AP_Microeconomics>,
+        <http://dbpedia.org/resource/AP_Newsfeatures>,
+        <http://dbpedia.org/resource/AP_Poll>,
+        <http://dbpedia.org/resource/AP_Psychology>,
+        <http://dbpedia.org/resource/AP_Spanish_Literature>,
+        <http://dbpedia.org/resource/AP_Statistics>,
+        <http://dbpedia.org/resource/AP_Stylebook>,
+        <http://dbpedia.org/resource/AP_United_States_Government_and_Politics>,
+        <http://dbpedia.org/resource/AP_endonuclease>,
+        <http://dbpedia.org/resource/AP_site>,
+        <http://dbpedia.org/resource/Accounts_payable>,
+        <http://dbpedia.org/resource/Acetone_peroxide>,
+        <http://dbpedia.org/resource/Action_potential>,
+        <http://dbpedia.org/resource/Adjective_phrase>,
+        <http://dbpedia.org/resource/Administration_Police>,
+        <http://dbpedia.org/resource/Adrian_Peterson>,
+        <http://dbpedia.org/resource/Advanced_Placement>,
+        <http://dbpedia.org/resource/Advanced_Placement_Economics>,
+        <http://dbpedia.org/resource/Alkaline_phosphatase>,
+        <http://dbpedia.org/resource/Allied_Press>,
+        <http://dbpedia.org/resource/Alternative_Press>,
+        <http://dbpedia.org/resource/Ammonium_perchlorate>,
+        <http://dbpedia.org/resource/Analog_Pussy>,
+        <http://dbpedia.org/resource/Andhra_Pradesh>,
+        <http://dbpedia.org/resource/Ang_Pamantasan>,
+        <http://dbpedia.org/resource/Animal_Planet>,
+        <http://dbpedia.org/resource/Ap_Chau>,
+        <http://dbpedia.org/resource/Application_profile>,
+        <http://dbpedia.org/resource/Applied_physics>,
+        <http://dbpedia.org/resource/Applied_psychology>,
+        <http://dbpedia.org/resource/Area_postrema>,
+        <http://dbpedia.org/resource/Arithmetic_progression>,
+        <http://dbpedia.org/resource/Armenian_Power>,
+        <http://dbpedia.org/resource/Armor-piercing_shell>,
+        <http://dbpedia.org/resource/Arunachal_Pradesh>,
+        <http://dbpedia.org/resource/Asia-Pacific>,
+        <http://dbpedia.org/resource/Asian_pride>,
+        <http://dbpedia.org/resource/Associated_Press>,
+        <http://dbpedia.org/resource/Astral_Projection_%28group%29>,
+        <http://dbpedia.org/resource/Atmospheric_pressure>,
+        <http://dbpedia.org/resource/Attachment_parenting>,
+        <http://dbpedia.org/resource/Au_pair>,
+        <http://dbpedia.org/resource/Austin_Peay_State_University>,
+        <http://dbpedia.org/resource/Autopilot>,
+        <http://dbpedia.org/resource/Battle_of_Ap_Bac>,
+        <http://dbpedia.org/resource/Blood_pressure>,
+        <http://dbpedia.org/resource/Glossary_of_video_game_terms>,
+        <http://dbpedia.org/resource/Iranian_calendars>,
+        <http://dbpedia.org/resource/Justice_Party_%28Turkey%29>,
+        <http://dbpedia.org/resource/Labour_Party_(Norway)>,
+        <http://dbpedia.org/resource/Maredudd_ap_Llywelyn_ap_Maredudd_ap_Cynan>,
+        <http://dbpedia.org/resource/People%27s_Alliance_%28Spain%29>,
+        <http://dbpedia.org/resource/Professor>,
+        <http://dbpedia.org/resource/Province_of_Ascoli_Piceno>,
+        <http://dbpedia.org/resource/Renegades_of_Funk>,
+        <http://dbpedia.org/resource/Stimulant_psychosis>,
+        <http://dbpedia.org/resource/The_Great_Atlantic_&_Pacific_Tea_Company>,
+        <http://dbpedia.org/resource/Vice-principal>,
+        <http://dbpedia.org/resource/Wireless_access_point> ;
     nif:anchorOf "AP"^^xsd:string ;
     nif:beginIndex "2950"^^xsd:nonNegativeInteger ;
     nif:confidence 6.736669e-01 ;
@@ -327,6 +915,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3046,3055> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/'Ali_ibn_al-'Abbas_al-Majusi>,
+        <http://dbpedia.org/resource/Abdalmalik_of_Morocco>,
+        <http://dbpedia.org/resource/Al_Maliki_II_Government>,
+        <http://dbpedia.org/resource/Al_Maliki_I_Government>,
+        <http://dbpedia.org/resource/Ala_al-Maliki>,
+        <http://dbpedia.org/resource/Habeas_corpus_petitions_of_Guantanamo_Bay_detainees>,
+        <http://dbpedia.org/resource/Haris_Al-Maliki>,
+        <http://dbpedia.org/resource/Muhammad_Alawi_al-Maliki>,
+        <http://dbpedia.org/resource/Nouri_al-Maliki>,
+        <http://dbpedia.org/resource/Riyad_al-Maliki>,
+        <http://dbpedia.org/resource/Saed_Farhan_Al-Maliki>,
+        <http://dbpedia.org/resource/Salam_al-Maliki> ;
     nif:anchorOf "al-Maliki"^^xsd:string ;
     nif:beginIndex "3046"^^xsd:nonNegativeInteger ;
     nif:confidence 8.415075e-01 ;
@@ -338,6 +938,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3064,3069> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al_Najaf_Airways>,
+        <http://dbpedia.org/resource/Al_Najaf_International_Airport>,
+        <http://dbpedia.org/resource/An-Najaf_Stadium>,
+        <http://dbpedia.org/resource/Chah_Najaf>,
+        <http://dbpedia.org/resource/Kalateh_Najaf>,
+        <http://dbpedia.org/resource/Mirza_Najaf_Khan>,
+        <http://dbpedia.org/resource/Najaf>,
+        <http://dbpedia.org/resource/Najaf,_Iran>,
+        <http://dbpedia.org/resource/Najaf_Abbas_Khan_Sial>,
+        <http://dbpedia.org/resource/Najaf_Daryabandari>,
+        <http://dbpedia.org/resource/Najaf_District>,
+        <http://dbpedia.org/resource/Najaf_FC>,
+        <http://dbpedia.org/resource/Najaf_Governorate>,
+        <http://dbpedia.org/resource/Najaf_Qoli>,
+        <http://dbpedia.org/resource/Najaf_Shah>,
+        <http://dbpedia.org/resource/Najaf_Shahr>,
+        <http://dbpedia.org/resource/Najaf_bey_Vazirov>,
+        <http://dbpedia.org/resource/Najaf_governorate_election,_2009>,
+        <http://dbpedia.org/resource/Najafabad>,
+        <http://dbpedia.org/resource/Qaleh_Najaf>,
+        <http://dbpedia.org/resource/Qeshlaq-e_Najaf>,
+        <http://dbpedia.org/resource/Shah_Najaf> ;
     nif:anchorOf "Najaf"^^xsd:string ;
     nif:beginIndex "3064"^^xsd:nonNegativeInteger ;
     nif:confidence 7.6625e-01 ;
@@ -360,6 +982,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3377,3383> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "3377"^^xsd:nonNegativeInteger ;
     nif:confidence 8.665445e-01 ;
@@ -371,6 +1015,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=368,382> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Ba'athist_Iraq>,
+        <http://dbpedia.org/resource/Baghdad_Gymnasium>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Interrogation_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Investment_in_post-invasion_Iraq>,
+        <http://dbpedia.org/resource/Operation_Red_Dawn>,
+        <http://dbpedia.org/resource/Raghad_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Hussein's_novels>,
+        <http://dbpedia.org/resource/Sanctions_against_Iraq>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/Uday_Hussein> ;
     nif:anchorOf "Saddam Hussein"^^xsd:string ;
     nif:beginIndex "368"^^xsd:nonNegativeInteger ;
     nif:confidence 9.21e-01 ;
@@ -382,6 +1038,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3715,3725> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al-Fatat>,
+        <http://dbpedia.org/resource/Al_Arabiya>,
+        <http://dbpedia.org/resource/Arabian_Peninsula> ;
     nif:anchorOf "Al-Arabiya"^^xsd:string ;
     nif:beginIndex "3715"^^xsd:nonNegativeInteger ;
     nif:confidence 6.949609e-01 ;
@@ -393,6 +1052,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3852,3857> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/ClassTV>,
+        <http://dbpedia.org/resource/MSNBC>,
+        <http://dbpedia.org/resource/MSNBC_Canada>,
+        <http://dbpedia.org/resource/MSNBC_Documentaries>,
+        <http://dbpedia.org/resource/MSNBC_Live>,
+        <http://dbpedia.org/resource/MSNBC_conservative>,
+        <http://dbpedia.org/resource/MSNBC_controversies> ;
     nif:anchorOf "MSNBC"^^xsd:string ;
     nif:beginIndex "3852"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -404,6 +1070,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=3998,4004> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "3998"^^xsd:nonNegativeInteger ;
     nif:confidence 8.942537e-01 ;
@@ -415,6 +1103,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4071,4078> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Muqtada_Mansoor>,
+        <http://dbpedia.org/resource/Muqtada_al-Sadr> ;
     nif:anchorOf "Muqtada"^^xsd:string ;
     nif:beginIndex "4071"^^xsd:nonNegativeInteger ;
     nif:confidence 7.925e-01 ;
@@ -426,6 +1116,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4080,4087> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Muqtada_Mansoor>,
+        <http://dbpedia.org/resource/Muqtada_al-Sadr> ;
     nif:anchorOf "Muqtada"^^xsd:string ;
     nif:beginIndex "4080"^^xsd:nonNegativeInteger ;
     nif:confidence 8.685e-01 ;
@@ -437,6 +1129,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4089,4096> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Muqtada_Mansoor>,
+        <http://dbpedia.org/resource/Muqtada_al-Sadr> ;
     nif:anchorOf "Muqtada"^^xsd:string ;
     nif:beginIndex "4089"^^xsd:nonNegativeInteger ;
     nif:confidence 8.685e-01 ;
@@ -448,6 +1142,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4114,4129> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Muqtada_al-Sadr> ;
     nif:anchorOf "Muqtada al-Sadr"^^xsd:string ;
     nif:beginIndex "4114"^^xsd:nonNegativeInteger ;
     nif:confidence 8.9475e-01 ;
@@ -459,6 +1154,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4178,4188> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Iraq_spring_fighting_of_2008>,
+        <http://dbpedia.org/resource/Peace_Companies> ;
     nif:anchorOf "Mahdi Army"^^xsd:string ;
     nif:beginIndex "4178"^^xsd:nonNegativeInteger ;
     nif:confidence 7.425e-01 ;
@@ -470,6 +1167,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=422,440> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mowaffak_al-Rubaie> ;
     nif:anchorOf "Mowaffak al-Rubaie"^^xsd:string ;
     nif:beginIndex "422"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1875e-01 ;
@@ -481,6 +1179,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4258,4264> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Asian_Sunnis>,
+        <http://dbpedia.org/resource/Asian_Sunnis_%28disambiguation%29>,
+        <http://dbpedia.org/resource/Malik_al-Ashtar>,
+        <http://dbpedia.org/resource/Religion_in_Kerala>,
+        <http://dbpedia.org/resource/Sunni_Islam>,
+        <http://dbpedia.org/resource/Sunnis_(Dungeons_&_Dragons)>,
+        <http://dbpedia.org/resource/Sunnis_of_Kerala_(disambiguation)> ;
     nif:anchorOf "Sunnis"^^xsd:string ;
     nif:beginIndex "4258"^^xsd:nonNegativeInteger ;
     nif:confidence 7.4e-01 ;
@@ -492,6 +1197,16 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4302,4309> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Al-Sadr_Online>,
+        <http://dbpedia.org/resource/Haydar_al-Sadr>,
+        <http://dbpedia.org/resource/Hussein_Al-Sadr>,
+        <http://dbpedia.org/resource/Hussein_Esmaeel_al-Sadr>,
+        <http://dbpedia.org/resource/Mohammad_Mohammad_Sadeq_al-Sadr>,
+        <http://dbpedia.org/resource/Muhammad_Baqir_al-Sadr>,
+        <http://dbpedia.org/resource/Muqtada_al-Sadr>,
+        <http://dbpedia.org/resource/Musa_al-Sadr>,
+        <http://dbpedia.org/resource/Sadr>,
+        <http://dbpedia.org/resource/Sadr_City> ;
     nif:anchorOf "Al-Sadr"^^xsd:string ;
     nif:beginIndex "4302"^^xsd:nonNegativeInteger ;
     nif:confidence 8.023219e-01 ;
@@ -503,6 +1218,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4333,4339> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "4333"^^xsd:nonNegativeInteger ;
     nif:confidence 9.455347e-01 ;
@@ -514,6 +1251,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4370,4379> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/'Ali_ibn_al-'Abbas_al-Majusi>,
+        <http://dbpedia.org/resource/Abdalmalik_of_Morocco>,
+        <http://dbpedia.org/resource/Al_Maliki_II_Government>,
+        <http://dbpedia.org/resource/Al_Maliki_I_Government>,
+        <http://dbpedia.org/resource/Ala_al-Maliki>,
+        <http://dbpedia.org/resource/Habeas_corpus_petitions_of_Guantanamo_Bay_detainees>,
+        <http://dbpedia.org/resource/Haris_Al-Maliki>,
+        <http://dbpedia.org/resource/Muhammad_Alawi_al-Maliki>,
+        <http://dbpedia.org/resource/Nouri_al-Maliki>,
+        <http://dbpedia.org/resource/Riyad_al-Maliki>,
+        <http://dbpedia.org/resource/Saed_Farhan_Al-Maliki>,
+        <http://dbpedia.org/resource/Salam_al-Maliki> ;
     nif:anchorOf "al-Maliki"^^xsd:string ;
     nif:beginIndex "4370"^^xsd:nonNegativeInteger ;
     nif:confidence 9.701284e-01 ;
@@ -525,6 +1274,93 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4391,4395> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1961_U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/2010_U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/AP_United_States_History>,
+        <http://dbpedia.org/resource/Ambassadors_of_the_United_States>,
+        <http://dbpedia.org/resource/American_English>,
+        <http://dbpedia.org/resource/Anti-Americanism>,
+        <http://dbpedia.org/resource/Billboard_Hot_100>,
+        <http://dbpedia.org/resource/Cabinet_of_the_United_States>,
+        <http://dbpedia.org/resource/Citizenship_in_the_United_States>,
+        <http://dbpedia.org/resource/Coins_of_the_United_States_dollar>,
+        <http://dbpedia.org/resource/College_basketball>,
+        <http://dbpedia.org/resource/Contiguous_United_States>,
+        <http://dbpedia.org/resource/Dance_Club_Songs>,
+        <http://dbpedia.org/resource/Demography_of_the_United_States>,
+        <http://dbpedia.org/resource/Eastern_United_States>,
+        <http://dbpedia.org/resource/Economy_of_the_United_States>,
+        <http://dbpedia.org/resource/Federal_district>,
+        <http://dbpedia.org/resource/Federal_government_of_the_United_States>,
+        <http://dbpedia.org/resource/Flag_of_the_United_States>,
+        <http://dbpedia.org/resource/Gallon>,
+        <http://dbpedia.org/resource/History_of_the_United_States>,
+        <http://dbpedia.org/resource/Hot_Rap_Songs>,
+        <http://dbpedia.org/resource/Insular_area>,
+        <http://dbpedia.org/resource/Law_of_the_United_States>,
+        <http://dbpedia.org/resource/Masters_Tournament>,
+        <http://dbpedia.org/resource/Member_of_Congress>,
+        <http://dbpedia.org/resource/Midwestern_United_States>,
+        <http://dbpedia.org/resource/Military_history_of_the_United_States>,
+        <http://dbpedia.org/resource/Misplaced_Childhood>,
+        <http://dbpedia.org/resource/No_Way_But_the_Hard_Way>,
+        <http://dbpedia.org/resource/Northeastern_United_States>,
+        <http://dbpedia.org/resource/Northwestern_United_States>,
+        <http://dbpedia.org/resource/Pacific_Coast_Borax_Company>,
+        <http://dbpedia.org/resource/Politics_of_the_United_States>,
+        <http://dbpedia.org/resource/President_of_the_United_States>,
+        <http://dbpedia.org/resource/Sheriff_of_Cochise>,
+        <http://dbpedia.org/resource/Southeastern_United_States>,
+        <http://dbpedia.org/resource/Southern_United_States>,
+        <http://dbpedia.org/resource/Southwestern_United_States>,
+        <http://dbpedia.org/resource/Territories_of_the_United_States>,
+        <http://dbpedia.org/resource/The_Sound_of_Echo>,
+        <http://dbpedia.org/resource/Treasurer_of_the_United_States>,
+        <http://dbpedia.org/resource/Tu_Veneno>,
+        <http://dbpedia.org/resource/Tweedles>,
+        <http://dbpedia.org/resource/U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/USG_Corporation>,
+        <http://dbpedia.org/resource/US_Airways>,
+        <http://dbpedia.org/resource/United_States>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Army>,
+        <http://dbpedia.org/resource/United_States_Army_Air_Forces>,
+        <http://dbpedia.org/resource/United_States_Attorney>,
+        <http://dbpedia.org/resource/United_States_Bicentennial>,
+        <http://dbpedia.org/resource/United_States_Capitol>,
+        <http://dbpedia.org/resource/United_States_Census>,
+        <http://dbpedia.org/resource/United_States_Census_Bureau>,
+        <http://dbpedia.org/resource/United_States_Code>,
+        <http://dbpedia.org/resource/United_States_Congress>,
+        <http://dbpedia.org/resource/United_States_Constabulary>,
+        <http://dbpedia.org/resource/United_States_Constitution>,
+        <http://dbpedia.org/resource/United_States_Customs_Service>,
+        <http://dbpedia.org/resource/United_States_Department_of_the_Treasury>,
+        <http://dbpedia.org/resource/United_States_Environmental_Protection_Agency>,
+        <http://dbpedia.org/resource/United_States_Fleet>,
+        <http://dbpedia.org/resource/United_States_House_of_Representatives>,
+        <http://dbpedia.org/resource/United_States_Intelligence_Community>,
+        <http://dbpedia.org/resource/United_States_Marine_Corps>,
+        <http://dbpedia.org/resource/United_States_Marshals_Service>,
+        <http://dbpedia.org/resource/United_States_Mint>,
+        <http://dbpedia.org/resource/United_States_Navy>,
+        <http://dbpedia.org/resource/United_States_Numbered_Highways>,
+        <http://dbpedia.org/resource/United_States_Postal_Service>,
+        <http://dbpedia.org/resource/United_States_Rubber_Company>,
+        <http://dbpedia.org/resource/United_States_Senate>,
+        <http://dbpedia.org/resource/United_States_Soccer_Federation>,
+        <http://dbpedia.org/resource/United_States_Volunteers>,
+        <http://dbpedia.org/resource/United_States_customary_units>,
+        <http://dbpedia.org/resource/United_States_dollar>,
+        <http://dbpedia.org/resource/United_States_entity>,
+        <http://dbpedia.org/resource/United_States_national_rugby_league_team>,
+        <http://dbpedia.org/resource/United_States_nationality_law>,
+        <http://dbpedia.org/resource/United_States_passport>,
+        <http://dbpedia.org/resource/United_States_patent_law>,
+        <http://dbpedia.org/resource/United_States_territory>,
+        <http://dbpedia.org/resource/Weird_U.S.>,
+        <http://dbpedia.org/resource/Western_United_States> ;
     nif:anchorOf "U.S."^^xsd:string ;
     nif:beginIndex "4391"^^xsd:nonNegativeInteger ;
     nif:confidence 7.321653e-01 ;
@@ -536,6 +1372,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4416,4432> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Acer_campestre_%27William_Caldwell%27>,
+        <http://dbpedia.org/resource/Acer_campestre_'William_Caldwell'>,
+        <http://dbpedia.org/resource/Otis_Caldwell>,
+        <http://dbpedia.org/resource/William_A._Caldwell>,
+        <http://dbpedia.org/resource/William_B._Caldwell>,
+        <http://dbpedia.org/resource/William_B._Caldwell%2C_IV>,
+        <http://dbpedia.org/resource/William_B._Caldwell_(judge)>,
+        <http://dbpedia.org/resource/William_B._Caldwell_III>,
+        <http://dbpedia.org/resource/William_C._Harrop>,
+        <http://dbpedia.org/resource/William_Caldwell>,
+        <http://dbpedia.org/resource/William_Caldwell_%28Upper_Canada%29>,
+        <http://dbpedia.org/resource/William_Caldwell_%28cricketer%29>,
+        <http://dbpedia.org/resource/William_Caldwell_%28ranger%29>,
+        <http://dbpedia.org/resource/William_Caldwell_(cricketer)>,
+        <http://dbpedia.org/resource/William_Caldwell_(ranger)>,
+        <http://dbpedia.org/resource/William_Caldwell_Anderson>,
+        <http://dbpedia.org/resource/William_Caldwell_Anderson_Lawrence>,
+        <http://dbpedia.org/resource/William_Caldwell_Coleman>,
+        <http://dbpedia.org/resource/William_Clyde_Caldwell>,
+        <http://dbpedia.org/resource/William_Murray_Caldwell>,
+        <http://dbpedia.org/resource/William_Parker_Caldwell>,
+        <http://dbpedia.org/resource/William_W._Caldwell> ;
     nif:anchorOf "William Caldwell"^^xsd:string ;
     nif:beginIndex "4416"^^xsd:nonNegativeInteger ;
     nif:confidence 8.171429e-01 ;
@@ -547,6 +1405,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4436,4449> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Armed_Forces_Retirement_Home>,
+        <http://dbpedia.org/resource/Foreign_relations_of_the_United_States>,
+        <http://dbpedia.org/resource/List_of_United_States_military_bases>,
+        <http://dbpedia.org/resource/Military_Intelligence_Corps_(United_States_Army)>,
+        <http://dbpedia.org/resource/Military_Sealift_Command>,
+        <http://dbpedia.org/resource/Military_budget_of_the_United_States>,
+        <http://dbpedia.org/resource/Military_discharge>,
+        <http://dbpedia.org/resource/Military_history_of_the_United_States>,
+        <http://dbpedia.org/resource/Military_slang>,
+        <http://dbpedia.org/resource/Religious_symbolism_in_the_United_States_military>,
+        <http://dbpedia.org/resource/Reserve_components_of_the_United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/Staff_college>,
+        <http://dbpedia.org/resource/U.S._Military_Telegraph_Corps>,
+        <http://dbpedia.org/resource/U.S._Military_Television_Network>,
+        <http://dbpedia.org/resource/U.S._Military_connector_specifications>,
+        <http://dbpedia.org/resource/U.S._military_instructor_badges>,
+        <http://dbpedia.org/resource/U.S._uniformed_services_pay_grades>,
+        <http://dbpedia.org/resource/Unified_Combatant_Command>,
+        <http://dbpedia.org/resource/Uniform_Code_of_Military_Justice>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Military_Academy>,
+        <http://dbpedia.org/resource/United_States_Military_Railroad>,
+        <http://dbpedia.org/resource/United_States_Military_Standard>,
+        <http://dbpedia.org/resource/United_States_military_bands>,
+        <http://dbpedia.org/resource/United_States_military_casualties_of_war>,
+        <http://dbpedia.org/resource/United_States_military_chocolate>,
+        <http://dbpedia.org/resource/United_States_military_deployments> ;
     nif:anchorOf "U.S. military"^^xsd:string ;
     nif:beginIndex "4436"^^xsd:nonNegativeInteger ;
     nif:confidence 6.732075e-01 ;
@@ -558,6 +1443,26 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4545,4556> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Flags_of_the_United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/Navy_Music_Program>,
+        <http://dbpedia.org/resource/Ninth_Air_Force>,
+        <http://dbpedia.org/resource/Pacific_Air_Forces>,
+        <http://dbpedia.org/resource/Special_Forces_(United_States_Army)>,
+        <http://dbpedia.org/resource/U.S._Forces_Azores_%28USAFORAZ%29>,
+        <http://dbpedia.org/resource/United_States_Africa_Command>,
+        <http://dbpedia.org/resource/United_States_Air_Forces_Central_Command>,
+        <http://dbpedia.org/resource/United_States_Air_Forces_in_Europe_-_Air_Forces_Africa>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Army_Forces_Command>,
+        <http://dbpedia.org/resource/United_States_Fleet_Forces_Command>,
+        <http://dbpedia.org/resource/United_States_Forces_Azores>,
+        <http://dbpedia.org/resource/United_States_Forces_Japan>,
+        <http://dbpedia.org/resource/United_States_Forces_Korea>,
+        <http://dbpedia.org/resource/United_States_Forces_–_Iraq>,
+        <http://dbpedia.org/resource/United_States_Joint_Forces_Command>,
+        <http://dbpedia.org/resource/United_States_Marine_Corps_Forces_Command>,
+        <http://dbpedia.org/resource/United_States_Naval_Forces_Europe>,
+        <http://dbpedia.org/resource/United_States_special_operations_forces> ;
     nif:anchorOf "U.S. forces"^^xsd:string ;
     nif:beginIndex "4545"^^xsd:nonNegativeInteger ;
     nif:confidence 7.848081e-01 ;
@@ -569,6 +1474,48 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4715,4719> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/AFN_Iraq>,
+        <http://dbpedia.org/resource/Australian_contribution_to_the_2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/Ba%27athist_Iraq>,
+        <http://dbpedia.org/resource/Baghdad>,
+        <http://dbpedia.org/resource/Basra>,
+        <http://dbpedia.org/resource/British_Mandate_for_Mesopotamia_(legal_instrument)>,
+        <http://dbpedia.org/resource/Elections_in_Iraq>,
+        <http://dbpedia.org/resource/Erbil>,
+        <http://dbpedia.org/resource/Fallujah>,
+        <http://dbpedia.org/resource/Flag_of_Iraq>,
+        <http://dbpedia.org/resource/Gulf_War>,
+        <http://dbpedia.org/resource/History_of_the_Jews_in_Iraq>,
+        <http://dbpedia.org/resource/Iraq>,
+        <http://dbpedia.org/resource/Iraq_Al-Amir>,
+        <http://dbpedia.org/resource/Iraq_Football_Association>,
+        <http://dbpedia.org/resource/Iraq_Inquiry>,
+        <http://dbpedia.org/resource/Iraq_Levies>,
+        <http://dbpedia.org/resource/Iraq_Resolution>,
+        <http://dbpedia.org/resource/Iraq_Suwaydan>,
+        <http://dbpedia.org/resource/Iraq_War>,
+        <http://dbpedia.org/resource/Iraq_al-Manshiyya>,
+        <http://dbpedia.org/resource/Iraq_national_football_team>,
+        <http://dbpedia.org/resource/Iraqi_Army>,
+        <http://dbpedia.org/resource/Iraqi_Kurdistan>,
+        <http://dbpedia.org/resource/Iraqi_insurgency>,
+        <http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)>,
+        <http://dbpedia.org/resource/Karbala>,
+        <http://dbpedia.org/resource/Kingdom_of_Iraq>,
+        <http://dbpedia.org/resource/Kirkuk>,
+        <http://dbpedia.org/resource/Mesopotamia>,
+        <http://dbpedia.org/resource/Mosul>,
+        <http://dbpedia.org/resource/National_Museum_of_Iraq>,
+        <http://dbpedia.org/resource/Occupation_of_Iraq>,
+        <http://dbpedia.org/resource/Operation_Telic>,
+        <http://dbpedia.org/resource/Persian_Iraq>,
+        <http://dbpedia.org/resource/Politics_of_Iraq>,
+        <http://dbpedia.org/resource/Post-invasion_Iraq,_2003%E2%80%93present>,
+        <http://dbpedia.org/resource/RAF_Iraq_Command>,
+        <http://dbpedia.org/resource/Sanctions_against_Iraq>,
+        <http://dbpedia.org/resource/Taji,_Iraq>,
+        <http://dbpedia.org/resource/Tikrit> ;
     nif:anchorOf "Iraq"^^xsd:string ;
     nif:beginIndex "4715"^^xsd:nonNegativeInteger ;
     nif:confidence 9.381818e-01 ;
@@ -580,6 +1527,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4756,4762> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "4756"^^xsd:nonNegativeInteger ;
     nif:confidence 8.67026e-01 ;
@@ -591,6 +1560,30 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=4822,4833> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Armed_Forces_Chaplaincy_Center>,
+        <http://dbpedia.org/resource/Awards_and_decorations_of_the_United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/Iraq_War_order_of_battle_2009>,
+        <http://dbpedia.org/resource/List_of_United_States_military_bases>,
+        <http://dbpedia.org/resource/List_of_comparative_military_ranks>,
+        <http://dbpedia.org/resource/Military_Intelligence_Corps_(United_States_Army)>,
+        <http://dbpedia.org/resource/Military_Police_Corps_(United_States)>,
+        <http://dbpedia.org/resource/Military_budget_of_the_United_States>,
+        <http://dbpedia.org/resource/Military_discharge>,
+        <http://dbpedia.org/resource/Military_history_of_the_United_States>,
+        <http://dbpedia.org/resource/Religious_symbolism_in_the_United_States_military>,
+        <http://dbpedia.org/resource/Staff_college>,
+        <http://dbpedia.org/resource/Timeline_of_United_States_military_operations>,
+        <http://dbpedia.org/resource/U.S._Military_Television_Network>,
+        <http://dbpedia.org/resource/U.S._uniformed_services_pay_grades>,
+        <http://dbpedia.org/resource/US_military_watches>,
+        <http://dbpedia.org/resource/Uniforms_of_the_United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Military_Academy>,
+        <http://dbpedia.org/resource/United_States_Military_Academy_Preparatory_School>,
+        <http://dbpedia.org/resource/United_States_Uniformed_Services_Privilege_and_Identification_Card>,
+        <http://dbpedia.org/resource/United_States_military_beret_flash>,
+        <http://dbpedia.org/resource/United_States_military_chocolate>,
+        <http://dbpedia.org/resource/United_States_military_deployments> ;
     nif:anchorOf "US military"^^xsd:string ;
     nif:beginIndex "4822"^^xsd:nonNegativeInteger ;
     nif:confidence 8.013208e-01 ;
@@ -602,6 +1595,122 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=5065,5073> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Adrian_Caldwell>,
+        <http://dbpedia.org/resource/Al_Caldwell>,
+        <http://dbpedia.org/resource/Alexander_Caldwell>,
+        <http://dbpedia.org/resource/Alfred_Caldwell>,
+        <http://dbpedia.org/resource/Andre_Caldwell>,
+        <http://dbpedia.org/resource/Andrew_Caldwell>,
+        <http://dbpedia.org/resource/Andrew_Jackson_Caldwell>,
+        <http://dbpedia.org/resource/Anne_Caldwell>,
+        <http://dbpedia.org/resource/Antoine_Caldwell>,
+        <http://dbpedia.org/resource/Ben_Caldwell>,
+        <http://dbpedia.org/resource/Ben_F._Caldwell>,
+        <http://dbpedia.org/resource/Benjamin_Caldwell>,
+        <http://dbpedia.org/resource/Billy_Caldwell>,
+        <http://dbpedia.org/resource/Bobby_Caldwell>,
+        <http://dbpedia.org/resource/Bobby_Caldwell_%28drummer%29>,
+        <http://dbpedia.org/resource/Bruce_Caldwell>,
+        <http://dbpedia.org/resource/Buddy_Caldwell>,
+        <http://dbpedia.org/resource/Caldwell>,
+        <http://dbpedia.org/resource/Caldwell%2C_Idaho>,
+        <http://dbpedia.org/resource/Caldwell,_Arkansas>,
+        <http://dbpedia.org/resource/Caldwell,_California>,
+        <http://dbpedia.org/resource/Caldwell,_Derbyshire>,
+        <http://dbpedia.org/resource/Caldwell,_East_Renfrewshire>,
+        <http://dbpedia.org/resource/Caldwell,_Idaho>,
+        <http://dbpedia.org/resource/Caldwell,_Kansas>,
+        <http://dbpedia.org/resource/Caldwell,_Liberia>,
+        <http://dbpedia.org/resource/Caldwell,_Mecklenburg_County,_North_Carolina>,
+        <http://dbpedia.org/resource/Caldwell,_New_Jersey>,
+        <http://dbpedia.org/resource/Caldwell,_New_South_Wales>,
+        <http://dbpedia.org/resource/Caldwell,_North_Yorkshire>,
+        <http://dbpedia.org/resource/Caldwell,_Ohio>,
+        <http://dbpedia.org/resource/Caldwell,_Orange_County,_North_Carolina>,
+        <http://dbpedia.org/resource/Caldwell,_Texas>,
+        <http://dbpedia.org/resource/Caldwell_Caldwell%2C_New_Jersey>,
+        <http://dbpedia.org/resource/Caldwell_County>,
+        <http://dbpedia.org/resource/Caldwell_County,_Kentucky>,
+        <http://dbpedia.org/resource/Caldwell_County,_Missouri>,
+        <http://dbpedia.org/resource/Caldwell_County,_North_Carolina>,
+        <http://dbpedia.org/resource/Caldwell_County,_Texas>,
+        <http://dbpedia.org/resource/Caldwell_Hall_%28Georgia_Tech%29>,
+        <http://dbpedia.org/resource/Caldwell_Jones>,
+        <http://dbpedia.org/resource/Caldwell_Parish,_Louisiana>,
+        <http://dbpedia.org/resource/Caldwell_Township,_Michigan>,
+        <http://dbpedia.org/resource/Caldwell_University>,
+        <http://dbpedia.org/resource/Caldwell_Zoo>,
+        <http://dbpedia.org/resource/Caldwell_catalogue>,
+        <http://dbpedia.org/resource/Cecil_Caldwell>,
+        <http://dbpedia.org/resource/Charlie_Caldwell>,
+        <http://dbpedia.org/resource/Christopher_Caldwell>,
+        <http://dbpedia.org/resource/Clive_Caldwell>,
+        <http://dbpedia.org/resource/Clyde_Caldwell>,
+        <http://dbpedia.org/resource/Daniel_Caldwell>,
+        <http://dbpedia.org/resource/David_Caldwell_%28footballer%29>,
+        <http://dbpedia.org/resource/David_D._Caldwell>,
+        <http://dbpedia.org/resource/David_T._Caldwell>,
+        <http://dbpedia.org/resource/Drew_Caldwell>,
+        <http://dbpedia.org/resource/Earl_Caldwell>,
+        <http://dbpedia.org/resource/Edward_F._Caldwell_&_Co.>,
+        <http://dbpedia.org/resource/Enda_Caldwell>,
+        <http://dbpedia.org/resource/Erskine_Caldwell>,
+        <http://dbpedia.org/resource/Francis_Xavier_Caldwell>,
+        <http://dbpedia.org/resource/Gail_Caldwell>,
+        <http://dbpedia.org/resource/Gary_Caldwell>,
+        <http://dbpedia.org/resource/George_Caldwell>,
+        <http://dbpedia.org/resource/Greene_Washington_Caldwell>,
+        <http://dbpedia.org/resource/Happy_Caldwell>,
+        <http://dbpedia.org/resource/Harmon_White_Caldwell>,
+        <http://dbpedia.org/resource/Henry_Caldwell>,
+        <http://dbpedia.org/resource/Ian_Caldwell>,
+        <http://dbpedia.org/resource/James_Caldwell_%28Ohio%29>,
+        <http://dbpedia.org/resource/James_Caldwell_High_School>,
+        <http://dbpedia.org/resource/James_R._Caldwell>,
+        <http://dbpedia.org/resource/Jim_Caldwell_%28American_football%29>,
+        <http://dbpedia.org/resource/Jim_Caldwell_%28television_presenter%29>,
+        <http://dbpedia.org/resource/Joe_Caldwell>,
+        <http://dbpedia.org/resource/Joseph_Caldwell>,
+        <http://dbpedia.org/resource/Joseph_Pearson_Caldwell>,
+        <http://dbpedia.org/resource/Keith_Caldwell>,
+        <http://dbpedia.org/resource/Kimberly_Caldwell>,
+        <http://dbpedia.org/resource/Kirk_Caldwell>,
+        <http://dbpedia.org/resource/List_of_Coronation_Street_characters_(1960)>,
+        <http://dbpedia.org/resource/Lucy_Caldwell>,
+        <http://dbpedia.org/resource/Lynton_K._Caldwell>,
+        <http://dbpedia.org/resource/Malcolm_Caldwell>,
+        <http://dbpedia.org/resource/Mike_Caldwell>,
+        <http://dbpedia.org/resource/Millard_F._Caldwell>,
+        <http://dbpedia.org/resource/Nikki_Fargas>,
+        <http://dbpedia.org/resource/North_Caldwell,_New_Jersey>,
+        <http://dbpedia.org/resource/Patrick_C._Caldwell>,
+        <http://dbpedia.org/resource/Philip_Caldwell>,
+        <http://dbpedia.org/resource/Ray_Caldwell>,
+        <http://dbpedia.org/resource/Reche_Caldwell>,
+        <http://dbpedia.org/resource/Robbie_Caldwell>,
+        <http://dbpedia.org/resource/Robert_Caldwell>,
+        <http://dbpedia.org/resource/Robert_Porter_Caldwell>,
+        <http://dbpedia.org/resource/Ronnie_Caldwell>,
+        <http://dbpedia.org/resource/Sarah_Caldwell>,
+        <http://dbpedia.org/resource/Steven_Caldwell>,
+        <http://dbpedia.org/resource/Talent_Caldwell>,
+        <http://dbpedia.org/resource/Taylor_Caldwell>,
+        <http://dbpedia.org/resource/The_Caldwells>,
+        <http://dbpedia.org/resource/Tod_Robinson_Caldwell>,
+        <http://dbpedia.org/resource/Tom_Caldwell>,
+        <http://dbpedia.org/resource/Tommy_Caldwell>,
+        <http://dbpedia.org/resource/Tommy_Caldwell_%28musician%29>,
+        <http://dbpedia.org/resource/Toy_Caldwell>,
+        <http://dbpedia.org/resource/Tracy_Caldwell_Dyson>,
+        <http://dbpedia.org/resource/USS_Caldwell_%28DD-605%29>,
+        <http://dbpedia.org/resource/USS_Caldwell_%28DD-69%29>,
+        <http://dbpedia.org/resource/West_Caldwell,_New_Jersey>,
+        <http://dbpedia.org/resource/Will_Caldwell>,
+        <http://dbpedia.org/resource/William_B._Caldwell>,
+        <http://dbpedia.org/resource/William_Clyde_Caldwell>,
+        <http://dbpedia.org/resource/William_Parker_Caldwell>,
+        <http://dbpedia.org/resource/Wilson_Caldwell>,
+        <http://dbpedia.org/resource/Zoe_Caldwell> ;
     nif:anchorOf "Caldwell"^^xsd:string ;
     nif:beginIndex "5065"^^xsd:nonNegativeInteger ;
     nif:confidence 7.471854e-01 ;
@@ -613,6 +1722,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=553,559> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "553"^^xsd:nonNegativeInteger ;
     nif:confidence 9.207513e-01 ;
@@ -624,6 +1755,61 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=79,86> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/10_June_2013_Iraq_attacks>,
+        <http://dbpedia.org/resource/About_Baghdad>,
+        <http://dbpedia.org/resource/Al-Khatib_al-Baghdadi>,
+        <http://dbpedia.org/resource/Aski_Baghdad>,
+        <http://dbpedia.org/resource/Bagdad_Katun>,
+        <http://dbpedia.org/resource/Baghdad>,
+        <http://dbpedia.org/resource/Baghdad_%28EP%29>,
+        <http://dbpedia.org/resource/Baghdad_(EP)>,
+        <http://dbpedia.org/resource/Baghdad_Arabic>,
+        <http://dbpedia.org/resource/Baghdad_Battery>,
+        <http://dbpedia.org/resource/Baghdad_Belts>,
+        <http://dbpedia.org/resource/Baghdad_Bulletin>,
+        <http://dbpedia.org/resource/Baghdad_Central_Station>,
+        <http://dbpedia.org/resource/Baghdad_College>,
+        <http://dbpedia.org/resource/Baghdad_Conservatory>,
+        <http://dbpedia.org/resource/Baghdad_ER>,
+        <http://dbpedia.org/resource/Baghdad_Eyalet>,
+        <http://dbpedia.org/resource/Baghdad_FC>,
+        <http://dbpedia.org/resource/Baghdad_Governorate>,
+        <http://dbpedia.org/resource/Baghdad_International_Airport>,
+        <http://dbpedia.org/resource/Baghdad_Manifesto>,
+        <http://dbpedia.org/resource/Baghdad_Metro>,
+        <http://dbpedia.org/resource/Baghdad_Pact>,
+        <http://dbpedia.org/resource/Baghdad_Railway>,
+        <http://dbpedia.org/resource/Baghdad_Satellite_Channel>,
+        <http://dbpedia.org/resource/Baghdad_Soft_Drinks_Co>,
+        <http://dbpedia.org/resource/Baghdad_Stadium>,
+        <http://dbpedia.org/resource/Baghdad_Street>,
+        <http://dbpedia.org/resource/Baghdad_Street_%28Damascus%29>,
+        <http://dbpedia.org/resource/Baghdad_Street_%28Singapore%29>,
+        <http://dbpedia.org/resource/Baghdad_Vilayet>,
+        <http://dbpedia.org/resource/Baghdad_Wall>,
+        <http://dbpedia.org/resource/Baghdad_Zoo>,
+        <http://dbpedia.org/resource/Baghdād,_Afghanistan>,
+        <http://dbpedia.org/resource/Culture_of_Iraq>,
+        <http://dbpedia.org/resource/Fall_of_Baghdad_%281917%29>,
+        <http://dbpedia.org/resource/Ferris_wheel>,
+        <http://dbpedia.org/resource/Juba_(sniper)>,
+        <http://dbpedia.org/resource/July_2013_Iraq_attacks>,
+        <http://dbpedia.org/resource/Lake_Baghdad>,
+        <http://dbpedia.org/resource/Latin_Catholic_Archdiocese_of_Baghdad>,
+        <http://dbpedia.org/resource/List_of_minor_planets:_7001–8000>,
+        <http://dbpedia.org/resource/May_2013_Iraq_attacks>,
+        <http://dbpedia.org/resource/Muhammad_Saeed_al-Sahhaf>,
+        <http://dbpedia.org/resource/Neighbourhoods_of_Baghdad>,
+        <http://dbpedia.org/resource/New_Baghdad>,
+        <http://dbpedia.org/resource/Radio_Baghdad>,
+        <http://dbpedia.org/resource/Riverbend_(blogger)>,
+        <http://dbpedia.org/resource/Salam_Pax>,
+        <http://dbpedia.org/resource/Scott_Thomas_Beauchamp_controversy>,
+        <http://dbpedia.org/resource/Sophiane_Baghdad>,
+        <http://dbpedia.org/resource/The_Boys_from_Baghdad_High>,
+        <http://dbpedia.org/resource/Topkapı_Palace>,
+        <http://dbpedia.org/resource/University_of_Baghdad>,
+        <http://dbpedia.org/resource/Whoops_Baghdad> ;
     nif:anchorOf "BAGHDAD"^^xsd:string ;
     nif:beginIndex "79"^^xsd:nonNegativeInteger ;
     nif:confidence 7.925e-01 ;
@@ -635,6 +1821,12 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=870,882> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Iraqi_Armed_Forces>,
+        <http://dbpedia.org/resource/Iraqi_Ground_Forces_Command>,
+        <http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)>,
+        <http://dbpedia.org/resource/Iraqi_security_forces>,
+        <http://dbpedia.org/resource/List_of_Iraqi_security_forces_fatality_reports_in_Iraq>,
+        <http://dbpedia.org/resource/Uniforms_of_Iraqi_Armed_Forces> ;
     nif:anchorOf "Iraqi forces"^^xsd:string ;
     nif:beginIndex "870"^^xsd:nonNegativeInteger ;
     nif:confidence 7.651497e-01 ;
@@ -646,6 +1838,48 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=88,92> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/AFN_Iraq>,
+        <http://dbpedia.org/resource/Australian_contribution_to_the_2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/Ba%27athist_Iraq>,
+        <http://dbpedia.org/resource/Baghdad>,
+        <http://dbpedia.org/resource/Basra>,
+        <http://dbpedia.org/resource/British_Mandate_for_Mesopotamia_(legal_instrument)>,
+        <http://dbpedia.org/resource/Elections_in_Iraq>,
+        <http://dbpedia.org/resource/Erbil>,
+        <http://dbpedia.org/resource/Fallujah>,
+        <http://dbpedia.org/resource/Flag_of_Iraq>,
+        <http://dbpedia.org/resource/Gulf_War>,
+        <http://dbpedia.org/resource/History_of_the_Jews_in_Iraq>,
+        <http://dbpedia.org/resource/Iraq>,
+        <http://dbpedia.org/resource/Iraq_Al-Amir>,
+        <http://dbpedia.org/resource/Iraq_Football_Association>,
+        <http://dbpedia.org/resource/Iraq_Inquiry>,
+        <http://dbpedia.org/resource/Iraq_Levies>,
+        <http://dbpedia.org/resource/Iraq_Resolution>,
+        <http://dbpedia.org/resource/Iraq_Suwaydan>,
+        <http://dbpedia.org/resource/Iraq_War>,
+        <http://dbpedia.org/resource/Iraq_al-Manshiyya>,
+        <http://dbpedia.org/resource/Iraq_national_football_team>,
+        <http://dbpedia.org/resource/Iraqi_Army>,
+        <http://dbpedia.org/resource/Iraqi_Kurdistan>,
+        <http://dbpedia.org/resource/Iraqi_insurgency>,
+        <http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)>,
+        <http://dbpedia.org/resource/Karbala>,
+        <http://dbpedia.org/resource/Kingdom_of_Iraq>,
+        <http://dbpedia.org/resource/Kirkuk>,
+        <http://dbpedia.org/resource/Mesopotamia>,
+        <http://dbpedia.org/resource/Mosul>,
+        <http://dbpedia.org/resource/National_Museum_of_Iraq>,
+        <http://dbpedia.org/resource/Occupation_of_Iraq>,
+        <http://dbpedia.org/resource/Operation_Telic>,
+        <http://dbpedia.org/resource/Persian_Iraq>,
+        <http://dbpedia.org/resource/Politics_of_Iraq>,
+        <http://dbpedia.org/resource/Post-invasion_Iraq,_2003%E2%80%93present>,
+        <http://dbpedia.org/resource/RAF_Iraq_Command>,
+        <http://dbpedia.org/resource/Sanctions_against_Iraq>,
+        <http://dbpedia.org/resource/Taji,_Iraq>,
+        <http://dbpedia.org/resource/Tikrit> ;
     nif:anchorOf "Iraq"^^xsd:string ;
     nif:beginIndex "88"^^xsd:nonNegativeInteger ;
     nif:confidence 9.000387e-01 ;
@@ -657,6 +1891,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=935,941> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abdelhussain_Saddam>,
+        <http://dbpedia.org/resource/Avatharam_(2014_film)>,
+        <http://dbpedia.org/resource/Execution_of_Saddam_Hussein>,
+        <http://dbpedia.org/resource/February_2003_Saddam_Hussein_interview>,
+        <http://dbpedia.org/resource/Fedayeen_Saddam>,
+        <http://dbpedia.org/resource/Karim_Saddam>,
+        <http://dbpedia.org/resource/Mosul_Dam>,
+        <http://dbpedia.org/resource/Nahrain_University>,
+        <http://dbpedia.org/resource/Qusay_Hussein>,
+        <http://dbpedia.org/resource/Remembering_Saddam>,
+        <http://dbpedia.org/resource/Saddam:_The_Secret_Life>,
+        <http://dbpedia.org/resource/Saddam_%28name%29>,
+        <http://dbpedia.org/resource/Saddam_(name)>,
+        <http://dbpedia.org/resource/Saddam_Beach>,
+        <http://dbpedia.org/resource/Saddam_Guseinov>,
+        <http://dbpedia.org/resource/Saddam_Huseynov>,
+        <http://dbpedia.org/resource/Saddam_Hussein>,
+        <http://dbpedia.org/resource/Saddam_Kamel>,
+        <http://dbpedia.org/resource/Saddam_Kietyongyuth>,
+        <http://dbpedia.org/resource/Saddam_Line>,
+        <http://dbpedia.org/resource/Sadr_City>,
+        <http://dbpedia.org/resource/Trial_of_Saddam_Hussein> ;
     nif:anchorOf "Saddam"^^xsd:string ;
     nif:beginIndex "935"^^xsd:nonNegativeInteger ;
     nif:confidence 9.732513e-01 ;
@@ -668,6 +1924,48 @@
 <http://www.aksw.org/gerbil/NifWebService/request_6#char=95,99> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/AFN_Iraq>,
+        <http://dbpedia.org/resource/Australian_contribution_to_the_2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/Ba%27athist_Iraq>,
+        <http://dbpedia.org/resource/Baghdad>,
+        <http://dbpedia.org/resource/Basra>,
+        <http://dbpedia.org/resource/British_Mandate_for_Mesopotamia_(legal_instrument)>,
+        <http://dbpedia.org/resource/Elections_in_Iraq>,
+        <http://dbpedia.org/resource/Erbil>,
+        <http://dbpedia.org/resource/Fallujah>,
+        <http://dbpedia.org/resource/Flag_of_Iraq>,
+        <http://dbpedia.org/resource/Gulf_War>,
+        <http://dbpedia.org/resource/History_of_the_Jews_in_Iraq>,
+        <http://dbpedia.org/resource/Iraq>,
+        <http://dbpedia.org/resource/Iraq_Al-Amir>,
+        <http://dbpedia.org/resource/Iraq_Football_Association>,
+        <http://dbpedia.org/resource/Iraq_Inquiry>,
+        <http://dbpedia.org/resource/Iraq_Levies>,
+        <http://dbpedia.org/resource/Iraq_Resolution>,
+        <http://dbpedia.org/resource/Iraq_Suwaydan>,
+        <http://dbpedia.org/resource/Iraq_War>,
+        <http://dbpedia.org/resource/Iraq_al-Manshiyya>,
+        <http://dbpedia.org/resource/Iraq_national_football_team>,
+        <http://dbpedia.org/resource/Iraqi_Army>,
+        <http://dbpedia.org/resource/Iraqi_Kurdistan>,
+        <http://dbpedia.org/resource/Iraqi_insurgency>,
+        <http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)>,
+        <http://dbpedia.org/resource/Karbala>,
+        <http://dbpedia.org/resource/Kingdom_of_Iraq>,
+        <http://dbpedia.org/resource/Kirkuk>,
+        <http://dbpedia.org/resource/Mesopotamia>,
+        <http://dbpedia.org/resource/Mosul>,
+        <http://dbpedia.org/resource/National_Museum_of_Iraq>,
+        <http://dbpedia.org/resource/Occupation_of_Iraq>,
+        <http://dbpedia.org/resource/Operation_Telic>,
+        <http://dbpedia.org/resource/Persian_Iraq>,
+        <http://dbpedia.org/resource/Politics_of_Iraq>,
+        <http://dbpedia.org/resource/Post-invasion_Iraq,_2003%E2%80%93present>,
+        <http://dbpedia.org/resource/RAF_Iraq_Command>,
+        <http://dbpedia.org/resource/Sanctions_against_Iraq>,
+        <http://dbpedia.org/resource/Taji,_Iraq>,
+        <http://dbpedia.org/resource/Tikrit> ;
     nif:anchorOf "Iraq"^^xsd:string ;
     nif:beginIndex "95"^^xsd:nonNegativeInteger ;
     nif:confidence 9.497887e-01 ;

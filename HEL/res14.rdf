@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -8,24 +9,29 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=120,141> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/New_Year%27s_Resolution>,
+        <http://dbpedia.org/resource/New_Year%27s_resolution>,
+        <http://dbpedia.org/resource/New_Year's_resolution>,
+        <http://dbpedia.org/resource/New_year%27s_resolution> ;
     nif:anchorOf "New Year's resolution"^^xsd:string ;
     nif:beginIndex "120"^^xsd:nonNegativeInteger ;
-    nif:confidence 6e-01 ;
+    nif:confidence 5.7375e-01 ;
     nif:endIndex "141"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6e-01 ;
+    itsrdf:taConfidence 5.7375e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/New_Year's_resolution> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=1276,1314> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition> ;
     nif:anchorOf "American Journal of Clinical Nutrition"^^xsd:string ;
     nif:beginIndex "1276"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.45625e-01 ;
+    nif:confidence 5.4e-01 ;
     nif:endIndex "1314"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.45625e-01 ;
-    itsrdf:taIdentRef <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition> .
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/American_Journal_of_Clinical_Nutrition> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=1938,1962> a nif:Phrase,
         nif:RFC5147String,
@@ -41,34 +47,43 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=203,212> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "203"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.476263e-01 ;
+    nif:confidence 6.301263e-01 ;
     nif:endIndex "212"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.476263e-01 ;
+    itsrdf:taConfidence 6.301263e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Joy_Bauer> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2250,2261> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Whole-wheat_flour>,
+        <http://dbpedia.org/resource/Whole_Wheat_Bread_(band)>,
+        <http://dbpedia.org/resource/Whole_Wheat_Radio>,
+        <http://dbpedia.org/resource/Whole_grain>,
+        <http://dbpedia.org/resource/Whole_wheat_bread> ;
     nif:anchorOf "Whole Wheat"^^xsd:string ;
     nif:beginIndex "2250"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.132065e-01 ;
+    nif:confidence 5.607065e-01 ;
     nif:endIndex "2261"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.132065e-01 ;
+    itsrdf:taConfidence 5.607065e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Whole_grain> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2270,2281> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Frosted_Flakes>,
+        <http://dbpedia.org/resource/Whole_Grain_Stamp>,
+        <http://dbpedia.org/resource/Whole_grain> ;
     nif:anchorOf "Whole Grain"^^xsd:string ;
     nif:beginIndex "2270"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.11e-01 ;
+    nif:confidence 6.585e-01 ;
     nif:endIndex "2281"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 7.11e-01 ;
+    itsrdf:taConfidence 6.585e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Whole_grain> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2461,2486> a nif:Phrase,
@@ -76,15 +91,16 @@
         nif:String ;
     nif:anchorOf "Annual Scientific Meeting"^^xsd:string ;
     nif:beginIndex "2461"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.4e-01 ;
+    nif:confidence 1e+00 ;
     nif:endIndex "2486"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taConfidence 1e+00 ;
     itsrdf:taIdentRef <http://vu.nl/unknown/Annual_Scientific_Meeting> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=2489,2494> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Naasa_Hablood> ;
     nif:anchorOf "NAASO"^^xsd:string ;
     nif:beginIndex "2489"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -107,6 +123,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=3297,3306> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "3297"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -118,45 +135,117 @@
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=505,513> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1909_New_Year_Honours>,
+        <http://dbpedia.org/resource/1927_New_Year_Honours>,
+        <http://dbpedia.org/resource/1953_New_Year_Honours>,
+        <http://dbpedia.org/resource/1958_New_Year_Honours>,
+        <http://dbpedia.org/resource/1975_New_Year_Honours>,
+        <http://dbpedia.org/resource/1980_New_Year_Honours>,
+        <http://dbpedia.org/resource/1990_New_Year_Honours>,
+        <http://dbpedia.org/resource/1993_New_Year_Honours>,
+        <http://dbpedia.org/resource/1995_New_Year_Honours>,
+        <http://dbpedia.org/resource/1996_New_Year_Honours>,
+        <http://dbpedia.org/resource/1997_New_Year_Honours>,
+        <http://dbpedia.org/resource/2002_New_Year_Honours>,
+        <http://dbpedia.org/resource/2005_New_Year_Honours>,
+        <http://dbpedia.org/resource/2006_Bangkok_bombings>,
+        <http://dbpedia.org/resource/2006_New_Year_Honours>,
+        <http://dbpedia.org/resource/2007_New_Year_Honours>,
+        <http://dbpedia.org/resource/2008_New_Year_Honours>,
+        <http://dbpedia.org/resource/2009_New_Year_Honours>,
+        <http://dbpedia.org/resource/2010_New_Year_Honours>,
+        <http://dbpedia.org/resource/Aztec_New_Year>,
+        <http://dbpedia.org/resource/Baby_New_Year>,
+        <http://dbpedia.org/resource/Bahá'í_Naw-Rúz>,
+        <http://dbpedia.org/resource/Brand_New_Year>,
+        <http://dbpedia.org/resource/Cambodian_New_Year>,
+        <http://dbpedia.org/resource/Chinese_New_Year>,
+        <http://dbpedia.org/resource/Christmas_and_holiday_season>,
+        <http://dbpedia.org/resource/Hmong_customs_and_culture>,
+        <http://dbpedia.org/resource/Holiday_stamp>,
+        <http://dbpedia.org/resource/Islamic_New_Year>,
+        <http://dbpedia.org/resource/Japanese_New_Year>,
+        <http://dbpedia.org/resource/Kerala_New_Year>,
+        <http://dbpedia.org/resource/Korean_New_Year>,
+        <http://dbpedia.org/resource/Losar>,
+        <http://dbpedia.org/resource/Lunar_New_Year>,
+        <http://dbpedia.org/resource/Lunar_New_Year_Cup>,
+        <http://dbpedia.org/resource/Lunar_New_Year_Fair>,
+        <http://dbpedia.org/resource/Maithili_New_Year>,
+        <http://dbpedia.org/resource/New_Year>,
+        <http://dbpedia.org/resource/New_Year%27s_Day>,
+        <http://dbpedia.org/resource/New_Year%27s_Eve>,
+        <http://dbpedia.org/resource/New_Year's_Day>,
+        <http://dbpedia.org/resource/New_Year's_Eve>,
+        <http://dbpedia.org/resource/New_Year's_resolution>,
+        <http://dbpedia.org/resource/New_Year_%281924_film%29>,
+        <http://dbpedia.org/resource/New_Year_%28Sugababes_song%29>,
+        <http://dbpedia.org/resource/New_Year_%28opera%29>,
+        <http://dbpedia.org/resource/New_Year_(song)>,
+        <http://dbpedia.org/resource/New_Year_Honours>,
+        <http://dbpedia.org/resource/New_Year_Live>,
+        <http://dbpedia.org/resource/New_Year_Pass>,
+        <http://dbpedia.org/resource/New_Year_card>,
+        <http://dbpedia.org/resource/New_Year_tree>,
+        <http://dbpedia.org/resource/Nowruz>,
+        <http://dbpedia.org/resource/Old_New_Year>,
+        <http://dbpedia.org/resource/Pohela_Boishakh>,
+        <http://dbpedia.org/resource/Puthandu>,
+        <http://dbpedia.org/resource/Red_Bull_New_Year_No_Limits>,
+        <http://dbpedia.org/resource/Rosh_Hashanah>,
+        <http://dbpedia.org/resource/Sinhalese_New_Year>,
+        <http://dbpedia.org/resource/Six_by_Seven>,
+        <http://dbpedia.org/resource/Songkran>,
+        <http://dbpedia.org/resource/Songkran_(Thailand)>,
+        <http://dbpedia.org/resource/The_New_Year_%28album%29>,
+        <http://dbpedia.org/resource/The_New_Year_%28song%29>,
+        <http://dbpedia.org/resource/The_New_Year_(band)>,
+        <http://dbpedia.org/resource/Thingyan>,
+        <http://dbpedia.org/resource/Tu_BiShvat>,
+        <http://dbpedia.org/resource/Tết>,
+        <http://dbpedia.org/resource/Ugadi> ;
     nif:anchorOf "New Year"^^xsd:string ;
     nif:beginIndex "505"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.628571e-01 ;
+    nif:confidence 5.4e-01 ;
     nif:endIndex "513"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.628571e-01 ;
-    itsrdf:taIdentRef <http://dbpedia.org/resource/Chinese_New_Year> .
+    itsrdf:taConfidence 5.4e-01 ;
+    itsrdf:taIdentRef <http://vu.nl/unknown/New_Year> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=55,64> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
     nif:anchorOf "Joy Bauer"^^xsd:string ;
     nif:beginIndex "55"^^xsd:nonNegativeInteger ;
-    nif:confidence 5.63125e-01 ;
+    nif:confidence 5.45625e-01 ;
     nif:endIndex "64"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 5.63125e-01 ;
+    itsrdf:taConfidence 5.45625e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Joy_Bauer> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=835,850> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Low-density_lipoprotein> ;
     nif:anchorOf "LDL-Cholesterol"^^xsd:string ;
     nif:beginIndex "835"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.6125e-01 ;
+    nif:confidence 6.175e-01 ;
     nif:endIndex "850"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.6125e-01 ;
+    itsrdf:taConfidence 6.175e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/Low-density_lipoprotein> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=868,883> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/High-density_lipoprotein> ;
     nif:anchorOf "HDL-Cholesterol"^^xsd:string ;
     nif:beginIndex "868"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.4375e-01 ;
+    nif:confidence 6e-01 ;
     nif:endIndex "883"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> ;
-    itsrdf:taConfidence 6.4375e-01 ;
+    itsrdf:taConfidence 6e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/High-density_lipoprotein> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_13#char=0,3352> a nif:Context,

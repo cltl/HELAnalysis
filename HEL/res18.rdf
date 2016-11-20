@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -8,6 +9,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=1208,1219> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mayo_Clinic>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Center_for_Innovation>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Diet>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital,_Saint_Mary%E2%80%99s_Campus>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital,_Saint_Mary’s_Campus>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital_%E2%80%94_Rochester>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Proceedings>,
+        <http://dbpedia.org/resource/Mayo_Foundation_for_Medical_Education_&_Research_v._United_States>,
+        <http://dbpedia.org/resource/Mayo_Medical_School>,
+        <http://dbpedia.org/resource/Plummer_Building> ;
     nif:anchorOf "Mayo Clinic"^^xsd:string ;
     nif:beginIndex "1208"^^xsd:nonNegativeInteger ;
     nif:confidence 7.5475e-01 ;
@@ -19,6 +31,19 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=1538,1560> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Department_of_Computer_Science,_Stony_Brook_University>,
+        <http://dbpedia.org/resource/Island_Federal_Credit_Union_Arena>,
+        <http://dbpedia.org/resource/List_of_Stony_Brook_University_buildings>,
+        <http://dbpedia.org/resource/List_of_Stony_Brook_University_people>,
+        <http://dbpedia.org/resource/Stony_Brook_University>,
+        <http://dbpedia.org/resource/Stony_Brook_University_Graduate_Program_in_Public_Health>,
+        <http://dbpedia.org/resource/Stony_Brook_University_Hospital>,
+        <http://dbpedia.org/resource/Stony_Brook_University_Medical_Center_Pathology>,
+        <http://dbpedia.org/resource/Stony_Brook_University_Research_and_Development_Park>,
+        <http://dbpedia.org/resource/Stony_Brook_University_School_of_Medicine>,
+        <http://dbpedia.org/resource/Stony_Brook_University_Track>,
+        <http://dbpedia.org/resource/Stony_Brook_University_student_housing>,
+        <http://dbpedia.org/resource/Undergraduate_Student_Government_at_Stony_Brook_University> ;
     nif:anchorOf "Stony Brook University"^^xsd:string ;
     nif:beginIndex "1538"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -30,28 +55,153 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=1564,1572> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Broadway_theatre>,
+        <http://dbpedia.org/resource/Brooklyn_Navy_Yard>,
+        <http://dbpedia.org/resource/Cagney_&_Lacey>,
+        <http://dbpedia.org/resource/Episcopal_Diocese_of_New_York>,
+        <http://dbpedia.org/resource/Federal_Reserve_Bank_of_New_York>,
+        <http://dbpedia.org/resource/Headquarters_of_the_United_Nations>,
+        <http://dbpedia.org/resource/History_of_New_York_City>,
+        <http://dbpedia.org/resource/List_of_journalists_killed_in_the_United_States>,
+        <http://dbpedia.org/resource/Manhattan>,
+        <http://dbpedia.org/resource/Miss_New_York_Teen_USA>,
+        <http://dbpedia.org/resource/Miss_New_York_USA>,
+        <http://dbpedia.org/resource/New_York>,
+        <http://dbpedia.org/resource/New_York%2C_New_York>,
+        <http://dbpedia.org/resource/New_York%2C_New_York_%28disambiguation%29>,
+        <http://dbpedia.org/resource/New_York%2C_New_York_%28film%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28Moby_song%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28On_the_Town%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28Ryan_Adams_song%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28So_Good_They_Named_It_Twice%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28Tha_Dogg_Pound_song%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_%28film%29>,
+        <http://dbpedia.org/resource/New_York,_New_York_(disambiguation)>,
+        <http://dbpedia.org/resource/New_York,_New_York_(film)>,
+        <http://dbpedia.org/resource/New_York-New_York_Hotel_%26_Casino>,
+        <http://dbpedia.org/resource/New_York-New_York_Hotel_and_Casino>,
+        <http://dbpedia.org/resource/New_York_City>,
+        <http://dbpedia.org/resource/New_York_City_English>,
+        <http://dbpedia.org/resource/New_York_City_Marathon>,
+        <http://dbpedia.org/resource/New_York_Fashion_Week>,
+        <http://dbpedia.org/resource/New_York_GAA>,
+        <http://dbpedia.org/resource/New_York_Harbor>,
+        <http://dbpedia.org/resource/New_York_Knicks>,
+        <http://dbpedia.org/resource/New_York_Mets>,
+        <http://dbpedia.org/resource/New_York_Philharmonic>,
+        <http://dbpedia.org/resource/New_York_Rangers>,
+        <http://dbpedia.org/resource/New_York_Red_Bulls>,
+        <http://dbpedia.org/resource/New_York_Sharks>,
+        <http://dbpedia.org/resource/New_York_State_Department_of_Transportation>,
+        <http://dbpedia.org/resource/New_York_Stock_Exchange>,
+        <http://dbpedia.org/resource/New_York_University>,
+        <http://dbpedia.org/resource/New_York_Yankees>,
+        <http://dbpedia.org/resource/New_York_and_New_Jersey_campaign>,
+        <http://dbpedia.org/resource/New_York_hardcore>,
+        <http://dbpedia.org/resource/New_York_metropolitan_area>,
+        <http://dbpedia.org/resource/New_York_wine>,
+        <http://dbpedia.org/resource/Province_of_New_York>,
+        <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_New_York>,
+        <http://dbpedia.org/resource/San_Francisco_Giants>,
+        <http://dbpedia.org/resource/Theme_from_New_York%2C_New_York>,
+        <http://dbpedia.org/resource/Theme_from_New_York,_New_York>,
+        <http://dbpedia.org/resource/Tiffany_Pollard>,
+        <http://dbpedia.org/resource/United_States>,
+        <http://dbpedia.org/resource/United_States_congressional_delegations_from_New_York> ;
     nif:anchorOf "New York"^^xsd:string ;
     nif:beginIndex "1564"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.227717e-01 ;
+    nif:confidence 7.229167e-01 ;
     nif:endIndex "1572"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_17#char=0,3620> ;
-    itsrdf:taConfidence 7.227717e-01 ;
+    itsrdf:taConfidence 7.229167e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2048,2067> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Culture_Collection_(University_of_Gothenburg)>,
+        <http://dbpedia.org/resource/IT_University>,
+        <http://dbpedia.org/resource/School_of_Business%2C_Economics_and_Law_at_Goteborg_University>,
+        <http://dbpedia.org/resource/School_of_Business,_Economics_and_Law>,
+        <http://dbpedia.org/resource/University_of_Gothenburg> ;
     nif:anchorOf "Goteborg University"^^xsd:string ;
     nif:beginIndex "2048"^^xsd:nonNegativeInteger ;
-    nif:confidence 6.287653e-01 ;
+    nif:confidence 6.7875e-01 ;
     nif:endIndex "2067"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_17#char=0,3620> ;
-    itsrdf:taConfidence 6.287653e-01 ;
+    itsrdf:taConfidence 6.7875e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/University_of_Gothenburg> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2071,2077> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2008_Swedish_Rally>,
+        <http://dbpedia.org/resource/Alina_Devecerski>,
+        <http://dbpedia.org/resource/Allsvenskan>,
+        <http://dbpedia.org/resource/Australian_rules_football_in_Sweden>,
+        <http://dbpedia.org/resource/Complainte_pour_Ste._Catherine>,
+        <http://dbpedia.org/resource/Cornelis_sjunger_Victor_Jara>,
+        <http://dbpedia.org/resource/David_Lindgren>,
+        <http://dbpedia.org/resource/Electric_(Melody_Club_song)>,
+        <http://dbpedia.org/resource/Get_Started>,
+        <http://dbpedia.org/resource/Glimmande_nymf>,
+        <http://dbpedia.org/resource/Gothenburg>,
+        <http://dbpedia.org/resource/Helsingborg>,
+        <http://dbpedia.org/resource/International_Federation_of_the_Phonographic_Industry>,
+        <http://dbpedia.org/resource/Karlstad_Municipality>,
+        <http://dbpedia.org/resource/Live_Live_in_Paris>,
+        <http://dbpedia.org/resource/Lund>,
+        <http://dbpedia.org/resource/MTV_Sweden>,
+        <http://dbpedia.org/resource/Mars_One>,
+        <http://dbpedia.org/resource/Miss_Sweden>,
+        <http://dbpedia.org/resource/Pristina_International_Airport>,
+        <http://dbpedia.org/resource/Quakers>,
+        <http://dbpedia.org/resource/Rail_transport_in_Sweden>,
+        <http://dbpedia.org/resource/Rally_Sweden>,
+        <http://dbpedia.org/resource/Same-sex_marriage_in_Sweden>,
+        <http://dbpedia.org/resource/South_Sweden>,
+        <http://dbpedia.org/resource/Statistics_Sweden>,
+        <http://dbpedia.org/resource/Stockholm>,
+        <http://dbpedia.org/resource/Sverigetopplistan>,
+        <http://dbpedia.org/resource/Sweden>,
+        <http://dbpedia.org/resource/Sweden%2C_Maine>,
+        <http://dbpedia.org/resource/Sweden%E2%80%93Finland>,
+        <http://dbpedia.org/resource/Sweden,_Maine>,
+        <http://dbpedia.org/resource/Sweden,_New_York>,
+        <http://dbpedia.org/resource/Sweden_%28European_Parliament_constituency%29>,
+        <http://dbpedia.org/resource/Sweden_%28album%29>,
+        <http://dbpedia.org/resource/Sweden_%28disambiguation%29>,
+        <http://dbpedia.org/resource/Sweden_(disambiguation)>,
+        <http://dbpedia.org/resource/Sweden_Davis_Cup_team>,
+        <http://dbpedia.org/resource/Sweden_Democrats>,
+        <http://dbpedia.org/resource/Sweden_Finns>,
+        <http://dbpedia.org/resource/Sweden_Township,_Potter_County,_Pennsylvania>,
+        <http://dbpedia.org/resource/Sweden_at_the_1972_Summer_Olympics>,
+        <http://dbpedia.org/resource/Sweden_at_the_2004_Summer_Olympics>,
+        <http://dbpedia.org/resource/Sweden_at_the_2006_Winter_Olympics>,
+        <http://dbpedia.org/resource/Sweden_at_the_2008_Summer_Olympics>,
+        <http://dbpedia.org/resource/Sweden_in_the_Eurovision_Song_Contest>,
+        <http://dbpedia.org/resource/Sweden_men%27s_national_floorball_team>,
+        <http://dbpedia.org/resource/Sweden_men%27s_national_ice_hockey_team>,
+        <http://dbpedia.org/resource/Sweden_men%27s_national_junior_ice_hockey_team>,
+        <http://dbpedia.org/resource/Sweden_national_badminton_team>,
+        <http://dbpedia.org/resource/Sweden_national_baseball_team>,
+        <http://dbpedia.org/resource/Sweden_national_football_team>,
+        <http://dbpedia.org/resource/Sweden_national_handball_team>,
+        <http://dbpedia.org/resource/Sweden_national_rugby_union_team>,
+        <http://dbpedia.org/resource/Sweden_national_speedway_team>,
+        <http://dbpedia.org/resource/Sweden_national_under-19_speedway_team>,
+        <http://dbpedia.org/resource/Sweden_national_under-21_football_team>,
+        <http://dbpedia.org/resource/Sweden_women%27s_national_football_team>,
+        <http://dbpedia.org/resource/Sweden_women%27s_national_ice_hockey_team>,
+        <http://dbpedia.org/resource/Swedish_Armed_Forces>,
+        <http://dbpedia.org/resource/Swedish_Empire>,
+        <http://dbpedia.org/resource/Swedish_cuisine>,
+        <http://dbpedia.org/resource/Swedish_literature>,
+        <http://dbpedia.org/resource/Tipica_Tangarte>,
+        <http://dbpedia.org/resource/Union_between_Sweden_and_Norway>,
+        <http://dbpedia.org/resource/Uppsala>,
+        <http://dbpedia.org/resource/West_Sweden> ;
     nif:anchorOf "Sweden"^^xsd:string ;
     nif:beginIndex "2071"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -63,6 +213,83 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2424,2430> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/19th_Nervous_Breakdown>,
+        <http://dbpedia.org/resource/A_Hard_Road>,
+        <http://dbpedia.org/resource/Ain't_Nothing_Like_the_Real_Thing>,
+        <http://dbpedia.org/resource/BFI_London_Film_Festival>,
+        <http://dbpedia.org/resource/Bananarama>,
+        <http://dbpedia.org/resource/Bishop_of_London>,
+        <http://dbpedia.org/resource/Blues_Breakers_with_Eric_Clapton>,
+        <http://dbpedia.org/resource/Central_London>,
+        <http://dbpedia.org/resource/City_of_London>,
+        <http://dbpedia.org/resource/Comment_te_dire_adieu%3F_(song)>,
+        <http://dbpedia.org/resource/County_of_London>,
+        <http://dbpedia.org/resource/Diocese_of_London>,
+        <http://dbpedia.org/resource/Do_Ya_Wanna_Funk>,
+        <http://dbpedia.org/resource/Euston_railway_station>,
+        <http://dbpedia.org/resource/From_Genesis_to_Revelation>,
+        <http://dbpedia.org/resource/Get_Off_of_My_Cloud>,
+        <http://dbpedia.org/resource/Greater_London>,
+        <http://dbpedia.org/resource/Greater_London_Built-up_Area>,
+        <http://dbpedia.org/resource/Heathrow_Airport>,
+        <http://dbpedia.org/resource/History_of_London>,
+        <http://dbpedia.org/resource/Honky_Tonk_Women>,
+        <http://dbpedia.org/resource/Inner_London>,
+        <http://dbpedia.org/resource/Jerry_Keller>,
+        <http://dbpedia.org/resource/Jim_Lowe>,
+        <http://dbpedia.org/resource/List_of_minor_planets:_8001–9000>,
+        <http://dbpedia.org/resource/London>,
+        <http://dbpedia.org/resource/London_Airport>,
+        <http://dbpedia.org/resource/London_Bridge>,
+        <http://dbpedia.org/resource/London_Company>,
+        <http://dbpedia.org/resource/London_Cricket_Club>,
+        <http://dbpedia.org/resource/London_Drugs>,
+        <http://dbpedia.org/resource/London_Films>,
+        <http://dbpedia.org/resource/London_GAA>,
+        <http://dbpedia.org/resource/London_Marathon>,
+        <http://dbpedia.org/resource/London_Paddington_station>,
+        <http://dbpedia.org/resource/London_Protocol>,
+        <http://dbpedia.org/resource/London_Records>,
+        <http://dbpedia.org/resource/London_Regiment>,
+        <http://dbpedia.org/resource/London_Stock_Exchange>,
+        <http://dbpedia.org/resource/London_TV>,
+        <http://dbpedia.org/resource/London_Towers>,
+        <http://dbpedia.org/resource/London_Underground>,
+        <http://dbpedia.org/resource/London_Waterloo_station>,
+        <http://dbpedia.org/resource/London_boroughs>,
+        <http://dbpedia.org/resource/London_commuter_belt>,
+        <http://dbpedia.org/resource/London_congestion_charge>,
+        <http://dbpedia.org/resource/London_equations>,
+        <http://dbpedia.org/resource/London_moment>,
+        <http://dbpedia.org/resource/London_postal_district>,
+        <http://dbpedia.org/resource/Lord_Mayor_of_London>,
+        <http://dbpedia.org/resource/Mack_the_Knife>,
+        <http://dbpedia.org/resource/Marcella_Detroit>,
+        <http://dbpedia.org/resource/Marylebone_station>,
+        <http://dbpedia.org/resource/Mayor_of_London>,
+        <http://dbpedia.org/resource/Outer_London>,
+        <http://dbpedia.org/resource/Port_of_London>,
+        <http://dbpedia.org/resource/Saro_London>,
+        <http://dbpedia.org/resource/Senza_una_donna>,
+        <http://dbpedia.org/resource/Showpeople>,
+        <http://dbpedia.org/resource/St_Pancras_railway_station>,
+        <http://dbpedia.org/resource/Stay_Another_Day>,
+        <http://dbpedia.org/resource/Sugababes>,
+        <http://dbpedia.org/resource/The_London_Group>,
+        <http://dbpedia.org/resource/The_Oval>,
+        <http://dbpedia.org/resource/The_Third_Man_Theme>,
+        <http://dbpedia.org/resource/The_Trash_Can_Sinatras>,
+        <http://dbpedia.org/resource/Think_Visual>,
+        <http://dbpedia.org/resource/This_World_and_Body>,
+        <http://dbpedia.org/resource/Tower_of_London>,
+        <http://dbpedia.org/resource/Twickenham_Stadium>,
+        <http://dbpedia.org/resource/UK_Jive>,
+        <http://dbpedia.org/resource/University_of_London>,
+        <http://dbpedia.org/resource/Victoria_Coach_Station>,
+        <http://dbpedia.org/resource/We_Love_You>,
+        <http://dbpedia.org/resource/Wembley_Stadium>,
+        <http://dbpedia.org/resource/West_End_theatre>,
+        <http://dbpedia.org/resource/You're_Sixteen> ;
     nif:anchorOf "London"^^xsd:string ;
     nif:beginIndex "2424"^^xsd:nonNegativeInteger ;
     nif:confidence 6.6125e-01 ;
@@ -74,6 +301,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2516,2534> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Hodgkin%E2%80%99s_Lymphoma>,
+        <http://dbpedia.org/resource/Hodgkin%E2%80%99s_lymphoma>,
+        <http://dbpedia.org/resource/Non-Hodgkin%E2%80%99s_lymphoma> ;
     nif:anchorOf "Hodgkin’s lymphoma"^^xsd:string ;
     nif:beginIndex "2516"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -85,6 +315,20 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2619,2640> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Ohio_State_Buckeyes>,
+        <http://dbpedia.org/resource/Ohio_State_Buckeyes_football>,
+        <http://dbpedia.org/resource/Ohio_State_Buckeyes_men%27s_basketball>,
+        <http://dbpedia.org/resource/Ohio_State_University>,
+        <http://dbpedia.org/resource/Ohio_State_University,_Lima_Campus>,
+        <http://dbpedia.org/resource/Ohio_State_University,_Mansfield_Campus>,
+        <http://dbpedia.org/resource/Ohio_State_University,_Marion_Campus>,
+        <http://dbpedia.org/resource/Ohio_State_University,_Newark_Campus>,
+        <http://dbpedia.org/resource/Ohio_State_University_(disambiguation)>,
+        <http://dbpedia.org/resource/Ohio_State_University_Agricultural_Technical_Institute>,
+        <http://dbpedia.org/resource/Ohio_State_University_Airport>,
+        <http://dbpedia.org/resource/Ohio_State_University_Press>,
+        <http://dbpedia.org/resource/Ohio_State_University_shooting>,
+        <http://dbpedia.org/resource/The_Ohio_State_University_Marching_Band> ;
     nif:anchorOf "Ohio State University"^^xsd:string ;
     nif:beginIndex "2619"^^xsd:nonNegativeInteger ;
     nif:confidence 6.7875e-01 ;
@@ -96,6 +340,15 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=2783,2805> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Lincoln_University_(Missouri)>,
+        <http://dbpedia.org/resource/MUTV_(University_of_Missouri)>,
+        <http://dbpedia.org/resource/Missouri_Tigers>,
+        <http://dbpedia.org/resource/Missouri_Tigers_football>,
+        <http://dbpedia.org/resource/Missouri_University_of_Science_and_Technology>,
+        <http://dbpedia.org/resource/University_of_Missouri>,
+        <http://dbpedia.org/resource/University_of_Missouri_Hospital>,
+        <http://dbpedia.org/resource/University_of_Missouri_Press>,
+        <http://dbpedia.org/resource/University_of_Missouri_System> ;
     nif:anchorOf "University of Missouri"^^xsd:string ;
     nif:beginIndex "2783"^^xsd:nonNegativeInteger ;
     nif:confidence 6.525e-01 ;
@@ -107,6 +360,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=453,463> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Santa%2C_Baby>,
+        <http://dbpedia.org/resource/Santa_Baby>,
+        <http://dbpedia.org/resource/Santa_Baby_%28Gimme%2C_Gimme%2C_Gimme%29>,
+        <http://dbpedia.org/resource/Santa_Baby_%28Sugababes_cover_version%29>,
+        <http://dbpedia.org/resource/Santa_Baby_%28Sugababes_song%29>,
+        <http://dbpedia.org/resource/Santa_Baby_%28TV_movie%29>,
+        <http://dbpedia.org/resource/Santa_Baby_%28film%29>,
+        <http://dbpedia.org/resource/Santa_Baby_(Gimme,_Gimme,_Gimme)>,
+        <http://dbpedia.org/resource/Santa_Baby_(film)>,
+        <http://dbpedia.org/resource/Santa_Baby_2>,
+        <http://dbpedia.org/resource/Santa_Baby_2_%28film%29> ;
     nif:anchorOf "Santa Baby"^^xsd:string ;
     nif:beginIndex "453"^^xsd:nonNegativeInteger ;
     nif:confidence 6.175e-01 ;
@@ -118,6 +382,17 @@
 <http://www.aksw.org/gerbil/NifWebService/request_17#char=818,829> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mayo_Clinic>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Center_for_Innovation>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Diet>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital,_Saint_Mary%E2%80%99s_Campus>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital,_Saint_Mary’s_Campus>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Hospital_%E2%80%94_Rochester>,
+        <http://dbpedia.org/resource/Mayo_Clinic_Proceedings>,
+        <http://dbpedia.org/resource/Mayo_Foundation_for_Medical_Education_&_Research_v._United_States>,
+        <http://dbpedia.org/resource/Mayo_Medical_School>,
+        <http://dbpedia.org/resource/Plummer_Building> ;
     nif:anchorOf "Mayo Clinic"^^xsd:string ;
     nif:beginIndex "818"^^xsd:nonNegativeInteger ;
     nif:confidence 7.05e-01 ;

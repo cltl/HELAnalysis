@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -8,6 +9,92 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,4> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1961_U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/2003_invasion_of_Iraq>,
+        <http://dbpedia.org/resource/2010_U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/AP_United_States_History>,
+        <http://dbpedia.org/resource/Ambassadors_of_the_United_States>,
+        <http://dbpedia.org/resource/American_English>,
+        <http://dbpedia.org/resource/Anti-Americanism>,
+        <http://dbpedia.org/resource/Billboard_Hot_100>,
+        <http://dbpedia.org/resource/Cabinet_of_the_United_States>,
+        <http://dbpedia.org/resource/Citizenship_in_the_United_States>,
+        <http://dbpedia.org/resource/Coins_of_the_United_States_dollar>,
+        <http://dbpedia.org/resource/College_basketball>,
+        <http://dbpedia.org/resource/Contiguous_United_States>,
+        <http://dbpedia.org/resource/Dance_Club_Songs>,
+        <http://dbpedia.org/resource/Demography_of_the_United_States>,
+        <http://dbpedia.org/resource/Eastern_United_States>,
+        <http://dbpedia.org/resource/Economy_of_the_United_States>,
+        <http://dbpedia.org/resource/Federal_district>,
+        <http://dbpedia.org/resource/Federal_government_of_the_United_States>,
+        <http://dbpedia.org/resource/Flag_of_the_United_States>,
+        <http://dbpedia.org/resource/Gallon>,
+        <http://dbpedia.org/resource/History_of_the_United_States>,
+        <http://dbpedia.org/resource/Hot_Rap_Songs>,
+        <http://dbpedia.org/resource/Insular_area>,
+        <http://dbpedia.org/resource/Law_of_the_United_States>,
+        <http://dbpedia.org/resource/Masters_Tournament>,
+        <http://dbpedia.org/resource/Member_of_Congress>,
+        <http://dbpedia.org/resource/Midwestern_United_States>,
+        <http://dbpedia.org/resource/Misplaced_Childhood>,
+        <http://dbpedia.org/resource/No_Way_But_the_Hard_Way>,
+        <http://dbpedia.org/resource/Northeastern_United_States>,
+        <http://dbpedia.org/resource/Northwestern_United_States>,
+        <http://dbpedia.org/resource/Pacific_Coast_Borax_Company>,
+        <http://dbpedia.org/resource/Politics_of_the_United_States>,
+        <http://dbpedia.org/resource/President_of_the_United_States>,
+        <http://dbpedia.org/resource/Sheriff_of_Cochise>,
+        <http://dbpedia.org/resource/Southeastern_United_States>,
+        <http://dbpedia.org/resource/Southern_United_States>,
+        <http://dbpedia.org/resource/Southwestern_United_States>,
+        <http://dbpedia.org/resource/Territories_of_the_United_States>,
+        <http://dbpedia.org/resource/The_Sound_of_Echo>,
+        <http://dbpedia.org/resource/Treasurer_of_the_United_States>,
+        <http://dbpedia.org/resource/Tu_Veneno>,
+        <http://dbpedia.org/resource/Tweedles>,
+        <http://dbpedia.org/resource/U.S._Figure_Skating_Championships>,
+        <http://dbpedia.org/resource/USG_Corporation>,
+        <http://dbpedia.org/resource/US_Airways>,
+        <http://dbpedia.org/resource/United_States>,
+        <http://dbpedia.org/resource/United_States_Armed_Forces>,
+        <http://dbpedia.org/resource/United_States_Army>,
+        <http://dbpedia.org/resource/United_States_Army_Air_Forces>,
+        <http://dbpedia.org/resource/United_States_Attorney>,
+        <http://dbpedia.org/resource/United_States_Bicentennial>,
+        <http://dbpedia.org/resource/United_States_Capitol>,
+        <http://dbpedia.org/resource/United_States_Census>,
+        <http://dbpedia.org/resource/United_States_Census_Bureau>,
+        <http://dbpedia.org/resource/United_States_Code>,
+        <http://dbpedia.org/resource/United_States_Congress>,
+        <http://dbpedia.org/resource/United_States_Constabulary>,
+        <http://dbpedia.org/resource/United_States_Constitution>,
+        <http://dbpedia.org/resource/United_States_Customs_Service>,
+        <http://dbpedia.org/resource/United_States_Department_of_the_Treasury>,
+        <http://dbpedia.org/resource/United_States_Environmental_Protection_Agency>,
+        <http://dbpedia.org/resource/United_States_Fleet>,
+        <http://dbpedia.org/resource/United_States_House_of_Representatives>,
+        <http://dbpedia.org/resource/United_States_Intelligence_Community>,
+        <http://dbpedia.org/resource/United_States_Marine_Corps>,
+        <http://dbpedia.org/resource/United_States_Marshals_Service>,
+        <http://dbpedia.org/resource/United_States_Mint>,
+        <http://dbpedia.org/resource/United_States_Navy>,
+        <http://dbpedia.org/resource/United_States_Numbered_Highways>,
+        <http://dbpedia.org/resource/United_States_Postal_Service>,
+        <http://dbpedia.org/resource/United_States_Rubber_Company>,
+        <http://dbpedia.org/resource/United_States_Senate>,
+        <http://dbpedia.org/resource/United_States_Soccer_Federation>,
+        <http://dbpedia.org/resource/United_States_Volunteers>,
+        <http://dbpedia.org/resource/United_States_customary_units>,
+        <http://dbpedia.org/resource/United_States_dollar>,
+        <http://dbpedia.org/resource/United_States_entity>,
+        <http://dbpedia.org/resource/United_States_national_rugby_league_team>,
+        <http://dbpedia.org/resource/United_States_nationality_law>,
+        <http://dbpedia.org/resource/United_States_passport>,
+        <http://dbpedia.org/resource/United_States_patent_law>,
+        <http://dbpedia.org/resource/United_States_territory>,
+        <http://dbpedia.org/resource/Weird_U.S.>,
+        <http://dbpedia.org/resource/Western_United_States> ;
     nif:anchorOf "U.S."^^xsd:string ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:confidence 5.87545e-01 ;
@@ -30,6 +117,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=118,128> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Buckhannon%2C_WV>,
+        <http://dbpedia.org/resource/Buckhannon%2C_West_Virginia>,
+        <http://dbpedia.org/resource/Buckhannon,_West_Virginia>,
+        <http://dbpedia.org/resource/Buckhannon-Upshur_High_School>,
+        <http://dbpedia.org/resource/Buckhannon_Central_Residential_Historical_District>,
+        <http://dbpedia.org/resource/Buckhannon_River>,
+        <http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District>,
+        <http://dbpedia.org/resource/South_Buckhannon,_West_Virginia> ;
     nif:anchorOf "BUCKHANNON"^^xsd:string ;
     nif:beginIndex "118"^^xsd:nonNegativeInteger ;
     nif:confidence 7.462814e-01 ;
@@ -41,6 +136,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=1219,1256> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Mine_Safety_and_Health_Administration> ;
     nif:anchorOf "Mine Safety and Health Administration"^^xsd:string ;
     nif:beginIndex "1219"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -52,6 +148,54 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=1265,1278> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team>,
+        <http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/Holy_Moses>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_USA>,
+        <http://dbpedia.org/resource/Polluted_Inheritance>,
+        <http://dbpedia.org/resource/Reborn_Dogs>,
+        <http://dbpedia.org/resource/Route_311_(Virginia–West_Virginia)>,
+        <http://dbpedia.org/resource/Southern_West_Virginia>,
+        <http://dbpedia.org/resource/Terminal_Terror>,
+        <http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)>,
+        <http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29>,
+        <http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia>,
+        <http://dbpedia.org/resource/University_of_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Amateur_Championship>,
+        <http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Derby>,
+        <http://dbpedia.org/resource/West_Virginia_Law_Review>,
+        <http://dbpedia.org/resource/West_Virginia_Lottery>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_football>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball>,
+        <http://dbpedia.org/resource/West_Virginia_Radio_Corporation>,
+        <http://dbpedia.org/resource/West_Virginia_Route_10>,
+        <http://dbpedia.org/resource/West_Virginia_Route_114>,
+        <http://dbpedia.org/resource/West_Virginia_Route_152>,
+        <http://dbpedia.org/resource/West_Virginia_Route_16>,
+        <http://dbpedia.org/resource/West_Virginia_Route_45>,
+        <http://dbpedia.org/resource/West_Virginia_Route_480>,
+        <http://dbpedia.org/resource/West_Virginia_Route_5>,
+        <http://dbpedia.org/resource/West_Virginia_Route_51>,
+        <http://dbpedia.org/resource/West_Virginia_Route_61>,
+        <http://dbpedia.org/resource/West_Virginia_Route_80>,
+        <http://dbpedia.org/resource/West_Virginia_Route_88>,
+        <http://dbpedia.org/resource/West_Virginia_Route_90>,
+        <http://dbpedia.org/resource/West_Virginia_State_University>,
+        <http://dbpedia.org/resource/West_Virginia_Turnpike>,
+        <http://dbpedia.org/resource/West_Virginia_University>,
+        <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
+        <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "1265"^^xsd:nonNegativeInteger ;
     nif:confidence 8.680037e-01 ;
@@ -63,6 +207,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=1281,1290> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster>,
+        <http://dbpedia.org/resource/Sago_Mine_disaster> ;
     nif:anchorOf "Sago Mine"^^xsd:string ;
     nif:beginIndex "1281"^^xsd:nonNegativeInteger ;
     nif:confidence 8.937624e-01 ;
@@ -74,17 +220,39 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=130,135> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Alderson,_West_Virginia>,
+        <http://dbpedia.org/resource/Cabin_Creek,_West_Virginia>,
+        <http://dbpedia.org/resource/Parsons,_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Law_Review>,
+        <http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette> ;
     nif:anchorOf "W. Va"^^xsd:string ;
     nif:beginIndex "130"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.030578e-01 ;
+    nif:confidence 7.367045e-01 ;
     nif:endIndex "135"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
-    itsrdf:taConfidence 7.030578e-01 ;
+    itsrdf:taConfidence 7.367045e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=1369,1376> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/--NME-->,
+        <http://dbpedia.org/resource/Andy_McAteer>,
+        <http://dbpedia.org/resource/Anglo_Irish_Bank_hidden_loans_controversy>,
+        <http://dbpedia.org/resource/Eddie_McAteer>,
+        <http://dbpedia.org/resource/Fergus_McAteer>,
+        <http://dbpedia.org/resource/Gene_McAteer>,
+        <http://dbpedia.org/resource/History_of_the_Scottish_National_Party>,
+        <http://dbpedia.org/resource/Hugh_McAteer>,
+        <http://dbpedia.org/resource/Jason_McAteer>,
+        <http://dbpedia.org/resource/Les_McAteer>,
+        <http://dbpedia.org/resource/McAteer>,
+        <http://dbpedia.org/resource/Mick_McAteer>,
+        <http://dbpedia.org/resource/Myrtle_McAteer>,
+        <http://dbpedia.org/resource/Pat_McAteer>,
+        <http://dbpedia.org/resource/Ruth_Asawa_San_Francisco_School_of_the_Arts>,
+        <http://dbpedia.org/resource/Star_Trek:_Stargazer> ;
     nif:anchorOf "McAteer"^^xsd:string ;
     nif:beginIndex "1369"^^xsd:nonNegativeInteger ;
     nif:confidence 5.65e-01 ;
@@ -96,6 +264,32 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=1615,1619> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Arrow>,
+        <http://dbpedia.org/resource/Gekko_vittatus>,
+        <http://dbpedia.org/resource/Metroxylon_sagu>,
+        <http://dbpedia.org/resource/Mount_Sago>,
+        <http://dbpedia.org/resource/Nanga_Sago>,
+        <http://dbpedia.org/resource/Ozothamnus_diosmifolius>,
+        <http://dbpedia.org/resource/Rhynchophorus_ferrugineus>,
+        <http://dbpedia.org/resource/Sago>,
+        <http://dbpedia.org/resource/Sago%2C_C%C3%B4te_d%27Ivoire>,
+        <http://dbpedia.org/resource/Sago%2C_West_Virginia>,
+        <http://dbpedia.org/resource/Sago,_Burkina_Faso>,
+        <http://dbpedia.org/resource/Sago,_C%C3%B4te_d%27Ivoire>,
+        <http://dbpedia.org/resource/Sago,_C%C3%B4te_d'Ivoire>,
+        <http://dbpedia.org/resource/Sago,_Ivory_Coast>,
+        <http://dbpedia.org/resource/Sago,_West_Virginia>,
+        <http://dbpedia.org/resource/Sago_Lane>,
+        <http://dbpedia.org/resource/Sago_Mine_disaster>,
+        <http://dbpedia.org/resource/Sago_Street>,
+        <http://dbpedia.org/resource/Sago_Township,_Itasca_County,_Minnesota>,
+        <http://dbpedia.org/resource/Sago_monitor>,
+        <http://dbpedia.org/resource/Sago_palm>,
+        <http://dbpedia.org/resource/Sago_pudding>,
+        <http://dbpedia.org/resource/Sago_soup>,
+        <http://dbpedia.org/resource/Sagum>,
+        <http://dbpedia.org/resource/Stuckenia_pectinata>,
+        <http://dbpedia.org/resource/Zamia_integrifolia> ;
     nif:anchorOf "Sago"^^xsd:string ;
     nif:beginIndex "1615"^^xsd:nonNegativeInteger ;
     nif:confidence 7.784848e-01 ;
@@ -118,6 +312,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=2173,2203> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/International_Union%2C_United_Mine_Workers_Of_America%2C_et_al._v._John_L._Bagwell%2C_et_al.>,
+        <http://dbpedia.org/resource/Jewell_Ridge_Coal_Corp._v._United_Mine_Workers_of_America>,
+        <http://dbpedia.org/resource/United_Mine_Workers>,
+        <http://dbpedia.org/resource/United_Mine_Workers_of_America_Building>,
+        <http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Bagwell>,
+        <http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Gibbs>,
+        <http://dbpedia.org/resource/United_States_v._United_Mine_Workers_of_America> ;
     nif:anchorOf "United Mine Workers of America"^^xsd:string ;
     nif:beginIndex "2173"^^xsd:nonNegativeInteger ;
     nif:confidence 6.7875e-01 ;
@@ -129,6 +330,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=242,251> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster>,
+        <http://dbpedia.org/resource/Sago_Mine_disaster> ;
     nif:anchorOf "Sago Mine"^^xsd:string ;
     nif:beginIndex "242"^^xsd:nonNegativeInteger ;
     nif:confidence 9.117537e-01 ;
@@ -140,6 +343,14 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=257,267> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Buckhannon%2C_WV>,
+        <http://dbpedia.org/resource/Buckhannon%2C_West_Virginia>,
+        <http://dbpedia.org/resource/Buckhannon,_West_Virginia>,
+        <http://dbpedia.org/resource/Buckhannon-Upshur_High_School>,
+        <http://dbpedia.org/resource/Buckhannon_Central_Residential_Historical_District>,
+        <http://dbpedia.org/resource/Buckhannon_River>,
+        <http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District>,
+        <http://dbpedia.org/resource/South_Buckhannon,_West_Virginia> ;
     nif:anchorOf "Buckhannon"^^xsd:string ;
     nif:beginIndex "257"^^xsd:nonNegativeInteger ;
     nif:confidence 8.742852e-01 ;
@@ -151,17 +362,71 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=269,274> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Alderson,_West_Virginia>,
+        <http://dbpedia.org/resource/Cabin_Creek,_West_Virginia>,
+        <http://dbpedia.org/resource/Parsons,_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Law_Review>,
+        <http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette> ;
     nif:anchorOf "W. Va"^^xsd:string ;
     nif:beginIndex "269"^^xsd:nonNegativeInteger ;
-    nif:confidence 7.785615e-01 ;
+    nif:confidence 8.122083e-01 ;
     nif:endIndex "274"^^xsd:nonNegativeInteger ;
     nif:referenceContext <http://www.aksw.org/gerbil/NifWebService/request_11#char=0,2354> ;
-    itsrdf:taConfidence 7.785615e-01 ;
+    itsrdf:taConfidence 8.122083e-01 ;
     itsrdf:taIdentRef <http://dbpedia.org/resource/West_Virginia> .
 
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=348,361> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team>,
+        <http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/Holy_Moses>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_USA>,
+        <http://dbpedia.org/resource/Polluted_Inheritance>,
+        <http://dbpedia.org/resource/Reborn_Dogs>,
+        <http://dbpedia.org/resource/Route_311_(Virginia–West_Virginia)>,
+        <http://dbpedia.org/resource/Southern_West_Virginia>,
+        <http://dbpedia.org/resource/Terminal_Terror>,
+        <http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)>,
+        <http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29>,
+        <http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia>,
+        <http://dbpedia.org/resource/University_of_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Amateur_Championship>,
+        <http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Derby>,
+        <http://dbpedia.org/resource/West_Virginia_Law_Review>,
+        <http://dbpedia.org/resource/West_Virginia_Lottery>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_football>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball>,
+        <http://dbpedia.org/resource/West_Virginia_Radio_Corporation>,
+        <http://dbpedia.org/resource/West_Virginia_Route_10>,
+        <http://dbpedia.org/resource/West_Virginia_Route_114>,
+        <http://dbpedia.org/resource/West_Virginia_Route_152>,
+        <http://dbpedia.org/resource/West_Virginia_Route_16>,
+        <http://dbpedia.org/resource/West_Virginia_Route_45>,
+        <http://dbpedia.org/resource/West_Virginia_Route_480>,
+        <http://dbpedia.org/resource/West_Virginia_Route_5>,
+        <http://dbpedia.org/resource/West_Virginia_Route_51>,
+        <http://dbpedia.org/resource/West_Virginia_Route_61>,
+        <http://dbpedia.org/resource/West_Virginia_Route_80>,
+        <http://dbpedia.org/resource/West_Virginia_Route_88>,
+        <http://dbpedia.org/resource/West_Virginia_Route_90>,
+        <http://dbpedia.org/resource/West_Virginia_State_University>,
+        <http://dbpedia.org/resource/West_Virginia_Turnpike>,
+        <http://dbpedia.org/resource/West_Virginia_University>,
+        <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
+        <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "348"^^xsd:nonNegativeInteger ;
     nif:confidence 9.21e-01 ;
@@ -173,6 +438,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=371,384> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Randal_McCloy%2C_Jr.>,
+        <http://dbpedia.org/resource/Sago_Mine_disaster> ;
     nif:anchorOf "Randal McCloy"^^xsd:string ;
     nif:beginIndex "371"^^xsd:nonNegativeInteger ;
     nif:confidence 9.465075e-01 ;
@@ -184,6 +451,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=62,80> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Sago_Mine_disaster> ;
     nif:anchorOf "Sago Mine accident"^^xsd:string ;
     nif:beginIndex "62"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1e-01 ;
@@ -206,6 +474,32 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=690,694> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Arrow>,
+        <http://dbpedia.org/resource/Gekko_vittatus>,
+        <http://dbpedia.org/resource/Metroxylon_sagu>,
+        <http://dbpedia.org/resource/Mount_Sago>,
+        <http://dbpedia.org/resource/Nanga_Sago>,
+        <http://dbpedia.org/resource/Ozothamnus_diosmifolius>,
+        <http://dbpedia.org/resource/Rhynchophorus_ferrugineus>,
+        <http://dbpedia.org/resource/Sago>,
+        <http://dbpedia.org/resource/Sago%2C_C%C3%B4te_d%27Ivoire>,
+        <http://dbpedia.org/resource/Sago%2C_West_Virginia>,
+        <http://dbpedia.org/resource/Sago,_Burkina_Faso>,
+        <http://dbpedia.org/resource/Sago,_C%C3%B4te_d%27Ivoire>,
+        <http://dbpedia.org/resource/Sago,_C%C3%B4te_d'Ivoire>,
+        <http://dbpedia.org/resource/Sago,_Ivory_Coast>,
+        <http://dbpedia.org/resource/Sago,_West_Virginia>,
+        <http://dbpedia.org/resource/Sago_Lane>,
+        <http://dbpedia.org/resource/Sago_Mine_disaster>,
+        <http://dbpedia.org/resource/Sago_Street>,
+        <http://dbpedia.org/resource/Sago_Township,_Itasca_County,_Minnesota>,
+        <http://dbpedia.org/resource/Sago_monitor>,
+        <http://dbpedia.org/resource/Sago_palm>,
+        <http://dbpedia.org/resource/Sago_pudding>,
+        <http://dbpedia.org/resource/Sago_soup>,
+        <http://dbpedia.org/resource/Sagum>,
+        <http://dbpedia.org/resource/Stuckenia_pectinata>,
+        <http://dbpedia.org/resource/Zamia_integrifolia> ;
     nif:anchorOf "Sago"^^xsd:string ;
     nif:beginIndex "690"^^xsd:nonNegativeInteger ;
     nif:confidence 8.659848e-01 ;
@@ -217,6 +511,54 @@
 <http://www.aksw.org/gerbil/NifWebService/request_11#char=701,714> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team>,
+        <http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team>,
+        <http://dbpedia.org/resource/Holy_Moses>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA>,
+        <http://dbpedia.org/resource/Miss_West_Virginia_USA>,
+        <http://dbpedia.org/resource/Polluted_Inheritance>,
+        <http://dbpedia.org/resource/Reborn_Dogs>,
+        <http://dbpedia.org/resource/Route_311_(Virginia–West_Virginia)>,
+        <http://dbpedia.org/resource/Southern_West_Virginia>,
+        <http://dbpedia.org/resource/Terminal_Terror>,
+        <http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)>,
+        <http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29>,
+        <http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia>,
+        <http://dbpedia.org/resource/University_of_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Amateur_Championship>,
+        <http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia>,
+        <http://dbpedia.org/resource/West_Virginia_Derby>,
+        <http://dbpedia.org/resource/West_Virginia_Law_Review>,
+        <http://dbpedia.org/resource/West_Virginia_Lottery>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_football>,
+        <http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball>,
+        <http://dbpedia.org/resource/West_Virginia_Radio_Corporation>,
+        <http://dbpedia.org/resource/West_Virginia_Route_10>,
+        <http://dbpedia.org/resource/West_Virginia_Route_114>,
+        <http://dbpedia.org/resource/West_Virginia_Route_152>,
+        <http://dbpedia.org/resource/West_Virginia_Route_16>,
+        <http://dbpedia.org/resource/West_Virginia_Route_45>,
+        <http://dbpedia.org/resource/West_Virginia_Route_480>,
+        <http://dbpedia.org/resource/West_Virginia_Route_5>,
+        <http://dbpedia.org/resource/West_Virginia_Route_51>,
+        <http://dbpedia.org/resource/West_Virginia_Route_61>,
+        <http://dbpedia.org/resource/West_Virginia_Route_80>,
+        <http://dbpedia.org/resource/West_Virginia_Route_88>,
+        <http://dbpedia.org/resource/West_Virginia_Route_90>,
+        <http://dbpedia.org/resource/West_Virginia_State_University>,
+        <http://dbpedia.org/resource/West_Virginia_Turnpike>,
+        <http://dbpedia.org/resource/West_Virginia_University>,
+        <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
+        <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "701"^^xsd:nonNegativeInteger ;
     nif:confidence 9.465075e-01 ;

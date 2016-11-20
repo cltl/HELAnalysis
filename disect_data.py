@@ -18,37 +18,44 @@ def getNIFString(gr):
                 return r['s']
 
 def insertEvaluation(gr, startid, verdict, links, wrongLinks=None):
-	print(len(gr))
-	#print(links)
 	#print(json.dumps(links))
 
-	print(links)
 	#qres = gr.update(""" INSERT { ?id <http://ilievski.nl/verdict> """ + verdict  + """ } WHERE
-	gr.update(""" DELETE { ?id <http://www.w3.org/2005/11/its/rdf#taIdentRef> ?q } WHERE
-        { ?id <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> \"""" + str(startid) + """\"^^xsd:nonNegativeInteger ; <http://www.w3.org/2005/11/its/rdf#taIdentRef> ?q }""")
+#	gr.update(""" DELETE { ?id <http://www.w3.org/2005/11/its/rdf#taIdentRef> ?q } WHERE
+#        { ?id <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> \"""" + str(startid) + """\"^^xsd:nonNegativeInteger ; <http://www.w3.org/2005/11/its/rdf#taIdentRef> ?q }""")
+
+	print(len(gr))
+	s=""
+	if type(links) is list: #not links.startswith("http://vu.nl"):
+		for l in links:
+			s+= "<http://ilievski.nl/goldLink> <" + l + "> ; "
+	else:
+		s="<http://ilievski.nl/goldLink> <http://vu.nl/unknown> ; "
 
 	if wrongLinks:
 		print("Wrong links ", verdict, links, wrongLinks)
-		qres = gr.update(""" INSERT { ?id <http://ilievski.nl/verdict> """ + verdict  + """ ; <http://ilievski.nl/goldLink> \"""" + links + """\"; <http://www.w3.org/2005/11/its/rdf#taIdentRef> \"""" + wrongLinks + """\" } WHERE
+		gr.update(""" INSERT { ?id <http://ilievski.nl/verdict> """ + verdict  + """ ; """ + s.strip('; ')  + """ } WHERE
 	{ ?id <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> \"""" + str(startid) + """\"^^xsd:nonNegativeInteger . } """)
 	else:
-		qres = gr.update(""" INSERT { ?id <http://ilievski.nl/verdict> """ + verdict  + """ ; <http://ilievski.nl/goldLink> \"""" + links + """\" ; <http://www.w3.org/2005/11/its/rdf#taIdentRef> \"""" + links + """\" } WHERE
+		gr.update(""" INSERT { ?id <http://ilievski.nl/verdict> """ + verdict  + """ ; """ + s.strip('; ') + """ } WHERE
         { ?id <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> \"""" + str(startid) + """\"^^xsd:nonNegativeInteger . } """)
-
 	print(len(gr))
-	return qres
 
-def getGoodLink(a):
+def getGoodLinks(a):
+	links=[]
 	for link in a:
 		#if link.startswith("http://wikidata") or link.startswith("http://dbpedia.org") or link.startswith("http://en.wikipedia.org"):
 		if ("wikidata.org" in link or "wikipedia.org" in link or "dbpedia.org" in link) and "disambiguation" not in link:#.startswith("http://wikidata"):
-			return link
-	return "EMERGING ENTITY"
+			links.append(link.strip())
+	if len(links):
+		return links
+	else:
+		return "EMERGING ENTITY"
 
 def getTuple(x):
 	splitter=x.split(', [')
 	nums=splitter[0].strip('(').split(',')
-	links=getGoodLink(splitter[1].split(','))
+	links=getGoodLinks(splitter[1].split(','))
 	nums.append(links)
 	return nums
 
@@ -72,10 +79,9 @@ fp=defaultdict(str)
 incorrect=defaultdict(str)
 goodLinks=defaultdict(str)
 wrongLinks=defaultdict(str)
-links=defaultdict(str)
+allLinks=defaultdict(str)
 for line in data:
 	if line.startswith('DOCUMENT '):
-		print(line.strip())
 		currentDoc=line.strip().replace('DOCUMENT ','')
 		#if len(currentDoc)<2:
 		#	currentDoc = '0' + currentDoc
@@ -85,27 +91,27 @@ for line in data:
 	elif line.startswith('TP: '):
                 lineData=obtainFromLine(line, 'TP')
                 tp[currentDoc].add(lineData[0])
-                link=lineData[2]
+                links=lineData[2]
                 try:
-                        goodLinks[currentDoc][str(lineData[0])]=link
+                        goodLinks[currentDoc][str(lineData[0])]=links
                 except:
-                        goodLinks[currentDoc]={str(lineData[0]):link}
+                        goodLinks[currentDoc]={str(lineData[0]):links}
 	elif line.startswith('FN: '):
 		lineData=obtainFromLine(line, 'FN')
 		fn[currentDoc].add(lineData[0])
-		link=lineData[2]
+		links=lineData[2]
 		try:
-			links[currentDoc][str(lineData[0])]=link
+			allLinks[currentDoc][str(lineData[0])]=links
 		except:
-			links[currentDoc]={str(lineData[0]):link}
+			allLinks[currentDoc]={str(lineData[0]):links}
 	elif line.startswith('FP: '):
                 lineData=obtainFromLine(line, 'FP')
                 fp[currentDoc].add(lineData[0])
-                link=lineData[2]
+                links=lineData[2]
                 try:
-                        wrongLinks[currentDoc][str(lineData[0])]=link
+                        wrongLinks[currentDoc][str(lineData[0])]=links
                 except:
-                        wrongLinks[currentDoc]={str(lineData[0]):link}
+                        wrongLinks[currentDoc]={str(lineData[0]):links}
 
                 #startend, link=getStartEndLink(line)
                 #links[startend]={'gold': link}
@@ -129,7 +135,6 @@ for k in fn:
 #HEL=open("lastRun.log", "r")
 
 #g.parse("res1.rdf", format="n3")
-#sys.exit(0)
 
 
 for resFile in glob.glob('res*.rdf'):
@@ -144,9 +149,9 @@ for resFile in glob.glob('res*.rdf'):
 	for startid in incorrect[counter]:
 
 		if startid in wrongLinks[counter]:
-			insertEvaluation(g, startid, "False", links[counter][startid], wrongLinks[counter][startid])
+			insertEvaluation(g, startid, "False", allLinks[counter][startid], wrongLinks[counter][startid])
 		else:
-			insertEvaluation(g, startid, "False", links[counter][startid])
+			insertEvaluation(g, startid, "False", allLinks[counter][startid])
 			print(startid, " not in ",wrongLinks[counter])
 
 	g.serialize(destination="files/" + resFile, format="n3")

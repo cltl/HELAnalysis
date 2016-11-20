@@ -1,5 +1,6 @@
 @prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
 @prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://ilievski.nl/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
@@ -19,6 +20,35 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1110,1116> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Bengal_Fan>,
+        <http://dbpedia.org/resource/Ganges>,
+        <http://dbpedia.org/resource/Ganges%2C_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_British_Columbia>,
+        <http://dbpedia.org/resource/Ganges,_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_Hérault>,
+        <http://dbpedia.org/resource/Ganges-class_ship_of_the_line>,
+        <http://dbpedia.org/resource/Ganges_%28BBC_TV_series%29>,
+        <http://dbpedia.org/resource/Ganges_%28clipper%29>,
+        <http://dbpedia.org/resource/Ganges_%28whaler%29>,
+        <http://dbpedia.org/resource/Ganges_(disambiguation)>,
+        <http://dbpedia.org/resource/Ganges_Bank>,
+        <http://dbpedia.org/resource/Ganges_Basin>,
+        <http://dbpedia.org/resource/Ganges_Canal>,
+        <http://dbpedia.org/resource/Ganges_Chasma>,
+        <http://dbpedia.org/resource/Ganges_Delta>,
+        <http://dbpedia.org/resource/Ganges_II_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_I_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_Township,_Michigan>,
+        <http://dbpedia.org/resource/Ganges_shark>,
+        <http://dbpedia.org/resource/HMS_Ganges>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281782%29>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281821%29>,
+        <http://dbpedia.org/resource/Indian_softshell_turtle>,
+        <http://dbpedia.org/resource/Nakanotorishima>,
+        <http://dbpedia.org/resource/Runabout_(Star_Trek)>,
+        <http://dbpedia.org/resource/SS_Ganges>,
+        <http://dbpedia.org/resource/South_Asian_river_dolphin>,
+        <http://dbpedia.org/resource/USS_Ganges_%281794%29> ;
     nif:anchorOf "Ganges"^^xsd:string ;
     nif:beginIndex "1110"^^xsd:nonNegativeInteger ;
     nif:confidence 8.672686e-01 ;
@@ -30,6 +60,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=124,133> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/33rd_Punjabis>,
+        <http://dbpedia.org/resource/8th_(Lucknow)_Division>,
+        <http://dbpedia.org/resource/Allahabad>,
+        <http://dbpedia.org/resource/Allahabad,_Iran>,
+        <http://dbpedia.org/resource/Allahabad-e_Do>,
+        <http://dbpedia.org/resource/Allahabad-e_Yek>,
+        <http://dbpedia.org/resource/Allahabad_(disambiguation)>,
+        <http://dbpedia.org/resource/Allahabad_Address>,
+        <http://dbpedia.org/resource/Allahabad_Airport>,
+        <http://dbpedia.org/resource/Allahabad_Baku>,
+        <http://dbpedia.org/resource/Allahabad_Bank>,
+        <http://dbpedia.org/resource/Allahabad_Bypass_Expressway>,
+        <http://dbpedia.org/resource/Allahabad_Doomak>,
+        <http://dbpedia.org/resource/Allahabad_Fort>,
+        <http://dbpedia.org/resource/Allahabad_Minooyi>,
+        <http://dbpedia.org/resource/Allahabad_Monorail>,
+        <http://dbpedia.org/resource/Allahabad_Museum>,
+        <http://dbpedia.org/resource/Allahabad_Observatory>,
+        <http://dbpedia.org/resource/Allahabad_Pillar>,
+        <http://dbpedia.org/resource/Allahabad_district>,
+        <http://dbpedia.org/resource/Allahabad_division>,
+        <http://dbpedia.org/resource/Government_Intermediate_College>,
+        <http://dbpedia.org/resource/Jawahar_Planetarium>,
+        <http://dbpedia.org/resource/MIC_Allahabad>,
+        <http://dbpedia.org/resource/Motilal_Nehru_National_Institute_of_Technology_Allahabad>,
+        <http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Allahabad>,
+        <http://dbpedia.org/resource/University_of_Allahabad> ;
     nif:anchorOf "ALLAHABAD"^^xsd:string ;
     nif:beginIndex "124"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1875e-01 ;
@@ -41,6 +98,59 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=135,140> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/A1_Team_India>,
+        <http://dbpedia.org/resource/All_India_Football_Federation>,
+        <http://dbpedia.org/resource/Bharata_Khanda>,
+        <http://dbpedia.org/resource/British_Raj>,
+        <http://dbpedia.org/resource/Cinema_of_India>,
+        <http://dbpedia.org/resource/Colonial_India>,
+        <http://dbpedia.org/resource/Company_rule_in_India>,
+        <http://dbpedia.org/resource/Culture_of_India>,
+        <http://dbpedia.org/resource/Demographics_of_India>,
+        <http://dbpedia.org/resource/Economy_of_India>,
+        <http://dbpedia.org/resource/Elections_in_India>,
+        <http://dbpedia.org/resource/European_Union>,
+        <http://dbpedia.org/resource/Femina_Miss_India>,
+        <http://dbpedia.org/resource/Government_of_India>,
+        <http://dbpedia.org/resource/Greater_India>,
+        <http://dbpedia.org/resource/History_of_India>,
+        <http://dbpedia.org/resource/History_of_the_Jews_in_India>,
+        <http://dbpedia.org/resource/India>,
+        <http://dbpedia.org/resource/India-class_submarine>,
+        <http://dbpedia.org/resource/India_Arie>,
+        <http://dbpedia.org/resource/India_Davis_Cup_team>,
+        <http://dbpedia.org/resource/India_and_weapons_of_mass_destruction>,
+        <http://dbpedia.org/resource/India_at_the_2004_Summer_Olympics>,
+        <http://dbpedia.org/resource/India_at_the_2006_Lusophony_Games>,
+        <http://dbpedia.org/resource/India_national_badminton_team>,
+        <http://dbpedia.org/resource/India_national_cricket_team>,
+        <http://dbpedia.org/resource/India_national_football_team>,
+        <http://dbpedia.org/resource/India_national_hockey_team>,
+        <http://dbpedia.org/resource/India_national_rugby_union_team>,
+        <http://dbpedia.org/resource/Indian_Air_Force>,
+        <http://dbpedia.org/resource/Indian_Army>,
+        <http://dbpedia.org/resource/Indian_Navy>,
+        <http://dbpedia.org/resource/Indian_Plate>,
+        <http://dbpedia.org/resource/Indian_cuisine>,
+        <http://dbpedia.org/resource/Indian_mathematics>,
+        <http://dbpedia.org/resource/Indian_poetry>,
+        <http://dbpedia.org/resource/Indian_subcontinent>,
+        <http://dbpedia.org/resource/Johnny_Goudie>,
+        <http://dbpedia.org/resource/La_India>,
+        <http://dbpedia.org/resource/Law_of_India>,
+        <http://dbpedia.org/resource/List_of_earthquakes_in_2009>,
+        <http://dbpedia.org/resource/Music_of_India>,
+        <http://dbpedia.org/resource/North_India>,
+        <http://dbpedia.org/resource/Politics_of_India>,
+        <http://dbpedia.org/resource/Portuguese_India>,
+        <http://dbpedia.org/resource/Postage_stamps_and_postal_history_of_India>,
+        <http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India>,
+        <http://dbpedia.org/resource/Quakers>,
+        <http://dbpedia.org/resource/Rail_transport_in_India>,
+        <http://dbpedia.org/resource/Saint_Thomas_Christians>,
+        <http://dbpedia.org/resource/Solar_power_in_India>,
+        <http://dbpedia.org/resource/Transport_in_India>,
+        <http://dbpedia.org/resource/Treasury_tag> ;
     nif:anchorOf "India"^^xsd:string ;
     nif:beginIndex "135"^^xsd:nonNegativeInteger ;
     nif:confidence 7.925e-01 ;
@@ -52,6 +162,10 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1505,1515> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1954_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/2013_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/Kumbh_Mela>,
+        <http://dbpedia.org/resource/Short_Cut_to_Nirvana:_Kumbh_Mela> ;
     nif:anchorOf "Kumbh Mela"^^xsd:string ;
     nif:beginIndex "1505"^^xsd:nonNegativeInteger ;
     nif:confidence 8.417537e-01 ;
@@ -74,6 +188,40 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1597,1608> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/All_India_Trinamool_Congress>,
+        <http://dbpedia.org/resource/Cinema_of_West_Bengal>,
+        <http://dbpedia.org/resource/Climate_of_West_Bengal>,
+        <http://dbpedia.org/resource/Cricket_Association_of_Bengal>,
+        <http://dbpedia.org/resource/Culture_of_West_Bengal>,
+        <http://dbpedia.org/resource/Divisions_of_West_Bengal>,
+        <http://dbpedia.org/resource/Dooars>,
+        <http://dbpedia.org/resource/Durgapur>,
+        <http://dbpedia.org/resource/Economy_of_West_Bengal>,
+        <http://dbpedia.org/resource/Education_in_West_Bengal>,
+        <http://dbpedia.org/resource/Geography_of_West_Bengal>,
+        <http://dbpedia.org/resource/Government_of_West_Bengal>,
+        <http://dbpedia.org/resource/Governor_of_West_Bengal>,
+        <http://dbpedia.org/resource/List_of_districts_of_West_Bengal>,
+        <http://dbpedia.org/resource/List_of_festivals_in_West_Bengal>,
+        <http://dbpedia.org/resource/Malnutrition_in_India>,
+        <http://dbpedia.org/resource/Music_of_West_Bengal>,
+        <http://dbpedia.org/resource/Outline_of_West_Bengal>,
+        <http://dbpedia.org/resource/Paschimbanga_Ganatantrik_Manch>,
+        <http://dbpedia.org/resource/Politics_of_West_Bengal>,
+        <http://dbpedia.org/resource/Protected_areas_of_West_Bengal>,
+        <http://dbpedia.org/resource/Tourism_in_West_Bengal>,
+        <http://dbpedia.org/resource/West_Bengal>,
+        <http://dbpedia.org/resource/West_Bengal_Chess_Association>,
+        <http://dbpedia.org/resource/West_Bengal_Civil_Service>,
+        <http://dbpedia.org/resource/West_Bengal_Fire_Service>,
+        <http://dbpedia.org/resource/West_Bengal_Legislative_Assembly>,
+        <http://dbpedia.org/resource/West_Bengal_Police>,
+        <http://dbpedia.org/resource/West_Bengal_Portal>,
+        <http://dbpedia.org/resource/West_Bengal_Sampark_Kranti_Express>,
+        <http://dbpedia.org/resource/West_Bengal_Socialist_Party>,
+        <http://dbpedia.org/resource/West_Bengal_State_University>,
+        <http://dbpedia.org/resource/West_Bengal_Survey_Institute>,
+        <http://dbpedia.org/resource/West_Bengal_football_team> ;
     nif:anchorOf "West Bengal"^^xsd:string ;
     nif:beginIndex "1597"^^xsd:nonNegativeInteger ;
     nif:confidence 6.6125e-01 ;
@@ -85,6 +233,25 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1699,1709> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Abhijñānaśākuntalam>,
+        <http://dbpedia.org/resource/Dr._Shakuntala_Misra_National_Rehabilitation_University>,
+        <http://dbpedia.org/resource/Sakuntalai>,
+        <http://dbpedia.org/resource/Shakuntala>,
+        <http://dbpedia.org/resource/Shakuntala%2C_Raja_Ravi_Varma>,
+        <http://dbpedia.org/resource/Shakuntala_%281940_film%29>,
+        <http://dbpedia.org/resource/Shakuntala_%28Raja_Ravi_Varma%29>,
+        <http://dbpedia.org/resource/Shakuntala_%28TV_Series%29>,
+        <http://dbpedia.org/resource/Shakuntala_%28TV_series%29>,
+        <http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)>,
+        <http://dbpedia.org/resource/Shakuntala_(TV_series)>,
+        <http://dbpedia.org/resource/Shakuntala_(film)>,
+        <http://dbpedia.org/resource/Shakuntala_Devi>,
+        <http://dbpedia.org/resource/Shakuntala_Nayar>,
+        <http://dbpedia.org/resource/Shakuntala_Paranjpye>,
+        <http://dbpedia.org/resource/Shakuntala_Park>,
+        <http://dbpedia.org/resource/Shakuntala_Santhiran>,
+        <http://dbpedia.org/resource/Shakuntala_Singh>,
+        <http://dbpedia.org/resource/Telangana_Shakuntala> ;
     nif:anchorOf "Shakuntala"^^xsd:string ;
     nif:beginIndex "1699"^^xsd:nonNegativeInteger ;
     nif:confidence 5.85e-01 ;
@@ -96,6 +263,35 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=17,23> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Bengal_Fan>,
+        <http://dbpedia.org/resource/Ganges>,
+        <http://dbpedia.org/resource/Ganges%2C_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_British_Columbia>,
+        <http://dbpedia.org/resource/Ganges,_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_Hérault>,
+        <http://dbpedia.org/resource/Ganges-class_ship_of_the_line>,
+        <http://dbpedia.org/resource/Ganges_%28BBC_TV_series%29>,
+        <http://dbpedia.org/resource/Ganges_%28clipper%29>,
+        <http://dbpedia.org/resource/Ganges_%28whaler%29>,
+        <http://dbpedia.org/resource/Ganges_(disambiguation)>,
+        <http://dbpedia.org/resource/Ganges_Bank>,
+        <http://dbpedia.org/resource/Ganges_Basin>,
+        <http://dbpedia.org/resource/Ganges_Canal>,
+        <http://dbpedia.org/resource/Ganges_Chasma>,
+        <http://dbpedia.org/resource/Ganges_Delta>,
+        <http://dbpedia.org/resource/Ganges_II_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_I_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_Township,_Michigan>,
+        <http://dbpedia.org/resource/Ganges_shark>,
+        <http://dbpedia.org/resource/HMS_Ganges>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281782%29>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281821%29>,
+        <http://dbpedia.org/resource/Indian_softshell_turtle>,
+        <http://dbpedia.org/resource/Nakanotorishima>,
+        <http://dbpedia.org/resource/Runabout_(Star_Trek)>,
+        <http://dbpedia.org/resource/SS_Ganges>,
+        <http://dbpedia.org/resource/South_Asian_river_dolphin>,
+        <http://dbpedia.org/resource/USS_Ganges_%281794%29> ;
     nif:anchorOf "Ganges"^^xsd:string ;
     nif:beginIndex "17"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1875e-01 ;
@@ -107,6 +303,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1816,1830> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Farmers'_suicides_in_India>,
+        <http://dbpedia.org/resource/Madhya_Pradesh>,
+        <http://dbpedia.org/resource/Madhya_Pradesh_cricket_team> ;
     nif:anchorOf "Madhya Pradesh"^^xsd:string ;
     nif:beginIndex "1816"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -118,6 +317,35 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1847,1853> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Bengal_Fan>,
+        <http://dbpedia.org/resource/Ganges>,
+        <http://dbpedia.org/resource/Ganges%2C_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_British_Columbia>,
+        <http://dbpedia.org/resource/Ganges,_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_Hérault>,
+        <http://dbpedia.org/resource/Ganges-class_ship_of_the_line>,
+        <http://dbpedia.org/resource/Ganges_%28BBC_TV_series%29>,
+        <http://dbpedia.org/resource/Ganges_%28clipper%29>,
+        <http://dbpedia.org/resource/Ganges_%28whaler%29>,
+        <http://dbpedia.org/resource/Ganges_(disambiguation)>,
+        <http://dbpedia.org/resource/Ganges_Bank>,
+        <http://dbpedia.org/resource/Ganges_Basin>,
+        <http://dbpedia.org/resource/Ganges_Canal>,
+        <http://dbpedia.org/resource/Ganges_Chasma>,
+        <http://dbpedia.org/resource/Ganges_Delta>,
+        <http://dbpedia.org/resource/Ganges_II_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_I_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_Township,_Michigan>,
+        <http://dbpedia.org/resource/Ganges_shark>,
+        <http://dbpedia.org/resource/HMS_Ganges>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281782%29>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281821%29>,
+        <http://dbpedia.org/resource/Indian_softshell_turtle>,
+        <http://dbpedia.org/resource/Nakanotorishima>,
+        <http://dbpedia.org/resource/Runabout_(Star_Trek)>,
+        <http://dbpedia.org/resource/SS_Ganges>,
+        <http://dbpedia.org/resource/South_Asian_river_dolphin>,
+        <http://dbpedia.org/resource/USS_Ganges_%281794%29> ;
     nif:anchorOf "Ganges"^^xsd:string ;
     nif:beginIndex "1847"^^xsd:nonNegativeInteger ;
     nif:confidence 8.410186e-01 ;
@@ -129,6 +357,10 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=1885,1895> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1954_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/2013_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/Kumbh_Mela>,
+        <http://dbpedia.org/resource/Short_Cut_to_Nirvana:_Kumbh_Mela> ;
     nif:anchorOf "Kumbh Mela"^^xsd:string ;
     nif:beginIndex "1885"^^xsd:nonNegativeInteger ;
     nif:confidence 7.885186e-01 ;
@@ -140,6 +372,15 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2055,2060> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1954_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/2013_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/Agroha_Dham>,
+        <http://dbpedia.org/resource/Allahabad_Kumbh_Mela>,
+        <http://dbpedia.org/resource/Kumbh_Karan>,
+        <http://dbpedia.org/resource/Kumbh_Mela>,
+        <http://dbpedia.org/resource/Kumbha>,
+        <http://dbpedia.org/resource/Rajim_Kumbh>,
+        <http://dbpedia.org/resource/Short_Cut_to_Nirvana:_Kumbh_Mela> ;
     nif:anchorOf "Kumbh"^^xsd:string ;
     nif:beginIndex "2055"^^xsd:nonNegativeInteger ;
     nif:confidence 7.076667e-01 ;
@@ -151,6 +392,12 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2071,2080> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Rama_Devi>,
+        <http://dbpedia.org/resource/Rama_Devi_(Bihar_politician)>,
+        <http://dbpedia.org/resource/Rama_Devi_Memorial_Public_School>,
+        <http://dbpedia.org/resource/Rama_Devi_Women's_College>,
+        <http://dbpedia.org/resource/Ramadevi_Choudhury>,
+        <http://dbpedia.org/resource/V._S._Ramadevi> ;
     nif:anchorOf "Rama Devi"^^xsd:string ;
     nif:beginIndex "2071"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -162,6 +409,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2100,2109> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/33rd_Punjabis>,
+        <http://dbpedia.org/resource/8th_(Lucknow)_Division>,
+        <http://dbpedia.org/resource/Allahabad>,
+        <http://dbpedia.org/resource/Allahabad,_Iran>,
+        <http://dbpedia.org/resource/Allahabad-e_Do>,
+        <http://dbpedia.org/resource/Allahabad-e_Yek>,
+        <http://dbpedia.org/resource/Allahabad_(disambiguation)>,
+        <http://dbpedia.org/resource/Allahabad_Address>,
+        <http://dbpedia.org/resource/Allahabad_Airport>,
+        <http://dbpedia.org/resource/Allahabad_Baku>,
+        <http://dbpedia.org/resource/Allahabad_Bank>,
+        <http://dbpedia.org/resource/Allahabad_Bypass_Expressway>,
+        <http://dbpedia.org/resource/Allahabad_Doomak>,
+        <http://dbpedia.org/resource/Allahabad_Fort>,
+        <http://dbpedia.org/resource/Allahabad_Minooyi>,
+        <http://dbpedia.org/resource/Allahabad_Monorail>,
+        <http://dbpedia.org/resource/Allahabad_Museum>,
+        <http://dbpedia.org/resource/Allahabad_Observatory>,
+        <http://dbpedia.org/resource/Allahabad_Pillar>,
+        <http://dbpedia.org/resource/Allahabad_district>,
+        <http://dbpedia.org/resource/Allahabad_division>,
+        <http://dbpedia.org/resource/Government_Intermediate_College>,
+        <http://dbpedia.org/resource/Jawahar_Planetarium>,
+        <http://dbpedia.org/resource/MIC_Allahabad>,
+        <http://dbpedia.org/resource/Motilal_Nehru_National_Institute_of_Technology_Allahabad>,
+        <http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Allahabad>,
+        <http://dbpedia.org/resource/University_of_Allahabad> ;
     nif:anchorOf "Allahabad"^^xsd:string ;
     nif:beginIndex "2100"^^xsd:nonNegativeInteger ;
     nif:confidence 8.128615e-01 ;
@@ -173,6 +447,15 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2166,2171> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/1954_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/2013_Kumbh_Mela_stampede>,
+        <http://dbpedia.org/resource/Agroha_Dham>,
+        <http://dbpedia.org/resource/Allahabad_Kumbh_Mela>,
+        <http://dbpedia.org/resource/Kumbh_Karan>,
+        <http://dbpedia.org/resource/Kumbh_Mela>,
+        <http://dbpedia.org/resource/Kumbha>,
+        <http://dbpedia.org/resource/Rajim_Kumbh>,
+        <http://dbpedia.org/resource/Short_Cut_to_Nirvana:_Kumbh_Mela> ;
     nif:anchorOf "Kumbh"^^xsd:string ;
     nif:beginIndex "2166"^^xsd:nonNegativeInteger ;
     nif:confidence 7.071704e-01 ;
@@ -184,6 +467,18 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2314,2325> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Army_Day_(India)>,
+        <http://dbpedia.org/resource/Army_Postal_Service_(India)>,
+        <http://dbpedia.org/resource/Army_War_College,_Mhow>,
+        <http://dbpedia.org/resource/Army_of_India>,
+        <http://dbpedia.org/resource/British_Indian_Army>,
+        <http://dbpedia.org/resource/Defence_Services_Staff_College>,
+        <http://dbpedia.org/resource/Indian_Army>,
+        <http://dbpedia.org/resource/Indian_Army_%281895%E2%80%931947%29>,
+        <http://dbpedia.org/resource/Indian_Army_Armoured_Corps>,
+        <http://dbpedia.org/resource/Indian_Army_Medical_Corps>,
+        <http://dbpedia.org/resource/Indian_Army_Public_Schools>,
+        <http://dbpedia.org/resource/Indian_Army_Service_Corps> ;
     nif:anchorOf "Indian army"^^xsd:string ;
     nif:beginIndex "2314"^^xsd:nonNegativeInteger ;
     nif:confidence 6.732143e-01 ;
@@ -195,6 +490,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2422,2431> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/33rd_Punjabis>,
+        <http://dbpedia.org/resource/8th_(Lucknow)_Division>,
+        <http://dbpedia.org/resource/Allahabad>,
+        <http://dbpedia.org/resource/Allahabad,_Iran>,
+        <http://dbpedia.org/resource/Allahabad-e_Do>,
+        <http://dbpedia.org/resource/Allahabad-e_Yek>,
+        <http://dbpedia.org/resource/Allahabad_(disambiguation)>,
+        <http://dbpedia.org/resource/Allahabad_Address>,
+        <http://dbpedia.org/resource/Allahabad_Airport>,
+        <http://dbpedia.org/resource/Allahabad_Baku>,
+        <http://dbpedia.org/resource/Allahabad_Bank>,
+        <http://dbpedia.org/resource/Allahabad_Bypass_Expressway>,
+        <http://dbpedia.org/resource/Allahabad_Doomak>,
+        <http://dbpedia.org/resource/Allahabad_Fort>,
+        <http://dbpedia.org/resource/Allahabad_Minooyi>,
+        <http://dbpedia.org/resource/Allahabad_Monorail>,
+        <http://dbpedia.org/resource/Allahabad_Museum>,
+        <http://dbpedia.org/resource/Allahabad_Observatory>,
+        <http://dbpedia.org/resource/Allahabad_Pillar>,
+        <http://dbpedia.org/resource/Allahabad_district>,
+        <http://dbpedia.org/resource/Allahabad_division>,
+        <http://dbpedia.org/resource/Government_Intermediate_College>,
+        <http://dbpedia.org/resource/Jawahar_Planetarium>,
+        <http://dbpedia.org/resource/MIC_Allahabad>,
+        <http://dbpedia.org/resource/Motilal_Nehru_National_Institute_of_Technology_Allahabad>,
+        <http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Allahabad>,
+        <http://dbpedia.org/resource/University_of_Allahabad> ;
     nif:anchorOf "Allahabad"^^xsd:string ;
     nif:beginIndex "2422"^^xsd:nonNegativeInteger ;
     nif:confidence 8.680037e-01 ;
@@ -206,6 +528,22 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2440,2445> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Andhra_Pradesh>,
+        <http://dbpedia.org/resource/Assam>,
+        <http://dbpedia.org/resource/Bollywood>,
+        <http://dbpedia.org/resource/Bombay_Hindi>,
+        <http://dbpedia.org/resource/Fiji_Hindi>,
+        <http://dbpedia.org/resource/Hindi>,
+        <http://dbpedia.org/resource/Hindi_%28disambiguation%29>,
+        <http://dbpedia.org/resource/Hindi_(disambiguation)>,
+        <http://dbpedia.org/resource/Hindi_Belt>,
+        <http://dbpedia.org/resource/Hindi_Heartland_%28Hindi_Belt%29>,
+        <http://dbpedia.org/resource/Hindi_blogosphere>,
+        <http://dbpedia.org/resource/Hindi_languages>,
+        <http://dbpedia.org/resource/Hindi_literature>,
+        <http://dbpedia.org/resource/Hindi_media>,
+        <http://dbpedia.org/resource/Joseph_V_Augustine_Hindi>,
+        <http://dbpedia.org/resource/Turkey_(bird)> ;
     nif:anchorOf "Hindi"^^xsd:string ;
     nif:beginIndex "2440"^^xsd:nonNegativeInteger ;
     nif:confidence 8.215894e-01 ;
@@ -217,6 +555,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2465,2478> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Farmers'_suicides_in_India>,
+        <http://dbpedia.org/resource/Uttar_Pradesh>,
+        <http://dbpedia.org/resource/Uttar_Pradesh_cricket_team> ;
     nif:anchorOf "Uttar Pradesh"^^xsd:string ;
     nif:beginIndex "2465"^^xsd:nonNegativeInteger ;
     nif:confidence 8.975e-01 ;
@@ -228,6 +569,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2507,2513> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Citilink>,
+        <http://dbpedia.org/resource/Drive_(Gareth_Emery_album)>,
+        <http://dbpedia.org/resource/Euthalia_aconthea>,
+        <http://dbpedia.org/resource/GARUDA>,
+        <http://dbpedia.org/resource/Gareth_Emery>,
+        <http://dbpedia.org/resource/Garuda>,
+        <http://dbpedia.org/resource/Garuda_%28film%29>,
+        <http://dbpedia.org/resource/Garuda_(disambiguation)>,
+        <http://dbpedia.org/resource/Garuda_1>,
+        <http://dbpedia.org/resource/Garuda_Contingent>,
+        <http://dbpedia.org/resource/Garuda_Dhwaja>,
+        <http://dbpedia.org/resource/Garuda_Indonesia>,
+        <http://dbpedia.org/resource/Garuda_Mall>,
+        <http://dbpedia.org/resource/Garuda_Municipality>,
+        <http://dbpedia.org/resource/Garuda_Purana>,
+        <http://dbpedia.org/resource/List_of_Saint_Seiya_antagonists>,
+        <http://dbpedia.org/resource/List_of_minor_planets:_2001–3000>,
+        <http://dbpedia.org/resource/Megalara_garuda>,
+        <http://dbpedia.org/resource/National_emblem_of_Indonesia>,
+        <http://dbpedia.org/resource/Patelloida_garuda>,
+        <http://dbpedia.org/resource/Ranks_in_Gerakan_Pramuka_Indonesia>,
+        <http://dbpedia.org/resource/The_Transmutation_of_Ike_Garuda> ;
     nif:anchorOf "Garuda"^^xsd:string ;
     nif:beginIndex "2507"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -239,6 +602,13 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2535,2544> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Brahma>,
+        <http://dbpedia.org/resource/Hindu_deities>,
+        <http://dbpedia.org/resource/Kartikeya>,
+        <http://dbpedia.org/resource/Krishna>,
+        <http://dbpedia.org/resource/Krishna_%28Hindu_god%29>,
+        <http://dbpedia.org/resource/Pavan_%28Hindu_god%29>,
+        <http://dbpedia.org/resource/Vayu> ;
     nif:anchorOf "Hindu god"^^xsd:string ;
     nif:beginIndex "2535"^^xsd:nonNegativeInteger ;
     nif:confidence 6.283158e-01 ;
@@ -250,6 +620,47 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2545,2551> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/4034_Vishnu>,
+        <http://dbpedia.org/resource/Air_India_Flight_182>,
+        <http://dbpedia.org/resource/Anantashayana_Vishnu>,
+        <http://dbpedia.org/resource/Andhra_Vishnu>,
+        <http://dbpedia.org/resource/Arun_Vishnu>,
+        <http://dbpedia.org/resource/Avatar>,
+        <http://dbpedia.org/resource/Garbhodaksayi_Vishnu>,
+        <http://dbpedia.org/resource/Ksirodakasayi_Vishnu>,
+        <http://dbpedia.org/resource/Madhava_(Vishnu)>,
+        <http://dbpedia.org/resource/Mahavishnu>,
+        <http://dbpedia.org/resource/Manchu_Vishnu>,
+        <http://dbpedia.org/resource/Paramatman>,
+        <http://dbpedia.org/resource/Swami_Vishnu_Tirtha>,
+        <http://dbpedia.org/resource/Vaikuntha_Chaturmurti>,
+        <http://dbpedia.org/resource/Vishnu>,
+        <http://dbpedia.org/resource/Vishnu_%28film%29>,
+        <http://dbpedia.org/resource/Vishnu_Basement_Rocks>,
+        <http://dbpedia.org/resource/Vishnu_Bhagwat>,
+        <http://dbpedia.org/resource/Vishnu_Deo>,
+        <http://dbpedia.org/resource/Vishnu_Jejjala>,
+        <http://dbpedia.org/resource/Vishnu_Mathur>,
+        <http://dbpedia.org/resource/Vishnu_Nandan>,
+        <http://dbpedia.org/resource/Vishnu_Pandya>,
+        <http://dbpedia.org/resource/Vishnu_Prabhakar>,
+        <http://dbpedia.org/resource/Vishnu_Purana>,
+        <http://dbpedia.org/resource/Vishnu_Ramkrishna_Karkare>,
+        <http://dbpedia.org/resource/Vishnu_Sahay>,
+        <http://dbpedia.org/resource/Vishnu_Sharma>,
+        <http://dbpedia.org/resource/Vishnu_Smriti>,
+        <http://dbpedia.org/resource/Vishnu_Som>,
+        <http://dbpedia.org/resource/Vishnu_Springs,_Illinois>,
+        <http://dbpedia.org/resource/Vishnu_Temple,_Bhubaneswar>,
+        <http://dbpedia.org/resource/Vishnu_Vardhan>,
+        <http://dbpedia.org/resource/Vishnu_Vijayam>,
+        <http://dbpedia.org/resource/Vishnu_Vishal>,
+        <http://dbpedia.org/resource/Vishnu_sahasranama>,
+        <http://dbpedia.org/resource/Vishnudevananda_Saraswati>,
+        <http://dbpedia.org/resource/Vishnumaya>,
+        <http://dbpedia.org/resource/Vishnuprayag>,
+        <http://dbpedia.org/resource/Vishnuvardhan_%28actor%29>,
+        <http://dbpedia.org/resource/Vishnuvardhan_%28director%29> ;
     nif:anchorOf "Vishnu"^^xsd:string ;
     nif:beginIndex "2545"^^xsd:nonNegativeInteger ;
     nif:confidence 7.073785e-01 ;
@@ -261,6 +672,10 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=255,267> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Ganges>,
+        <http://dbpedia.org/resource/Ganges:_River_to_Heaven>,
+        <http://dbpedia.org/resource/Ganges_%28River%29>,
+        <http://dbpedia.org/resource/South_Asian_river_dolphin> ;
     nif:anchorOf "Ganges river"^^xsd:string ;
     nif:beginIndex "255"^^xsd:nonNegativeInteger ;
     nif:confidence 9.205037e-01 ;
@@ -272,6 +687,28 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2663,2669> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Citilink>,
+        <http://dbpedia.org/resource/Drive_(Gareth_Emery_album)>,
+        <http://dbpedia.org/resource/Euthalia_aconthea>,
+        <http://dbpedia.org/resource/GARUDA>,
+        <http://dbpedia.org/resource/Gareth_Emery>,
+        <http://dbpedia.org/resource/Garuda>,
+        <http://dbpedia.org/resource/Garuda_%28film%29>,
+        <http://dbpedia.org/resource/Garuda_(disambiguation)>,
+        <http://dbpedia.org/resource/Garuda_1>,
+        <http://dbpedia.org/resource/Garuda_Contingent>,
+        <http://dbpedia.org/resource/Garuda_Dhwaja>,
+        <http://dbpedia.org/resource/Garuda_Indonesia>,
+        <http://dbpedia.org/resource/Garuda_Mall>,
+        <http://dbpedia.org/resource/Garuda_Municipality>,
+        <http://dbpedia.org/resource/Garuda_Purana>,
+        <http://dbpedia.org/resource/List_of_Saint_Seiya_antagonists>,
+        <http://dbpedia.org/resource/List_of_minor_planets:_2001–3000>,
+        <http://dbpedia.org/resource/Megalara_garuda>,
+        <http://dbpedia.org/resource/National_emblem_of_Indonesia>,
+        <http://dbpedia.org/resource/Patelloida_garuda>,
+        <http://dbpedia.org/resource/Ranks_in_Gerakan_Pramuka_Indonesia>,
+        <http://dbpedia.org/resource/The_Transmutation_of_Ike_Garuda> ;
     nif:anchorOf "Garuda"^^xsd:string ;
     nif:beginIndex "2663"^^xsd:nonNegativeInteger ;
     nif:confidence 7.892537e-01 ;
@@ -283,6 +720,25 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=271,285> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/2012_India_blackouts>,
+        <http://dbpedia.org/resource/Church_of_North_India>,
+        <http://dbpedia.org/resource/Church_of_Northern_India_%28Darjeeling_Diocese%29>,
+        <http://dbpedia.org/resource/Council_of_Baptist_Churches_in_Northern_India>,
+        <http://dbpedia.org/resource/Diocese_of_Eastern_Himalaya_of_the_Church_of_North_India>,
+        <http://dbpedia.org/resource/Hindustan>,
+        <http://dbpedia.org/resource/North_India>,
+        <http://dbpedia.org/resource/Northern_Command_(India)>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College%2CDelhi>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College%2CLucknow>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College_%28Delhi%29>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College_%28Lucknow%29>,
+        <http://dbpedia.org/resource/Northern_India_Engineering_College_(Delhi)>,
+        <http://dbpedia.org/resource/Northern_India_Institute_of_Fashion_Technology>,
+        <http://dbpedia.org/resource/Northern_Railway_%28India%29>,
+        <http://dbpedia.org/resource/Northern_Railway_zone>,
+        <http://dbpedia.org/resource/School_of_Engineering,_Babu_Banarasi_Das_University,_Lucknow>,
+        <http://dbpedia.org/resource/United_Church_of_Northern_India_-_Presbyterian_Synod> ;
     nif:anchorOf "northern India"^^xsd:string ;
     nif:beginIndex "271"^^xsd:nonNegativeInteger ;
     nif:confidence 7.675e-01 ;
@@ -294,6 +750,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2756,2771> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Kumbh_Mela> ;
     nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
     nif:beginIndex "2756"^^xsd:nonNegativeInteger ;
     nif:confidence 8.665445e-01 ;
@@ -305,6 +762,59 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=280,285> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/A1_Team_India>,
+        <http://dbpedia.org/resource/All_India_Football_Federation>,
+        <http://dbpedia.org/resource/Bharata_Khanda>,
+        <http://dbpedia.org/resource/British_Raj>,
+        <http://dbpedia.org/resource/Cinema_of_India>,
+        <http://dbpedia.org/resource/Colonial_India>,
+        <http://dbpedia.org/resource/Company_rule_in_India>,
+        <http://dbpedia.org/resource/Culture_of_India>,
+        <http://dbpedia.org/resource/Demographics_of_India>,
+        <http://dbpedia.org/resource/Economy_of_India>,
+        <http://dbpedia.org/resource/Elections_in_India>,
+        <http://dbpedia.org/resource/European_Union>,
+        <http://dbpedia.org/resource/Femina_Miss_India>,
+        <http://dbpedia.org/resource/Government_of_India>,
+        <http://dbpedia.org/resource/Greater_India>,
+        <http://dbpedia.org/resource/History_of_India>,
+        <http://dbpedia.org/resource/History_of_the_Jews_in_India>,
+        <http://dbpedia.org/resource/India>,
+        <http://dbpedia.org/resource/India-class_submarine>,
+        <http://dbpedia.org/resource/India_Arie>,
+        <http://dbpedia.org/resource/India_Davis_Cup_team>,
+        <http://dbpedia.org/resource/India_and_weapons_of_mass_destruction>,
+        <http://dbpedia.org/resource/India_at_the_2004_Summer_Olympics>,
+        <http://dbpedia.org/resource/India_at_the_2006_Lusophony_Games>,
+        <http://dbpedia.org/resource/India_national_badminton_team>,
+        <http://dbpedia.org/resource/India_national_cricket_team>,
+        <http://dbpedia.org/resource/India_national_football_team>,
+        <http://dbpedia.org/resource/India_national_hockey_team>,
+        <http://dbpedia.org/resource/India_national_rugby_union_team>,
+        <http://dbpedia.org/resource/Indian_Air_Force>,
+        <http://dbpedia.org/resource/Indian_Army>,
+        <http://dbpedia.org/resource/Indian_Navy>,
+        <http://dbpedia.org/resource/Indian_Plate>,
+        <http://dbpedia.org/resource/Indian_cuisine>,
+        <http://dbpedia.org/resource/Indian_mathematics>,
+        <http://dbpedia.org/resource/Indian_poetry>,
+        <http://dbpedia.org/resource/Indian_subcontinent>,
+        <http://dbpedia.org/resource/Johnny_Goudie>,
+        <http://dbpedia.org/resource/La_India>,
+        <http://dbpedia.org/resource/Law_of_India>,
+        <http://dbpedia.org/resource/List_of_earthquakes_in_2009>,
+        <http://dbpedia.org/resource/Music_of_India>,
+        <http://dbpedia.org/resource/North_India>,
+        <http://dbpedia.org/resource/Politics_of_India>,
+        <http://dbpedia.org/resource/Portuguese_India>,
+        <http://dbpedia.org/resource/Postage_stamps_and_postal_history_of_India>,
+        <http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India>,
+        <http://dbpedia.org/resource/Quakers>,
+        <http://dbpedia.org/resource/Rail_transport_in_India>,
+        <http://dbpedia.org/resource/Saint_Thomas_Christians>,
+        <http://dbpedia.org/resource/Solar_power_in_India>,
+        <http://dbpedia.org/resource/Transport_in_India>,
+        <http://dbpedia.org/resource/Treasury_tag> ;
     nif:anchorOf "India"^^xsd:string ;
     nif:beginIndex "280"^^xsd:nonNegativeInteger ;
     nif:confidence 8.942537e-01 ;
@@ -316,6 +826,8 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2948,2958> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Agroha_Dham>,
+        <http://dbpedia.org/resource/Kumbh_Mela> ;
     nif:anchorOf "Maha Kumbh"^^xsd:string ;
     nif:beginIndex "2948"^^xsd:nonNegativeInteger ;
     nif:confidence 8.685e-01 ;
@@ -327,6 +839,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=2969,2984> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Kumbh_Mela> ;
     nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
     nif:beginIndex "2969"^^xsd:nonNegativeInteger ;
     nif:confidence 8.685e-01 ;
@@ -338,6 +851,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=3032,3056> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Guinness_World_Records> ;
     nif:anchorOf "Guinness Book of Records"^^xsd:string ;
     nif:beginIndex "3032"^^xsd:nonNegativeInteger ;
     nif:confidence 6.875e-01 ;
@@ -349,6 +863,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=421,436> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Kumbh_Mela> ;
     nif:anchorOf "Ardh Kumbh Mela"^^xsd:string ;
     nif:beginIndex "421"^^xsd:nonNegativeInteger ;
     nif:confidence 8.45e-01 ;
@@ -371,6 +886,35 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=608,614> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Bengal_Fan>,
+        <http://dbpedia.org/resource/Ganges>,
+        <http://dbpedia.org/resource/Ganges%2C_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_British_Columbia>,
+        <http://dbpedia.org/resource/Ganges,_H%C3%A9rault>,
+        <http://dbpedia.org/resource/Ganges,_Hérault>,
+        <http://dbpedia.org/resource/Ganges-class_ship_of_the_line>,
+        <http://dbpedia.org/resource/Ganges_%28BBC_TV_series%29>,
+        <http://dbpedia.org/resource/Ganges_%28clipper%29>,
+        <http://dbpedia.org/resource/Ganges_%28whaler%29>,
+        <http://dbpedia.org/resource/Ganges_(disambiguation)>,
+        <http://dbpedia.org/resource/Ganges_Bank>,
+        <http://dbpedia.org/resource/Ganges_Basin>,
+        <http://dbpedia.org/resource/Ganges_Canal>,
+        <http://dbpedia.org/resource/Ganges_Chasma>,
+        <http://dbpedia.org/resource/Ganges_Delta>,
+        <http://dbpedia.org/resource/Ganges_II_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_I_%28ship%29>,
+        <http://dbpedia.org/resource/Ganges_Township,_Michigan>,
+        <http://dbpedia.org/resource/Ganges_shark>,
+        <http://dbpedia.org/resource/HMS_Ganges>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281782%29>,
+        <http://dbpedia.org/resource/HMS_Ganges_%281821%29>,
+        <http://dbpedia.org/resource/Indian_softshell_turtle>,
+        <http://dbpedia.org/resource/Nakanotorishima>,
+        <http://dbpedia.org/resource/Runabout_(Star_Trek)>,
+        <http://dbpedia.org/resource/SS_Ganges>,
+        <http://dbpedia.org/resource/South_Asian_river_dolphin>,
+        <http://dbpedia.org/resource/USS_Ganges_%281794%29> ;
     nif:anchorOf "Ganges"^^xsd:string ;
     nif:beginIndex "608"^^xsd:nonNegativeInteger ;
     nif:confidence 9.200124e-01 ;
@@ -382,6 +926,19 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=620,626> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/East_Delhi>,
+        <http://dbpedia.org/resource/Late_-Jamuna_Nishad>,
+        <http://dbpedia.org/resource/Yamuna>,
+        <http://dbpedia.org/resource/Yamuna_(disambiguation)>,
+        <http://dbpedia.org/resource/Yamuna_(film)>,
+        <http://dbpedia.org/resource/Yamuna_Expressway>,
+        <http://dbpedia.org/resource/Yamuna_Kachru>,
+        <http://dbpedia.org/resource/Yamuna_Karjee>,
+        <http://dbpedia.org/resource/Yamuna_Krishnan>,
+        <http://dbpedia.org/resource/Yamuna_Pushta>,
+        <http://dbpedia.org/resource/Yamuna_Vihar>,
+        <http://dbpedia.org/resource/Yamuna_in_Hinduism>,
+        <http://dbpedia.org/resource/Yamunanagar> ;
     nif:anchorOf "Yamuna"^^xsd:string ;
     nif:beginIndex "620"^^xsd:nonNegativeInteger ;
     nif:confidence 8.45e-01 ;
@@ -393,6 +950,33 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=657,666> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/33rd_Punjabis>,
+        <http://dbpedia.org/resource/8th_(Lucknow)_Division>,
+        <http://dbpedia.org/resource/Allahabad>,
+        <http://dbpedia.org/resource/Allahabad,_Iran>,
+        <http://dbpedia.org/resource/Allahabad-e_Do>,
+        <http://dbpedia.org/resource/Allahabad-e_Yek>,
+        <http://dbpedia.org/resource/Allahabad_(disambiguation)>,
+        <http://dbpedia.org/resource/Allahabad_Address>,
+        <http://dbpedia.org/resource/Allahabad_Airport>,
+        <http://dbpedia.org/resource/Allahabad_Baku>,
+        <http://dbpedia.org/resource/Allahabad_Bank>,
+        <http://dbpedia.org/resource/Allahabad_Bypass_Expressway>,
+        <http://dbpedia.org/resource/Allahabad_Doomak>,
+        <http://dbpedia.org/resource/Allahabad_Fort>,
+        <http://dbpedia.org/resource/Allahabad_Minooyi>,
+        <http://dbpedia.org/resource/Allahabad_Monorail>,
+        <http://dbpedia.org/resource/Allahabad_Museum>,
+        <http://dbpedia.org/resource/Allahabad_Observatory>,
+        <http://dbpedia.org/resource/Allahabad_Pillar>,
+        <http://dbpedia.org/resource/Allahabad_district>,
+        <http://dbpedia.org/resource/Allahabad_division>,
+        <http://dbpedia.org/resource/Government_Intermediate_College>,
+        <http://dbpedia.org/resource/Jawahar_Planetarium>,
+        <http://dbpedia.org/resource/MIC_Allahabad>,
+        <http://dbpedia.org/resource/Motilal_Nehru_National_Institute_of_Technology_Allahabad>,
+        <http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Allahabad>,
+        <http://dbpedia.org/resource/University_of_Allahabad> ;
     nif:anchorOf "Allahabad"^^xsd:string ;
     nif:beginIndex "657"^^xsd:nonNegativeInteger ;
     nif:confidence 9.452945e-01 ;
@@ -404,6 +988,9 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=808,824> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Hindu_texts>,
+        <http://dbpedia.org/resource/List_of_Hindu_scriptures>,
+        <http://dbpedia.org/resource/List_of_numbers_in_Hindu_scriptures> ;
     nif:anchorOf "Hindu scriptures"^^xsd:string ;
     nif:beginIndex "808"^^xsd:nonNegativeInteger ;
     nif:confidence 7.4125e-01 ;
@@ -415,6 +1002,7 @@
 <http://www.aksw.org/gerbil/NifWebService/request_12#char=992,1007> a nif:Phrase,
         nif:RFC5147String,
         nif:String ;
+    ns1:candidate <http://dbpedia.org/resource/Kumbh_Mela> ;
     nif:anchorOf "Maha Kumbh Mela"^^xsd:string ;
     nif:beginIndex "992"^^xsd:nonNegativeInteger ;
     nif:confidence 8.410186e-01 ;
