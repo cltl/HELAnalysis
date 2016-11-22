@@ -1,4 +1,5 @@
 import rdflib
+import json, sys, pandas
 
 def getCount(q, resFile):
 	g = rdflib.Graph()
@@ -29,4 +30,30 @@ def NILmentionsNoCands(resFile):
 	query="SELECT (count(DISTINCT(?ent)) as ?countEntities) WHERE { ?ent a nif:Phrase ; <http://ilievski.nl/goldLink> <http://vu.nl/unknown> . FILTER NOT EXISTS { ?ent <http://ilievski.nl/candidate> ?cand } }"
 	return getCount(query, resFile)
 
+def inspectFile(inspectMe):
+	g=rdflib.Graph()
+	g.parse(inspectMe, format='n3')
+	q="SELECT ?ent ?ment ?candscores WHERE { ?ent <http://ilievski.nl/candidatescores> ?candscores ; nif:anchorOf ?ment } ORDER BY ?ent"
+	qres=g.query(q)
+	headers = ['candidate', 'strSim', 'semCoh', 'topK', 'recency', 'tmpPop', 'SCORE']
+	pandas.set_option('display.max_columns', None)
 
+	precision=3
+	data=[]
+	entity=""
+	for row in qres:
+		if entity=="":
+			entity=row[0]
+			print()
+			print(row[1])
+		elif entity!=row[0]:
+			df2 = pandas.DataFrame(data, columns=headers)
+			with pandas.option_context('display.max_rows', None, 'display.max_columns', None):
+				print(df2.sort_values('SCORE', 0, False).head(50).to_string())
+			print()
+			print(row[1])
+			data=[]
+			entity=row[0]
+		jsonCand=json.loads(row[2])
+		for c in jsonCand:
+			data.append([c, round(jsonCand[c][0],precision) ,round(jsonCand[c][1], precision),round(jsonCand[c][2],3),round(jsonCand[c][3], 3),round(jsonCand[c][4],3),round(jsonCand[c][5],3) ])
