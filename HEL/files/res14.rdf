@@ -13,6 +13,10 @@
         <http://dbpedia.org/resource/New_Year%27s_resolution>,
         <http://dbpedia.org/resource/New_Year's_resolution>,
         <http://dbpedia.org/resource/New_year%27s_resolution> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/New_Year%27s_Resolution\": [1.0, 0.0, 0.8333333333333334, 0.0, 0.002771896053897979, 0.3668052614693616]}",
+        "{\"http://dbpedia.org/resource/New_Year%27s_resolution\": [1.0, 0.0, 1.0, 0.0, 0.19853705486044274, 0.38492685274302213]}",
+        "{\"http://dbpedia.org/resource/New_Year's_resolution\": [1.0, 0.2833333333333333, 1.0, 0.0, 1.0, 0.5737500000000001]}",
+        "{\"http://dbpedia.org/resource/New_year%27s_resolution\": [1.0, 0.0, 0.8333333333333334, 0.0, 0.012396535129932627, 0.36728649342316333]}" ;
     ns1:goldLink <http://dbpedia.org/resource/New_Year%27s_Resolution>,
         <http://dbpedia.org/resource/New_Year%27s_resolution>,
         <http://dbpedia.org/resource/New_Year%27s_resolutions>,
@@ -62,6 +66,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/The_American_Journal_of_Clinical_Nutrition\": [1.0, 0.24166666666666664, 1.0, 0.0, 0.0, 0.5018750000000001]}" ;
     ns1:goldLink <http://dbpedia.org/resource/AJCN>,
         <http://dbpedia.org/resource/Am._J._Clin._Nutr.>,
         <http://dbpedia.org/resource/Am_J_Clin_Nutr>,
@@ -106,6 +111,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Joy_Bauer\": [1.0, 0.39166666666666666, 1.0, 0.990025, 0.0, 0.6301262500000001]}" ;
     ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
         <http://en.wikipedia.org/wiki/Joy_Bauer>,
         <http://wikidata.dbpedia.org/resource/Q6297036>,
@@ -127,6 +133,11 @@
         <http://dbpedia.org/resource/Whole_Wheat_Radio>,
         <http://dbpedia.org/resource/Whole_grain>,
         <http://dbpedia.org/resource/Whole_wheat_bread> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Whole-wheat_flour\": [0.7857142857142857, 0.25, 0.9130434782608695, 0.0, 0.025682471264367818, 0.4335434403334047]}",
+        "{\"http://dbpedia.org/resource/Whole_Wheat_Bread_(band)\": [0.7857142857142857, 0.19999999999999998, 0.391304347826087, 0.0, 0.0, 0.37992236024844717]}",
+        "{\"http://dbpedia.org/resource/Whole_Wheat_Radio\": [0.7857142857142857, 0.15833333333333333, 0.43478260869565216, 0.0, 0.04274425287356322, 0.3623584859356036]}",
+        "{\"http://dbpedia.org/resource/Whole_grain\": [1.0, 0.2833333333333333, 0.7391304347826086, 0.0, 1.0, 0.5607065217391305]}",
+        "{\"http://dbpedia.org/resource/Whole_wheat_bread\": [0.7857142857142857, 0.21666666666666665, 1.0, 0.0, 0.0007183908045977011, 0.41914306239737276]}" ;
     ns1:goldLink <http://cs.dbpedia.org/resource/Celozrnn%C3%A9_v%C3%BDrobky>,
         <http://cs.dbpedia.org/resource/Celozrnné_výrobky>,
         <http://cs.wikipedia.org/wiki/Celozrnn%C3%A9_v%C3%BDrobky>,
@@ -189,6 +200,9 @@
     ns1:candidate <http://dbpedia.org/resource/Frosted_Flakes>,
         <http://dbpedia.org/resource/Whole_Grain_Stamp>,
         <http://dbpedia.org/resource/Whole_grain> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Frosted_Flakes\": [0.6470588235294118, 0.25, 0.14285714285714285, 0.0, 0.5377155172413793, 0.3755727506519849]}",
+        "{\"http://dbpedia.org/resource/Whole_Grain_Stamp\": [0.7857142857142857, 0.2833333333333333, 0.7142857142857143, 0.0, 0.008081896551724138, 0.4402255233990147]}",
+        "{\"http://dbpedia.org/resource/Whole_grain\": [1.0, 0.35, 1.0, 0.995, 1.0, 0.6585000000000001]}" ;
     ns1:goldLink <http://cs.dbpedia.org/resource/Celozrnn%C3%A9_v%C3%BDrobky>,
         <http://cs.dbpedia.org/resource/Celozrnné_výrobky>,
         <http://cs.wikipedia.org/wiki/Celozrnn%C3%A9_v%C3%BDrobky>,
@@ -262,6 +276,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Naasa_Hablood> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Naasa_Hablood\": [0.5555555555555556, 0.15833333333333333, 1.0, 0.0, 1.0, 0.36368055555555556]}" ;
     ns1:goldLink <http://vu.nl/unknown> ;
     ns1:verdict true ;
     nif:anchorOf "NAASO"^^xsd:string ;
@@ -289,6 +304,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Joy_Bauer\": [1.0, 0.13333333333333333, 1.0, 0.946354579813443, 0.0, 0.49231772899067217]}" ;
     ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
         <http://en.wikipedia.org/wiki/Joy_Bauer>,
         <http://wikidata.dbpedia.org/resource/Q6297036>,
@@ -374,6 +390,76 @@
         <http://dbpedia.org/resource/Tu_BiShvat>,
         <http://dbpedia.org/resource/Tết>,
         <http://dbpedia.org/resource/Ugadi> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1909_New_Year_Honours\": [0.5517241379310345, 0.19999999999999998, 0.02857142857142857, 0.0, 0.0, 0.28573891625615766]}",
+        "{\"http://dbpedia.org/resource/1927_New_Year_Honours\": [0.5517241379310345, 0.0, 0.02857142857142857, 0.0, 0.0, 0.18073891625615762]}",
+        "{\"http://dbpedia.org/resource/1953_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/1958_New_Year_Honours\": [0.5517241379310345, 0.22499999999999998, 0.02857142857142857, 0.0, 0.0, 0.29886391625615766]}",
+        "{\"http://dbpedia.org/resource/1975_New_Year_Honours\": [0.5517241379310345, 0.22499999999999998, 0.02857142857142857, 0.0, 0.0, 0.29886391625615766]}",
+        "{\"http://dbpedia.org/resource/1980_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/1990_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.05714285714285714, 0.0, 0.0, 0.304667487684729]}",
+        "{\"http://dbpedia.org/resource/1993_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/1995_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/1996_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/1997_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/2002_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.3032389162561576]}",
+        "{\"http://dbpedia.org/resource/2005_New_Year_Honours\": [0.5517241379310345, 0.26666666666666666, 0.02857142857142857, 0.0, 0.0, 0.3207389162561577]}",
+        "{\"http://dbpedia.org/resource/2006_Bangkok_bombings\": [0.48484848484848486, 0.20833333333333331, 0.02857142857142857, 0.0, 0.005660404919804844, 0.2686623492503193]}",
+        "{\"http://dbpedia.org/resource/2006_New_Year_Honours\": [0.5517241379310345, 0.24999999999999997, 0.14285714285714285, 0.0, 8.034123111981069e-05, 0.31770721903199933]}",
+        "{\"http://dbpedia.org/resource/2007_New_Year_Honours\": [0.5517241379310345, 0.19999999999999998, 0.11428571428571428, 0.0, 0.0, 0.29002463054187194]}",
+        "{\"http://dbpedia.org/resource/2008_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.17142857142857143, 0.0, 2.191124485085746e-05, 0.3103828689612573]}",
+        "{\"http://dbpedia.org/resource/2009_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.11428571428571428, 0.0, 0.0, 0.3075246305418719]}",
+        "{\"http://dbpedia.org/resource/2010_New_Year_Honours\": [0.5517241379310345, 0.2333333333333333, 0.14285714285714285, 0.0, 0.0, 0.3089532019704433]}",
+        "{\"http://dbpedia.org/resource/Aztec_New_Year\": [0.7272727272727273, 0.20833333333333331, 0.02857142857142857, 0.0, 0.0, 0.34716720779220783]}",
+        "{\"http://dbpedia.org/resource/Baby_New_Year\": [0.7619047619047619, 0.21666666666666665, 0.02857142857142857, 0.0, 0.05978117970142277, 0.3657866780326902]}",
+        "{\"http://dbpedia.org/resource/Bah\\u00e1'\\u00ed_Naw-R\\u00faz\": [0.6956521739130435, 0.2333333333333333, 0.02857142857142857, 0.0, 0.00014607496567238307, 0.35002283169859416]}",
+        "{\"http://dbpedia.org/resource/Brand_New_Year\": [0.7272727272727273, 0.20833333333333331, 0.02857142857142857, 0.0, 0.002534400654415846, 0.3472939278249286]}",
+        "{\"http://dbpedia.org/resource/Cambodian_New_Year\": [0.7272727272727273, 0.24999999999999997, 0.08571428571428572, 0.0, 0.008596511729819744, 0.3723291762358416]}",
+        "{\"http://dbpedia.org/resource/Chinese_New_Year\": [1.0, 0.2833333333333333, 0.2571428571428571, 0.0, 1.0, 0.5366071428571428]}",
+        "{\"http://dbpedia.org/resource/Christmas_and_holiday_season\": [0.7272727272727273, 0.2833333333333333, 0.02857142857142857, 0.0, 0.012474802068421513, 0.3871659478956289]}",
+        "{\"http://dbpedia.org/resource/Hmong_customs_and_culture\": [0.7272727272727273, 0.2333333333333333, 0.02857142857142857, 0.0, 0.01925268047562009, 0.3612548418159888]}",
+        "{\"http://dbpedia.org/resource/Holiday_stamp\": [0.5333333333333333, 0.2833333333333333, 0.05714285714285714, 0.0, 0.0050980163019661694, 0.3251953770055745]}",
+        "{\"http://dbpedia.org/resource/Islamic_New_Year\": [0.6956521739130435, 0.24999999999999997, 0.08571428571428572, 0.0, 0.024993426626544742, 0.36287234213878067]}",
+        "{\"http://dbpedia.org/resource/Japanese_New_Year\": [1.0, 0.22499999999999998, 0.11428571428571428, 0.0, 0.20406672704431914, 0.4590426220665017]}",
+        "{\"http://dbpedia.org/resource/Kerala_New_Year\": [0.6956521739130435, 0.20833333333333331, 0.08571428571428572, 0.0, 7.303748283619153e-06, 0.33974803599486764]}",
+        "{\"http://dbpedia.org/resource/Korean_New_Year\": [0.6956521739130435, 0.22499999999999998, 0.14285714285714285, 0.0, 0.017653159601507495, 0.3522374716446716]}",
+        "{\"http://dbpedia.org/resource/Losar\": [0.6666666666666666, 0.2333333333333333, 0.02857142857142857, 0.0, 0.015038417715971837, 0.34134715898103674]}",
+        "{\"http://dbpedia.org/resource/Lunar_New_Year\": [0.7272727272727273, 0.22499999999999998, 0.02857142857142857, 0.0, 0.022648923427502996, 0.35704965396358296]}",
+        "{\"http://dbpedia.org/resource/Lunar_New_Year_Cup\": [0.6153846153846154, 0.2333333333333333, 0.08571428571428572, 0.0, 0.00138040842560402, 0.3268547347069945]}",
+        "{\"http://dbpedia.org/resource/Lunar_New_Year_Fair\": [0.5925925925925926, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0008034123111981069, 0.3165613346367239]}",
+        "{\"http://dbpedia.org/resource/Maithili_New_Year\": [0.64, 0.2333333333333333, 0.05714285714285714, 0.0, 0.0, 0.33335714285714285]}",
+        "{\"http://dbpedia.org/resource/New_Year\": [1.0, 0.24999999999999997, 1.0, 0.0, 0.5103201963247539, 0.5317660098162377]}",
+        "{\"http://dbpedia.org/resource/New_Year%27s_Day\": [1.0, 0.0, 0.02857142857142857, 0.0, 0.17778784071985743, 0.33531796346456433]}",
+        "{\"http://dbpedia.org/resource/New_Year%27s_Eve\": [1.0, 0.0, 0.02857142857142857, 0.0, 0.23881065762949547, 0.33836910431004624]}",
+        "{\"http://dbpedia.org/resource/New_Year's_Day\": [0.7272727272727273, 0.3333333333333333, 0.05714285714285714, 0.0, 0.3203204884746852, 0.43023680364451344]}",
+        "{\"http://dbpedia.org/resource/New_Year's_Eve\": [0.5517241379310345, 0.3333333333333333, 0.05714285714285714, 0.0, 0.588945046597914, 0.3866147400146247]}",
+        "{\"http://dbpedia.org/resource/New_Year's_resolution\": [0.5517241379310345, 0.3, 0.0, 0.985074875, 0.18971486166700752, 0.3955498316609366]}",
+        "{\"http://dbpedia.org/resource/New_Year's_resolution\": [0.5925925925925926, 0.3, 0.02857142857142857, 0.985074875, 0.18971486166700752, 0.41026065085451446]}",
+        "{\"http://dbpedia.org/resource/New_Year_%281924_film%29\": [1.0, 0.0, 0.02857142857142857, 0.0, 0.0004820473867188641, 0.3264526737979074]}",
+        "{\"http://dbpedia.org/resource/New_Year_%28Sugababes_song%29\": [1.0, 0.0, 0.2, 0.0, 0.0, 0.335]}",
+        "{\"http://dbpedia.org/resource/New_Year_%28opera%29\": [1.0, 0.0, 0.02857142857142857, 0.0, 0.0003140611761956236, 0.3264442744873812]}",
+        "{\"http://dbpedia.org/resource/New_Year_(song)\": [1.0, 0.24999999999999997, 0.22857142857142856, 0.0, 0.029361068100148997, 0.4691466248335789]}",
+        "{\"http://dbpedia.org/resource/New_Year_Honours\": [0.6666666666666666, 0.2333333333333333, 0.14285714285714285, 0.0, 0.0029288030617312805, 0.34645596396261036]}",
+        "{\"http://dbpedia.org/resource/New_Year_Live\": [0.7619047619047619, 0.24999999999999997, 0.02857142857142857, 0.0, 7.303748283619153e-06, 0.38029798423503325]}",
+        "{\"http://dbpedia.org/resource/New_Year_Pass\": [0.7619047619047619, 0.24999999999999997, 0.02857142857142857, 0.0, 0.0, 0.38029761904761905]}",
+        "{\"http://dbpedia.org/resource/New_Year_card\": [0.7619047619047619, 0.2333333333333333, 0.02857142857142857, 0.0, 7.303748283619153e-06, 0.37154798423503327]}",
+        "{\"http://dbpedia.org/resource/New_Year_tree\": [0.8, 0.24999999999999997, 0.2, 0.0, 0.020472406438984486, 0.40227362032194924]}",
+        "{\"http://dbpedia.org/resource/Nowruz\": [0.6666666666666666, 0.2833333333333333, 0.05714285714285714, 0.0, 0.009874667679453095, 0.36876754290778213]}",
+        "{\"http://dbpedia.org/resource/Old_New_Year\": [0.8, 0.2833333333333333, 0.11428571428571428, 0.0, 0.01285459697916971, 0.4151070155632442]}",
+        "{\"http://dbpedia.org/resource/Pohela_Boishakh\": [0.6666666666666666, 0.2333333333333333, 0.02857142857142857, 0.0, 1.4607496567238306e-05, 0.34059596847006646]}",
+        "{\"http://dbpedia.org/resource/Puthandu\": [0.7272727272727273, 0.24999999999999997, 0.02857142857142857, 0.0, 0.004155832773379298, 0.3692499994308768]}",
+        "{\"http://dbpedia.org/resource/Red_Bull_New_Year_No_Limits\": [0.6153846153846154, 0.22499999999999998, 0.05714285714285714, 0.0, 0.0, 0.3209821428571428]}",
+        "{\"http://dbpedia.org/resource/Rosh_Hashanah\": [1.0, 0.3333333333333333, 0.05714285714285714, 0.0, 0.09182272342166, 0.5074482790282259]}",
+        "{\"http://dbpedia.org/resource/Sinhalese_New_Year\": [0.6666666666666666, 0.24999999999999997, 0.2571428571428571, 0.0, 0.0007230710800782961, 0.36080996307781343]}",
+        "{\"http://dbpedia.org/resource/Six_by_Seven\": [1.0, 0.21666666666666665, 0.02857142857142857, 0.0, 0.0013438896841859243, 0.4402457659127807]}",
+        "{\"http://dbpedia.org/resource/Songkran\": [0.7619047619047619, 0.19999999999999998, 0.02857142857142857, 0.0, 0.005236787519354933, 0.3543094584235868]}",
+        "{\"http://dbpedia.org/resource/Songkran_(Thailand)\": [0.7619047619047619, 0.2333333333333333, 0.02857142857142857, 0.0, 0.0, 0.37154761904761907]}",
+        "{\"http://dbpedia.org/resource/T\\u1ebft\": [0.6666666666666666, 0.24999999999999997, 0.02857142857142857, 0.0, 0.0012197259633643985, 0.3494062243934063]}",
+        "{\"http://dbpedia.org/resource/The_New_Year_%28album%29\": [1.0, 0.0, 0.02857142857142857, 0.0, 2.191124485085746e-05, 0.326429666990814]}",
+        "{\"http://dbpedia.org/resource/The_New_Year_%28song%29\": [1.0, 0.0, 0.02857142857142857, 0.0, 0.004513716439276637, 0.32665425725053526]}",
+        "{\"http://dbpedia.org/resource/The_New_Year_(band)\": [1.0, 0.24999999999999997, 0.11428571428571428, 0.0, 0.0, 0.4619642857142857]}",
+        "{\"http://dbpedia.org/resource/Thingyan\": [0.6666666666666666, 0.2333333333333333, 0.08571428571428572, 0.0, 0.0027535131029244207, 0.3435900566075272]}",
+        "{\"http://dbpedia.org/resource/Tu_BiShvat\": [0.6153846153846154, 0.26666666666666666, 0.05714285714285714, 0.0, 7.303748283619153e-06, 0.34285750804455706]}",
+        "{\"http://dbpedia.org/resource/Ugadi\": [0.6956521739130435, 0.24999999999999997, 0.08571428571428572, 0.0, 0.012803470741184375, 0.3622628443445126]}" ;
     ns1:goldLink <http://cs.dbpedia.org/resource/Nov%C3%BD_rok>,
         <http://cs.dbpedia.org/resource/Nový_rok>,
         <http://cs.wikipedia.org/wiki/Nov%C3%BD_rok>,
@@ -448,6 +534,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Joy_Bauer> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Joy_Bauer\": [1.0, 0.32499999999999996, 1.0, 0.0, 0.0, 0.545625]}" ;
     ns1:goldLink <http://dbpedia.org/resource/Joy_Bauer>,
         <http://en.wikipedia.org/wiki/Joy_Bauer>,
         <http://wikidata.dbpedia.org/resource/Q6297036>,
@@ -465,6 +552,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Low-density_lipoprotein> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Low-density_lipoprotein\": [1.0, 0.3666666666666667, 1.0, 0.0, 1.0, 0.6175000000000002]}" ;
     ns1:goldLink <http://cs.dbpedia.org/resource/N%C3%ADzkodenzitn%C3%AD_lipoprotein>,
         <http://cs.dbpedia.org/resource/Nízkodenzitní_lipoprotein>,
         <http://cs.wikipedia.org/wiki/N%C3%ADzkodenzitn%C3%AD_lipoprotein>,
@@ -553,6 +641,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/High-density_lipoprotein> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/High-density_lipoprotein\": [1.0, 0.3333333333333333, 1.0, 0.0, 1.0, 0.6000000000000001]}" ;
     ns1:goldLink <http://cs.dbpedia.org/resource/Vysokodenzitn%C3%AD_lipoprotein>,
         <http://cs.dbpedia.org/resource/Vysokodenzitní_lipoprotein>,
         <http://cs.wikipedia.org/wiki/Vysokodenzitn%C3%AD_lipoprotein>,

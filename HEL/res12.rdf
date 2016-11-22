@@ -95,6 +95,92 @@
         <http://dbpedia.org/resource/United_States_territory>,
         <http://dbpedia.org/resource/Weird_U.S.>,
         <http://dbpedia.org/resource/Western_United_States> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1961_U.S._Figure_Skating_Championships\": [0.36363636363636365, 0.26666666666666666, 0.1, 0.0, 0.0, 0.2631818181818182]}",
+        "{\"http://dbpedia.org/resource/2003_invasion_of_Iraq\": [0.47058823529411764, 0.3833333333333333, 0.1, 0.0, 0.06537394855540656, 0.36245987389835854]}",
+        "{\"http://dbpedia.org/resource/2010_U.S._Figure_Skating_Championships\": [0.36363636363636365, 0.26666666666666666, 0.1, 0.0, 0.0, 0.2631818181818182]}",
+        "{\"http://dbpedia.org/resource/AP_United_States_History\": [0.5, 0.3, 0.1, 0.0, 0.004623308545654029, 0.3252311654272827]}",
+        "{\"http://dbpedia.org/resource/Ambassadors_of_the_United_States\": [0.42105263157894735, 0.3833333333333333, 0.2, 0.0, 0.0, 0.3480921052631579]}",
+        "{\"http://dbpedia.org/resource/American_English\": [0.5, 0.31666666666666665, 0.1, 0.0, 0.03532244300865537, 0.33551612215043275]}",
+        "{\"http://dbpedia.org/resource/Anti-Americanism\": [0.5, 0.36666666666666664, 0.2, 0.0, 0.011837132756308667, 0.3655918566378154]}",
+        "{\"http://dbpedia.org/resource/Billboard_Hot_100\": [0.6666666666666666, 0.3, 0.2, 0.0, 0.10350633914421553, 0.38934198362387745]}",
+        "{\"http://dbpedia.org/resource/Cabinet_of_the_United_States\": [0.5, 0.3833333333333333, 0.1, 0.0, 0.00013104961599414848, 0.36875655248079975]}",
+        "{\"http://dbpedia.org/resource/Citizenship_in_the_United_States\": [0.5, 0.3833333333333333, 0.3, 0.0, 0.0, 0.37875000000000003]}",
+        "{\"http://dbpedia.org/resource/Coins_of_the_United_States_dollar\": [0.5714285714285714, 0.31666666666666665, 0.1, 0.0, 0.01133122028526149, 0.3575308467285488]}",
+        "{\"http://dbpedia.org/resource/College_basketball\": [0.5, 0.3833333333333333, 0.1, 0.0, 0.017121784712909913, 0.36960608923564553]}",
+        "{\"http://dbpedia.org/resource/Contiguous_United_States\": [0.42105263157894735, 0.48333333333333334, 0.5, 0.0, 0.002413751066682921, 0.4157127928164921]}",
+        "{\"http://dbpedia.org/resource/Dance_Club_Songs\": [0.5714285714285714, 0.26666666666666666, 0.1, 0.0, 0.0, 0.33071428571428574]}",
+        "{\"http://dbpedia.org/resource/Demography_of_the_United_States\": [0.42105263157894735, 0.0, 0.1, 0.0, 0.011064549555040838, 0.14239533274090996]}",
+        "{\"http://dbpedia.org/resource/Eastern_United_States\": [0.6153846153846154, 0.48333333333333334, 0.2, 0.0, 0.0054736072168718765, 0.4640236803608436]}",
+        "{\"http://dbpedia.org/resource/Economy_of_the_United_States\": [0.5, 0.3833333333333333, 0.1, 0.0, 0.042842557600877726, 0.3708921278800439]}",
+        "{\"http://dbpedia.org/resource/Federal_district\": [0.375, 0.31666666666666665, 0.1, 0.0, 0.0036312934292332074, 0.2933065646714617]}",
+        "{\"http://dbpedia.org/resource/Federal_government_of_the_United_States\": [0.42105263157894735, 0.43333333333333335, 0.2, 0.0, 0.042594172863586494, 0.37647181390633727]}",
+        "{\"http://dbpedia.org/resource/Flag_of_the_United_States\": [0.6153846153846154, 0.48333333333333334, 0.2, 0.0, 0.06522766061197123, 0.46701138303059864]}",
+        "{\"http://dbpedia.org/resource/Gallon\": [0.5333333333333333, 0.3833333333333333, 0.2, 0.0, 0.028000426673168353, 0.38598335466699174]}",
+        "{\"http://dbpedia.org/resource/History_of_the_United_States\": [0.5, 0.48333333333333334, 0.2, 0.0, 0.050018285992929415, 0.4287509142996465]}",
+        "{\"http://dbpedia.org/resource/Hot_Rap_Songs\": [0.6666666666666666, 0.31666666666666665, 0.1, 0.0, 0.0, 0.3879166666666667]}",
+        "{\"http://dbpedia.org/resource/Insular_area\": [0.4, 0.3833333333333333, 0.1, 0.0, 0.007463732780689992, 0.3366231866390345]}",
+        "{\"http://dbpedia.org/resource/Law_of_the_United_States\": [0.6666666666666666, 0.3833333333333333, 0.1, 0.0, 0.011984944532488113, 0.4235159138932911]}",
+        "{\"http://dbpedia.org/resource/Masters_Tournament\": [0.5, 0.3333333333333333, 0.1, 0.0, 0.0007146775569913446, 0.3425357338778496]}",
+        "{\"http://dbpedia.org/resource/Member_of_Congress\": [0.4, 0.3833333333333333, 0.1, 0.0, 0.0012708765085944166, 0.3363135438254297]}",
+        "{\"http://dbpedia.org/resource/Midwestern_United_States\": [0.5, 0.4666666666666666, 0.1, 0.0, 0.03447823966841399, 0.4142239119834207]}",
+        "{\"http://dbpedia.org/resource/Misplaced_Childhood\": [0.5, 0.26666666666666666, 0.5, 0.0, 0.0025478483481653053, 0.3276273924174083]}",
+        "{\"http://dbpedia.org/resource/No_Way_But_the_Hard_Way\": [0.42105263157894735, 0.2583333333333333, 0.6, 0.0, 0.0, 0.3024671052631579]}",
+        "{\"http://dbpedia.org/resource/Northeastern_United_States\": [0.4444444444444444, 0.48333333333333334, 0.4, 0.0, 0.021720711934658053, 0.4192804800411774]}",
+        "{\"http://dbpedia.org/resource/Northwestern_United_States\": [0.4444444444444444, 0.36666666666666664, 0.1, 0.0, 0.0025204193587711815, 0.342070465412383]}",
+        "{\"http://dbpedia.org/resource/Pacific_Coast_Borax_Company\": [0.5714285714285714, 0.3333333333333333, 0.1, 0.0, 0.0004891503108618798, 0.3657387432298288]}",
+        "{\"http://dbpedia.org/resource/Politics_of_the_United_States\": [0.47058823529411764, 0.3833333333333333, 0.1, 0.0, 0.02468609045471169, 0.36042548099332383]}",
+        "{\"http://dbpedia.org/resource/President_of_the_United_States\": [0.4444444444444444, 0.3833333333333333, 1.0, 0.0, 0.20849384371571375, 0.4061191366302301]}",
+        "{\"http://dbpedia.org/resource/Sheriff_of_Cochise\": [0.5, 0.35, 0.1, 0.0, 1.5238327441180056e-06, 0.35125007619163723]}",
+        "{\"http://dbpedia.org/resource/Southeastern_United_States\": [0.4444444444444444, 0.48333333333333334, 0.2, 0.0, 0.008883944898207973, 0.4086386416893549]}",
+        "{\"http://dbpedia.org/resource/Southern_United_States\": [0.5714285714285714, 0.48333333333333334, 0.4, 0.0, 0.051042301596976716, 0.4620164007941346]}",
+        "{\"http://dbpedia.org/resource/Southwestern_United_States\": [0.4444444444444444, 0.36666666666666664, 0.3, 0.0, 0.0084039375838108, 0.352364641323635]}",
+        "{\"http://dbpedia.org/resource/Territories_of_the_United_States\": [0.4444444444444444, 0.43333333333333335, 0.2, 0.0, 0.010305680848470071, 0.38245972848686793]}",
+        "{\"http://dbpedia.org/resource/The_Sound_of_Echo\": [0.5714285714285714, 0.2583333333333333, 0.6, 0.0, 0.0, 0.35133928571428574]}",
+        "{\"http://dbpedia.org/resource/Treasurer_of_the_United_States\": [0.4444444444444444, 0.3833333333333333, 0.1, 0.0, 0.00213946117274168, 0.3508014175030815]}",
+        "{\"http://dbpedia.org/resource/Tu_Veneno\": [0.5714285714285714, 0.26666666666666666, 0.1, 0.0, 0.00010666829208826039, 0.33071961912889014]}",
+        "{\"http://dbpedia.org/resource/Tweedles\": [0.6153846153846154, 0.26666666666666666, 0.4, 0.0, 0.0004312446665853956, 0.3600215622333293]}",
+        "{\"http://dbpedia.org/resource/U.S._Figure_Skating_Championships\": [0.36363636363636365, 0.31666666666666665, 0.1, 0.0, 0.0005851517737413142, 0.2894610757705052]}",
+        "{\"http://dbpedia.org/resource/USG_Corporation\": [0.5333333333333333, 0.3833333333333333, 0.1, 0.0, 0.0011428745580885041, 0.37964047706123777]}",
+        "{\"http://dbpedia.org/resource/US_Airways\": [0.5, 0.39999999999999997, 0.1, 0.0, 0.036459222235767405, 0.37932296111178837]}",
+        "{\"http://dbpedia.org/resource/United_States\": [0.6666666666666666, 0.55, 0.4, 0.0, 1.0, 0.5754166666666668]}",
+        "{\"http://dbpedia.org/resource/United_States_Armed_Forces\": [0.5333333333333333, 0.3833333333333333, 0.8, 0.0, 0.0050850298671217846, 0.4148375848266894]}",
+        "{\"http://dbpedia.org/resource/United_States_Army\": [0.6153846153846154, 0.3833333333333333, 0.5, 0.0, 0.11164817749603803, 0.4318324088748019]}",
+        "{\"http://dbpedia.org/resource/United_States_Army_Air_Forces\": [0.6153846153846154, 0.3833333333333333, 0.1, 0.0, 0.00795440692429599, 0.4066477203462148]}",
+        "{\"http://dbpedia.org/resource/United_States_Attorney\": [0.47058823529411764, 0.3833333333333333, 0.3, 0.0, 0.005438559063757162, 0.3694631044237761]}",
+        "{\"http://dbpedia.org/resource/United_States_Bicentennial\": [0.38095238095238093, 0.3833333333333333, 0.1, 0.0, 0.00548579787882482, 0.33033381370346504]}",
+        "{\"http://dbpedia.org/resource/United_States_Capitol\": [0.5, 0.3833333333333333, 0.1, 0.0, 0.03216963306107522, 0.3703584816530538]}",
+        "{\"http://dbpedia.org/resource/United_States_Census\": [0.5333333333333333, 0.3833333333333333, 0.2, 0.0, 0.010491588443252469, 0.38510791275549594]}",
+        "{\"http://dbpedia.org/resource/United_States_Census_Bureau\": [0.5333333333333333, 0.48333333333333334, 0.1, 0.0, 0.02734517859319761, 0.43345059226299326]}",
+        "{\"http://dbpedia.org/resource/United_States_Code\": [0.6153846153846154, 0.3833333333333333, 0.1, 0.0, 0.010476350115811288, 0.40677381750579056]}",
+        "{\"http://dbpedia.org/resource/United_States_Congress\": [0.47058823529411764, 0.6, 0.5, 0.0, 0.06835151773741314, 0.4963587523574589]}",
+        "{\"http://dbpedia.org/resource/United_States_Constabulary\": [0.38095238095238093, 0.31666666666666665, 0.1, 0.0, 0.0007040107277825186, 0.29509472434591294]}",
+        "{\"http://dbpedia.org/resource/United_States_Constitution\": [0.38095238095238093, 0.3833333333333333, 0.2, 0.0, 0.21663415823479215, 0.3458912317212634]}",
+        "{\"http://dbpedia.org/resource/United_States_Customs_Service\": [0.5, 0.31666666666666665, 0.1, 0.0, 0.0027474704376447643, 0.33388737352188225]}",
+        "{\"http://dbpedia.org/resource/United_States_Department_of_the_Treasury\": [0.47058823529411764, 0.3833333333333333, 0.1, 0.0, 0.011197123003779105, 0.3597510326207772]}",
+        "{\"http://dbpedia.org/resource/United_States_Environmental_Protection_Agency\": [0.6666666666666666, 0.48333333333333334, 0.1, 0.0, 0.020792697793490186, 0.4764563015563412]}",
+        "{\"http://dbpedia.org/resource/United_States_Fleet\": [0.5714285714285714, 0.3333333333333333, 0.1, 0.0, 0.0006278190905766183, 0.3657456766688145]}",
+        "{\"http://dbpedia.org/resource/United_States_House_of_Representatives\": [0.6153846153846154, 0.6333333333333333, 1.0, 0.0, 0.10089906131902962, 0.5875449530659514]}",
+        "{\"http://dbpedia.org/resource/United_States_Intelligence_Community\": [0.38095238095238093, 0.3833333333333333, 0.1, 0.0, 0.007290015847860539, 0.33042402460191683]}",
+        "{\"http://dbpedia.org/resource/United_States_Marine_Corps\": [0.5333333333333333, 0.3833333333333333, 0.3, 0.0, 0.13922193100085334, 0.396544429883376]}",
+        "{\"http://dbpedia.org/resource/United_States_Marshals_Service\": [0.5, 0.3833333333333333, 0.4, 0.0, 0.012199804949408753, 0.3843599902474705]}",
+        "{\"http://dbpedia.org/resource/United_States_Mint\": [0.6153846153846154, 0.3333333333333333, 0.1, 0.0, 0.009315189564793368, 0.3804657594782397]}",
+        "{\"http://dbpedia.org/resource/United_States_Navy\": [0.6153846153846154, 0.3833333333333333, 0.5, 0.0, 0.09642508838229916, 0.431071254419115]}",
+        "{\"http://dbpedia.org/resource/United_States_Numbered_Highways\": [0.5714285714285714, 0.3833333333333333, 0.8, 0.0, 0.006026758502986712, 0.42726562363943504]}",
+        "{\"http://dbpedia.org/resource/United_States_Postal_Service\": [0.6153846153846154, 0.3833333333333333, 0.2, 0.0, 0.052732232110203586, 0.41388661160551016]}",
+        "{\"http://dbpedia.org/resource/United_States_Rubber_Company\": [0.5333333333333333, 0.31666666666666665, 0.1, 0.0, 0.0019032670974033891, 0.3446784966882035]}",
+        "{\"http://dbpedia.org/resource/United_States_Senate\": [0.6153846153846154, 0.5333333333333333, 0.7, 0.0, 0.08093532853833964, 0.519046766426917]}",
+        "{\"http://dbpedia.org/resource/United_States_Soccer_Federation\": [0.5333333333333333, 0.3333333333333333, 0.1, 0.0, 0.0028419480677800806, 0.35347543073672233]}",
+        "{\"http://dbpedia.org/resource/United_States_Volunteers\": [0.42105263157894735, 0.31666666666666665, 0.1, 0.0, 1.5238327441180056e-06, 0.3080921814547951]}",
+        "{\"http://dbpedia.org/resource/United_States_customary_units\": [0.4444444444444444, 0.36666666666666664, 0.1, 0.0, 0.016294343532853833, 0.3427591616210871]}",
+        "{\"http://dbpedia.org/resource/United_States_dollar\": [0.5333333333333333, 0.3833333333333333, 0.4, 0.0, 0.13330793612093136, 0.4012487301393799]}",
+        "{\"http://dbpedia.org/resource/United_States_entity\": [0.5333333333333333, 0.2583333333333333, 0.1, 0.0, 0.0, 0.31395833333333334]}",
+        "{\"http://dbpedia.org/resource/United_States_national_rugby_league_team\": [0.35294117647058826, 0.3, 0.1, 0.0, 0.0009706814580031696, 0.27725441642584137]}",
+        "{\"http://dbpedia.org/resource/United_States_nationality_law\": [0.5, 0.3833333333333333, 0.4, 0.0, 0.013586492746556138, 0.3844293246373278]}",
+        "{\"http://dbpedia.org/resource/United_States_passport\": [0.47058823529411764, 0.3833333333333333, 0.1, 0.0, 0.013812019992685602, 0.35988177747022254]}",
+        "{\"http://dbpedia.org/resource/United_States_patent_law\": [0.5333333333333333, 0.3, 0.2, 0.0, 0.00221565280994758, 0.3409441159738307]}",
+        "{\"http://dbpedia.org/resource/United_States_territory\": [0.4444444444444444, 0.3833333333333333, 0.3, 0.0, 0.014583079361209313, 0.3614235984125049]}",
+        "{\"http://dbpedia.org/resource/Weird_U.S.\": [0.5714285714285714, 0.31666666666666665, 0.1, 0.0, 0.0007649640375472388, 0.3570025339161631]}",
+        "{\"http://dbpedia.org/resource/Western_United_States\": [0.5, 0.3833333333333333, 0.2, 0.0, 0.018122942825795442, 0.3746561471412898]}" ;
     nif:anchorOf "U.S."^^xsd:string ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:confidence 5.87545e-01 ;
@@ -125,6 +211,14 @@
         <http://dbpedia.org/resource/Buckhannon_River>,
         <http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District>,
         <http://dbpedia.org/resource/South_Buckhannon,_West_Virginia> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Buckhannon%2C_WV\": [0.8333333333333334, 0.0, 0.13513513513513514, 0.0, 0.0425531914893617, 0.2797177496645582]}",
+        "{\"http://dbpedia.org/resource/Buckhannon%2C_West_Virginia\": [1.0, 0.0, 0.40540540540540543, 0.0, 1.0, 0.3952702702702703]}",
+        "{\"http://dbpedia.org/resource/Buckhannon,_West_Virginia\": [1.0, 0.6333333333333333, 1.0, 0.0, 0.7756286266924565, 0.7462814313346229]}",
+        "{\"http://dbpedia.org/resource/Buckhannon-Upshur_High_School\": [0.5128205128205128, 0.41666666666666663, 0.24324324324324326, 0.0, 0.30174081237911027, 0.4126658694477843]}",
+        "{\"http://dbpedia.org/resource/Buckhannon_Central_Residential_Historical_District\": [0.3333333333333333, 0.35, 0.02702702702702703, 0.0, 0.0, 0.2934346846846847]}",
+        "{\"http://dbpedia.org/resource/Buckhannon_River\": [0.7692307692307693, 0.4, 0.2702702702702703, 0.0, 0.3346228239845261, 0.49024465471273987]}",
+        "{\"http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District\": [0.425531914893617, 0.35, 0.10810810810810811, 0.0, 0.0, 0.32745327774583094]}",
+        "{\"http://dbpedia.org/resource/South_Buckhannon,_West_Virginia\": [0.4878048780487805, 0.41666666666666663, 0.05405405405405406, 0.0, 0.0, 0.37998928806855636]}" ;
     nif:anchorOf "BUCKHANNON"^^xsd:string ;
     nif:beginIndex "118"^^xsd:nonNegativeInteger ;
     nif:confidence 7.462814e-01 ;
@@ -137,6 +231,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Mine_Safety_and_Health_Administration> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Mine_Safety_and_Health_Administration\": [1.0, 0.55, 1.0, 0.0, 1.0, 0.7137500000000001]}" ;
     nif:anchorOf "Mine Safety and Health Administration"^^xsd:string ;
     nif:beginIndex "1219"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -196,6 +291,54 @@
         <http://dbpedia.org/resource/West_Virginia_University>,
         <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
         <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team\": [1.0, 0.5333333333333333, 0.010869565217391304, 0.0, 0.013077782181071442, 0.6061973673699231]}",
+        "{\"http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.007961955542745975, 0.5271915760380068]}",
+        "{\"http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.015887884137334725, 0.5275878724677363]}",
+        "{\"http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.01415859062578809, 0.5275014077921589]}",
+        "{\"http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.04798789494541918, 0.5291928730081404]}",
+        "{\"http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 3.6026948157221604e-05, 0.5267952796082774]}",
+        "{\"http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.0, 0.5267934782608695]}",
+        "{\"http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team\": [1.0, 0.3833333333333333, 0.010869565217391304, 0.0, 0.0, 0.5267934782608695]}",
+        "{\"http://dbpedia.org/resource/Holy_Moses\": [0.7647058823529411, 0.26666666666666666, 0.010869565217391304, 0.0, 0.03980977771372987, 0.39106337891126197]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA\": [1.0, 0.5833333333333334, 0.010869565217391304, 0.0, 0.01055589581006593, 0.6323212730513729]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_USA\": [1.0, 0.6, 0.021739130434782608, 0.0, 0.014590914003674748, 0.6418165022219229]}",
+        "{\"http://dbpedia.org/resource/Polluted_Inheritance\": [1.0, 0.0, 0.07608695652173914, 0.0, 0.007565659113016536, 0.3291826307817378]}",
+        "{\"http://dbpedia.org/resource/Reborn_Dogs\": [1.0, 0.26666666666666666, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.46881155321571844]}",
+        "{\"http://dbpedia.org/resource/Route_311_(Virginia\\u2013West_Virginia)\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0, 0.5152657004830918]}",
+        "{\"http://dbpedia.org/resource/Southern_West_Virginia\": [0.7428571428571429, 0.5499999999999999, 0.010869565217391304, 0.0, 0.019886875382786325, 0.5317163934585802]}",
+        "{\"http://dbpedia.org/resource/Terminal_Terror\": [1.0, 0.2333333333333333, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.4513115532157184]}",
+        "{\"http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)\": [1.0, 0.26666666666666666, 0.06521739130434782, 0.0, 0.0, 0.4682608695652174]}",
+        "{\"http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.08178117231689304, 0.32963253687671423]}",
+        "{\"http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia\": [1.0, 0.5499999999999999, 0.010869565217391304, 0.0, 0.0023777785783766258, 0.6144123671897884]}",
+        "{\"http://dbpedia.org/resource/University_of_West_Virginia\": [0.65, 0.5333333333333333, 0.010869565217391304, 0.0, 0.010916165291638146, 0.49233928652545156]}",
+        "{\"http://dbpedia.org/resource/West_Virginia\": [1.0, 0.7499999999999999, 1.0, 0.985074875, 1.0, 0.8680037437500001]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Amateur_Championship\": [0.7647058823529411, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0, 0.5290728900255754]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia\": [0.4482758620689655, 0.5333333333333333, 0.03260869565217391, 0.0, 0.0, 0.4273200899550226]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Derby\": [0.8125, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0038188565046654898, 0.5447969210861029]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Law_Review\": [0.7027027027027027, 0.31666666666666665, 0.010869565217391304, 0.0, 0.0, 0.395171856639248]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Lottery\": [1.0, 0.5333333333333333, 0.010869565217391304, 0.0, 0.004071045141766041, 0.6057470305179579]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers\": [1.0, 0.5333333333333333, 0.021739130434782608, 0.0, 0.2136398025723241, 0.6167689466503554]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_football\": [1.0, 0.5499999999999999, 0.021739130434782608, 0.0, 0.2516482328781929, 0.6274193681656488]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Radio_Corporation\": [0.5909090909090909, 0.5833333333333334, 0.010869565217391304, 0.0, 0.006701012357243218, 0.49917398342418634]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_10\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0047555571567532515, 0.5222098275472786]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_114\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0016572396152321938, 0.5153485624638534]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_152\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.001621212667074972, 0.5153467611164456]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_16\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.004863638001224916, 0.5222152315895022]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_45\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.002521886371005512, 0.5220981440079913]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_480\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0012969701336599778, 0.5153305489897748]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_5\": [0.7647058823529411, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0028461289044205067, 0.5292151964707965]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_51\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0054760961198976835, 0.5222458544954359]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_61\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.002053536044961631, 0.5220747264916891]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_80\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0017292935115466369, 0.5220585143650184]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_88\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0017653204597038584, 0.5220603157124262]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_90\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.001080808444716648, 0.5220260901116768]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_State_University\": [0.65, 0.5499999999999999, 0.010869565217391304, 0.0, 0.048420218323305834, 0.5029644891770348]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Turnpike\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.03148755268941168, 0.5235464273239115]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_University\": [1.0, 0.5499999999999999, 0.010869565217391304, 0.0, 0.34643513347984295, 0.6316152349348617]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Wesleyan_College\": [0.6046511627906976, 0.7499999999999999, 0.010869565217391304, 0.0, 0.030839067622581692, 0.5923470595489753]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War\": [1.0, 0.5333333333333333, 0.010869565217391304, 0.0, 0.027740750081060632, 0.6069305157649225]}" ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "1265"^^xsd:nonNegativeInteger ;
     nif:confidence 8.680037e-01 ;
@@ -209,6 +352,9 @@
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster>,
         <http://dbpedia.org/resource/Sago_Mine_disaster> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster\": [0.4186046511627907, 0.0, 0.046296296296296294, 0.0, 0.0027662517289073307, 0.13849963902916718]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.6666666666666666, 0.7999999999999999, 0.0, 0.975248753121875, 1.0, 0.7354291043227605]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.7999999999999999, 1.0, 0.975248753121875, 1.0, 0.8937624376560939]}" ;
     nif:anchorOf "Sago Mine"^^xsd:string ;
     nif:beginIndex "1281"^^xsd:nonNegativeInteger ;
     nif:confidence 8.937624e-01 ;
@@ -226,6 +372,12 @@
         <http://dbpedia.org/resource/West_Virginia>,
         <http://dbpedia.org/resource/West_Virginia_Law_Review>,
         <http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Alderson,_West_Virginia\": [0.47619047619047616, 0.4666666666666667, 0.375, 0.0, 0.003710775660193825, 0.41869744354491445]}",
+        "{\"http://dbpedia.org/resource/Cabin_Creek,_West_Virginia\": [0.4166666666666667, 0.4666666666666667, 0.25, 0.0, 3.6026948157221604e-05, 0.3929184680140746]}",
+        "{\"http://dbpedia.org/resource/Parsons,_West_Virginia\": [0.5, 0.4666666666666667, 0.125, 0.0, 0.0027740750081060635, 0.4138887037504053]}",
+        "{\"http://dbpedia.org/resource/West_Virginia\": [0.9090909090909091, 0.7333333333333334, 0.125, 0.0, 1.0, 0.7367045454545456]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Law_Review\": [0.5263157894736842, 0.32499999999999996, 0.25, 0.0, 0.0, 0.3541776315789474]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette\": [0.23809523809523808, 0.3333333333333333, 1.0, 0.0, 0.10671182044169038, 0.3077165434030369]}" ;
     nif:anchorOf "W. Va"^^xsd:string ;
     nif:beginIndex "130"^^xsd:nonNegativeInteger ;
     nif:confidence 7.367045e-01 ;
@@ -253,6 +405,22 @@
         <http://dbpedia.org/resource/Pat_McAteer>,
         <http://dbpedia.org/resource/Ruth_Asawa_San_Francisco_School_of_the_Arts>,
         <http://dbpedia.org/resource/Star_Trek:_Stargazer> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/--NME--\": [0.6666666666666666, 0.0, 0.0, 0.980149500625, 0.0, 0.2656741416979167]}",
+        "{\"http://dbpedia.org/resource/Andy_McAteer\": [1.0, 0.3333333333333333, 0.15492957746478872, 0.0, 0.017513134851138354, 0.5086221356157964]}",
+        "{\"http://dbpedia.org/resource/Anglo_Irish_Bank_hidden_loans_controversy\": [0.6666666666666666, 0.26666666666666666, 0.11267605633802817, 0.0, 0.0, 0.3623004694835681]}",
+        "{\"http://dbpedia.org/resource/Eddie_McAteer\": [1.0, 0.26666666666666666, 0.15492957746478872, 0.0, 0.07589025102159953, 0.47654099142431944]}",
+        "{\"http://dbpedia.org/resource/Fergus_McAteer\": [1.0, 0.26666666666666666, 0.18309859154929578, 0.0, 0.03502626970227671, 0.4759062430625786]}",
+        "{\"http://dbpedia.org/resource/Gene_McAteer\": [0.7368421052631579, 0.26666666666666666, 0.014084507042253521, 0.0, 0.0, 0.38017790956263897]}",
+        "{\"http://dbpedia.org/resource/History_of_the_Scottish_National_Party\": [1.0, 0.26666666666666666, 0.1267605633802817, 0.0, 0.14594279042615294, 0.47863516769032177]}",
+        "{\"http://dbpedia.org/resource/Hugh_McAteer\": [1.0, 0.2583333333333333, 0.16901408450704225, 0.0, 0.06654991243432574, 0.4724031998470684]}",
+        "{\"http://dbpedia.org/resource/Jason_McAteer\": [1.0, 0.26666666666666666, 1.0, 0.0, 1.0, 0.5650000000000001]}",
+        "{\"http://dbpedia.org/resource/Les_McAteer\": [0.7777777777777778, 0.24166666666666664, 0.014084507042253521, 0.0, 0.0, 0.3803570031298904]}",
+        "{\"http://dbpedia.org/resource/McAteer\": [1.0, 0.2333333333333333, 0.16901408450704225, 0.0, 0.0005837711617046118, 0.45597989278343737]}",
+        "{\"http://dbpedia.org/resource/Mick_McAteer\": [0.7368421052631579, 0.26666666666666666, 0.08450704225352113, 0.0, 0.0, 0.38369903632320235]}",
+        "{\"http://dbpedia.org/resource/Myrtle_McAteer\": [1.0, 0.3333333333333333, 0.4507042253521127, 0.0, 0.04203152364273205, 0.5246367874497422]}",
+        "{\"http://dbpedia.org/resource/Pat_McAteer\": [0.7777777777777778, 0.26666666666666666, 0.014084507042253521, 0.0, 0.0, 0.39348200312989046]}",
+        "{\"http://dbpedia.org/resource/Ruth_Asawa_San_Francisco_School_of_the_Arts\": [0.5384615384615384, 0.3333333333333333, 0.056338028169014086, 0.0, 0.0, 0.3528169014084507]}",
+        "{\"http://dbpedia.org/resource/Star_Trek:_Stargazer\": [0.7, 0.2583333333333333, 0.11267605633802817, 0.0, 0.0, 0.3687588028169014]}" ;
     nif:anchorOf "McAteer"^^xsd:string ;
     nif:beginIndex "1369"^^xsd:nonNegativeInteger ;
     nif:confidence 5.65e-01 ;
@@ -290,6 +458,34 @@
         <http://dbpedia.org/resource/Sagum>,
         <http://dbpedia.org/resource/Stuckenia_pectinata>,
         <http://dbpedia.org/resource/Zamia_integrifolia> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Arrow\": [1.0, 0.31666666666666665, 0.05357142857142857, 0.0, 1.0, 0.5439285714285714]}",
+        "{\"http://dbpedia.org/resource/Gekko_vittatus\": [0.5714285714285714, 0.2583333333333333, 0.10714285714285714, 0.0, 0.02014294996751137, 0.3277035760698041]}",
+        "{\"http://dbpedia.org/resource/Metroxylon_sagu\": [0.6153846153846154, 0.31666666666666665, 0.017857142857142856, 0.0, 0.026510721247563353, 0.36846839320523533]}",
+        "{\"http://dbpedia.org/resource/Mount_Sago\": [1.0, 0.3083333333333333, 0.375, 0.0, 0.012085769980506823, 0.5062292884990254]}",
+        "{\"http://dbpedia.org/resource/Nanga_Sago\": [0.5714285714285714, 0.26666666666666666, 0.125, 0.0, 0.0033788174139051334, 0.33213322658498096]}",
+        "{\"http://dbpedia.org/resource/Ozothamnus_diosmifolius\": [0.6153846153846154, 0.26666666666666666, 0.10714285714285714, 0.0, 0.006237816764132553, 0.3456690336953495]}",
+        "{\"http://dbpedia.org/resource/Rhynchophorus_ferrugineus\": [1.0, 0.31666666666666665, 0.08928571428571429, 0.0, 0.04392462638076673, 0.49791051703332406]}",
+        "{\"http://dbpedia.org/resource/Sago\": [1.0, 0.36666666666666664, 1.0, 0.0, 0.7495776478232619, 0.6049788823911633]}",
+        "{\"http://dbpedia.org/resource/Sago%2C_C%C3%B4te_d%27Ivoire\": [1.0, 0.0, 0.03571428571428571, 0.0, 0.0, 0.3267857142857143]}",
+        "{\"http://dbpedia.org/resource/Sago%2C_West_Virginia\": [1.0, 0.0, 0.03571428571428571, 0.0, 0.013775178687459389, 0.32747447322008727]}",
+        "{\"http://dbpedia.org/resource/Sago,_Burkina_Faso\": [1.0, 0.3083333333333333, 0.017857142857142856, 0.0, 0.0, 0.48776785714285714]}",
+        "{\"http://dbpedia.org/resource/Sago,_C%C3%B4te_d%27Ivoire\": [1.0, 0.0, 0.017857142857142856, 0.0, 0.0, 0.32589285714285715]}",
+        "{\"http://dbpedia.org/resource/Sago,_C%C3%B4te_d'Ivoire\": [1.0, 0.0, 0.017857142857142856, 0.0, 0.0, 0.32589285714285715]}",
+        "{\"http://dbpedia.org/resource/Sago,_Ivory_Coast\": [1.0, 0.31666666666666665, 0.017857142857142856, 0.0, 0.0, 0.49214285714285716]}",
+        "{\"http://dbpedia.org/resource/Sago,_West_Virginia\": [1.0, 0.6833333333333332, 0.05357142857142857, 0.0, 0.003248862897985705, 0.6865910145734707]}",
+        "{\"http://dbpedia.org/resource/Sago_Lane\": [1.0, 0.31666666666666665, 0.16071428571428573, 0.0, 0.010526315789473684, 0.49981203007518804]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.36363636363636365, 0.7333333333333333, 0.0, 0.990025, 0.09395711500974659, 0.5573809239323055]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.6153846153846154, 0.7333333333333333, 0.0, 0.990025, 0.09395711500974659, 0.6391991057504873]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.7333333333333333, 0.2857142857142857, 0.990025, 0.09395711500974659, 0.7784848200362016]}",
+        "{\"http://dbpedia.org/resource/Sago_Street\": [1.0, 0.31666666666666665, 0.17857142857142858, 0.0, 0.006627680311890838, 0.500509955444166]}",
+        "{\"http://dbpedia.org/resource/Sago_Township,_Itasca_County,_Minnesota\": [1.0, 0.36666666666666664, 0.017857142857142856, 0.0, 0.0, 0.5183928571428572]}",
+        "{\"http://dbpedia.org/resource/Sago_monitor\": [0.5, 0.2583333333333333, 0.017857142857142856, 0.0, 0.0, 0.2990178571428571]}",
+        "{\"http://dbpedia.org/resource/Sago_palm\": [0.6153846153846154, 0.2583333333333333, 0.48214285714285715, 0.0, 0.049642625081221574, 0.362214274111204]}",
+        "{\"http://dbpedia.org/resource/Sago_pudding\": [0.5, 0.31666666666666665, 0.10714285714285714, 0.0, 0.0014294996751137103, 0.33417861784089853]}",
+        "{\"http://dbpedia.org/resource/Sago_soup\": [0.6153846153846154, 0.3083333333333333, 0.017857142857142856, 0.0, 0.0, 0.36276785714285714]}",
+        "{\"http://dbpedia.org/resource/Sagum\": [1.0, 0.2583333333333333, 0.08928571428571429, 0.0, 0.0405458089668616, 0.4671165761626288]}",
+        "{\"http://dbpedia.org/resource/Stuckenia_pectinata\": [0.47058823529411764, 0.2583333333333333, 0.03571428571428571, 0.0, 0.0, 0.2903518907563025]}",
+        "{\"http://dbpedia.org/resource/Zamia_integrifolia\": [0.6153846153846154, 0.36666666666666664, 0.10714285714285714, 0.0, 0.02014294996751137, 0.3988642903555184]}" ;
     nif:anchorOf "Sago"^^xsd:string ;
     nif:beginIndex "1615"^^xsd:nonNegativeInteger ;
     nif:confidence 7.784848e-01 ;
@@ -319,6 +515,13 @@
         <http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Bagwell>,
         <http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Gibbs>,
         <http://dbpedia.org/resource/United_States_v._United_Mine_Workers_of_America> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/International_Union%2C_United_Mine_Workers_Of_America%2C_et_al._v._John_L._Bagwell%2C_et_al.\": [0.5172413793103449, 0.0, 0.3333333333333333, 0.0, 0.0, 0.18477011494252876]}",
+        "{\"http://dbpedia.org/resource/Jewell_Ridge_Coal_Corp._v._United_Mine_Workers_of_America\": [0.6976744186046512, 0.26666666666666666, 0.6666666666666666, 0.0, 0.0, 0.400077519379845]}",
+        "{\"http://dbpedia.org/resource/United_Mine_Workers\": [1.0, 0.4833333333333333, 1.0, 0.0, 1.0, 0.6787500000000001]}",
+        "{\"http://dbpedia.org/resource/United_Mine_Workers_of_America_Building\": [0.8695652173913043, 0.3333333333333333, 0.5333333333333333, 0.0, 0.0, 0.48427536231884055]}",
+        "{\"http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Bagwell\": [0.8571428571428571, 0.26666666666666666, 0.9333333333333333, 0.0, 0.0606312292358804, 0.4682696566998893]}",
+        "{\"http://dbpedia.org/resource/United_Mine_Workers_of_America_v._Gibbs\": [0.8823529411764706, 0.32499999999999996, 0.7333333333333333, 0.0, 0.005813953488372093, 0.49434707022343816]}",
+        "{\"http://dbpedia.org/resource/United_States_v._United_Mine_Workers_of_America\": [0.7792207792207793, 0.31666666666666665, 0.2, 0.0, 0.0, 0.4294967532467533]}" ;
     nif:anchorOf "United Mine Workers of America"^^xsd:string ;
     nif:beginIndex "2173"^^xsd:nonNegativeInteger ;
     nif:confidence 6.7875e-01 ;
@@ -332,6 +535,9 @@
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster>,
         <http://dbpedia.org/resource/Sago_Mine_disaster> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/January_2%2C_2006_Sago_Mine_disaster\": [0.4186046511627907, 0.0, 0.046296296296296294, 0.0, 0.0027662517289073307, 0.13849963902916718]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.6666666666666666, 0.8333333333333333, 0.0, 0.985074875, 1.0, 0.7534204104166667]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.8333333333333333, 1.0, 0.985074875, 1.0, 0.9117537437500001]}" ;
     nif:anchorOf "Sago Mine"^^xsd:string ;
     nif:beginIndex "242"^^xsd:nonNegativeInteger ;
     nif:confidence 9.117537e-01 ;
@@ -351,6 +557,14 @@
         <http://dbpedia.org/resource/Buckhannon_River>,
         <http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District>,
         <http://dbpedia.org/resource/South_Buckhannon,_West_Virginia> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Buckhannon%2C_WV\": [0.8333333333333334, 0.0, 0.13513513513513514, 0.0, 0.0425531914893617, 0.2797177496645582]}",
+        "{\"http://dbpedia.org/resource/Buckhannon%2C_West_Virginia\": [1.0, 0.0, 0.40540540540540543, 0.0, 1.0, 0.3952702702702703]}",
+        "{\"http://dbpedia.org/resource/Buckhannon,_West_Virginia\": [1.0, 0.7833333333333333, 1.0, 0.985074875, 0.7756286266924565, 0.874285175084623]}",
+        "{\"http://dbpedia.org/resource/Buckhannon-Upshur_High_School\": [0.5128205128205128, 0.5333333333333333, 0.24324324324324326, 0.0, 0.30174081237911027, 0.4739158694477843]}",
+        "{\"http://dbpedia.org/resource/Buckhannon_Central_Residential_Historical_District\": [0.3333333333333333, 0.4666666666666666, 0.02702702702702703, 0.0, 0.0, 0.35468468468468467]}",
+        "{\"http://dbpedia.org/resource/Buckhannon_River\": [0.7692307692307693, 0.5166666666666666, 0.2702702702702703, 0.0, 0.3346228239845261, 0.5514946547127397]}",
+        "{\"http://dbpedia.org/resource/Downtown_Buckhannon_Historic_District\": [0.425531914893617, 0.4666666666666666, 0.10810810810810811, 0.0, 0.0, 0.38870327774583097]}",
+        "{\"http://dbpedia.org/resource/South_Buckhannon,_West_Virginia\": [0.4878048780487805, 0.4833333333333333, 0.05405405405405406, 0.0, 0.0, 0.4149892880685563]}" ;
     nif:anchorOf "Buckhannon"^^xsd:string ;
     nif:beginIndex "257"^^xsd:nonNegativeInteger ;
     nif:confidence 8.742852e-01 ;
@@ -368,6 +582,12 @@
         <http://dbpedia.org/resource/West_Virginia>,
         <http://dbpedia.org/resource/West_Virginia_Law_Review>,
         <http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Alderson,_West_Virginia\": [0.47619047619047616, 0.4833333333333333, 0.375, 0.0, 0.003710775660193825, 0.42744744354491443]}",
+        "{\"http://dbpedia.org/resource/Cabin_Creek,_West_Virginia\": [0.4166666666666667, 0.4833333333333333, 0.25, 0.0, 3.6026948157221604e-05, 0.4016684680140745]}",
+        "{\"http://dbpedia.org/resource/Parsons,_West_Virginia\": [0.5, 0.4833333333333333, 0.125, 0.0, 0.0027740750081060635, 0.4226387037504053]}",
+        "{\"http://dbpedia.org/resource/West_Virginia\": [0.9090909090909091, 0.7833333333333333, 0.125, 0.985074875, 1.0, 0.8122082892045456]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Law_Review\": [0.5263157894736842, 0.325, 0.25, 0.0, 0.0, 0.3541776315789474]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_State_Board_of_Education_v._Barnette\": [0.23809523809523808, 0.3333333333333333, 1.0, 0.0, 0.10671182044169038, 0.3077165434030369]}" ;
     nif:anchorOf "W. Va"^^xsd:string ;
     nif:beginIndex "269"^^xsd:nonNegativeInteger ;
     nif:confidence 8.122083e-01 ;
@@ -427,6 +647,54 @@
         <http://dbpedia.org/resource/West_Virginia_University>,
         <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
         <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team\": [1.0, 0.5333333333333333, 0.010869565217391304, 0.0, 0.013077782181071442, 0.6061973673699231]}",
+        "{\"http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 0.007961955542745975, 0.5534415760380068]}",
+        "{\"http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 0.015887884137334725, 0.5538378724677363]}",
+        "{\"http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 0.01415859062578809, 0.5537514077921589]}",
+        "{\"http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 0.04798789494541918, 0.5554428730081404]}",
+        "{\"http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 3.6026948157221604e-05, 0.5530452796082774]}",
+        "{\"http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team\": [1.0, 0.41666666666666663, 0.010869565217391304, 0.0, 0.0, 0.5442934782608695]}",
+        "{\"http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team\": [1.0, 0.4333333333333333, 0.010869565217391304, 0.0, 0.0, 0.5530434782608695]}",
+        "{\"http://dbpedia.org/resource/Holy_Moses\": [0.7647058823529411, 0.3, 0.010869565217391304, 0.0, 0.03980977771372987, 0.40856337891126193]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA\": [1.0, 0.6333333333333333, 0.010869565217391304, 0.0, 0.01055589581006593, 0.6585712730513728]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_USA\": [1.0, 0.6333333333333333, 0.021739130434782608, 0.0, 0.014590914003674748, 0.6593165022219228]}",
+        "{\"http://dbpedia.org/resource/Polluted_Inheritance\": [1.0, 0.0, 0.07608695652173914, 0.0, 0.007565659113016536, 0.3291826307817378]}",
+        "{\"http://dbpedia.org/resource/Reborn_Dogs\": [1.0, 0.3, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.48631155321571845]}",
+        "{\"http://dbpedia.org/resource/Route_311_(Virginia\\u2013West_Virginia)\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0, 0.5152657004830918]}",
+        "{\"http://dbpedia.org/resource/Southern_West_Virginia\": [0.7428571428571429, 0.55, 0.010869565217391304, 0.0, 0.019886875382786325, 0.5317163934585803]}",
+        "{\"http://dbpedia.org/resource/Terminal_Terror\": [1.0, 0.27499999999999997, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.4731865532157184]}",
+        "{\"http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)\": [1.0, 0.3, 0.06521739130434782, 0.0, 0.0, 0.4857608695652174]}",
+        "{\"http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.08178117231689304, 0.32963253687671423]}",
+        "{\"http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0023777785783766258, 0.6406623671897885]}",
+        "{\"http://dbpedia.org/resource/University_of_West_Virginia\": [0.65, 0.5333333333333333, 0.010869565217391304, 0.0, 0.010916165291638146, 0.49233928652545156]}",
+        "{\"http://dbpedia.org/resource/West_Virginia\": [1.0, 0.85, 1.0, 0.995, 1.0, 0.921]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Amateur_Championship\": [0.7647058823529411, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0, 0.5290728900255754]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia\": [0.4482758620689655, 0.5333333333333333, 0.03260869565217391, 0.0, 0.0, 0.4273200899550226]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Derby\": [0.8125, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0038188565046654898, 0.5447969210861029]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Law_Review\": [0.7027027027027027, 0.35, 0.010869565217391304, 0.0, 0.0, 0.412671856639248]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Lottery\": [1.0, 0.55, 0.010869565217391304, 0.0, 0.004071045141766041, 0.6144970305179579]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers\": [1.0, 0.55, 0.021739130434782608, 0.0, 0.2136398025723241, 0.6255189466503555]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_football\": [1.0, 0.55, 0.021739130434782608, 0.0, 0.2516482328781929, 0.6274193681656488]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Radio_Corporation\": [0.5909090909090909, 0.65, 0.010869565217391304, 0.0, 0.006701012357243218, 0.5341739834241864]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_10\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0047555571567532515, 0.5222098275472786]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_114\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0016572396152321938, 0.5153485624638534]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_152\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.001621212667074972, 0.5153467611164456]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_16\": [0.7428571428571429, 0.55, 0.010869565217391304, 0.0, 0.004863638001224916, 0.5309652315895023]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_45\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.002521886371005512, 0.5220981440079913]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_480\": [0.7222222222222222, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0012969701336599778, 0.5153305489897748]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_5\": [0.7647058823529411, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0028461289044205067, 0.5292151964707965]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_51\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0054760961198976835, 0.5222458544954359]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_61\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.002053536044961631, 0.5220747264916891]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_80\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.0017292935115466369, 0.5220585143650184]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_88\": [0.7428571428571429, 0.55, 0.010869565217391304, 0.0, 0.0017653204597038584, 0.5308103157124262]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_90\": [0.7428571428571429, 0.5333333333333333, 0.010869565217391304, 0.0, 0.001080808444716648, 0.5220260901116768]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_State_University\": [0.65, 0.55, 0.010869565217391304, 0.0, 0.048420218323305834, 0.502964489177035]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Turnpike\": [0.7428571428571429, 0.55, 0.010869565217391304, 0.0, 0.03148755268941168, 0.5322964273239116]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_University\": [1.0, 0.55, 0.010869565217391304, 0.0, 0.34643513347984295, 0.6316152349348617]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Wesleyan_College\": [0.6046511627906976, 0.8, 0.010869565217391304, 0.0, 0.030839067622581692, 0.6185970595489754]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.027740750081060632, 0.6419305157649227]}" ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "348"^^xsd:nonNegativeInteger ;
     nif:confidence 9.21e-01 ;
@@ -440,6 +708,8 @@
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Randal_McCloy%2C_Jr.>,
         <http://dbpedia.org/resource/Sago_Mine_disaster> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Randal_McCloy%2C_Jr.\": [0.8387096774193549, 0.0, 0.19230769230769232, 0.0, 0.0, 0.28219602977667496]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.8999999999999999, 1.0, 0.980149500625, 1.0, 0.9465074750312501]}" ;
     nif:anchorOf "Randal McCloy"^^xsd:string ;
     nif:beginIndex "371"^^xsd:nonNegativeInteger ;
     nif:confidence 9.465075e-01 ;
@@ -452,6 +722,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Sago_Mine_disaster> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.7333333333333333, 1.0, 0.0, 1.0, 0.81]}" ;
     nif:anchorOf "Sago Mine accident"^^xsd:string ;
     nif:beginIndex "62"^^xsd:nonNegativeInteger ;
     nif:confidence 8.1e-01 ;
@@ -500,6 +771,34 @@
         <http://dbpedia.org/resource/Sagum>,
         <http://dbpedia.org/resource/Stuckenia_pectinata>,
         <http://dbpedia.org/resource/Zamia_integrifolia> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Arrow\": [1.0, 0.39999999999999997, 0.05357142857142857, 0.0, 1.0, 0.5876785714285715]}",
+        "{\"http://dbpedia.org/resource/Gekko_vittatus\": [0.5714285714285714, 0.3, 0.10714285714285714, 0.0, 0.02014294996751137, 0.3495785760698041]}",
+        "{\"http://dbpedia.org/resource/Metroxylon_sagu\": [0.6153846153846154, 0.35, 0.017857142857142856, 0.0, 0.026510721247563353, 0.38596839320523535]}",
+        "{\"http://dbpedia.org/resource/Mount_Sago\": [1.0, 0.35, 0.375, 0.0, 0.012085769980506823, 0.5281042884990255]}",
+        "{\"http://dbpedia.org/resource/Nanga_Sago\": [0.5714285714285714, 0.3, 0.125, 0.0, 0.0033788174139051334, 0.3496332265849809]}",
+        "{\"http://dbpedia.org/resource/Ozothamnus_diosmifolius\": [0.6153846153846154, 0.3, 0.10714285714285714, 0.0, 0.006237816764132553, 0.36316903369534953]}",
+        "{\"http://dbpedia.org/resource/Rhynchophorus_ferrugineus\": [1.0, 0.36666666666666664, 0.08928571428571429, 0.0, 0.04392462638076673, 0.5241605170333241]}",
+        "{\"http://dbpedia.org/resource/Sago\": [1.0, 0.41666666666666663, 1.0, 0.0, 0.7495776478232619, 0.6312288823911631]}",
+        "{\"http://dbpedia.org/resource/Sago%2C_C%C3%B4te_d%27Ivoire\": [1.0, 0.0, 0.03571428571428571, 0.0, 0.0, 0.3267857142857143]}",
+        "{\"http://dbpedia.org/resource/Sago%2C_West_Virginia\": [1.0, 0.0, 0.03571428571428571, 0.0, 0.013775178687459389, 0.32747447322008727]}",
+        "{\"http://dbpedia.org/resource/Sago,_Burkina_Faso\": [1.0, 0.35, 0.017857142857142856, 0.0, 0.0, 0.5096428571428572]}",
+        "{\"http://dbpedia.org/resource/Sago,_C%C3%B4te_d%27Ivoire\": [1.0, 0.0, 0.017857142857142856, 0.0, 0.0, 0.32589285714285715]}",
+        "{\"http://dbpedia.org/resource/Sago,_C%C3%B4te_d'Ivoire\": [1.0, 0.0, 0.017857142857142856, 0.0, 0.0, 0.32589285714285715]}",
+        "{\"http://dbpedia.org/resource/Sago,_Ivory_Coast\": [1.0, 0.35, 0.017857142857142856, 0.0, 0.0, 0.5096428571428572]}",
+        "{\"http://dbpedia.org/resource/Sago,_West_Virginia\": [1.0, 0.7500000000000001, 0.05357142857142857, 0.0, 0.003248862897985705, 0.7215910145734709]}",
+        "{\"http://dbpedia.org/resource/Sago_Lane\": [1.0, 0.35, 0.16071428571428573, 0.0, 0.010526315789473684, 0.517312030075188]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.36363636363636365, 0.8999999999999999, 0.0, 0.990025, 0.09395711500974659, 0.6448809239323056]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [0.6153846153846154, 0.8999999999999999, 0.0, 0.990025, 0.09395711500974659, 0.7266991057504874]}",
+        "{\"http://dbpedia.org/resource/Sago_Mine_disaster\": [1.0, 0.8999999999999999, 0.2857142857142857, 0.990025, 0.09395711500974659, 0.8659848200362016]}",
+        "{\"http://dbpedia.org/resource/Sago_Street\": [1.0, 0.35, 0.17857142857142858, 0.0, 0.006627680311890838, 0.518009955444166]}",
+        "{\"http://dbpedia.org/resource/Sago_Township,_Itasca_County,_Minnesota\": [1.0, 0.44999999999999996, 0.017857142857142856, 0.0, 0.0, 0.5621428571428572]}",
+        "{\"http://dbpedia.org/resource/Sago_monitor\": [0.5, 0.3, 0.017857142857142856, 0.0, 0.0, 0.32089285714285715]}",
+        "{\"http://dbpedia.org/resource/Sago_palm\": [0.6153846153846154, 0.3, 0.48214285714285715, 0.0, 0.049642625081221574, 0.384089274111204]}",
+        "{\"http://dbpedia.org/resource/Sago_pudding\": [0.5, 0.35, 0.10714285714285714, 0.0, 0.0014294996751137103, 0.35167861784089854]}",
+        "{\"http://dbpedia.org/resource/Sago_soup\": [0.6153846153846154, 0.35, 0.017857142857142856, 0.0, 0.0, 0.3846428571428572]}",
+        "{\"http://dbpedia.org/resource/Sagum\": [1.0, 0.3, 0.08928571428571429, 0.0, 0.0405458089668616, 0.48899157616262884]}",
+        "{\"http://dbpedia.org/resource/Stuckenia_pectinata\": [0.47058823529411764, 0.3, 0.03571428571428571, 0.0, 0.0, 0.3122268907563025]}",
+        "{\"http://dbpedia.org/resource/Zamia_integrifolia\": [0.6153846153846154, 0.44999999999999996, 0.10714285714285714, 0.0, 0.02014294996751137, 0.4426142903555184]}" ;
     nif:anchorOf "Sago"^^xsd:string ;
     nif:beginIndex "690"^^xsd:nonNegativeInteger ;
     nif:confidence 8.659848e-01 ;
@@ -559,6 +858,54 @@
         <http://dbpedia.org/resource/West_Virginia_University>,
         <http://dbpedia.org/resource/West_Virginia_Wesleyan_College>,
         <http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1988_West_Virginia_Mountaineers_football_team\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.013077782181071442, 0.6411973673699233]}",
+        "{\"http://dbpedia.org/resource/1993_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.007961955542745975, 0.5621915760380068]}",
+        "{\"http://dbpedia.org/resource/2005_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.015887884137334725, 0.5625878724677363]}",
+        "{\"http://dbpedia.org/resource/2006_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.01415859062578809, 0.562501407792159]}",
+        "{\"http://dbpedia.org/resource/2007_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.04798789494541918, 0.5641928730081405]}",
+        "{\"http://dbpedia.org/resource/2008_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 3.6026948157221604e-05, 0.5617952796082775]}",
+        "{\"http://dbpedia.org/resource/2009%E2%80%9310_West_Virginia_Mountaineers_men%27s_basketball_team\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/2009_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.0, 0.5617934782608696]}",
+        "{\"http://dbpedia.org/resource/2010_West_Virginia_Mountaineers_football_team\": [1.0, 0.44999999999999996, 0.010869565217391304, 0.0, 0.0, 0.5617934782608696]}",
+        "{\"http://dbpedia.org/resource/Holy_Moses\": [0.7647058823529411, 0.3, 0.010869565217391304, 0.0, 0.03980977771372987, 0.40856337891126193]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_Teen_USA\": [1.0, 0.7000000000000001, 0.010869565217391304, 0.0, 0.01055589581006593, 0.6935712730513729]}",
+        "{\"http://dbpedia.org/resource/Miss_West_Virginia_USA\": [1.0, 0.7000000000000001, 0.021739130434782608, 0.0, 0.014590914003674748, 0.694316502221923]}",
+        "{\"http://dbpedia.org/resource/Polluted_Inheritance\": [1.0, 0.0, 0.07608695652173914, 0.0, 0.007565659113016536, 0.3291826307817378]}",
+        "{\"http://dbpedia.org/resource/Reborn_Dogs\": [1.0, 0.3, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.48631155321571845]}",
+        "{\"http://dbpedia.org/resource/Route_311_(Virginia\\u2013West_Virginia)\": [0.7222222222222222, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0, 0.5502657004830918]}",
+        "{\"http://dbpedia.org/resource/Southern_West_Virginia\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.019886875382786325, 0.5579663934585803]}",
+        "{\"http://dbpedia.org/resource/Terminal_Terror\": [1.0, 0.26666666666666666, 0.07608695652173914, 0.0, 0.00014410779262888642, 0.46881155321571844]}",
+        "{\"http://dbpedia.org/resource/Too_Drunk_to_Fuck_(album)\": [1.0, 0.3, 0.06521739130434782, 0.0, 0.0, 0.4857608695652174]}",
+        "{\"http://dbpedia.org/resource/USS_West_Virginia_%28BB-48%29\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.08178117231689304, 0.32963253687671423]}",
+        "{\"http://dbpedia.org/resource/United_States_congressional_delegations_from_West_Virginia\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0023777785783766258, 0.6406623671897885]}",
+        "{\"http://dbpedia.org/resource/University_of_West_Virginia\": [0.65, 0.6000000000000001, 0.010869565217391304, 0.0, 0.010916165291638146, 0.5273392865254516]}",
+        "{\"http://dbpedia.org/resource/West_Virginia\": [1.0, 0.8999999999999999, 1.0, 0.980149500625, 1.0, 0.9465074750312501]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Amateur_Championship\": [0.7647058823529411, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0, 0.5640728900255755]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Central_Junction,_West_Virginia\": [0.4482758620689655, 0.6000000000000001, 0.03260869565217391, 0.0, 0.0, 0.4623200899550226]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Derby\": [0.8125, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0038188565046654898, 0.5797969210861028]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Law_Review\": [0.7027027027027027, 0.35, 0.010869565217391304, 0.0, 0.0, 0.412671856639248]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Lottery\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.004071045141766041, 0.640747030517958]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers\": [1.0, 0.6000000000000001, 0.021739130434782608, 0.0, 0.2136398025723241, 0.6517689466503556]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_football\": [1.0, 0.6000000000000001, 0.021739130434782608, 0.0, 0.2516482328781929, 0.6536693681656489]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Mountaineers_men%27s_basketball\": [1.0, 0.0, 0.010869565217391304, 0.0, 0.0, 0.3255434782608696]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Radio_Corporation\": [0.5909090909090909, 0.7000000000000001, 0.010869565217391304, 0.0, 0.006701012357243218, 0.5604239834241863]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_10\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0047555571567532515, 0.5572098275472787]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_114\": [0.7222222222222222, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0016572396152321938, 0.5503485624638533]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_152\": [0.7222222222222222, 0.6000000000000001, 0.010869565217391304, 0.0, 0.001621212667074972, 0.5503467611164455]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_16\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.004863638001224916, 0.5572152315895023]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_45\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.002521886371005512, 0.5570981440079913]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_480\": [0.7222222222222222, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0012969701336599778, 0.5503305489897747]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_5\": [0.7647058823529411, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0028461289044205067, 0.5642151964707965]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_51\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0054760961198976835, 0.557245854495436]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_61\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.002053536044961631, 0.5570747264916891]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_80\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0017292935115466369, 0.5570585143650184]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_88\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.0017653204597038584, 0.5570603157124262]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Route_90\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.001080808444716648, 0.5570260901116768]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_State_University\": [0.65, 0.6000000000000001, 0.010869565217391304, 0.0, 0.048420218323305834, 0.529214489177035]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Turnpike\": [0.7428571428571429, 0.6000000000000001, 0.010869565217391304, 0.0, 0.03148755268941168, 0.5585464273239116]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_University\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.34643513347984295, 0.6578652349348618]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_Wesleyan_College\": [0.6046511627906976, 0.8999999999999999, 0.010869565217391304, 0.0, 0.030839067622581692, 0.6710970595489752]}",
+        "{\"http://dbpedia.org/resource/West_Virginia_in_the_American_Civil_War\": [1.0, 0.6000000000000001, 0.010869565217391304, 0.0, 0.027740750081060632, 0.6419305157649227]}" ;
     nif:anchorOf "West Virginia"^^xsd:string ;
     nif:beginIndex "701"^^xsd:nonNegativeInteger ;
     nif:confidence 9.465075e-01 ;

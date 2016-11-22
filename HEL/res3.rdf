@@ -17,6 +17,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.31666666666666665, 0.018867924528301886, 0.0, 0.039413845376452754, 0.33583075516190436]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.31666666666666665, 0.05660377358490566, 0.0, 0.0, 0.409820929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.31666666666666665, 0.009433962264150943, 0.0, 0.0, 0.4167216981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.55, 0.03773584905660377, 0.0, 0.07731177362304194, 0.470178056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.55, 0.0, 0.0, 0.07731177362304194, 0.5333563294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.55, 0.4716981132075472, 0.0, 0.0, 0.5530756464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.31666666666666665, 0.009433962264150943, 0.0, 0.0, 0.35789816870144286]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.7999999999999999, 0.0, 0.0, 1.0, 0.6941379310344828]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.7999999999999999, 0.0, 0.0, 1.0, 0.7408333333333335]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.7999999999999999, 1.0, 0.0, 1.0, 0.8450000000000001]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.26666666666666666, 0.16981132075471697, 0.0, 0.0808489135927236, 0.34950270868706906]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "0"^^xsd:nonNegativeInteger ;
     nif:confidence 8.45e-01 ;
@@ -36,6 +47,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.39999999999999997, 0.018867924528301886, 0.0, 0.039413845376452754, 0.37958075516190437]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.36666666666666664, 0.05660377358490566, 0.0, 0.0, 0.436070929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.4692216981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.5666666666666668, 0.03773584905660377, 0.0, 0.07731177362304194, 0.47892805680965805]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.5666666666666668, 0.0, 0.0, 0.07731177362304194, 0.5421063294218929]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.5666666666666668, 0.4716981132075472, 0.0, 0.0, 0.5618256464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.39999999999999997, 0.009433962264150943, 0.0, 0.0, 0.4016481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.8833333333333333, 0.0, 0.980149500625, 1.0, 0.7868954060657328]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.8833333333333333, 0.0, 0.980149500625, 1.0, 0.8335908083645834]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.8833333333333333, 1.0, 0.980149500625, 1.0, 0.9377574750312502]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.3333333333333333, 0.16981132075471697, 0.0, 0.0808489135927236, 0.384502708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "1065"^^xsd:nonNegativeInteger ;
     nif:confidence 9.377575e-01 ;
@@ -74,6 +96,33 @@
         <http://dbpedia.org/resource/Helen,_Georgia>,
         <http://dbpedia.org/resource/Lake_Lanier>,
         <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1996_Summer_Olympics\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.49779967769926864, 0.5514584552225431]}",
+        "{\"http://dbpedia.org/resource/Air_Atlanta_Icelandic\": [1.0, 0.26666666666666666, 0.006369426751592357, 0.0, 0.03712656501797446, 0.46717479958847835]}",
+        "{\"http://dbpedia.org/resource/Atlanta\": [1.0, 0.5499999999999999, 1.0, 0.0, 1.0, 0.7137500000000001]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_California\": [1.0, 0.26666666666666666, 0.006369426751592357, 0.0, 0.0, 0.46531847133757964]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Idaho\": [1.0, 0.31666666666666665, 0.012738853503184714, 0.0, 0.0030680550390479733, 0.49204034542711167]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Kansas\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.0008057518284368414, 0.49160875892900147]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Louisiana\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.0016424941118135614, 0.4916505960431703]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Nebraska\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.001859427296392711, 0.49166144270239925]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Wisconsin\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.0006817900086773273, 0.4916025608380135]}",
+        "{\"http://dbpedia.org/resource/Atlanta\\u2013Fulton_County_Stadium\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.0, 0.49156847133757964]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Braves\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.46962935415891904, 0.5500499390455256]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Campaign\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.09247551754059749, 0.4961922472146095]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Falcons\": [1.0, 0.5499999999999999, 0.006369426751592357, 0.0, 0.9203235403495723, 0.6600846483550583]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Flames\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.08271352423453576, 0.4957041475493064]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Hawks\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.34892153216809224, 0.5090145479459842]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Motor_Speedway\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.04075244824594025, 0.5286060937498767]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Silverbacks_Women\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 3.099045493987852e-05, 0.49157002086032664]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Symphony_Orchestra\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.020794595264658485, 0.49260820110081255]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Thrashers\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.2173670509483079, 0.502436823884995]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Xplosion\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.00043386636915829924, 0.49159016465603755]}",
+        "{\"http://dbpedia.org/resource/Atlanta_metropolitan_area\": [1.0, 0.5499999999999999, 0.006369426751592357, 0.0, 0.2188236023304822, 0.6250096514541038]}",
+        "{\"http://dbpedia.org/resource/Battle_of_Atlanta\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.16074748977314987, 0.5346058458262372]}",
+        "{\"http://dbpedia.org/resource/Episcopal_Diocese_of_Atlanta\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.007251766455931573, 0.4919310596603762]}",
+        "{\"http://dbpedia.org/resource/Georgia_Dome\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.24659104995661335, 0.5388980238354103]}",
+        "{\"http://dbpedia.org/resource/Helen,_Georgia\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.013201933804388248, 0.4922285680277991]}",
+        "{\"http://dbpedia.org/resource/Lake_Lanier\": [1.0, 0.3833333333333333, 0.050955414012738856, 0.0, 0.2228833519276063, 0.5399419382970172]}",
+        "{\"http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta\": [1.0, 0.31666666666666665, 0.006369426751592357, 0.0, 0.01382174290318582, 0.49225955848273895]}" ;
     nif:anchorOf "ATLANTA"^^xsd:string ;
     nif:beginIndex "107"^^xsd:nonNegativeInteger ;
     nif:confidence 7.1375e-01 ;
@@ -92,6 +141,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.35, 0.09090909090909091, 0.0, 0.0, 0.41438241106719365]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.37499999999999994, 0.3939393939393939, 0.0, 0.0, 0.4165719696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6333333333333334, 0.09090909090909091, 0.0, 0.0, 0.5537121212121213]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6333333333333334, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6651234674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 0.0, 0.990025, 1.0, 0.8582512500000001]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 1.0, 0.990025, 1.0, 0.9082512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.3833333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.45225190839694657]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1150"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -104,6 +161,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Robert_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Robert_Nardelli\": [1.0, 0.7, 1.0, 0.990025, 1.0, 0.8420012500000001]}" ;
     nif:anchorOf "Bob Nardelli"^^xsd:string ;
     nif:beginIndex "117"^^xsd:nonNegativeInteger ;
     nif:confidence 8.420013e-01 ;
@@ -122,6 +180,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3333333333333333, 0.09090909090909091, 0.0, 0.0, 0.4056324110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.39166666666666666, 0.3939393939393939, 0.0, 0.0, 0.4253219696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6833333333333333, 0.09090909090909091, 0.0, 0.0, 0.5799621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6833333333333333, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6913734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 0.0, 0.995, 1.0, 0.8585]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 1.0, 0.995, 1.0, 0.9085000000000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.39999999999999997, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4610019083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1173"^^xsd:nonNegativeInteger ;
     nif:confidence 9.085e-01 ;
@@ -136,6 +202,9 @@
     ns1:candidate <http://dbpedia.org/resource/AP_Stylebook>,
         <http://dbpedia.org/resource/Associated_Press>,
         <http://dbpedia.org/resource/National_Football_League_Most_Valuable_Player_Award> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/AP_Stylebook\": [0.8, 0.41666666666666663, 1.0, 0.0, 0.1281624089843268, 0.5351581204492164]}",
+        "{\"http://dbpedia.org/resource/Associated_Press\": [1.0, 0.49999999999999994, 0.75, 0.0, 1.0, 0.6749999999999999]}",
+        "{\"http://dbpedia.org/resource/National_Football_League_Most_Valuable_Player_Award\": [0.8333333333333334, 0.3833333333333333, 1.0, 0.0, 0.16716031099592743, 0.5304413488831297]}" ;
     nif:anchorOf "The Associated Press"^^xsd:string ;
     nif:beginIndex "1230"^^xsd:nonNegativeInteger ;
     nif:confidence 6.75e-01 ;
@@ -154,6 +223,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3333333333333333, 0.09090909090909091, 0.0, 0.0, 0.4056324110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.39166666666666666, 0.3939393939393939, 0.0, 0.0, 0.4253219696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6666666666666666, 0.09090909090909091, 0.0, 0.0, 0.5712121212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6666666666666666, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6826234674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.8999999999999999, 0.0, 0.990025, 1.0, 0.83200125]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.8999999999999999, 1.0, 0.990025, 1.0, 0.8820012500000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.39999999999999997, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4610019083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1372"^^xsd:nonNegativeInteger ;
     nif:confidence 8.820013e-01 ;
@@ -172,6 +249,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.26666666666666666, 0.09090909090909091, 0.0, 0.0, 0.3706324110671937]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.3083333333333333, 0.3939393939393939, 0.0, 0.0, 0.3815719696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.2583333333333333, 0.06060606060606061, 0.0, 0.0, 0.37501893939393943]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.5333333333333333, 0.09090909090909091, 0.0, 0.0, 0.5012121212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.5333333333333333, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6126234674994216]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.7499999999999999, 0.0, 0.0, 1.0, 0.70375]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.7499999999999999, 1.0, 0.0, 1.0, 0.75375]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.3083333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4128769083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "15"^^xsd:nonNegativeInteger ;
     nif:confidence 7.5375e-01 ;
@@ -191,6 +276,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.41666666666666663, 0.018867924528301886, 0.0, 0.039413845376452754, 0.38833075516190435]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.36666666666666664, 0.05660377358490566, 0.0, 0.0, 0.436070929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.4692216981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.5666666666666667, 0.03773584905660377, 0.0, 0.07731177362304194, 0.47892805680965794]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.5666666666666667, 0.0, 0.0, 0.07731177362304194, 0.5421063294218927]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.5833333333333334, 0.4716981132075472, 0.0, 0.0, 0.5705756464011181]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.41039816870144286]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.8833333333333332, 0.0, 0.975248753121875, 1.0, 0.7866503686905766]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.8833333333333332, 0.0, 0.975248753121875, 1.0, 0.8333457709894272]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.8833333333333332, 1.0, 0.975248753121875, 1.0, 0.9375124376560938]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.3333333333333333, 0.16981132075471697, 0.0, 0.0808489135927236, 0.384502708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "1507"^^xsd:nonNegativeInteger ;
     nif:confidence 9.375124e-01 ;
@@ -209,6 +305,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3333333333333333, 0.09090909090909091, 0.0, 0.0, 0.4056324110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.39166666666666666, 0.3939393939393939, 0.0, 0.0, 0.4253219696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6666666666666667, 0.09090909090909091, 0.0, 0.0, 0.5712121212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6666666666666667, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6826234674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.8999999999999999, 0.0, 0.990025, 1.0, 0.83200125]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.8999999999999999, 1.0, 0.990025, 1.0, 0.8820012500000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.39999999999999997, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4610019083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1519"^^xsd:nonNegativeInteger ;
     nif:confidence 8.820013e-01 ;
@@ -227,6 +331,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3333333333333333, 0.09090909090909091, 0.0, 0.0, 0.4056324110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.4083333333333333, 0.3939393939393939, 0.0, 0.0, 0.43407196969696976]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.7166666666666667, 0.09090909090909091, 0.0, 0.0, 0.5974621212121213]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.7166666666666667, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.7088734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.9, 0.0, 0.995, 1.0, 0.83225]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.9, 1.0, 0.995, 1.0, 0.8822500000000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.41666666666666663, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4697519083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1622"^^xsd:nonNegativeInteger ;
     nif:confidence 8.8225e-01 ;
@@ -246,6 +358,15 @@
         <http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational>,
         <http://dbpedia.org/resource/VELO_Sports_Center> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.5384615384615384, 0.39999999999999997, 0.14285714285714285, 0.0, 0.0, 0.3921428571428571]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.8, 0.6000000000000001, 0.8571428571428571, 0.0, 0.0, 0.6178571428571429]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.6363636363636364, 0.39999999999999997, 0.05357142857142857, 0.0, 0.0, 0.41949675324675323]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8484848484848485, 0.95, 0.0, 0.985074875, 1.0, 0.8737613195075757]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.95, 1.0, 0.985074875, 1.0, 0.9730037437500001]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot%2C_Inc.\": [0.8235294117647058, 0.0, 0.08928571428571429, 0.0, 0.0005053057099545225, 0.27213660982331284]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29\": [0.6363636363636364, 0.0, 0.08928571428571429, 0.0, 0.0, 0.21128246753246754]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6829268292682927, 0.3333333333333333, 0.16071428571428573, 0.0, 0.0808489135927236, 0.40902937947754564]}",
+        "{\"http://dbpedia.org/resource/VELO_Sports_Center\": [0.6222222222222222, 0.39999999999999997, 0.16071428571428573, 0.0, 0.0, 0.4202579365079365]}" ;
     nif:anchorOf "The Home Depot"^^xsd:string ;
     nif:beginIndex "1663"^^xsd:nonNegativeInteger ;
     nif:confidence 9.730037e-01 ;
@@ -264,6 +385,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3333333333333333, 0.09090909090909091, 0.0, 0.0, 0.4056324110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.4333333333333333, 0.3939393939393939, 0.0, 0.0, 0.4471969696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.7833333333333333, 0.09090909090909091, 0.0, 0.0, 0.6324621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.7833333333333333, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.7438734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 0.0, 0.990025, 1.0, 0.8582512500000001]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 1.0, 0.990025, 1.0, 0.9082512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.4333333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.47850190839694656]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "1736"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -302,6 +431,33 @@
         <http://dbpedia.org/resource/Helen,_Georgia>,
         <http://dbpedia.org/resource/Lake_Lanier>,
         <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/1996_Summer_Olympics\": [1.0, 0.49999999999999994, 0.006369426751592357, 0.0, 0.49779967769926864, 0.612708455222543]}",
+        "{\"http://dbpedia.org/resource/Air_Atlanta_Icelandic\": [1.0, 0.35, 0.006369426751592357, 0.0, 0.03712656501797446, 0.5109247995884785]}",
+        "{\"http://dbpedia.org/resource/Atlanta\": [1.0, 0.6499999999999999, 1.0, 0.8911090557802088, 1.0, 0.8108054527890105]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_California\": [1.0, 0.3333333333333333, 0.006369426751592357, 0.0, 0.0, 0.5003184713375797]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Idaho\": [1.0, 0.39999999999999997, 0.012738853503184714, 0.0, 0.0030680550390479733, 0.5357903454271117]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Kansas\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.0008057518284368414, 0.5353587589290015]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Louisiana\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.0016424941118135614, 0.5266505960431703]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Nebraska\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.001859427296392711, 0.5354114427023994]}",
+        "{\"http://dbpedia.org/resource/Atlanta,_Wisconsin\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.0006817900086773273, 0.5353525608380135]}",
+        "{\"http://dbpedia.org/resource/Atlanta\\u2013Fulton_County_Stadium\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.0, 0.5353184713375797]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Braves\": [1.0, 0.49999999999999994, 0.006369426751592357, 0.0, 0.46962935415891904, 0.6112999390455255]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Campaign\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.09247551754059749, 0.5399422472146096]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Falcons\": [1.0, 0.6499999999999999, 0.006369426751592357, 0.0, 0.9203235403495723, 0.7125846483550583]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Flames\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.08271352423453576, 0.5394541475493065]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Hawks\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.34892153216809224, 0.5527645479459843]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Motor_Speedway\": [1.0, 0.49999999999999994, 0.006369426751592357, 0.0, 0.04075244824594025, 0.5898560937498766]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Silverbacks_Women\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 3.099045493987852e-05, 0.5265700208603267]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Symphony_Orchestra\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.020794595264658485, 0.5363582011008127]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Thrashers\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.2173670509483079, 0.5461868238849951]}",
+        "{\"http://dbpedia.org/resource/Atlanta_Xplosion\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.00043386636915829924, 0.5265901646560376]}",
+        "{\"http://dbpedia.org/resource/Atlanta_metropolitan_area\": [1.0, 0.6499999999999999, 0.006369426751592357, 0.0, 0.2188236023304822, 0.6775096514541038]}",
+        "{\"http://dbpedia.org/resource/Battle_of_Atlanta\": [1.0, 0.49999999999999994, 0.006369426751592357, 0.0, 0.16074748977314987, 0.5958558458262371]}",
+        "{\"http://dbpedia.org/resource/Episcopal_Diocese_of_Atlanta\": [1.0, 0.3833333333333333, 0.006369426751592357, 0.0, 0.007251766455931573, 0.5269310596603762]}",
+        "{\"http://dbpedia.org/resource/Georgia_Dome\": [1.0, 0.49999999999999994, 0.006369426751592357, 0.0, 0.24659104995661335, 0.6001480238354102]}",
+        "{\"http://dbpedia.org/resource/Helen,_Georgia\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.013201933804388248, 0.5359785680277991]}",
+        "{\"http://dbpedia.org/resource/Lake_Lanier\": [1.0, 0.4833333333333333, 0.050955414012738856, 0.0, 0.2228833519276063, 0.5924419382970172]}",
+        "{\"http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta\": [1.0, 0.39999999999999997, 0.006369426751592357, 0.0, 0.01382174290318582, 0.536009558482739]}" ;
     nif:anchorOf "Atlanta"^^xsd:string ;
     nif:beginIndex "1799"^^xsd:nonNegativeInteger ;
     nif:confidence 8.108055e-01 ;
@@ -361,6 +517,54 @@
         <http://dbpedia.org/resource/Sideshow_Bob>,
         <http://dbpedia.org/resource/Weebl_and_Bob>,
         <http://dbpedia.org/resource/What_About_Bob%3F> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Alice_and_Bob\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.16251632158179444, 0.5261521318685635]}",
+        "{\"http://dbpedia.org/resource/Barbecue_Bob\": [0.4, 0.44999999999999996, 0.010526315789473684, 0.0, 0.02089162469688491, 0.3678208970243179]}",
+        "{\"http://dbpedia.org/resource/Best_of_Breed\": [1.0, 0.3333333333333333, 0.08421052631578947, 0.0, 0.03133743704532736, 0.5057773981680558]}",
+        "{\"http://dbpedia.org/resource/BoB\": [1.0, 0.0, 0.08421052631578947, 0.0, 4.663309084126096e-05, 0.32921285797033156]}",
+        "{\"http://dbpedia.org/resource/Bob\": [1.0, 0.36666666666666664, 1.0, 0.0, 0.35366536094012313, 0.5851832680470063]}",
+        "{\"http://dbpedia.org/resource/Bob,_Agent_of_Hydra\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 0.0, 0.5355263157894737]}",
+        "{\"http://dbpedia.org/resource/Bob_%28Blackadder_character%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.08463905987688863, 0.32975826878331815]}",
+        "{\"http://dbpedia.org/resource/Bob_%28TV_series%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.022756948330535348, 0.3266641632060005]}",
+        "{\"http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.009140085804887147, 0.3259833200797181]}",
+        "{\"http://dbpedia.org/resource/Bob_%28physics%29\": [1.0, 0.0, 0.021052631578947368, 0.0, 0.015761984704346203, 0.3268407308141647]}",
+        "{\"http://dbpedia.org/resource/Bob_%28song%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.050923335198656966, 0.3280724825494066]}",
+        "{\"http://dbpedia.org/resource/Bob_Appleyard\": [0.375, 0.36666666666666664, 0.010526315789473684, 0.0, 0.007088229807871666, 0.3152557272798673]}",
+        "{\"http://dbpedia.org/resource/Bob_Arum\": [0.5454545454545454, 0.39999999999999997, 0.010526315789473684, 0.0, 0.09098116023130014, 0.392348101073766]}",
+        "{\"http://dbpedia.org/resource/Bob_Bob_Ricard\": [0.35294117647058826, 0.3333333333333333, 0.07368421052631578, 0.0, 0.0, 0.29339009287925694]}",
+        "{\"http://dbpedia.org/resource/Bob_Boken\": [0.5, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0, 0.3555263157894737]}",
+        "{\"http://dbpedia.org/resource/Bob_Boone\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.04061742212273829, 0.5200571868956106]}",
+        "{\"http://dbpedia.org/resource/Bob_Brier\": [0.5, 0.39999999999999997, 0.010526315789473684, 0.0, 0.029891811229248274, 0.3745209063509361]}",
+        "{\"http://dbpedia.org/resource/Bob_Bryan\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 0.047938817384816264, 0.5379232566587145]}",
+        "{\"http://dbpedia.org/resource/Bob_Cain\": [0.5454545454545454, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0009326618168252192, 0.3703456761530422]}",
+        "{\"http://dbpedia.org/resource/Bob_Champoux\": [0.4, 0.3833333333333333, 0.010526315789473684, 0.0, 9.326618168252192e-05, 0.3317809790985578]}",
+        "{\"http://dbpedia.org/resource/Bob_Christo\": [0.42857142857142855, 0.3333333333333333, 0.010526315789473684, 0.0, 0.01315053161723559, 0.31546955665604975]}",
+        "{\"http://dbpedia.org/resource/Bob_Cobbing\": [0.42857142857142855, 0.36666666666666664, 0.010526315789473684, 0.0, 0.010119380712553628, 0.33281799911081567]}",
+        "{\"http://dbpedia.org/resource/Bob_Considine\": [0.375, 0.39999999999999997, 0.010526315789473684, 0.0, 0.0002331654542063048, 0.33241297406218406]}",
+        "{\"http://dbpedia.org/resource/Bob_Crane\": [0.5, 0.36666666666666664, 0.010526315789473684, 0.0, 0.6099608282036934, 0.38602435719965833]}",
+        "{\"http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.030871106136914756, 0.32706987109631946]}",
+        "{\"http://dbpedia.org/resource/Bob_Stroger\": [0.42857142857142855, 0.49999999999999994, 0.010526315789473684, 0.0, 0.0, 0.40231203007518795]}",
+        "{\"http://dbpedia.org/resource/Bob_Weinstein\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 0.11760865510166013, 0.5414067485445567]}",
+        "{\"http://dbpedia.org/resource/Bob_Younger\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 0.02919231486662936, 0.5369859315328052]}",
+        "{\"http://dbpedia.org/resource/Bob_and_George\": [1.0, 0.35, 0.010526315789473684, 0.0, 0.08748367841820556, 0.513650499710384]}",
+        "{\"http://dbpedia.org/resource/Bob_campaign\": [1.0, 0.35, 0.010526315789473684, 0.0, 0.004989740720014923, 0.5095258028254744]}",
+        "{\"http://dbpedia.org/resource/Bob_cut\": [1.0, 0.39999999999999997, 0.021052631578947368, 0.0, 0.4564913262451035, 0.5588771978912026]}",
+        "{\"http://dbpedia.org/resource/Bob_the_Builder\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.37548964745383323, 0.5368007981621654]}",
+        "{\"http://dbpedia.org/resource/Bobsleigh\": [1.0, 0.49999999999999994, 0.2631578947368421, 0.0, 0.1487129266927812, 0.6080935410714812]}",
+        "{\"http://dbpedia.org/resource/Bubble_Bobble\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.564680096996829, 0.5462603206393152]}",
+        "{\"http://dbpedia.org/resource/Cherry_Twister\": [1.0, 0.3, 0.031578947368421054, 0.0, 0.0, 0.4840789473684211]}",
+        "{\"http://dbpedia.org/resource/Hurricane_Bob\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 0.05428091773922775, 0.5382403616764351]}",
+        "{\"http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.1317384816265622, 0.3321132398708018]}",
+        "{\"http://dbpedia.org/resource/Jay_and_Silent_Bob\": [1.0, 0.4666666666666666, 0.010526315789473684, 0.0, 0.777513523596344, 0.609401991969291]}",
+        "{\"http://dbpedia.org/resource/Killer_Bob\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.0, 0.3255263157894737]}",
+        "{\"http://dbpedia.org/resource/MY_Bob_Barker\": [0.46153846153846156, 0.35, 0.010526315789473684, 0.0, 0.0, 0.3342763157894737]}",
+        "{\"http://dbpedia.org/resource/Microsoft_Bob\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.3844898339861966, 0.5197508074887836]}",
+        "{\"http://dbpedia.org/resource/Midge_and_Bob_Pinciotti\": [1.0, 0.3333333333333333, 0.031578947368421054, 0.0, 0.10310576385002798, 0.5067342355609225]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.4, 0.8999999999999999, 0.0, 0.990025, 0.14661443760492446, 0.6593319718802463]}",
+        "{\"http://dbpedia.org/resource/Robert_Passantino\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.0, 0.5005263157894737]}",
+        "{\"http://dbpedia.org/resource/Robert_Satiacum\": [0.4, 0.3833333333333333, 0.010526315789473684, 0.0, 0.003124417086364484, 0.3319325366437919]}",
+        "{\"http://dbpedia.org/resource/Sideshow_Bob\": [1.0, 0.39999999999999997, 0.010526315789473684, 0.0, 1.0, 0.5855263157894738]}",
+        "{\"http://dbpedia.org/resource/Weebl_and_Bob\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.2040197724305167, 0.5282273044109996]}",
+        "{\"http://dbpedia.org/resource/What_About_Bob%3F\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.15104458123484424, 0.3330785448512159]}" ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "1850"^^xsd:nonNegativeInteger ;
     nif:confidence 6.59332e-01 ;
@@ -380,6 +584,15 @@
         <http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational>,
         <http://dbpedia.org/resource/VELO_Sports_Center> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.5384615384615384, 0.39999999999999997, 0.14285714285714285, 0.0, 0.0, 0.3921428571428571]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.8, 0.6, 0.8571428571428571, 0.0, 0.0, 0.6178571428571428]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.6363636363636364, 0.39999999999999997, 0.05357142857142857, 0.0, 0.0, 0.41949675324675323]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8484848484848485, 0.95, 0.0, 0.980149500625, 1.0, 0.8735150507888257]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.95, 1.0, 0.980149500625, 1.0, 0.9727574750312501]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot%2C_Inc.\": [0.8235294117647058, 0.0, 0.08928571428571429, 0.0, 0.0005053057099545225, 0.27213660982331284]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Center_%28tennis%29\": [0.6363636363636364, 0.0, 0.08928571428571429, 0.0, 0.0, 0.21128246753246754]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6829268292682927, 0.35, 0.16071428571428573, 0.0, 0.0808489135927236, 0.4177793794775457]}",
+        "{\"http://dbpedia.org/resource/VELO_Sports_Center\": [0.6222222222222222, 0.39999999999999997, 0.16071428571428573, 0.0, 0.0, 0.4202579365079365]}" ;
     nif:anchorOf "The Home Depot"^^xsd:string ;
     nif:beginIndex "1883"^^xsd:nonNegativeInteger ;
     nif:confidence 9.727575e-01 ;
@@ -439,6 +652,54 @@
         <http://dbpedia.org/resource/Sideshow_Bob>,
         <http://dbpedia.org/resource/Weebl_and_Bob>,
         <http://dbpedia.org/resource/What_About_Bob%3F> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Alice_and_Bob\": [1.0, 0.3833333333333333, 0.010526315789473684, 0.0, 0.16251632158179444, 0.5349021318685634]}",
+        "{\"http://dbpedia.org/resource/Barbecue_Bob\": [0.4, 0.4666666666666666, 0.010526315789473684, 0.0, 0.02089162469688491, 0.37657089702431795]}",
+        "{\"http://dbpedia.org/resource/Best_of_Breed\": [1.0, 0.3333333333333333, 0.08421052631578947, 0.0, 0.03133743704532736, 0.5057773981680558]}",
+        "{\"http://dbpedia.org/resource/BoB\": [1.0, 0.0, 0.08421052631578947, 0.0, 4.663309084126096e-05, 0.32921285797033156]}",
+        "{\"http://dbpedia.org/resource/Bob\": [1.0, 0.36666666666666664, 1.0, 0.0, 0.35366536094012313, 0.5851832680470063]}",
+        "{\"http://dbpedia.org/resource/Bob,_Agent_of_Hydra\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 0.0, 0.5442763157894737]}",
+        "{\"http://dbpedia.org/resource/Bob_%28Blackadder_character%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.08463905987688863, 0.32975826878331815]}",
+        "{\"http://dbpedia.org/resource/Bob_%28TV_series%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.022756948330535348, 0.3266641632060005]}",
+        "{\"http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.009140085804887147, 0.3259833200797181]}",
+        "{\"http://dbpedia.org/resource/Bob_%28physics%29\": [1.0, 0.0, 0.021052631578947368, 0.0, 0.015761984704346203, 0.3268407308141647]}",
+        "{\"http://dbpedia.org/resource/Bob_%28song%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.050923335198656966, 0.3280724825494066]}",
+        "{\"http://dbpedia.org/resource/Bob_Appleyard\": [0.375, 0.36666666666666664, 0.010526315789473684, 0.0, 0.007088229807871666, 0.3152557272798673]}",
+        "{\"http://dbpedia.org/resource/Bob_Arum\": [0.5454545454545454, 0.41666666666666663, 0.010526315789473684, 0.0, 0.09098116023130014, 0.401098101073766]}",
+        "{\"http://dbpedia.org/resource/Bob_Bob_Ricard\": [0.35294117647058826, 0.3333333333333333, 0.07368421052631578, 0.0, 0.0, 0.29339009287925694]}",
+        "{\"http://dbpedia.org/resource/Bob_Boken\": [0.5, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0, 0.3555263157894737]}",
+        "{\"http://dbpedia.org/resource/Bob_Boone\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.04061742212273829, 0.5200571868956106]}",
+        "{\"http://dbpedia.org/resource/Bob_Brier\": [0.5, 0.41666666666666663, 0.010526315789473684, 0.0, 0.029891811229248274, 0.3832709063509361]}",
+        "{\"http://dbpedia.org/resource/Bob_Bryan\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 0.047938817384816264, 0.5466732566587145]}",
+        "{\"http://dbpedia.org/resource/Bob_Cain\": [0.5454545454545454, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0009326618168252192, 0.3703456761530422]}",
+        "{\"http://dbpedia.org/resource/Bob_Champoux\": [0.4, 0.39999999999999997, 0.010526315789473684, 0.0, 9.326618168252192e-05, 0.3405309790985578]}",
+        "{\"http://dbpedia.org/resource/Bob_Christo\": [0.42857142857142855, 0.3333333333333333, 0.010526315789473684, 0.0, 0.01315053161723559, 0.31546955665604975]}",
+        "{\"http://dbpedia.org/resource/Bob_Cobbing\": [0.42857142857142855, 0.36666666666666664, 0.010526315789473684, 0.0, 0.010119380712553628, 0.33281799911081567]}",
+        "{\"http://dbpedia.org/resource/Bob_Considine\": [0.375, 0.41666666666666663, 0.010526315789473684, 0.0, 0.0002331654542063048, 0.34116297406218404]}",
+        "{\"http://dbpedia.org/resource/Bob_Crane\": [0.5, 0.36666666666666664, 0.010526315789473684, 0.0, 0.6099608282036934, 0.38602435719965833]}",
+        "{\"http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.030871106136914756, 0.32706987109631946]}",
+        "{\"http://dbpedia.org/resource/Bob_Stroger\": [0.42857142857142855, 0.49999999999999994, 0.010526315789473684, 0.0, 0.0, 0.40231203007518795]}",
+        "{\"http://dbpedia.org/resource/Bob_Weinstein\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 0.11760865510166013, 0.5501567485445567]}",
+        "{\"http://dbpedia.org/resource/Bob_Younger\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 0.02919231486662936, 0.5457359315328051]}",
+        "{\"http://dbpedia.org/resource/Bob_and_George\": [1.0, 0.35, 0.010526315789473684, 0.0, 0.08748367841820556, 0.513650499710384]}",
+        "{\"http://dbpedia.org/resource/Bob_campaign\": [1.0, 0.35, 0.010526315789473684, 0.0, 0.004989740720014923, 0.5095258028254744]}",
+        "{\"http://dbpedia.org/resource/Bob_cut\": [1.0, 0.41666666666666663, 0.021052631578947368, 0.0, 0.4564913262451035, 0.5676271978912025]}",
+        "{\"http://dbpedia.org/resource/Bob_the_Builder\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.37548964745383323, 0.5368007981621654]}",
+        "{\"http://dbpedia.org/resource/Bobsleigh\": [1.0, 0.49999999999999994, 0.2631578947368421, 0.0, 0.1487129266927812, 0.6080935410714812]}",
+        "{\"http://dbpedia.org/resource/Bubble_Bobble\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.564680096996829, 0.5462603206393152]}",
+        "{\"http://dbpedia.org/resource/Cherry_Twister\": [1.0, 0.3083333333333333, 0.031578947368421054, 0.0, 0.0, 0.48845394736842107]}",
+        "{\"http://dbpedia.org/resource/Hurricane_Bob\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 0.05428091773922775, 0.546990361676435]}",
+        "{\"http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.1317384816265622, 0.3321132398708018]}",
+        "{\"http://dbpedia.org/resource/Jay_and_Silent_Bob\": [1.0, 0.44999999999999996, 0.010526315789473684, 0.0, 0.777513523596344, 0.600651991969291]}",
+        "{\"http://dbpedia.org/resource/Killer_Bob\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.0, 0.3255263157894737]}",
+        "{\"http://dbpedia.org/resource/MY_Bob_Barker\": [0.46153846153846156, 0.35, 0.010526315789473684, 0.0, 0.0, 0.3342763157894737]}",
+        "{\"http://dbpedia.org/resource/Microsoft_Bob\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.3844898339861966, 0.5197508074887836]}",
+        "{\"http://dbpedia.org/resource/Midge_and_Bob_Pinciotti\": [1.0, 0.3333333333333333, 0.031578947368421054, 0.0, 0.10310576385002798, 0.5067342355609225]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.4, 0.8999999999999999, 0.0, 0.990025, 0.14661443760492446, 0.6593319718802463]}",
+        "{\"http://dbpedia.org/resource/Robert_Passantino\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.0, 0.5005263157894737]}",
+        "{\"http://dbpedia.org/resource/Robert_Satiacum\": [0.4, 0.39999999999999997, 0.010526315789473684, 0.0, 0.003124417086364484, 0.3406825366437919]}",
+        "{\"http://dbpedia.org/resource/Sideshow_Bob\": [1.0, 0.41666666666666663, 0.010526315789473684, 0.0, 1.0, 0.5942763157894737]}",
+        "{\"http://dbpedia.org/resource/Weebl_and_Bob\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.2040197724305167, 0.5282273044109996]}",
+        "{\"http://dbpedia.org/resource/What_About_Bob%3F\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.15104458123484424, 0.3330785448512159]}" ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "1929"^^xsd:nonNegativeInteger ;
     nif:confidence 6.59332e-01 ;
@@ -452,6 +713,8 @@
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot%2C_Inc.> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.7999999999999999, 1.0, 0.980149500625, 1.0, 0.8940074750312501]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot%2C_Inc.\": [0.9743589743589743, 0.0, 0.2631578947368421, 0.0, 0.0005053057099545225, 0.3298498266890065]}" ;
     nif:anchorOf "The Home Depot Inc."^^xsd:string ;
     nif:beginIndex "193"^^xsd:nonNegativeInteger ;
     nif:confidence 8.940075e-01 ;
@@ -471,6 +734,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.39999999999999997, 0.018867924528301886, 0.0, 0.039413845376452754, 0.37958075516190437]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.39999999999999997, 0.05660377358490566, 0.0, 0.0, 0.453570929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.39999999999999997, 0.009433962264150943, 0.0, 0.0, 0.46047169811320754]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.65, 0.03773584905660377, 0.0, 0.07731177362304194, 0.522678056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.65, 0.0, 0.0, 0.07731177362304194, 0.5858563294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.65, 0.4716981132075472, 0.0, 0.0, 0.6055756464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.39999999999999997, 0.009433962264150943, 0.0, 0.0, 0.4016481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.9999999999999999, 0.0, 0.990025, 1.0, 0.8486391810344828]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.9999999999999999, 0.0, 0.990025, 1.0, 0.8953345833333334]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.9999999999999999, 1.0, 0.990025, 1.0, 0.99950125]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.35, 0.16981132075471697, 0.0, 0.0808489135927236, 0.393252708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2237"^^xsd:nonNegativeInteger ;
     nif:confidence 9.995013e-01 ;
@@ -489,6 +763,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.35, 0.09090909090909091, 0.0, 0.0, 0.41438241106719365]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.41666666666666663, 0.3939393939393939, 0.0, 0.0, 0.4384469696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.35, 0.06060606060606061, 0.0, 0.0, 0.42314393939393946]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.7333333333333334, 0.09090909090909091, 0.0, 0.0, 0.6062121212121213]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.7333333333333334, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.7176234674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 0.0, 0.990025, 1.0, 0.8582512500000001]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 1.0, 0.990025, 1.0, 0.9082512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.4333333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.47850190839694656]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "2280"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -511,6 +793,17 @@
         <http://dbpedia.org/resource/President_Bush_%2843%29>,
         <http://dbpedia.org/resource/President_Bush_%28senior%29>,
         <http://dbpedia.org/resource/President_George_Bush_Turnpike> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Doe_v._Bush\": [0.6666666666666666, 0.3333333333333333, 0.3076923076923077, 0.0, 0.0011169780666125102, 0.40710713095461265]}",
+        "{\"http://dbpedia.org/resource/Efforts_to_impeach_George_W._Bush\": [0.5833333333333334, 0.49999999999999994, 0.3076923076923077, 0.0, 0.0, 0.46746794871794867]}",
+        "{\"http://dbpedia.org/resource/Foreign_policy_of_the_George_W._Bush_administration\": [0.6086956521739131, 0.49999999999999994, 0.2692307692307692, 0.0, 0.01306525859734633, 0.4744408883479275]}",
+        "{\"http://dbpedia.org/resource/George_Bush\": [1.0, 0.4833333333333333, 0.11538461538461539, 0.0, 0.027395579474681832, 0.5858890097429649]}",
+        "{\"http://dbpedia.org/resource/George_H._W._Bush\": [1.0, 0.49999999999999994, 0.4230769230769231, 0.0, 0.3610462361223937, 0.6267061579599658]}",
+        "{\"http://dbpedia.org/resource/George_W._Bush\": [1.0, 0.95, 0.2692307692307692, 0.0, 1.0, 0.8872115384615384]}",
+        "{\"http://dbpedia.org/resource/President_Bush\": [1.0, 0.4833333333333333, 1.0, 0.0, 0.008842743027349038, 0.6291921371513675]}",
+        "{\"http://dbpedia.org/resource/President_Bush_%282000%29\": [0.8, 0.0, 0.19230769230769232, 0.0, 4.230977525047387e-06, 0.2696155961642609]}",
+        "{\"http://dbpedia.org/resource/President_Bush_%2843%29\": [0.8484848484848485, 0.0, 0.19230769230769232, 0.0, 1.6923910100189547e-05, 0.2853738065684654]}",
+        "{\"http://dbpedia.org/resource/President_Bush_%28senior%29\": [0.7567567567567568, 0.0, 0.19230769230769232, 0.0, 0.0, 0.25556133056133057]}",
+        "{\"http://dbpedia.org/resource/President_George_Bush_Turnpike\": [0.6363636363636364, 0.39999999999999997, 0.38461538461538464, 0.0, 0.005766822366639588, 0.436337292167283]}" ;
     nif:anchorOf "President Bush"^^xsd:string ;
     nif:beginIndex "2365"^^xsd:nonNegativeInteger ;
     nif:confidence 8.872115e-01 ;
@@ -530,6 +823,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.39999999999999997, 0.018867924528301886, 0.0, 0.039413845376452754, 0.37958075516190437]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.41666666666666663, 0.05660377358490566, 0.0, 0.0, 0.462320929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.4692216981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.65, 0.03773584905660377, 0.0, 0.07731177362304194, 0.522678056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.65, 0.0, 0.0, 0.07731177362304194, 0.5858563294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.65, 0.4716981132075472, 0.0, 0.0, 0.6055756464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.41039816870144286]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.9999999999999999, 0.0, 0.985074875, 1.0, 0.8483916747844827]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.9999999999999999, 0.0, 0.985074875, 1.0, 0.8950870770833333]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.9999999999999999, 1.0, 0.985074875, 1.0, 0.99925374375]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.35, 0.16981132075471697, 0.0, 0.0808489135927236, 0.393252708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2423"^^xsd:nonNegativeInteger ;
     nif:confidence 9.992537e-01 ;
@@ -549,6 +853,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.41666666666666663, 0.018867924528301886, 0.0, 0.039413845376452754, 0.38833075516190435]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.4333333333333333, 0.05660377358490566, 0.0, 0.0, 0.471070929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.4333333333333333, 0.009433962264150943, 0.0, 0.0, 0.47797169811320755]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.7000000000000002, 0.03773584905660377, 0.0, 0.07731177362304194, 0.5489280568096581]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.7000000000000002, 0.0, 0.0, 0.07731177362304194, 0.6121063294218929]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.7000000000000002, 0.4716981132075472, 0.0, 0.0, 0.6318256464011183]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.4333333333333333, 0.009433962264150943, 0.0, 0.0, 0.4191481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.9999999999999999, 0.0, 0.995, 1.0, 0.8488879310344827]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.9999999999999999, 0.0, 0.995, 1.0, 0.8955833333333333]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.9999999999999999, 1.0, 0.995, 1.0, 0.9997499999999999]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.35, 0.16981132075471697, 0.0, 0.0808489135927236, 0.393252708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2509"^^xsd:nonNegativeInteger ;
     nif:confidence 9.9975e-01 ;
@@ -699,6 +1014,145 @@
         <http://dbpedia.org/resource/Vivian_Blake>,
         <http://dbpedia.org/resource/William_Blake>,
         <http://dbpedia.org/resource/Yohan_Blake> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/5AA\": [0.7142857142857143, 0.3333333333333333, 0.05555555555555555, 0.0, 0.005594092638174088, 0.4102003395525436]}",
+        "{\"http://dbpedia.org/resource/Anita_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.1419882422343823, 0.4055021898894969]}",
+        "{\"http://dbpedia.org/resource/Arthur_Blake\": [0.5882352941176471, 0.3, 0.05555555555555555, 0.0, 0.0030309811021379603, 0.35160579742111997]}",
+        "{\"http://dbpedia.org/resource/Asha_Blake\": [0.6666666666666666, 0.4333333333333333, 0.05555555555555555, 0.0, 0.012632478284749487, 0.4475760683586819]}",
+        "{\"http://dbpedia.org/resource/Blake\": [1.0, 0.35, 0.6666666666666666, 0.0, 0.06318273357879534, 0.5452424700122731]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_Lotaburger\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0061026465143717325, 0.3280829101034964]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_Pools\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_hitch\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.004943143676641103, 0.32802493496160984]}",
+        "{\"http://dbpedia.org/resource/Blake,_Cassels_&_Graydon\": [1.0, 0.4333333333333333, 0.05555555555555555, 0.0, 0.00144429300840131, 0.5553499924281978]}",
+        "{\"http://dbpedia.org/resource/Blake_%28band%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.00012205293028743465, 0.32778388042429213]}",
+        "{\"http://dbpedia.org/resource/Blake_%28monologue%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake_%28sculptor%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake_(band)\": [1.0, 0.36666666666666664, 0.6111111111111112, 0.0, 2.0342155047905775e-05, 0.548056572663308]}",
+        "{\"http://dbpedia.org/resource/Blake_(disambiguation)\": [1.0, 0.3333333333333333, 1.0, 0.0, 0.0, 0.55]}",
+        "{\"http://dbpedia.org/resource/Blake_Aaron\": [0.625, 0.4833333333333333, 0.05555555555555555, 0.0, 2.0342155047905775e-05, 0.45965379488553015]}",
+        "{\"http://dbpedia.org/resource/Blake_Ahearn\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.004129457474724873, 0.3866607212397493]}",
+        "{\"http://dbpedia.org/resource/Blake_Aldridge\": [0.5263157894736842, 0.35, 0.05555555555555555, 0.0, 0.0, 0.35758040935672514]}",
+        "{\"http://dbpedia.org/resource/Blake_Babies\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.01493114180516284, 0.38720080545627117]}",
+        "{\"http://dbpedia.org/resource/Blake_Bailey\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0, 0.4214542483660131]}",
+        "{\"http://dbpedia.org/resource/Blake_Bashoff\": [0.5555555555555556, 0.49999999999999994, 0.05555555555555555, 0.0, 0.05097744055005187, 0.4483822053608359]}",
+        "{\"http://dbpedia.org/resource/Blake_Basin\": [1.0, 0.4333333333333333, 0.05555555555555555, 0.0, 0.002929270326898432, 0.5554242412941227]}",
+        "{\"http://dbpedia.org/resource/Blake_Berris\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.019386073760654203, 0.38742355205404577]}",
+        "{\"http://dbpedia.org/resource/Blake_Bjorklund\": [0.5, 0.41666666666666663, 0.05555555555555555, 0.0, 0.00235968998555707, 0.3841457622770556]}",
+        "{\"http://dbpedia.org/resource/Blake_Butler\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.00012205293028743465, 0.36896035101252744]}",
+        "{\"http://dbpedia.org/resource/Blake_Camp\": [0.6666666666666666, 0.4333333333333333, 0.05555555555555555, 0.0, 0.004068431009581155, 0.44714786599492345]}",
+        "{\"http://dbpedia.org/resource/Blake_Caracella\": [0.5, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0027665330865151855, 0.3404161044321036]}",
+        "{\"http://dbpedia.org/resource/Blake_Carrington\": [0.47619047619047616, 0.4333333333333333, 0.05555555555555555, 0.0, 0.015663459386887447, 0.3858228555090269]}",
+        "{\"http://dbpedia.org/resource/Blake_Chancey\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0, 0.37583333333333335]}",
+        "{\"http://dbpedia.org/resource/Blake_Clark\": [0.625, 0.4333333333333333, 0.05555555555555555, 0.0, 0.04682764092027909, 0.4357441598237917]}",
+        "{\"http://dbpedia.org/resource/Blake_Comeau\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.007404544437437702, 0.41307447558788496]}",
+        "{\"http://dbpedia.org/resource/Blake_Costanzo\": [0.5263157894736842, 0.36666666666666664, 0.05555555555555555, 0.0, 0.005146565227120161, 0.3665877376180811]}",
+        "{\"http://dbpedia.org/resource/Blake_Dunlop\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.00235968998555707, 0.4128222328652909]}",
+        "{\"http://dbpedia.org/resource/Blake_Edwards\": [0.5555555555555556, 0.36666666666666664, 0.3333333333333333, 0.0, 0.16831099086637238, 0.3981377717655409]}",
+        "{\"http://dbpedia.org/resource/Blake_Emmons\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0030513232571858662, 0.4216068145288724]}",
+        "{\"http://dbpedia.org/resource/Blake_Fell\": [0.6666666666666666, 0.35, 0.05555555555555555, 0.0, 0.0011595028377306292, 0.40325241958633096]}",
+        "{\"http://dbpedia.org/resource/Blake_Fleming\": [0.5555555555555556, 0.4333333333333333, 0.05555555555555555, 0.0, 0.019853943326756038, 0.41182603049967115]}",
+        "{\"http://dbpedia.org/resource/Blake_Foster\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.051831811062063915, 0.38904583891911626]}",
+        "{\"http://dbpedia.org/resource/Blake_Gibbons\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004780406436257857, 0.3585723536551462]}",
+        "{\"http://dbpedia.org/resource/Blake_Gottesman\": [0.5, 0.5499999999999999, 0.05555555555555555, 0.0, 0.015114221200593992, 0.4547834888378074]}",
+        "{\"http://dbpedia.org/resource/Blake_Griffin\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.00996765597347383, 0.37633171613200705]}",
+        "{\"http://dbpedia.org/resource/Blake_Heron\": [0.625, 0.4833333333333333, 0.05555555555555555, 0.0, 0.005309302467503408, 0.4599182429011529]}",
+        "{\"http://dbpedia.org/resource/Blake_Island\": [1.0, 0.4333333333333333, 0.1111111111111111, 0.0, 0.004353221180251836, 0.5582732166145681]}",
+        "{\"http://dbpedia.org/resource/Blake_Judd\": [0.6666666666666666, 0.49999999999999994, 0.05555555555555555, 0.0, 0.0038243251490062856, 0.48213566070189473]}",
+        "{\"http://dbpedia.org/resource/Blake_Lewis\": [0.625, 0.4333333333333333, 0.05555555555555555, 0.0, 0.6728371203645315, 0.4670446337960043]}",
+        "{\"http://dbpedia.org/resource/Blake_Leyh\": [0.6666666666666666, 0.36666666666666664, 0.05555555555555555, 0.0, 0.005309302467503408, 0.4122099095678196]}",
+        "{\"http://dbpedia.org/resource/Blake_Marler\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0045363005756829874, 0.3866810633947972]}",
+        "{\"http://dbpedia.org/resource/Blake_Marshall\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0009153969771557599, 0.34887617920558295]}",
+        "{\"http://dbpedia.org/resource/Blake_McGrath\": [0.5555555555555556, 0.4333333333333333, 0.05555555555555555, 0.0, 0.036086983054984846, 0.41263768248608257]}",
+        "{\"http://dbpedia.org/resource/Blake_Miller\": [0.5882352941176471, 0.3, 0.05555555555555555, 0.0, 0.0033157712728086415, 0.3516200369296535]}",
+        "{\"http://dbpedia.org/resource/Blake_Morgan\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.00010171077523952888, 0.4214593339047751]}",
+        "{\"http://dbpedia.org/resource/Blake_Morrison\": [0.5263157894736842, 0.35, 0.05555555555555555, 0.0, 0.006936674871335869, 0.35792724310029195]}",
+        "{\"http://dbpedia.org/resource/Blake_Nelson\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.01236803026912671, 0.4220726498794694]}",
+        "{\"http://dbpedia.org/resource/Blake_Pier_at_Stanley\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.39444444444444443]}",
+        "{\"http://dbpedia.org/resource/Blake_Price\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.42465277777777777]}",
+        "{\"http://dbpedia.org/resource/Blake_Prize_for_Religious_Art\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0032140604975691126, 0.38106348080265623]}",
+        "{\"http://dbpedia.org/resource/Blake_Richards\": [0.5263157894736842, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.3925804093567251]}",
+        "{\"http://dbpedia.org/resource/Blake_Richardson\": [0.47619047619047616, 0.36666666666666664, 0.05555555555555555, 0.0, 0.01859272971378588, 0.3509693190253718]}",
+        "{\"http://dbpedia.org/resource/Blake_River_Megacaldera_Complex\": [1.0, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0169043308448097, 0.5473729943200182]}",
+        "{\"http://dbpedia.org/resource/Blake_Schwarzenbach\": [0.4166666666666667, 0.4333333333333333, 0.05555555555555555, 0.0, 0.04074533656095527, 0.3677317112724922]}",
+        "{\"http://dbpedia.org/resource/Blake_Sennett\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.16936878292886348, 0.38430177247977654]}",
+        "{\"http://dbpedia.org/resource/Blake_Shelton\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.48198702170507945, 0.3999326844185873]}",
+        "{\"http://dbpedia.org/resource/Blake_Shields\": [0.5555555555555556, 0.4333333333333333, 0.05555555555555555, 0.0, 0.007567281677820948, 0.41121169741722435]}",
+        "{\"http://dbpedia.org/resource/Blake_Sloan\": [0.625, 0.49999999999999994, 0.05555555555555555, 0.0, 0.003966720234341626, 0.4686011137894948]}",
+        "{\"http://dbpedia.org/resource/Blake_Snyder\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 2.0342155047905775e-05, 0.38645526547376546]}",
+        "{\"http://dbpedia.org/resource/Blake_Stein\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0019121625745031428, 0.39849838590650294]}",
+        "{\"http://dbpedia.org/resource/Blake_Stepp\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.016843304379665983, 0.39924494299676105]}",
+        "{\"http://dbpedia.org/resource/Blake_Watson\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.0, 0.3777042483660131]}",
+        "{\"http://dbpedia.org/resource/Blake_Wheeler\": [0.5555555555555556, 0.41666666666666663, 0.05555555555555555, 0.0, 0.010659289245102626, 0.4026162977955885]}",
+        "{\"http://dbpedia.org/resource/Blake_Williams\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 6.102646514371733e-05, 0.34883346067998233]}",
+        "{\"http://dbpedia.org/resource/Blind_Blake\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.02955715128460709, 0.4261306353420081]}",
+        "{\"http://dbpedia.org/resource/Blossom_Rock\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.030411521796619132, 0.42617335386760874]}",
+        "{\"http://dbpedia.org/resource/Bobby_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.14383937834374175, 0.40559474669496487]}",
+        "{\"http://dbpedia.org/resource/Bud_Blake\": [0.7142857142857143, 0.49999999999999994, 0.05555555555555555, 0.0, 0.0030106389470900548, 0.49757116686798936]}",
+        "{\"http://dbpedia.org/resource/Casey_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0023190056754612584, 0.3985187280615508]}",
+        "{\"http://dbpedia.org/resource/Christopher_Blake\": [0.45454545454545453, 0.35, 0.05555555555555555, 0.0, 0.004780406436257857, 0.3344940708268634]}",
+        "{\"http://dbpedia.org/resource/Daphne_Blake\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.1723387375658577, 0.39507118524430596]}",
+        "{\"http://dbpedia.org/resource/Darcy_Blake\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.008909863910982729, 0.3900982709733269]}",
+        "{\"http://dbpedia.org/resource/Dead_Man\": [0.5555555555555556, 0.4333333333333333, 0.05555555555555555, 0.0, 0.14874183771028704, 0.41827042521884766]}",
+        "{\"http://dbpedia.org/resource/Dennis_Blake\": [0.5882352941176471, 0.4833333333333333, 0.05555555555555555, 0.0, 0.0, 0.4477042483660131]}",
+        "{\"http://dbpedia.org/resource/Ed_Blake\": [0.7692307692307693, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0, 0.48027777777777775]}",
+        "{\"http://dbpedia.org/resource/Edward_Blake\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.01169673915254582, 0.4220390853236404]}",
+        "{\"http://dbpedia.org/resource/Eubie_Blake\": [0.625, 0.4333333333333333, 0.05555555555555555, 0.0, 0.040480888545332494, 0.43542682220504436]}",
+        "{\"http://dbpedia.org/resource/Frank_Blake\": [0.625, 0.8999999999999999, 0.0, 0.9000874278732445, 0.017250147480624096, 0.7214918787676933]}",
+        "{\"http://dbpedia.org/resource/George_Blake\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.04184381293354218, 0.38854643901269015]}",
+        "{\"http://dbpedia.org/resource/Gillian_Blake\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.005838198498748957, 0.36737524325827076]}",
+        "{\"http://dbpedia.org/resource/Hamish_Blake\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.04672593014503956, 0.42379054487326506]}",
+        "{\"http://dbpedia.org/resource/Harris_Blake\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0007526597367725137, 0.41274188135285167]}",
+        "{\"http://dbpedia.org/resource/Harry_Blake\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.42465277777777777]}",
+        "{\"http://dbpedia.org/resource/Henry_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.07308936308712545, 0.38455724593213403]}",
+        "{\"http://dbpedia.org/resource/Howard_Blake\": [0.5882352941176471, 0.36666666666666664, 0.4444444444444444, 0.0, 0.03193718342521207, 0.4074955519817181]}",
+        "{\"http://dbpedia.org/resource/James_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.13364795866474094, 0.3875851757110148]}",
+        "{\"http://dbpedia.org/resource/James_Blake_House\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.003234402652617018, 0.38981449791040856]}",
+        "{\"http://dbpedia.org/resource/Jean_Saunders\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.0, 0.38965277777777774]}",
+        "{\"http://dbpedia.org/resource/Jeff_Blake\": [0.6666666666666666, 0.4333333333333333, 0.05555555555555555, 0.0, 0.061412966089627534, 0.4500150927489258]}",
+        "{\"http://dbpedia.org/resource/Jere_Blake\": [0.6666666666666666, 0.35, 0.05555555555555555, 0.0, 0.0, 0.4031944444444444]}",
+        "{\"http://dbpedia.org/resource/Joaqu%C3%ADn_Blake_y_Joyes\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0031123497223295837, 0.32793339526389426]}",
+        "{\"http://dbpedia.org/resource/John_Blake\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.007485913057629325, 0.39481874009732587]}",
+        "{\"http://dbpedia.org/resource/John_Blake_House\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.0004271852560060213, 0.389674137040578]}",
+        "{\"http://dbpedia.org/resource/Johnny_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.3689542483660131]}",
+        "{\"http://dbpedia.org/resource/Julia_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0060212778941801095, 0.3812038416724868]}",
+        "{\"http://dbpedia.org/resource/Karl_Blake\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.00235968998555707, 0.3945624289437223]}",
+        "{\"http://dbpedia.org/resource/Kristen_DiMera\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 4.068431009581155e-05, 0.3670853675488381]}",
+        "{\"http://dbpedia.org/resource/List_of_Eureka_characters\": [0.5555555555555556, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0, 0.41083333333333333]}",
+        "{\"http://dbpedia.org/resource/Madge_Blake\": [0.625, 0.4333333333333333, 0.05555555555555555, 0.0, 0.02638377509713379, 0.43472196653263445]}",
+        "{\"http://dbpedia.org/resource/Megan_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0022986635204133524, 0.39851771095379845]}",
+        "{\"http://dbpedia.org/resource/Mike_Enos\": [1.0, 0.35, 0.05555555555555555, 0.0, 0.0362904046054639, 0.513342298008051]}",
+        "{\"http://dbpedia.org/resource/Nayland_Blake\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0, 0.37583333333333335]}",
+        "{\"http://dbpedia.org/resource/Noah_Blake\": [0.6666666666666666, 0.0, 0.05555555555555555, 0.0, 0.021359262800301065, 0.2205124075844595]}",
+        "{\"http://dbpedia.org/resource/Noah_Newman\": [0.5263157894736842, 0.36666666666666664, 0.05555555555555555, 0.0, 0.011350922516731423, 0.3668979554825617]}",
+        "{\"http://dbpedia.org/resource/Noel_Blake\": [0.6666666666666666, 0.35, 0.05555555555555555, 0.0, 0.0071197542667670215, 0.40355043215778275]}",
+        "{\"http://dbpedia.org/resource/Nzinga_Blake\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.010293130454240322, 0.4219689048887251]}",
+        "{\"http://dbpedia.org/resource/Oliver_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.002257979210317541, 0.36906714732652895]}",
+        "{\"http://dbpedia.org/resource/Olivia_Richards\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0005695803413413617, 0.38648272738308015]}",
+        "{\"http://dbpedia.org/resource/Pamela_Blake\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.003254744807664924, 0.3866169856063963]}",
+        "{\"http://dbpedia.org/resource/Perry_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.006834964096096341, 0.3987445259825826]}",
+        "{\"http://dbpedia.org/resource/Peter_Blake_%28artist%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.051404625806057896, 0.33034800906808065]}",
+        "{\"http://dbpedia.org/resource/Quentin_Blake\": [0.5555555555555556, 0.36666666666666664, 0.05555555555555555, 0.0, 0.052014890457495064, 0.3784340778562081]}",
+        "{\"http://dbpedia.org/resource/Rob_Blake\": [0.7142857142857143, 0.4333333333333333, 0.05555555555555555, 0.0, 0.03742956528814663, 0.4642921131850422]}",
+        "{\"http://dbpedia.org/resource/Robbie_Blake\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.012123924408551841, 0.37831044458644064]}",
+        "{\"http://dbpedia.org/resource/Robert_Blake%2C_Baron_Blake\": [0.3333333333333333, 0.0, 0.2777777777777778, 0.0, 0.0037226143737667567, 0.12240835294091057]}",
+        "{\"http://dbpedia.org/resource/Robert_Blake,_Baron_Blake\": [0.3333333333333333, 0.36666666666666664, 0.3333333333333333, 0.0, 0.0014239508533534042, 0.31757119754266766]}",
+        "{\"http://dbpedia.org/resource/Robert_Harrison_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004739722126162045, 0.3691912344723212]}",
+        "{\"http://dbpedia.org/resource/Rockwell_Blake\": [0.5263157894736842, 0.36666666666666664, 0.05555555555555555, 0.0, 0.00746557090258142, 0.3667036879018542]}",
+        "{\"http://dbpedia.org/resource/Rodney_Blake\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.002257979210317541, 0.3865671473265289]}",
+        "{\"http://dbpedia.org/resource/Roj_Blake\": [1.0, 0.3333333333333333, 0.1111111111111111, 0.0, 0.009947313818425924, 0.5060529212464768]}",
+        "{\"http://dbpedia.org/resource/Sexton_Blake\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.019650521776276977, 0.3786867744548269]}",
+        "{\"http://dbpedia.org/resource/Sheriff_Blake\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.000996765597347383, 0.3671331716132007]}",
+        "{\"http://dbpedia.org/resource/Stephenson_Blake\": [0.47619047619047616, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0016883988689761792, 0.33262410248313135]}",
+        "{\"http://dbpedia.org/resource/Steve_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.04300331577127281, 0.4005529435663414]}",
+        "{\"http://dbpedia.org/resource/Tchad_Blake\": [0.625, 0.4333333333333333, 0.05555555555555555, 0.0, 0.011208527431396081, 0.4339632041493475]}",
+        "{\"http://dbpedia.org/resource/Ted_Blake\": [0.7142857142857143, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.4536706349206349]}",
+        "{\"http://dbpedia.org/resource/The_Ultimate_Fighter:_Team_Hughes_vs._Team_Serra\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.0, 0.3777042483660131]}",
+        "{\"http://dbpedia.org/resource/Theo_Blake\": [0.6666666666666666, 0.0, 0.05555555555555555, 0.0, 4.068431009581155e-05, 0.21944647865994923]}",
+        "{\"http://dbpedia.org/resource/Thomas_Blake_Glover\": [0.5882352941176471, 0.36666666666666664, 0.05555555555555555, 0.0, 0.014951483960210744, 0.3872018225640236]}",
+        "{\"http://dbpedia.org/resource/Tommy_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.009072601151365975, 0.3988564078353461]}",
+        "{\"http://dbpedia.org/resource/Toms_Shoes\": [0.5263157894736842, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0, 0.40133040935672515]}",
+        "{\"http://dbpedia.org/resource/Vivian_Blake\": [0.5882352941176471, 0.4333333333333333, 0.05555555555555555, 0.0, 0.0, 0.4214542483660131]}",
+        "{\"http://dbpedia.org/resource/William_Blake\": [1.0, 0.36666666666666664, 0.1111111111111111, 0.0, 1.0, 0.5730555555555557]}",
+        "{\"http://dbpedia.org/resource/Yohan_Blake\": [0.625, 0.36666666666666664, 0.05555555555555555, 0.0, 0.0, 0.3984027777777778]}" ;
     nif:anchorOf "Blake"^^xsd:string ;
     nif:beginIndex "2763"^^xsd:nonNegativeInteger ;
     nif:confidence 7.214919e-01 ;
@@ -718,6 +1172,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.4333333333333333, 0.018867924528301886, 0.0, 0.039413845376452754, 0.3970807551619044]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.4333333333333333, 0.05660377358490566, 0.0, 0.0, 0.471070929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.44999999999999996, 0.009433962264150943, 0.0, 0.0, 0.48672169811320753]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.7000000000000001, 0.03773584905660377, 0.0, 0.07731177362304194, 0.548928056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.7000000000000001, 0.0, 0.0, 0.07731177362304194, 0.6121063294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.7000000000000001, 0.4716981132075472, 0.0, 0.0, 0.6318256464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.44999999999999996, 0.009433962264150943, 0.0, 0.0, 0.42789816870144287]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.9999999999999999, 0.0, 0.990025, 1.0, 0.8486391810344828]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.9999999999999999, 0.0, 0.990025, 1.0, 0.8953345833333334]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.9999999999999999, 1.0, 0.990025, 1.0, 0.99950125]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.35, 0.16981132075471697, 0.0, 0.0808489135927236, 0.393252708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "2814"^^xsd:nonNegativeInteger ;
     nif:confidence 9.995013e-01 ;
@@ -748,6 +1213,14 @@
         <http://dbpedia.org/resource/Robinson_College,_Cambridge>,
         <http://dbpedia.org/resource/Robinson_College_Boat_Club>,
         <http://dbpedia.org/resource/Wright_Robinson_College> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Eddie_N._Robinson\": [0.5818181818181818, 0.41666666666666663, 0.06896551724137931, 0.0, 0.0, 0.41128918495297806]}",
+        "{\"http://dbpedia.org/resource/Eddie_Robinson_%28college_football_coach%29\": [0.5818181818181818, 0.0, 0.1724137931034483, 0.0, 0.0, 0.1977115987460815]}",
+        "{\"http://dbpedia.org/resource/J._Mack_Robinson_College_of_Business\": [0.7272727272727273, 0.44999999999999996, 0.5862068965517241, 0.0, 0.32045454545454544, 0.5179467084639499]}",
+        "{\"http://dbpedia.org/resource/J._Mack_Robinson_College_of_Business_Administration_Building\": [0.42105263157894735, 0.3833333333333333, 0.06896551724137931, 0.0, 0.0, 0.3415403811252269]}",
+        "{\"http://dbpedia.org/resource/Robinson_College%2C_Cambridge\": [1.0, 0.0, 0.3103448275862069, 0.0, 1.0, 0.3905172413793103]}",
+        "{\"http://dbpedia.org/resource/Robinson_College,_Cambridge\": [1.0, 0.31666666666666665, 1.0, 0.0, 0.15795454545454546, 0.5491477272727273]}",
+        "{\"http://dbpedia.org/resource/Robinson_College_Boat_Club\": [0.7619047619047619, 0.3, 0.3103448275862069, 0.0, 0.07272727272727272, 0.4242726526347216]}",
+        "{\"http://dbpedia.org/resource/Wright_Robinson_College\": [0.8205128205128205, 0.31666666666666665, 0.5862068965517241, 0.0, 0.0, 0.4622270114942529]}" ;
     nif:anchorOf "Robinson College"^^xsd:string ;
     nif:beginIndex "2898"^^xsd:nonNegativeInteger ;
     nif:confidence 5.491477e-01 ;
@@ -783,6 +1256,19 @@
         <http://dbpedia.org/resource/NOC_at_Georgia_State_University>,
         <http://dbpedia.org/resource/North_Georgia_College_%26_State_University>,
         <http://dbpedia.org/resource/North_Georgia_College_&_State_University> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/GSU_Sports_Arena\": [0.7868852459016393, 0.36666666666666664, 0.16279069767441862, 0.0, 0.030783758262511805, 0.4579164277148793]}",
+        "{\"http://dbpedia.org/resource/Georgia_College_%26_State_University\": [0.8275862068965517, 0.0, 0.11627906976744186, 0.0, 0.049669499527856466, 0.27726294570614424]}",
+        "{\"http://dbpedia.org/resource/Georgia_College_&_State_University\": [0.8275862068965517, 0.36666666666666664, 0.09302325581395349, 0.0, 0.07271010387157696, 0.4697521852256558]}",
+        "{\"http://dbpedia.org/resource/Georgia_Southwestern_State_University\": [0.7868852459016393, 0.36666666666666664, 0.20930232558139536, 0.0, 0.10651558073654391, 0.4640286002339297]}",
+        "{\"http://dbpedia.org/resource/Georgia_State_Baseball_Complex\": [0.7384615384615385, 0.36666666666666664, 0.046511627906976744, 0.0, 0.0, 0.4348255813953488]}",
+        "{\"http://dbpedia.org/resource/Georgia_State_University\": [1.0, 0.36666666666666664, 1.0, 0.0, 1.0, 0.6175000000000002]}",
+        "{\"http://dbpedia.org/resource/Georgia_State_University_College_of_Law\": [0.8135593220338984, 0.36666666666666664, 0.5581395348837209, 0.0, 0.03720491029272899, 0.4866740019198395]}",
+        "{\"http://dbpedia.org/resource/Georgia_State_University_Library\": [0.8571428571428571, 0.26666666666666666, 0.18604651162790697, 0.0, 0.0, 0.4278737541528239]}",
+        "{\"http://dbpedia.org/resource/List_of_Georgia_State_University_people\": [0.7619047619047619, 0.5833333333333333, 0.16279069767441862, 0.0, 0.00018885741265344664, 0.5620180253734011]}",
+        "{\"http://dbpedia.org/resource/Municipal_Auditorium_(Atlanta)\": [0.7741935483870968, 0.3333333333333333, 0.06976744186046512, 0.0, 0.0028328611898017, 0.4302429183783198]}",
+        "{\"http://dbpedia.org/resource/NOC_at_Georgia_State_University\": [0.8727272727272727, 0.3333333333333333, 0.18604651162790697, 0.0, 0.07913125590179415, 0.47189525201284865]}",
+        "{\"http://dbpedia.org/resource/North_Georgia_College_%26_State_University\": [0.75, 0.0, 0.11627906976744186, 0.0, 0.06024551463644948, 0.2525762292201946]}",
+        "{\"http://dbpedia.org/resource/North_Georgia_College_&_State_University\": [0.75, 0.36666666666666664, 0.11627906976744186, 0.0, 0.047780925401322005, 0.4444529997584382]}" ;
     nif:anchorOf "Georgia State University"^^xsd:string ;
     nif:beginIndex "2958"^^xsd:nonNegativeInteger ;
     nif:confidence 6.175e-01 ;
@@ -842,6 +1328,54 @@
         <http://dbpedia.org/resource/Sideshow_Bob>,
         <http://dbpedia.org/resource/Weebl_and_Bob>,
         <http://dbpedia.org/resource/What_About_Bob%3F> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Alice_and_Bob\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.16251632158179444, 0.5086521318685634]}",
+        "{\"http://dbpedia.org/resource/Barbecue_Bob\": [0.4, 0.36666666666666664, 0.010526315789473684, 0.0, 0.02089162469688491, 0.32407089702431796]}",
+        "{\"http://dbpedia.org/resource/Best_of_Breed\": [1.0, 0.26666666666666666, 0.08421052631578947, 0.0, 0.03133743704532736, 0.4707773981680559]}",
+        "{\"http://dbpedia.org/resource/BoB\": [1.0, 0.0, 0.08421052631578947, 0.0, 4.663309084126096e-05, 0.32921285797033156]}",
+        "{\"http://dbpedia.org/resource/Bob\": [1.0, 0.26666666666666666, 1.0, 0.0, 0.35366536094012313, 0.5326832680470062]}",
+        "{\"http://dbpedia.org/resource/Bob,_Agent_of_Hydra\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0, 0.5180263157894738]}",
+        "{\"http://dbpedia.org/resource/Bob_%28Blackadder_character%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.08463905987688863, 0.32975826878331815]}",
+        "{\"http://dbpedia.org/resource/Bob_%28TV_series%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.022756948330535348, 0.3266641632060005]}",
+        "{\"http://dbpedia.org/resource/Bob_%28The_Dresden_Files%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.009140085804887147, 0.3259833200797181]}",
+        "{\"http://dbpedia.org/resource/Bob_%28physics%29\": [1.0, 0.0, 0.021052631578947368, 0.0, 0.015761984704346203, 0.3268407308141647]}",
+        "{\"http://dbpedia.org/resource/Bob_%28song%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.050923335198656966, 0.3280724825494066]}",
+        "{\"http://dbpedia.org/resource/Bob_Appleyard\": [0.375, 0.2833333333333333, 0.010526315789473684, 0.0, 0.007088229807871666, 0.27150572727986727]}",
+        "{\"http://dbpedia.org/resource/Bob_Arum\": [0.5454545454545454, 0.3333333333333333, 0.010526315789473684, 0.0, 0.09098116023130014, 0.357348101073766]}",
+        "{\"http://dbpedia.org/resource/Bob_Bob_Ricard\": [0.35294117647058826, 0.2833333333333333, 0.07368421052631578, 0.0, 0.0, 0.26714009287925694]}",
+        "{\"http://dbpedia.org/resource/Bob_Boken\": [0.5, 0.3, 0.010526315789473684, 0.0, 0.0, 0.3205263157894737]}",
+        "{\"http://dbpedia.org/resource/Bob_Boone\": [1.0, 0.3, 0.010526315789473684, 0.0, 0.04061742212273829, 0.48505718689561067]}",
+        "{\"http://dbpedia.org/resource/Bob_Brier\": [0.5, 0.36666666666666664, 0.010526315789473684, 0.0, 0.029891811229248274, 0.3570209063509361]}",
+        "{\"http://dbpedia.org/resource/Bob_Bryan\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.047938817384816264, 0.5204232566587146]}",
+        "{\"http://dbpedia.org/resource/Bob_Cain\": [0.5454545454545454, 0.3, 0.010526315789473684, 0.0, 0.0009326618168252192, 0.3353456761530422]}",
+        "{\"http://dbpedia.org/resource/Bob_Champoux\": [0.4, 0.31666666666666665, 0.010526315789473684, 0.0, 9.326618168252192e-05, 0.29678097909855783]}",
+        "{\"http://dbpedia.org/resource/Bob_Christo\": [0.42857142857142855, 0.26666666666666666, 0.010526315789473684, 0.0, 0.01315053161723559, 0.2804695566560498]}",
+        "{\"http://dbpedia.org/resource/Bob_Cobbing\": [0.42857142857142855, 0.2833333333333333, 0.010526315789473684, 0.0, 0.010119380712553628, 0.28906799911081565]}",
+        "{\"http://dbpedia.org/resource/Bob_Considine\": [0.375, 0.36666666666666664, 0.010526315789473684, 0.0, 0.0002331654542063048, 0.31491297406218405]}",
+        "{\"http://dbpedia.org/resource/Bob_Crane\": [0.5, 0.2833333333333333, 0.010526315789473684, 0.0, 0.6099608282036934, 0.3422743571996584]}",
+        "{\"http://dbpedia.org/resource/Bob_Hope_%28Emmerdale%29\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.030871106136914756, 0.32706987109631946]}",
+        "{\"http://dbpedia.org/resource/Bob_Stroger\": [0.42857142857142855, 0.3833333333333333, 0.010526315789473684, 0.0, 0.0, 0.341062030075188]}",
+        "{\"http://dbpedia.org/resource/Bob_Weinstein\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 0.11760865510166013, 0.5064067485445567]}",
+        "{\"http://dbpedia.org/resource/Bob_Younger\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.02919231486662936, 0.5194859315328052]}",
+        "{\"http://dbpedia.org/resource/Bob_and_George\": [1.0, 0.26666666666666666, 0.010526315789473684, 0.0, 0.08748367841820556, 0.469900499710384]}",
+        "{\"http://dbpedia.org/resource/Bob_campaign\": [1.0, 0.26666666666666666, 0.010526315789473684, 0.0, 0.004989740720014923, 0.4657758028254745]}",
+        "{\"http://dbpedia.org/resource/Bob_cut\": [1.0, 0.3333333333333333, 0.021052631578947368, 0.0, 0.4564913262451035, 0.5238771978912026]}",
+        "{\"http://dbpedia.org/resource/Bob_the_Builder\": [1.0, 0.3, 0.010526315789473684, 0.0, 0.37548964745383323, 0.5018007981621654]}",
+        "{\"http://dbpedia.org/resource/Bobsleigh\": [1.0, 0.3833333333333333, 0.2631578947368421, 0.0, 0.1487129266927812, 0.5468435410714813]}",
+        "{\"http://dbpedia.org/resource/Bubble_Bobble\": [1.0, 0.2833333333333333, 0.010526315789473684, 0.0, 0.564680096996829, 0.5025103206393151]}",
+        "{\"http://dbpedia.org/resource/Cherry_Twister\": [1.0, 0.2583333333333333, 0.031578947368421054, 0.0, 0.0, 0.4622039473684211]}",
+        "{\"http://dbpedia.org/resource/Hurricane_Bob\": [1.0, 0.36666666666666664, 0.010526315789473684, 0.0, 0.05428091773922775, 0.5207403616764351]}",
+        "{\"http://dbpedia.org/resource/J._R._%22Bob%22_Dobbs\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.1317384816265622, 0.3321132398708018]}",
+        "{\"http://dbpedia.org/resource/Jay_and_Silent_Bob\": [1.0, 0.3, 0.010526315789473684, 0.0, 0.777513523596344, 0.521901991969291]}",
+        "{\"http://dbpedia.org/resource/Killer_Bob\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.0, 0.3255263157894737]}",
+        "{\"http://dbpedia.org/resource/MY_Bob_Barker\": [0.46153846153846156, 0.2833333333333333, 0.010526315789473684, 0.0, 0.0, 0.2992763157894737]}",
+        "{\"http://dbpedia.org/resource/Microsoft_Bob\": [1.0, 0.2833333333333333, 0.010526315789473684, 0.0, 0.3844898339861966, 0.49350080748878355]}",
+        "{\"http://dbpedia.org/resource/Midge_and_Bob_Pinciotti\": [1.0, 0.2833333333333333, 0.031578947368421054, 0.0, 0.10310576385002798, 0.48048423556092246]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.4, 0.6666666666666666, 0.0, 0.9511101304657719, 0.14661443760492446, 0.5348862284035347]}",
+        "{\"http://dbpedia.org/resource/Robert_Passantino\": [1.0, 0.26666666666666666, 0.010526315789473684, 0.0, 0.0, 0.46552631578947373]}",
+        "{\"http://dbpedia.org/resource/Robert_Satiacum\": [0.4, 0.3333333333333333, 0.010526315789473684, 0.0, 0.003124417086364484, 0.3056825366437919]}",
+        "{\"http://dbpedia.org/resource/Sideshow_Bob\": [1.0, 0.3333333333333333, 0.010526315789473684, 0.0, 1.0, 0.5505263157894738]}",
+        "{\"http://dbpedia.org/resource/Weebl_and_Bob\": [1.0, 0.3, 0.010526315789473684, 0.0, 0.2040197724305167, 0.4932273044109996]}",
+        "{\"http://dbpedia.org/resource/What_About_Bob%3F\": [1.0, 0.0, 0.010526315789473684, 0.0, 0.15104458123484424, 0.3330785448512159]}" ;
     nif:anchorOf "Bob"^^xsd:string ;
     nif:beginIndex "3072"^^xsd:nonNegativeInteger ;
     nif:confidence 5.505263e-01 ;
@@ -861,6 +1395,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.35, 0.018867924528301886, 0.0, 0.039413845376452754, 0.3533307551619044]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.3333333333333333, 0.05660377358490566, 0.0, 0.0, 0.418570929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.36666666666666664, 0.009433962264150943, 0.0, 0.0, 0.4429716981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.5166666666666667, 0.03773584905660377, 0.0, 0.07731177362304194, 0.45267805680965806]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.5166666666666667, 0.0, 0.0, 0.07731177362304194, 0.5158563294218929]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.5166666666666667, 0.4716981132075472, 0.0, 0.0, 0.5355756464011182]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.36666666666666664, 0.009433962264150943, 0.0, 0.0, 0.38414816870144286]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.6333333333333333, 0.0, 0.9703725093562656, 1.0, 0.6551565565022961]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.6333333333333333, 0.0, 0.9703725093562656, 1.0, 0.7018519588011467]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.6333333333333333, 1.0, 0.9703725093562656, 1.0, 0.8060186254678133]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.26666666666666666, 0.16981132075471697, 0.0, 0.0808489135927236, 0.34950270868706906]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "3143"^^xsd:nonNegativeInteger ;
     nif:confidence 8.060186e-01 ;
@@ -895,6 +1440,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Home_Depot_Landscape_Supply> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7727272727272727, 0.36666666666666664, 1.0, 0.0, 1.0, 0.5436363636363637]}" ;
     nif:anchorOf "Home Depot Supply"^^xsd:string ;
     nif:beginIndex "3272"^^xsd:nonNegativeInteger ;
     nif:confidence 5.436364e-01 ;
@@ -929,6 +1475,29 @@
         <http://dbpedia.org/resource/Michael_Dickerson>,
         <http://dbpedia.org/resource/The_Syndicate_(group)>,
         <http://dbpedia.org/resource/Wayne_DeAngelo> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/--NME--\": [0.8, 0.0, 0.0, 0.990025, 0.0, 0.30950125]}",
+        "{\"http://dbpedia.org/resource/2012_St._Patrick's_Day_beating\": [0.6956521739130435, 0.19999999999999998, 0.21428571428571427, 0.0, 0.0, 0.34180124223602487]}",
+        "{\"http://dbpedia.org/resource/Ann_Marie_DeAngelo\": [0.6153846153846154, 0.21666666666666665, 0.32142857142857145, 0.0, 0.0, 0.32982142857142854]}",
+        "{\"http://dbpedia.org/resource/Anthony_DeAngelo\": [0.6666666666666666, 0.25, 0.03571428571428571, 0.0, 0.0, 0.34970238095238093]}",
+        "{\"http://dbpedia.org/resource/Beverly_D'Angelo\": [0.6666666666666666, 0.26666666666666666, 0.2857142857142857, 0.0, 1.0, 0.42095238095238097]}",
+        "{\"http://dbpedia.org/resource/Bonzi_Wells\": [0.5714285714285714, 0.23333333333333334, 0.5357142857142857, 0.0, 0.11449464612170279, 0.34072473230608513]}",
+        "{\"http://dbpedia.org/resource/David_Deangelo\": [0.7272727272727273, 0.0, 0.17857142857142858, 0.0, 0.0043875685557586835, 0.24551158621999575]}",
+        "{\"http://dbpedia.org/resource/David_deangelo\": [0.7272727272727273, 0.0, 0.17857142857142858, 0.0, 0.062366153042569865, 0.24841051544433632]}",
+        "{\"http://dbpedia.org/resource/DeAngelo\": [1.0, 0.22499999999999998, 0.10714285714285714, 0.0, 0.0, 0.44848214285714283]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Glacier\": [0.6666666666666666, 0.19999999999999998, 0.14285714285714285, 0.0, 0.0, 0.3288095238095238]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Hall\": [0.7619047619047619, 0.25, 0.7142857142857143, 0.0, 0.38955340820057455, 0.43406100374336204]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Peterson\": [0.64, 0.19999999999999998, 0.07142857142857142, 0.0, 0.0, 0.31657142857142856]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Smith\": [0.7272727272727273, 0.19999999999999998, 0.32142857142857145, 0.0, 0.0, 0.35743506493506494]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Tyson\": [0.7272727272727273, 0.26666666666666666, 0.14285714285714285, 0.0, 0.0, 0.3835064935064935]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Williams\": [0.64, 0.25, 1.0, 0.0, 0.08179681378950117, 0.3933398406894751]}",
+        "{\"http://dbpedia.org/resource/DeAngelo_Willingham\": [0.5925925925925926, 0.23333333333333334, 0.35714285714285715, 0.0, 0.0, 0.33294973544973544]}",
+        "{\"http://dbpedia.org/resource/Deangelo_Parker\": [0.6956521739130435, 0.0, 0.07142857142857142, 0.0, 0.0, 0.2296583850931677]}",
+        "{\"http://dbpedia.org/resource/Deangelo_lamont_parker\": [0.5333333333333333, 0.0, 0.07142857142857142, 0.0, 0.0, 0.1769047619047619]}",
+        "{\"http://dbpedia.org/resource/List_of_The_Office_(U.S._TV_series)_characters\": [0.6666666666666666, 0.3833333333333333, 0.14285714285714285, 0.0, 0.0, 0.4250595238095238]}",
+        "{\"http://dbpedia.org/resource/List_of_characters_in_mythology_novels_by_Rick_Riordan\": [0.7619047619047619, 0.0, 0.10714285714285714, 0.0, 0.0, 0.25297619047619047]}",
+        "{\"http://dbpedia.org/resource/Michael_Dickerson\": [0.47058823529411764, 0.23333333333333334, 0.2857142857142857, 0.0, 0.0543745103160094, 0.292445616272103]}",
+        "{\"http://dbpedia.org/resource/The_Syndicate_(group)\": [0.7272727272727273, 0.0, 0.2857142857142857, 0.0, 0.0, 0.2506493506493507]}",
+        "{\"http://dbpedia.org/resource/Wayne_DeAngelo\": [0.7272727272727273, 0.21666666666666665, 0.39285714285714285, 0.0, 0.0, 0.3697564935064935]}" ;
     nif:anchorOf "DeAngelo"^^xsd:string ;
     nif:beginIndex "3466"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -947,6 +1516,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.175, 0.09090909090909091, 0.0, 0.0, 0.32250741106719366]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.16666666666666666, 0.3939393939393939, 0.0, 0.0, 0.3071969696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.16666666666666666, 0.06060606060606061, 0.0, 0.0, 0.3268939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.18333333333333332, 0.09090909090909091, 0.0, 0.0, 0.3174621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.16666666666666666, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.42012346749942164]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.25, 0.0, 0.9229311239742362, 1.0, 0.4873965561987118]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.25, 1.0, 0.9229311239742362, 1.0, 0.5373965561987118]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.18333333333333335, 0.2727272727272727, 0.0, 0.020038167938931296, 0.3472519083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "3550"^^xsd:nonNegativeInteger ;
     nif:confidence 5.4e-01 ;
@@ -966,6 +1543,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.2, 0.018867924528301886, 0.0, 0.039413845376452754, 0.2745807551619044]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.18333333333333332, 0.05660377358490566, 0.0, 0.0, 0.33982092941998604]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.2, 0.009433962264150943, 0.0, 0.0, 0.35547169811320756]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.31666666666666665, 0.03773584905660377, 0.985074875, 0.07731177362304194, 0.396931800559658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.31666666666666665, 0.0, 0.985074875, 0.07731177362304194, 0.46011007317189284]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.26666666666666666, 0.4716981132075472, 0.0, 0.0, 0.40432564640111807]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.2, 0.009433962264150943, 0.0, 0.0, 0.2966481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.3333333333333333, 0.0, 0.9703725093562656, 1.0, 0.49765655650229607]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.3333333333333333, 0.0, 0.9703725093562656, 1.0, 0.5443519588011466]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.3333333333333333, 1.0, 0.9703725093562656, 1.0, 0.6485186254678134]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.16666666666666666, 0.16981132075471697, 0.0, 0.0808489135927236, 0.297002708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "3563"^^xsd:nonNegativeInteger ;
     nif:confidence 6.485186e-01 ;
@@ -984,6 +1572,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.2833333333333333, 0.09090909090909091, 0.0, 0.0, 0.3793824110671936]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.30833333333333335, 0.3939393939393939, 0.0, 0.0, 0.38157196969696977]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.27499999999999997, 0.06060606060606061, 0.0, 0.0, 0.3837689393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.5166666666666666, 0.09090909090909091, 0.0, 0.0, 0.4924621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.5166666666666666, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6038734674994216]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.7, 0.0, 0.990025, 1.0, 0.72700125]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.7, 1.0, 0.990025, 1.0, 0.7770012500000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.325, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4216269083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "374"^^xsd:nonNegativeInteger ;
     nif:confidence 7.770013e-01 ;
@@ -1002,6 +1598,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.15833333333333333, 0.09090909090909091, 0.0, 0.0, 0.3137574110671937]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.16666666666666666, 0.3939393939393939, 0.0, 0.0, 0.3071969696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.16666666666666666, 0.06060606060606061, 0.0, 0.0, 0.3268939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.2, 0.09090909090909091, 0.0, 0.0, 0.3262121212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.18333333333333335, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.4288734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.31666666666666665, 0.0, 0.9137248860125932, 1.0, 0.5219362443006297]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.31666666666666665, 1.0, 0.9137248860125932, 1.0, 0.5719362443006297]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.16666666666666666, 0.2727272727272727, 0.0, 0.020038167938931296, 0.33850190839694655]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "3780"^^xsd:nonNegativeInteger ;
     nif:confidence 5.719362e-01 ;
@@ -1020,6 +1624,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.19166666666666665, 0.09090909090909091, 0.0, 0.0, 0.33125741106719364]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.21666666666666665, 0.3939393939393939, 0.0, 0.0, 0.3334469696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.19999999999999998, 0.06060606060606061, 0.0, 0.0, 0.3443939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.3, 0.09090909090909091, 0.0, 0.0, 0.37871212121212117]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.2833333333333334, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.48137346749942167]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.41666666666666663, 0.0, 0.995, 1.0, 0.5785]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.41666666666666663, 1.0, 0.995, 1.0, 0.6285000000000001]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.21666666666666665, 0.2727272727272727, 0.0, 0.020038167938931296, 0.36475190839694654]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "4682"^^xsd:nonNegativeInteger ;
     nif:confidence 6.285e-01 ;
@@ -1039,6 +1651,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.23333333333333334, 0.018867924528301886, 0.0, 0.039413845376452754, 0.2920807551619044]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.23333333333333334, 0.05660377358490566, 0.0, 0.0, 0.36607092941998604]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.23333333333333334, 0.009433962264150943, 0.0, 0.0, 0.3729716981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.43333333333333335, 0.03773584905660377, 0.9703725093562656, 0.07731177362304194, 0.45744668227747126]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.43333333333333335, 0.0, 0.9703725093562656, 0.07731177362304194, 0.5206249548897061]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.3833333333333333, 0.4716981132075472, 0.0, 0.0, 0.4655756464011181]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.23333333333333334, 0.009433962264150943, 0.0, 0.0, 0.3141481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.55, 0.0, 0.985074875, 1.0, 0.6121416747844829]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.55, 0.0, 0.985074875, 1.0, 0.6588370770833335]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.55, 1.0, 0.985074875, 1.0, 0.7630037437500001]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.19999999999999998, 0.16981132075471697, 0.0, 0.0808489135927236, 0.31450270868706903]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "4829"^^xsd:nonNegativeInteger ;
     nif:confidence 7.630037e-01 ;
@@ -1057,6 +1680,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.19166666666666665, 0.09090909090909091, 0.0, 0.0, 0.33125741106719364]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.23333333333333334, 0.3939393939393939, 0.0, 0.0, 0.3421969696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.19999999999999998, 0.06060606060606061, 0.0, 0.0, 0.3443939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.3833333333333333, 0.09090909090909091, 0.0, 0.0, 0.4224621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.3833333333333333, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.5338734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.55, 0.0, 0.990025, 1.0, 0.6482512500000002]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.55, 1.0, 0.990025, 1.0, 0.6982512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.23333333333333334, 0.2727272727272727, 0.0, 0.020038167938931296, 0.3735019083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "4857"^^xsd:nonNegativeInteger ;
     nif:confidence 6.982513e-01 ;
@@ -1069,6 +1700,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/John_Clendenin> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/John_Clendenin\": [1.0, 0.39999999999999997, 1.0, 0.0, 1.0, 0.6350000000000001]}" ;
     nif:anchorOf "John L. Clendenin"^^xsd:string ;
     nif:beginIndex "5017"^^xsd:nonNegativeInteger ;
     nif:confidence 6.35e-01 ;
@@ -1110,6 +1742,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.23333333333333334, 0.018867924528301886, 0.0, 0.039413845376452754, 0.2920807551619044]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.23333333333333334, 0.05660377358490566, 0.0, 0.0, 0.36607092941998604]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.23333333333333334, 0.009433962264150943, 0.0, 0.0, 0.3729716981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.4, 0.03773584905660377, 0.946354579813443, 0.07731177362304194, 0.4387457858003302]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.4, 0.0, 0.946354579813443, 0.07731177362304194, 0.501924058412565]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.4, 0.4716981132075472, 0.0, 0.0, 0.47432564640111813]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.23333333333333334, 0.009433962264150943, 0.0, 0.0, 0.3141481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.6, 0.0, 0.975248753121875, 1.0, 0.6379003686905766]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.6, 0.0, 0.975248753121875, 1.0, 0.6845957709894273]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.6, 1.0, 0.975248753121875, 1.0, 0.7887624376560939]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.19999999999999998, 0.16981132075471697, 0.0, 0.0808489135927236, 0.31450270868706903]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "5208"^^xsd:nonNegativeInteger ;
     nif:confidence 7.887624e-01 ;
@@ -1124,6 +1767,9 @@
     ns1:candidate <http://dbpedia.org/resource/English_v._General_Electric_Co.>,
         <http://dbpedia.org/resource/General_Electric>,
         <http://dbpedia.org/resource/United_States_v._General_Electric_Co.> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/English_v._General_Electric_Co.\": [0.7843137254901961, 0.31666666666666665, 0.6666666666666666, 0.0, 0.0, 0.45448529411764704]}",
+        "{\"http://dbpedia.org/resource/General_Electric\": [1.0, 0.55, 0.75, 0.0, 1.0, 0.70125]}",
+        "{\"http://dbpedia.org/resource/United_States_v._General_Electric_Co.\": [0.7142857142857143, 0.31666666666666665, 1.0, 0.0, 0.0, 0.44839285714285715]}" ;
     nif:anchorOf "General Electric Co."^^xsd:string ;
     nif:beginIndex "583"^^xsd:nonNegativeInteger ;
     nif:confidence 7.0125e-01 ;
@@ -1142,6 +1788,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.3, 0.09090909090909091, 0.0, 0.0, 0.38813241106719365]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.31666666666666665, 0.3939393939393939, 0.0, 0.0, 0.38594696969696973]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.2833333333333333, 0.06060606060606061, 0.0, 0.0, 0.38814393939393943]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.5333333333333333, 0.09090909090909091, 0.0, 0.0, 0.5012121212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.5333333333333333, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6126234674994216]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.75, 0.0, 0.990025, 1.0, 0.7532512500000001]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.75, 1.0, 0.990025, 1.0, 0.8032512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.42600190839694657]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "611"^^xsd:nonNegativeInteger ;
     nif:confidence 8.032513e-01 ;
@@ -1161,6 +1815,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.36666666666666664, 0.018867924528301886, 0.0, 0.039413845376452754, 0.36208075516190436]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.36666666666666664, 0.05660377358490566, 0.0, 0.0, 0.436070929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.3833333333333333, 0.009433962264150943, 0.0, 0.0, 0.45172169811320756]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.5833333333333334, 0.03773584905660377, 0.0, 0.07731177362304194, 0.487678056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.5833333333333334, 0.0, 0.0, 0.07731177362304194, 0.5508563294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.5833333333333334, 0.4716981132075472, 0.0, 0.0, 0.5705756464011181]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.36666666666666664, 0.009433962264150943, 0.0, 0.0, 0.38414816870144286]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.8499999999999999, 0.0, 0.980149500625, 1.0, 0.7693954060657328]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.8499999999999999, 0.0, 0.980149500625, 1.0, 0.8160908083645834]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.8499999999999999, 1.0, 0.980149500625, 1.0, 0.9202574750312501]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.31666666666666665, 0.16981132075471697, 0.0, 0.0808489135927236, 0.37575270868706906]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "652"^^xsd:nonNegativeInteger ;
     nif:confidence 9.202575e-01 ;
@@ -1179,6 +1844,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.36666666666666664, 0.09090909090909091, 0.0, 0.0, 0.4231324110671937]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.39999999999999997, 0.3939393939393939, 0.0, 0.0, 0.42969696969696974]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.35, 0.06060606060606061, 0.0, 0.0, 0.42314393939393946]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6833333333333335, 0.09090909090909091, 0.0, 0.0, 0.5799621212121212]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6833333333333335, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6913734674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 0.0, 0.990025, 1.0, 0.8582512500000001]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.95, 1.0, 0.990025, 1.0, 0.9082512500000002]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.41666666666666663, 0.2727272727272727, 0.0, 0.020038167938931296, 0.4697519083969466]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "668"^^xsd:nonNegativeInteger ;
     nif:confidence 9.082513e-01 ;
@@ -1191,6 +1864,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Frank_Blake> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Frank_Blake\": [1.0, 0.95, 1.0, 0.0, 1.0, 0.9237500000000001]}" ;
     nif:anchorOf "Frank Blake"^^xsd:string ;
     nif:beginIndex "699"^^xsd:nonNegativeInteger ;
     nif:confidence 9.2375e-01 ;
@@ -1210,6 +1884,17 @@
         <http://dbpedia.org/resource/Stubhub_Center_(tennis)>,
         <http://dbpedia.org/resource/The_Home_Depot>,
         <http://dbpedia.org/resource/The_Home_Depot_Invitational> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/2002_WTA_Tour_Championships\": [0.5128205128205128, 0.39999999999999997, 0.018867924528301886, 0.0, 0.039413845376452754, 0.37958075516190437]}",
+        "{\"http://dbpedia.org/resource/2012_CONCACAF_Men's_Olympic_Qualifying_Championship\": [0.7407407407407407, 0.3833333333333333, 0.05660377358490566, 0.0, 0.0, 0.444820929419986]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Coach_of_the_Year_Award\": [0.7692307692307693, 0.41666666666666663, 0.009433962264150943, 0.0, 0.0, 0.4692216981132076]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.5405405405405406, 0.5833333333333334, 0.03773584905660377, 0.0, 0.07731177362304194, 0.487678056809658]}",
+        "{\"http://dbpedia.org/resource/Home_Depot_Landscape_Supply\": [0.7407407407407407, 0.5833333333333334, 0.0, 0.0, 0.07731177362304194, 0.5508563294218928]}",
+        "{\"http://dbpedia.org/resource/StubHub_Center\": [0.7407407407407407, 0.5833333333333334, 0.4716981132075472, 0.0, 0.0, 0.5705756464011181]}",
+        "{\"http://dbpedia.org/resource/Stubhub_Center_(tennis)\": [0.5882352941176471, 0.39999999999999997, 0.009433962264150943, 0.0, 0.0, 0.4016481687014429]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.6896551724137931, 0.95, 0.0, 0.985074875, 1.0, 0.8221416747844829]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [0.8333333333333334, 0.95, 0.0, 0.985074875, 1.0, 0.8688370770833334]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot\": [1.0, 0.95, 1.0, 0.985074875, 1.0, 0.9730037437500001]}",
+        "{\"http://dbpedia.org/resource/The_Home_Depot_Invitational\": [0.6060606060606061, 0.35, 0.16981132075471697, 0.0, 0.0808489135927236, 0.393252708687069]}" ;
     nif:anchorOf "Home Depot"^^xsd:string ;
     nif:beginIndex "791"^^xsd:nonNegativeInteger ;
     nif:confidence 9.730037e-01 ;
@@ -1222,6 +1907,7 @@
         nif:RFC5147String,
         nif:String ;
     ns1:candidate <http://dbpedia.org/resource/Jerry_A._Shields> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Jerry_A._Shields\": [0.896551724137931, 0.41666666666666663, 1.0, 0.0, 0.0, 0.5601293103448277]}" ;
     nif:anchorOf "Jerry Shields"^^xsd:string ;
     nif:beginIndex "812"^^xsd:nonNegativeInteger ;
     nif:confidence 5.601293e-01 ;
@@ -1372,6 +2058,145 @@
         <http://dbpedia.org/resource/Vivian_Blake>,
         <http://dbpedia.org/resource/William_Blake>,
         <http://dbpedia.org/resource/Yohan_Blake> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/5AA\": [0.7142857142857143, 0.35, 0.05555555555555555, 0.0, 0.005594092638174088, 0.4189503395525436]}",
+        "{\"http://dbpedia.org/resource/Anita_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.1419882422343823, 0.38800218988949686]}",
+        "{\"http://dbpedia.org/resource/Arthur_Blake\": [0.5882352941176471, 0.2916666666666667, 0.05555555555555555, 0.0, 0.0030309811021379603, 0.34723079742112]}",
+        "{\"http://dbpedia.org/resource/Asha_Blake\": [0.6666666666666666, 0.39999999999999997, 0.05555555555555555, 0.0, 0.012632478284749487, 0.4300760683586819]}",
+        "{\"http://dbpedia.org/resource/Blake\": [1.0, 0.35, 0.6666666666666666, 0.0, 0.06318273357879534, 0.5452424700122731]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_Lotaburger\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0061026465143717325, 0.3280829101034964]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_Pools\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake%27s_hitch\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.004943143676641103, 0.32802493496160984]}",
+        "{\"http://dbpedia.org/resource/Blake,_Cassels_&_Graydon\": [1.0, 0.39999999999999997, 0.05555555555555555, 0.0, 0.00144429300840131, 0.5378499924281979]}",
+        "{\"http://dbpedia.org/resource/Blake_%28band%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.00012205293028743465, 0.32778388042429213]}",
+        "{\"http://dbpedia.org/resource/Blake_%28monologue%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake_%28sculptor%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0, 0.3277777777777778]}",
+        "{\"http://dbpedia.org/resource/Blake_(band)\": [1.0, 0.3333333333333333, 0.6111111111111112, 0.0, 2.0342155047905775e-05, 0.5305565726633079]}",
+        "{\"http://dbpedia.org/resource/Blake_(disambiguation)\": [1.0, 0.32499999999999996, 1.0, 0.0, 0.0, 0.545625]}",
+        "{\"http://dbpedia.org/resource/Blake_Aaron\": [0.625, 0.39999999999999997, 0.05555555555555555, 0.0, 2.0342155047905775e-05, 0.41590379488553014]}",
+        "{\"http://dbpedia.org/resource/Blake_Ahearn\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004129457474724873, 0.36916072123974936]}",
+        "{\"http://dbpedia.org/resource/Blake_Aldridge\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.34883040935672516]}",
+        "{\"http://dbpedia.org/resource/Blake_Babies\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.01493114180516284, 0.3784508054562712]}",
+        "{\"http://dbpedia.org/resource/Blake_Bailey\": [0.5882352941176471, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0, 0.40395424836601307]}",
+        "{\"http://dbpedia.org/resource/Blake_Bashoff\": [0.5555555555555556, 0.49999999999999994, 0.05555555555555555, 0.0, 0.05097744055005187, 0.4483822053608359]}",
+        "{\"http://dbpedia.org/resource/Blake_Basin\": [1.0, 0.41666666666666663, 0.05555555555555555, 0.0, 0.002929270326898432, 0.5466742412941227]}",
+        "{\"http://dbpedia.org/resource/Blake_Berris\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.019386073760654203, 0.3786735520540458]}",
+        "{\"http://dbpedia.org/resource/Blake_Bjorklund\": [0.5, 0.39999999999999997, 0.05555555555555555, 0.0, 0.00235968998555707, 0.3753957622770556]}",
+        "{\"http://dbpedia.org/resource/Blake_Butler\": [0.5882352941176471, 0.3416666666666666, 0.05555555555555555, 0.0, 0.00012205293028743465, 0.3733353510125274]}",
+        "{\"http://dbpedia.org/resource/Blake_Camp\": [0.6666666666666666, 0.39999999999999997, 0.05555555555555555, 0.0, 0.004068431009581155, 0.42964786599492344]}",
+        "{\"http://dbpedia.org/resource/Blake_Caracella\": [0.5, 0.32499999999999996, 0.05555555555555555, 0.0, 0.0027665330865151855, 0.33604110443210355]}",
+        "{\"http://dbpedia.org/resource/Blake_Carrington\": [0.47619047619047616, 0.4333333333333333, 0.05555555555555555, 0.0, 0.015663459386887447, 0.3858228555090269]}",
+        "{\"http://dbpedia.org/resource/Blake_Chancey\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.0, 0.3670833333333333]}",
+        "{\"http://dbpedia.org/resource/Blake_Clark\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.04682764092027909, 0.42699415982379174]}",
+        "{\"http://dbpedia.org/resource/Blake_Comeau\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.007404544437437702, 0.395574475587885]}",
+        "{\"http://dbpedia.org/resource/Blake_Costanzo\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 0.005146565227120161, 0.34908773761808115]}",
+        "{\"http://dbpedia.org/resource/Blake_Dunlop\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.00235968998555707, 0.39532223286529095]}",
+        "{\"http://dbpedia.org/resource/Blake_Edwards\": [0.5555555555555556, 0.35, 0.3333333333333333, 0.0, 0.16831099086637238, 0.38938777176554085]}",
+        "{\"http://dbpedia.org/resource/Blake_Emmons\": [0.5882352941176471, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0030513232571858662, 0.40410681452887237]}",
+        "{\"http://dbpedia.org/resource/Blake_Fell\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0011595028377306292, 0.394502419586331]}",
+        "{\"http://dbpedia.org/resource/Blake_Fleming\": [0.5555555555555556, 0.39999999999999997, 0.05555555555555555, 0.0, 0.019853943326756038, 0.39432603049967113]}",
+        "{\"http://dbpedia.org/resource/Blake_Foster\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.051831811062063915, 0.3715458389191163]}",
+        "{\"http://dbpedia.org/resource/Blake_Gibbons\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004780406436257857, 0.3585723536551462]}",
+        "{\"http://dbpedia.org/resource/Blake_Gottesman\": [0.5, 0.4833333333333333, 0.05555555555555555, 0.0, 0.015114221200593992, 0.4197834888378075]}",
+        "{\"http://dbpedia.org/resource/Blake_Griffin\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.00996765597347383, 0.367581716132007]}",
+        "{\"http://dbpedia.org/resource/Blake_Heron\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.005309302467503408, 0.42491824290115293]}",
+        "{\"http://dbpedia.org/resource/Blake_Island\": [1.0, 0.39999999999999997, 0.1111111111111111, 0.0, 0.004353221180251836, 0.5407732166145681]}",
+        "{\"http://dbpedia.org/resource/Blake_Judd\": [0.6666666666666666, 0.4833333333333333, 0.05555555555555555, 0.0, 0.0038243251490062856, 0.47338566070189475]}",
+        "{\"http://dbpedia.org/resource/Blake_Lewis\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.6728371203645315, 0.4582946337960043]}",
+        "{\"http://dbpedia.org/resource/Blake_Leyh\": [0.6666666666666666, 0.35, 0.05555555555555555, 0.0, 0.005309302467503408, 0.4034599095678196]}",
+        "{\"http://dbpedia.org/resource/Blake_Marler\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0045363005756829874, 0.3691810633947972]}",
+        "{\"http://dbpedia.org/resource/Blake_Marshall\": [0.5263157894736842, 0.32499999999999996, 0.05555555555555555, 0.0, 0.0009153969771557599, 0.34450117920558293]}",
+        "{\"http://dbpedia.org/resource/Blake_McGrath\": [0.5555555555555556, 0.3833333333333333, 0.05555555555555555, 0.0, 0.036086983054984846, 0.3863876824860826]}",
+        "{\"http://dbpedia.org/resource/Blake_Miller\": [0.5882352941176471, 0.27499999999999997, 0.05555555555555555, 0.0, 0.0033157712728086415, 0.3384950369296535]}",
+        "{\"http://dbpedia.org/resource/Blake_Morgan\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.00010171077523952888, 0.41270933390477504]}",
+        "{\"http://dbpedia.org/resource/Blake_Morrison\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 0.006936674871335869, 0.34917724310029197]}",
+        "{\"http://dbpedia.org/resource/Blake_Nelson\": [0.5882352941176471, 0.39999999999999997, 0.05555555555555555, 0.0, 0.01236803026912671, 0.4045726498794694]}",
+        "{\"http://dbpedia.org/resource/Blake_Pier_at_Stanley\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.39444444444444443]}",
+        "{\"http://dbpedia.org/resource/Blake_Price\": [0.625, 0.3833333333333333, 0.05555555555555555, 0.0, 0.0, 0.40715277777777775]}",
+        "{\"http://dbpedia.org/resource/Blake_Prize_for_Religious_Art\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0032140604975691126, 0.38106348080265623]}",
+        "{\"http://dbpedia.org/resource/Blake_Richards\": [0.5263157894736842, 0.3833333333333333, 0.05555555555555555, 0.0, 0.0, 0.37508040935672515]}",
+        "{\"http://dbpedia.org/resource/Blake_Richardson\": [0.47619047619047616, 0.3333333333333333, 0.05555555555555555, 0.0, 0.01859272971378588, 0.3334693190253718]}",
+        "{\"http://dbpedia.org/resource/Blake_River_Megacaldera_Complex\": [1.0, 0.3833333333333333, 0.05555555555555555, 0.0, 0.0169043308448097, 0.5298729943200182]}",
+        "{\"http://dbpedia.org/resource/Blake_Schwarzenbach\": [0.4166666666666667, 0.41666666666666663, 0.05555555555555555, 0.0, 0.04074533656095527, 0.35898171127249223]}",
+        "{\"http://dbpedia.org/resource/Blake_Sennett\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 0.16936878292886348, 0.3668017724797765]}",
+        "{\"http://dbpedia.org/resource/Blake_Shelton\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.48198702170507945, 0.3911826844185873]}",
+        "{\"http://dbpedia.org/resource/Blake_Shields\": [0.5555555555555556, 0.41666666666666663, 0.05555555555555555, 0.0, 0.007567281677820948, 0.4024616974172244]}",
+        "{\"http://dbpedia.org/resource/Blake_Sloan\": [0.625, 0.4833333333333333, 0.05555555555555555, 0.0, 0.003966720234341626, 0.45985111378949484]}",
+        "{\"http://dbpedia.org/resource/Blake_Snyder\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 2.0342155047905775e-05, 0.3689552654737655]}",
+        "{\"http://dbpedia.org/resource/Blake_Stein\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0019121625745031428, 0.3809983859065029]}",
+        "{\"http://dbpedia.org/resource/Blake_Stepp\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.016843304379665983, 0.38174494299676104]}",
+        "{\"http://dbpedia.org/resource/Blake_Watson\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.3689542483660131]}",
+        "{\"http://dbpedia.org/resource/Blake_Wheeler\": [0.5555555555555556, 0.39999999999999997, 0.05555555555555555, 0.0, 0.010659289245102626, 0.39386629779558846]}",
+        "{\"http://dbpedia.org/resource/Blake_Williams\": [0.5263157894736842, 0.3333333333333333, 0.05555555555555555, 0.0, 6.102646514371733e-05, 0.34883346067998233]}",
+        "{\"http://dbpedia.org/resource/Blind_Blake\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.02955715128460709, 0.4261306353420081]}",
+        "{\"http://dbpedia.org/resource/Blossom_Rock\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.030411521796619132, 0.42617335386760874]}",
+        "{\"http://dbpedia.org/resource/Bobby_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.14383937834374175, 0.38809474669496485]}",
+        "{\"http://dbpedia.org/resource/Bud_Blake\": [0.7142857142857143, 0.4833333333333333, 0.05555555555555555, 0.0, 0.0030106389470900548, 0.4888211668679894]}",
+        "{\"http://dbpedia.org/resource/Casey_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0023190056754612584, 0.3810187280615508]}",
+        "{\"http://dbpedia.org/resource/Christopher_Blake\": [0.45454545454545453, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004780406436257857, 0.3257440708268634]}",
+        "{\"http://dbpedia.org/resource/Daphne_Blake\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.1723387375658577, 0.386321185244306]}",
+        "{\"http://dbpedia.org/resource/Darcy_Blake\": [0.625, 0.32499999999999996, 0.05555555555555555, 0.0, 0.008909863910982729, 0.3769732709733269]}",
+        "{\"http://dbpedia.org/resource/Dead_Man\": [0.5555555555555556, 0.39999999999999997, 0.05555555555555555, 0.0, 0.14874183771028704, 0.40077042521884765]}",
+        "{\"http://dbpedia.org/resource/Dennis_Blake\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.0, 0.3952042483660131]}",
+        "{\"http://dbpedia.org/resource/Ed_Blake\": [0.7692307692307693, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0, 0.46277777777777773]}",
+        "{\"http://dbpedia.org/resource/Edward_Blake\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.01169673915254582, 0.3957890853236404]}",
+        "{\"http://dbpedia.org/resource/Eubie_Blake\": [0.625, 0.39999999999999997, 0.05555555555555555, 0.0, 0.040480888545332494, 0.41792682220504435]}",
+        "{\"http://dbpedia.org/resource/Frank_Blake\": [0.625, 0.9333333333333332, 0.0, 0.985074875, 0.017250147480624096, 0.7432412511240312]}",
+        "{\"http://dbpedia.org/resource/George_Blake\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.04184381293354218, 0.37979643901269017]}",
+        "{\"http://dbpedia.org/resource/Gillian_Blake\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 0.005838198498748957, 0.3586252432582708]}",
+        "{\"http://dbpedia.org/resource/Hamish_Blake\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.04672593014503956, 0.39754054487326507]}",
+        "{\"http://dbpedia.org/resource/Harris_Blake\": [0.5882352941176471, 0.3833333333333333, 0.05555555555555555, 0.0, 0.0007526597367725137, 0.3952418813528517]}",
+        "{\"http://dbpedia.org/resource/Harry_Blake\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.42465277777777777]}",
+        "{\"http://dbpedia.org/resource/Henry_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.07308936308712545, 0.38455724593213403]}",
+        "{\"http://dbpedia.org/resource/Howard_Blake\": [0.5882352941176471, 0.3333333333333333, 0.4444444444444444, 0.0, 0.03193718342521207, 0.38999555198171815]}",
+        "{\"http://dbpedia.org/resource/James_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.13364795866474094, 0.3875851757110148]}",
+        "{\"http://dbpedia.org/resource/James_Blake_House\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.003234402652617018, 0.38981449791040856]}",
+        "{\"http://dbpedia.org/resource/Jean_Saunders\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.38090277777777776]}",
+        "{\"http://dbpedia.org/resource/Jeff_Blake\": [0.6666666666666666, 0.3833333333333333, 0.05555555555555555, 0.0, 0.061412966089627534, 0.4237650927489258]}",
+        "{\"http://dbpedia.org/resource/Jere_Blake\": [0.6666666666666666, 0.32499999999999996, 0.05555555555555555, 0.0, 0.0, 0.3900694444444444]}",
+        "{\"http://dbpedia.org/resource/Joaqu%C3%ADn_Blake_y_Joyes\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.0031123497223295837, 0.32793339526389426]}",
+        "{\"http://dbpedia.org/resource/John_Blake\": [0.6666666666666666, 0.3333333333333333, 0.05555555555555555, 0.0, 0.007485913057629325, 0.39481874009732587]}",
+        "{\"http://dbpedia.org/resource/John_Blake_House\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.0004271852560060213, 0.389674137040578]}",
+        "{\"http://dbpedia.org/resource/Johnny_Blake\": [0.5882352941176471, 0.3416666666666666, 0.05555555555555555, 0.0, 0.0, 0.37332924836601306]}",
+        "{\"http://dbpedia.org/resource/Julia_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0060212778941801095, 0.3812038416724868]}",
+        "{\"http://dbpedia.org/resource/Karl_Blake\": [0.6666666666666666, 0.32499999999999996, 0.05555555555555555, 0.0, 0.00235968998555707, 0.39018742894372227]}",
+        "{\"http://dbpedia.org/resource/Kristen_DiMera\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 4.068431009581155e-05, 0.3583353675488381]}",
+        "{\"http://dbpedia.org/resource/List_of_Eureka_characters\": [0.5555555555555556, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0, 0.3933333333333333]}",
+        "{\"http://dbpedia.org/resource/Madge_Blake\": [0.625, 0.41666666666666663, 0.05555555555555555, 0.0, 0.02638377509713379, 0.42597196653263447]}",
+        "{\"http://dbpedia.org/resource/Megan_Blake\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.0022986635204133524, 0.3897677109537984]}",
+        "{\"http://dbpedia.org/resource/Mike_Enos\": [1.0, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0362904046054639, 0.5045922980080509]}",
+        "{\"http://dbpedia.org/resource/Nayland_Blake\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.0, 0.3670833333333333]}",
+        "{\"http://dbpedia.org/resource/Noah_Blake\": [0.6666666666666666, 0.0, 0.05555555555555555, 0.0, 0.021359262800301065, 0.2205124075844595]}",
+        "{\"http://dbpedia.org/resource/Noah_Newman\": [0.5263157894736842, 0.35, 0.05555555555555555, 0.0, 0.011350922516731423, 0.35814795548256173]}",
+        "{\"http://dbpedia.org/resource/Noel_Blake\": [0.6666666666666666, 0.32499999999999996, 0.05555555555555555, 0.0, 0.0071197542667670215, 0.39042543215778275]}",
+        "{\"http://dbpedia.org/resource/Nzinga_Blake\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.010293130454240322, 0.4132189048887251]}",
+        "{\"http://dbpedia.org/resource/Oliver_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.002257979210317541, 0.36906714732652895]}",
+        "{\"http://dbpedia.org/resource/Olivia_Richards\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.0005695803413413617, 0.37773272738308017]}",
+        "{\"http://dbpedia.org/resource/Pamela_Blake\": [0.5882352941176471, 0.32499999999999996, 0.05555555555555555, 0.0, 0.003254744807664924, 0.3647419856063963]}",
+        "{\"http://dbpedia.org/resource/Perry_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.006834964096096341, 0.38124452598258257]}",
+        "{\"http://dbpedia.org/resource/Peter_Blake_%28artist%29\": [1.0, 0.0, 0.05555555555555555, 0.0, 0.051404625806057896, 0.33034800906808065]}",
+        "{\"http://dbpedia.org/resource/Quentin_Blake\": [0.5555555555555556, 0.35, 0.05555555555555555, 0.0, 0.052014890457495064, 0.36968407785620805]}",
+        "{\"http://dbpedia.org/resource/Rob_Blake\": [0.7142857142857143, 0.3833333333333333, 0.05555555555555555, 0.0, 0.03742956528814663, 0.4380421131850422]}",
+        "{\"http://dbpedia.org/resource/Robbie_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.012123924408551841, 0.36956044458644066]}",
+        "{\"http://dbpedia.org/resource/Robert_Blake%2C_Baron_Blake\": [0.3333333333333333, 0.0, 0.2777777777777778, 0.0, 0.0037226143737667567, 0.12240835294091057]}",
+        "{\"http://dbpedia.org/resource/Robert_Blake,_Baron_Blake\": [0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.0, 0.0014239508533534042, 0.30007119754266764]}",
+        "{\"http://dbpedia.org/resource/Robert_Harrison_Blake\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.004739722126162045, 0.3691912344723212]}",
+        "{\"http://dbpedia.org/resource/Rockwell_Blake\": [0.5263157894736842, 0.35, 0.05555555555555555, 0.0, 0.00746557090258142, 0.3579536879018542]}",
+        "{\"http://dbpedia.org/resource/Rodney_Blake\": [0.5882352941176471, 0.32499999999999996, 0.05555555555555555, 0.0, 0.002257979210317541, 0.36469214732652894]}",
+        "{\"http://dbpedia.org/resource/Roj_Blake\": [1.0, 0.35, 0.1111111111111111, 0.0, 0.009947313818425924, 0.5148029212464769]}",
+        "{\"http://dbpedia.org/resource/Sexton_Blake\": [0.5882352941176471, 0.3416666666666666, 0.05555555555555555, 0.0, 0.019650521776276977, 0.3743117744548269]}",
+        "{\"http://dbpedia.org/resource/Sheriff_Blake\": [0.5555555555555556, 0.3333333333333333, 0.05555555555555555, 0.0, 0.000996765597347383, 0.3583831716132007]}",
+        "{\"http://dbpedia.org/resource/Stephenson_Blake\": [0.47619047619047616, 0.35, 0.05555555555555555, 0.0, 0.0016883988689761792, 0.3413741024831313]}",
+        "{\"http://dbpedia.org/resource/Steve_Blake\": [0.625, 0.3333333333333333, 0.05555555555555555, 0.0, 0.04300331577127281, 0.3830529435663414]}",
+        "{\"http://dbpedia.org/resource/Tchad_Blake\": [0.625, 0.39999999999999997, 0.05555555555555555, 0.0, 0.011208527431396081, 0.4164632041493475]}",
+        "{\"http://dbpedia.org/resource/Ted_Blake\": [0.7142857142857143, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0, 0.44492063492063494]}",
+        "{\"http://dbpedia.org/resource/The_Ultimate_Fighter:_Team_Hughes_vs._Team_Serra\": [0.5882352941176471, 0.3333333333333333, 0.05555555555555555, 0.0, 0.0, 0.3689542483660131]}",
+        "{\"http://dbpedia.org/resource/Theo_Blake\": [0.6666666666666666, 0.0, 0.05555555555555555, 0.0, 4.068431009581155e-05, 0.21944647865994923]}",
+        "{\"http://dbpedia.org/resource/Thomas_Blake_Glover\": [0.5882352941176471, 0.35, 0.05555555555555555, 0.0, 0.014951483960210744, 0.3784518225640236]}",
+        "{\"http://dbpedia.org/resource/Tommy_Blake\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.009072601151365975, 0.39010640783534606]}",
+        "{\"http://dbpedia.org/resource/Toms_Shoes\": [0.5263157894736842, 0.39999999999999997, 0.05555555555555555, 0.0, 0.0, 0.38383040935672513]}",
+        "{\"http://dbpedia.org/resource/Vivian_Blake\": [0.5882352941176471, 0.41666666666666663, 0.05555555555555555, 0.0, 0.0, 0.41270424836601305]}",
+        "{\"http://dbpedia.org/resource/William_Blake\": [1.0, 0.35, 0.1111111111111111, 0.0, 1.0, 0.5643055555555556]}",
+        "{\"http://dbpedia.org/resource/Yohan_Blake\": [0.625, 0.35, 0.05555555555555555, 0.0, 0.0, 0.38965277777777774]}" ;
     nif:anchorOf "Blake"^^xsd:string ;
     nif:beginIndex "927"^^xsd:nonNegativeInteger ;
     nif:confidence 7.432413e-01 ;
@@ -1390,6 +2215,14 @@
         <http://dbpedia.org/resource/Nardelli>,
         <http://dbpedia.org/resource/Robert_Nardelli>,
         <http://dbpedia.org/resource/Steve_Nardelli> ;
+    ns1:candidatescores "{\"http://dbpedia.org/resource/Elania_Nardelli\": [0.6956521739130435, 0.35, 0.09090909090909091, 0.0, 0.0, 0.41438241106719365]}",
+        "{\"http://dbpedia.org/resource/Francesco_Nardelli\": [0.6153846153846154, 0.37499999999999994, 0.3939393939393939, 0.0, 0.0, 0.4165719696969697]}",
+        "{\"http://dbpedia.org/resource/Maria_Nardelli\": [0.7272727272727273, 0.3333333333333333, 0.06060606060606061, 0.0, 0.0, 0.4143939393939394]}",
+        "{\"http://dbpedia.org/resource/Michael_Nardelli\": [0.6666666666666666, 0.6333333333333334, 0.09090909090909091, 0.0, 0.0, 0.5537121212121213]}",
+        "{\"http://dbpedia.org/resource/Nardelli\": [1.0, 0.6333333333333334, 0.15151515151515152, 0.0, 0.0009541984732824427, 0.6651234674994217]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.9499999999999998, 0.0, 0.975248753121875, 1.0, 0.8575124376560938]}",
+        "{\"http://dbpedia.org/resource/Robert_Nardelli\": [0.8, 0.9499999999999998, 1.0, 0.975248753121875, 1.0, 0.9075124376560938]}",
+        "{\"http://dbpedia.org/resource/Steve_Nardelli\": [0.7272727272727273, 0.3833333333333333, 0.2727272727272727, 0.0, 0.020038167938931296, 0.45225190839694657]}" ;
     nif:anchorOf "Nardelli"^^xsd:string ;
     nif:beginIndex "979"^^xsd:nonNegativeInteger ;
     nif:confidence 9.075124e-01 ;
